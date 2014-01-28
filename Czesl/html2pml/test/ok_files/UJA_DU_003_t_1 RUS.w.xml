@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="UJA_DU_003_t_1 RUS.html"/>
+         <reffile id="i" href="UJA_DU_003_t_1 RUS.jpg"/>
+      </references>
+   </head>
+   <doc id="w-UJA_DU_003_t_1 RUS-d1">
+      <para id="w-UJA_DU_003_t_1 RUS-d1p1">
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w1">
+            <token>Na</token>
+            <original_position from="11" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w2">
+            <token>základní</token>
+            <original_position from="14" len="8"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w3">
+            <token>škole</token>
+            <original_position from="23" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w4">
+            <token>jsem</token>
+            <original_position from="29" len="4"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w5">
+            <token>byl</token>
+            <original_position from="34" len="3"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w6">
+            <token>nejměnší</token>
+            <original_position from="38" len="8"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w7">
+            <token>ze</token>
+            <original_position from="47" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w8">
+            <token>všech</token>
+            <original_position from="50" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w9">
+            <token>,</token>
+            <original_position from="55" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w10">
+            <token>ale</token>
+            <original_position from="57" len="3"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w11">
+            <token>nebyl</token>
+            <original_position from="61" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w12">
+            <token>to</token>
+            <original_position from="67" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w13">
+            <token>velký</token>
+            <original_position from="70" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w14">
+            <token>problem</token>
+            <original_position from="76" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w15">
+            <token>.</token>
+            <original_position from="83" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w16">
+            <token>Mi</token>
+            <original_position from="86" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w17">
+            <token>kamarádi</token>
+            <original_position from="89" len="8"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w18">
+            <token>taky</token>
+            <original_position from="98" len="4"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w19">
+            <token>byli</token>
+            <original_position from="103" len="4"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w20">
+            <token>menší</token>
+            <original_position from="108" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w21">
+            <token>a</token>
+            <original_position from="114" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w22">
+            <token>ostatní</token>
+            <original_position from="116" len="7"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w23">
+            <token>se</token>
+            <original_position from="124" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w24">
+            <token>nám</token>
+            <original_position from="127" len="3"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w25">
+            <token>nesmáli</token>
+            <original_position from="131" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w26">
+            <token>.</token>
+            <original_position from="138" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w27">
+            <token>Nedávno</token>
+            <original_position from="141" len="7"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w28">
+            <token>mi</token>
+            <original_position from="149" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w29">
+            <token>rekla</token>
+            <original_position from="152" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w30">
+            <token>matka</token>
+            <original_position from="158" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w31">
+            <token>,</token>
+            <original_position from="163" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w32">
+            <token>že</token>
+            <original_position from="165" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w33">
+            <token>o</token>
+            <original_position from="168" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w34">
+            <token>mě</token>
+            <original_position from="170" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w35">
+            <token>měla</token>
+            <original_position from="173" len="4"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w36">
+            <token>strach</token>
+            <original_position from="178" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w37">
+            <token>.</token>
+            <original_position from="184" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w38">
+            <token>Ona</token>
+            <original_position from="187" len="3"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w39">
+            <token>nechtěla</token>
+            <original_position from="191" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w40">
+            <token>,</token>
+            <original_position from="199" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w41">
+            <token>abych</token>
+            <original_position from="201" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w42">
+            <token>celý</token>
+            <original_position from="207" len="4"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w43">
+            <token>život</token>
+            <original_position from="212" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w44">
+            <token>byl</token>
+            <original_position from="218" len="3"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w45">
+            <token>malý</token>
+            <original_position from="222" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w46">
+            <token>.</token>
+            <original_position from="226" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w47">
+            <token>Naštěstí</token>
+            <original_position from="229" len="8"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w48">
+            <token>na</token>
+            <original_position from="238" len="2"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w49">
+            <token>střední</token>
+            <original_position from="241" len="7"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w50">
+            <token>škole</token>
+            <original_position from="249" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w51">
+            <token>jsem</token>
+            <original_position from="255" len="4"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w52">
+            <token>začinal</token>
+            <original_position from="260" len="7"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w53">
+            <token>rost</token>
+            <original_position from="268" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w54">
+            <token>.</token>
+            <original_position from="272" len="1"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w55">
+            <token>Teď</token>
+            <original_position from="275" len="3"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w56">
+            <token>měřím</token>
+            <original_position from="279" len="5"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w57">
+            <token>jako</token>
+            <original_position from="285" len="4"/>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w58">
+            <token>každý</token>
+            <original_position from="290" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_DU_003_t_1 RUS-d1p1w59">
+            <token>.</token>
+            <original_position from="295" len="1"/>
+         </w>
+      </para>
+      <corrections>
+      </corrections>
+   </doc>
+</wdata>

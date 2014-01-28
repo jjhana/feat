@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.purl.jh.feat.layered
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: org/purl/jh/feat/layered/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/purl/jh/feat/layered/Bundle.properties
+

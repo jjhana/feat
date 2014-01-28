@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="bdata_schema.xml"/>
+      <references>
+         <reffile id="a" name="adata" href="TYM_I2_001_t_1 VIET.a.xml"/>
+      </references>
+   </head>
+   <doc id="w-TYM_I2_001_t_1 VIET-d1" lowerdoc.rf="a#w-TYM_I2_001_t_1 VIET-d1">
+      <para id="b-TYM_I2_001_t_1 VIET-d1p1" lowerpara.rf="a#a-TYM_I2_001_t_1 VIET-d1p1">
+      </para>
+      <para id="b-TYM_I2_001_t_1 VIET-d1p2" lowerpara.rf="a#a-TYM_I2_001_t_1 VIET-d1p2">
+      </para>
+   </doc>
+</bdata>

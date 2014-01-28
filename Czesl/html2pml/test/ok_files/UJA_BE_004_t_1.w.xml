@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="UJA_BE_004_t_1.html"/>
+         <reffile id="i" href="UJA_BE_004_t_1.jpg"/>
+      </references>
+   </head>
+   <doc id="w-UJA_BE_004_t_1-d1">
+      <para id="w-UJA_BE_004_t_1-d1p1">
+         <w id="w-UJA_BE_004_t_1-d1p1w1">
+            <token>Myslím</token>
+            <original_position from="5" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w2">
+            <token>,</token>
+            <original_position from="11" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w3">
+            <token>že</token>
+            <original_position from="13" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w4">
+            <token>ta</token>
+            <original_position from="16" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w5">
+            <token>probema</token>
+            <original_position from="19" len="7"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w6">
+            <token>ekzistovala</token>
+            <original_position from="27" len="11"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w7">
+            <token>vždýcky</token>
+            <original_position from="39" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w8">
+            <token>,</token>
+            <original_position from="46" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w9">
+            <token>a</token>
+            <original_position from="48" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w10">
+            <token>taký</token>
+            <original_position from="50" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w11">
+            <token>bude</token>
+            <original_position from="55" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w12">
+            <token>ekzistovat</token>
+            <original_position from="60" len="10"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w13">
+            <token>i</token>
+            <original_position from="71" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w14">
+            <token>dál</token>
+            <original_position from="73" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w15">
+            <token>.</token>
+            <original_position from="76" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w16">
+            <token>To</token>
+            <original_position from="79" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w17">
+            <token>je</token>
+            <original_position from="82" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w18">
+            <token>problema</token>
+            <original_position from="85" len="8"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w19">
+            <token>„</token>
+            <original_position from="94" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w20">
+            <token>otců</token>
+            <original_position from="95" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w21">
+            <token>a</token>
+            <original_position from="100" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w22">
+            <token>děti</token>
+            <original_position from="102" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w23">
+            <token>.</token>
+            <original_position from="106" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w24">
+            <token>“</token>
+            <original_position from="107" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w25">
+            <token>Když</token>
+            <original_position from="110" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w26">
+            <token>jsem</token>
+            <original_position from="115" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w27">
+            <token>prečetla</token>
+            <original_position from="120" len="8"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w28">
+            <token>poprve</token>
+            <original_position from="129" len="6"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w29">
+            <token>myslila</token>
+            <original_position from="136" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w30">
+            <token>,</token>
+            <original_position from="143" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w31">
+            <token>že</token>
+            <original_position from="145" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w32">
+            <token>to</token>
+            <original_position from="148" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w33">
+            <token>řekl</token>
+            <original_position from="151" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w34">
+            <token>někdo</token>
+            <original_position from="156" len="5"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w35">
+            <token>z</token>
+            <original_position from="162" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w36">
+            <token>našé</token>
+            <original_position from="164" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w37">
+            <token>doby</token>
+            <original_position from="169" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w38">
+            <token>,</token>
+            <original_position from="173" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w39">
+            <token>protože</token>
+            <original_position from="175" len="7"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w40">
+            <token>ta</token>
+            <original_position from="183" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w41">
+            <token>myšlenka</token>
+            <original_position from="186" len="8"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w42">
+            <token>je</token>
+            <original_position from="195" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w43">
+            <token>moc</token>
+            <original_position from="198" len="3"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w44">
+            <token>aktualna</token>
+            <original_position from="202" len="8"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w45">
+            <token>v</token>
+            <original_position from="211" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w46">
+            <token>naší</token>
+            <original_position from="213" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w47">
+            <token>dni</token>
+            <original_position from="218" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w48">
+            <token>.</token>
+            <original_position from="221" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w49">
+            <token>Ne</token>
+            <original_position from="224" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w50">
+            <token>vědela</token>
+            <original_position from="227" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w51">
+            <token>,</token>
+            <original_position from="233" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w52">
+            <token>že</token>
+            <original_position from="235" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w53">
+            <token>až</token>
+            <original_position from="238" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w54">
+            <token>před</token>
+            <original_position from="241" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w55">
+            <token>2500</token>
+            <original_position from="246" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w56">
+            <token>lety</token>
+            <original_position from="251" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w57">
+            <token>lidi</token>
+            <original_position from="256" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w58">
+            <token>měli</token>
+            <original_position from="261" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w59">
+            <token>stejné</token>
+            <original_position from="266" len="6"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w60">
+            <token>problemu</token>
+            <original_position from="273" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w61">
+            <token>!</token>
+            <original_position from="281" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w62">
+            <token>Protože</token>
+            <original_position from="284" len="7"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w63">
+            <token>mam</token>
+            <original_position from="292" len="3"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w64">
+            <token>dve</token>
+            <original_position from="296" len="3"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w65">
+            <token>dcery</token>
+            <original_position from="300" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w66">
+            <token>,</token>
+            <original_position from="305" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w67">
+            <token>osmi</token>
+            <original_position from="307" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w68">
+            <token>a</token>
+            <original_position from="312" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w69">
+            <token>patnadcatí</token>
+            <original_position from="314" len="10"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w70">
+            <token>let</token>
+            <original_position from="325" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w71">
+            <token>,</token>
+            <original_position from="328" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w72">
+            <token>a</token>
+            <original_position from="330" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w73">
+            <token>vidim</token>
+            <original_position from="332" len="5"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w74">
+            <token>že</token>
+            <original_position from="338" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w75">
+            <token>oni</token>
+            <original_position from="341" len="3"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w76">
+            <token>nejsou</token>
+            <original_position from="345" len="6"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w77">
+            <token>jako</token>
+            <original_position from="352" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w78">
+            <token>byli</token>
+            <original_position from="357" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w79">
+            <token>my</token>
+            <original_position from="362" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w80">
+            <token>.</token>
+            <original_position from="364" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w81">
+            <token>Starší</token>
+            <original_position from="367" len="6"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w82">
+            <token>lidí</token>
+            <original_position from="374" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w83">
+            <token>měli</token>
+            <original_position from="379" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w84">
+            <token>na</token>
+            <original_position from="384" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w85">
+            <token>nas</token>
+            <original_position from="387" len="3"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w86">
+            <token>větší</token>
+            <original_position from="391" len="5"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w87">
+            <token>v{v|l}iv</token>
+            <original_position from="397" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w88">
+            <token>,</token>
+            <original_position from="405" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w89">
+            <token>a</token>
+            <original_position from="407" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w90">
+            <token>byli</token>
+            <original_position from="409" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w91">
+            <token>pro</token>
+            <original_position from="414" len="3"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w92">
+            <token>nas</token>
+            <original_position from="418" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w93">
+            <token>autority</token>
+            <original_position from="423" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w94">
+            <token>.</token>
+            <original_position from="431" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w95">
+            <token>Pro</token>
+            <original_position from="434" len="3"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w96">
+            <token>mladež</token>
+            <original_position from="438" len="6"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w97">
+            <token>že</token>
+            <original_position from="445" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w98">
+            <token>nemůžu</token>
+            <original_position from="448" len="6"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w99">
+            <token>toho</token>
+            <original_position from="455" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w100">
+            <token>řict</token>
+            <original_position from="460" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p1w101">
+            <token>.</token>
+            <original_position from="464" len="1"/>
+         </w>
+      </para>
+      <para id="w-UJA_BE_004_t_1-d1p2">
+         <w id="w-UJA_BE_004_t_1-d1p2w1">
+            <token>Myslim</token>
+            <original_position from="468" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p2w2">
+            <token>,</token>
+            <original_position from="474" len="1"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p2w3">
+            <token>že</token>
+            <original_position from="476" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p2w4">
+            <token>to</token>
+            <original_position from="479" len="2"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p2w5">
+            <token>bude</token>
+            <original_position from="482" len="4"/>
+         </w>
+         <w id="w-UJA_BE_004_t_1-d1p2w6">
+            <token>vždicky</token>
+            <original_position from="487" len="7"/>
+         </w>
+      </para>
+      <corrections>
+         <change id="w-UJA_BE_004_t_1-cor-change1">
+            <old>nacs</old>
+            <token>w-UJA_BE_004_t_1-d1p1w92</token>
+         </change>
+      </corrections>
+   </doc>
+</wdata>

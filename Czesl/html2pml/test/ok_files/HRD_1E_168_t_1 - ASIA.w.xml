@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="HRD_1E_168_t_1 - ASIA.html"/>
+         <reffile id="i" href="HRD_1E_168_t_1 - ASIA.jpg"/>
+      </references>
+   </head>
+   <doc id="w-HRD_1E_168_t_1 - ASIA-d1">
+      <para id="w-HRD_1E_168_t_1 - ASIA-d1p1">
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p1w1">
+            <token>Proč</token>
+            <original_position from="3" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p1w2">
+            <token>mám</token>
+            <original_position from="8" len="3"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p1w3">
+            <token>ráda</token>
+            <original_position from="12" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p1w4">
+            <token>Českou</token>
+            <original_position from="17" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p1w5">
+            <token>republiku</token>
+            <original_position from="24" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p1w6">
+            <token>?</token>
+            <original_position from="33" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_1E_168_t_1 - ASIA-d1p2">
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w1">
+            <token>Česká</token>
+            <original_position from="37" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w2">
+            <token>republika</token>
+            <original_position from="43" len="9"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w3">
+            <token>není</token>
+            <original_position from="53" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w4">
+            <token>velká</token>
+            <original_position from="58" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w5">
+            <token>,</token>
+            <original_position from="63" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w6">
+            <token>ale</token>
+            <original_position from="65" len="3"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w7">
+            <token>je</token>
+            <original_position from="69" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w8">
+            <token>perla</token>
+            <original_position from="72" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w9">
+            <token>na</token>
+            <original_position from="78" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w10">
+            <token>Evropě</token>
+            <original_position from="81" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w11">
+            <token>.</token>
+            <original_position from="87" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w12">
+            <token>Pamatuji</token>
+            <original_position from="90" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w13">
+            <token>si</token>
+            <original_position from="99" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w14">
+            <token>,</token>
+            <original_position from="101" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w15">
+            <token>že</token>
+            <original_position from="103" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w16">
+            <token>v</token>
+            <original_position from="106" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w17">
+            <token>jednom</token>
+            <original_position from="108" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w18">
+            <token>filmu</token>
+            <original_position from="115" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w19">
+            <token>nějaký</token>
+            <original_position from="121" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w20">
+            <token>herec</token>
+            <original_position from="128" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w21">
+            <token>řekl</token>
+            <original_position from="140" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w22">
+            <token>:</token>
+            <original_position from="144" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w23">
+            <token>„</token>
+            <original_position from="146" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w24">
+            <token>to</token>
+            <original_position from="147" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w25">
+            <token>není</token>
+            <original_position from="150" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w26">
+            <token>země</token>
+            <original_position from="155" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w27">
+            <token>,</token>
+            <original_position from="159" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w28">
+            <token>to</token>
+            <original_position from="161" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w29">
+            <token>je</token>
+            <original_position from="164" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w30">
+            <token>zahrádka</token>
+            <original_position from="167" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w31">
+            <token>.</token>
+            <original_position from="175" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w32">
+            <token>“</token>
+            <original_position from="176" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w33">
+            <token>Já</token>
+            <original_position from="179" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w34">
+            <token>osobně</token>
+            <original_position from="182" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w35">
+            <token>souhlasím</token>
+            <original_position from="189" len="9"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w36">
+            <token>s</token>
+            <original_position from="199" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w37">
+            <token>tím</token>
+            <original_position from="201" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w38">
+            <token>.</token>
+            <original_position from="204" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w39">
+            <token>Mám</token>
+            <original_position from="207" len="3"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w40">
+            <token>ráda</token>
+            <original_position from="211" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w41">
+            <token>Českou</token>
+            <original_position from="216" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w42">
+            <token>republiku</token>
+            <original_position from="223" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p2w43">
+            <token>.</token>
+            <original_position from="232" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_1E_168_t_1 - ASIA-d1p3">
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w1">
+            <token>Mám</token>
+            <original_position from="236" len="3"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w2">
+            <token>ráda</token>
+            <original_position from="240" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w3">
+            <token>Českou</token>
+            <original_position from="245" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w4">
+            <token>republiku</token>
+            <original_position from="252" len="9"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w5">
+            <token>nejen</token>
+            <original_position from="262" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w6">
+            <token>proto</token>
+            <original_position from="268" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w7">
+            <token>,</token>
+            <original_position from="273" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w8">
+            <token>že</token>
+            <original_position from="275" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w9">
+            <token>je</token>
+            <original_position from="278" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w10">
+            <token>krásná</token>
+            <original_position from="281" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w11">
+            <token>.</token>
+            <original_position from="287" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w12">
+            <token>Také</token>
+            <original_position from="290" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w13">
+            <token>kvůli</token>
+            <original_position from="295" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w14">
+            <token>její</token>
+            <original_position from="301" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w15">
+            <token>historii</token>
+            <original_position from="306" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w16">
+            <token>,</token>
+            <original_position from="314" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w17">
+            <token>kultuře</token>
+            <original_position from="316" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w18">
+            <token>,</token>
+            <original_position from="323" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w19">
+            <token>literatuře</token>
+            <original_position from="325" len="10"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w20">
+            <token>a</token>
+            <original_position from="336" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w21">
+            <token>životním</token>
+            <original_position from="338" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w22">
+            <token>stylu</token>
+            <original_position from="347" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w23">
+            <token>lidu</token>
+            <original_position from="353" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p3w24">
+            <token>.</token>
+            <original_position from="357" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_1E_168_t_1 - ASIA-d1p4">
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w1">
+            <token>Češi</token>
+            <original_position from="362" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w2">
+            <token>schovají</token>
+            <original_position from="367" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w3">
+            <token>všechno</token>
+            <original_position from="376" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w4">
+            <token>opatrně</token>
+            <original_position from="384" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w5">
+            <token>.</token>
+            <original_position from="391" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w6">
+            <token>Tady</token>
+            <original_position from="394" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w7">
+            <token>si</token>
+            <original_position from="400" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w8">
+            <token>nemyslím</token>
+            <original_position from="408" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w9">
+            <token>,</token>
+            <original_position from="416" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w10">
+            <token>že</token>
+            <original_position from="418" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w11">
+            <token>schovají</token>
+            <original_position from="421" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w12">
+            <token>věci</token>
+            <original_position from="430" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w13">
+            <token>,</token>
+            <original_position from="434" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w14">
+            <token>ale</token>
+            <original_position from="436" len="3"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w15">
+            <token>jejích</token>
+            <original_position from="440" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w16">
+            <token>tradici</token>
+            <original_position from="447" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w17">
+            <token>.</token>
+            <original_position from="454" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w18">
+            <token>Věršinou</token>
+            <original_position from="457" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w19">
+            <token>lidé</token>
+            <original_position from="466" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w20">
+            <token>podlé</token>
+            <original_position from="471" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w21">
+            <token>té</token>
+            <original_position from="477" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w22">
+            <token>žijou</token>
+            <original_position from="480" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w23">
+            <token>a</token>
+            <original_position from="486" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w24">
+            <token>většinou</token>
+            <original_position from="488" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w25">
+            <token>jsou</token>
+            <original_position from="497" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w26">
+            <token>šťastní</token>
+            <original_position from="502" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w27">
+            <token>a</token>
+            <original_position from="510" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w28">
+            <token>spokojení</token>
+            <original_position from="512" len="9"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w29">
+            <token>s</token>
+            <original_position from="522" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w30">
+            <token>životem</token>
+            <original_position from="524" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p4w31">
+            <token>.</token>
+            <original_position from="531" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_1E_168_t_1 - ASIA-d1p5">
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w1">
+            <token>Jako</token>
+            <original_position from="535" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w2">
+            <token>cizinka</token>
+            <original_position from="540" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w3">
+            <token>z</token>
+            <original_position from="548" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w4">
+            <token>Číny</token>
+            <original_position from="556" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w5">
+            <token>,</token>
+            <original_position from="565" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w6">
+            <token>automaticky</token>
+            <original_position from="567" len="11"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w7">
+            <token>srovnám</token>
+            <original_position from="579" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w8">
+            <token>shody</token>
+            <original_position from="587" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w9">
+            <token>a</token>
+            <original_position from="593" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w10">
+            <token>neshody</token>
+            <original_position from="595" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w11">
+            <token>z</token>
+            <original_position from="603" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w12">
+            <token>některých</token>
+            <original_position from="605" len="9"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w13">
+            <token>hledisek</token>
+            <original_position from="615" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w14">
+            <token>.</token>
+            <original_position from="623" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w15">
+            <token>Z</token>
+            <original_position from="626" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w16">
+            <token>hlediska</token>
+            <original_position from="628" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w17">
+            <token>kultury</token>
+            <original_position from="637" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w18">
+            <token>a</token>
+            <original_position from="645" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w19">
+            <token>tradice</token>
+            <original_position from="647" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w20">
+            <token>,</token>
+            <original_position from="654" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w21">
+            <token>Česká</token>
+            <original_position from="656" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w22">
+            <token>republika</token>
+            <original_position from="662" len="9"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w23">
+            <token>je</token>
+            <original_position from="673" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w24">
+            <token>lépe</token>
+            <original_position from="676" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w25">
+            <token>.</token>
+            <original_position from="698" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w26">
+            <token>Jinak</token>
+            <original_position from="701" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w27">
+            <token>tady</token>
+            <original_position from="707" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w28">
+            <token>žije</token>
+            <original_position from="712" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w29">
+            <token>o</token>
+            <original_position from="717" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w30">
+            <token>mnoha</token>
+            <original_position from="719" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w31">
+            <token>méně</token>
+            <original_position from="725" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w32">
+            <token>lidí</token>
+            <original_position from="730" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w33">
+            <token>,</token>
+            <original_position from="734" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w34">
+            <token>a</token>
+            <original_position from="736" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w35">
+            <token>proto</token>
+            <original_position from="738" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w36">
+            <token>je</token>
+            <original_position from="744" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w37">
+            <token>klidnější</token>
+            <original_position from="747" len="9"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w38">
+            <token>životní</token>
+            <original_position from="757" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w39">
+            <token>prostředí</token>
+            <original_position from="765" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w40">
+            <token>.</token>
+            <original_position from="774" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w41">
+            <token>Rozdíl</token>
+            <original_position from="777" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w42">
+            <token>mezi</token>
+            <original_position from="784" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w43">
+            <token>venkovou</token>
+            <original_position from="789" len="8"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w44">
+            <token>a</token>
+            <original_position from="798" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w45">
+            <token>městem</token>
+            <original_position from="800" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w46">
+            <token>není</token>
+            <original_position from="807" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w47">
+            <token>tak</token>
+            <original_position from="812" len="3"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w48">
+            <token>velký</token>
+            <original_position from="816" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w49">
+            <token>jako</token>
+            <original_position from="822" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w50">
+            <token>u</token>
+            <original_position from="827" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w51">
+            <token>nás</token>
+            <original_position from="829" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p5w52">
+            <token>.</token>
+            <original_position from="832" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_1E_168_t_1 - ASIA-d1p6">
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w1">
+            <token>Je</token>
+            <original_position from="836" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w2">
+            <token>to</token>
+            <original_position from="839" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w3">
+            <token>země</token>
+            <original_position from="842" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w4">
+            <token>,</token>
+            <original_position from="846" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w5">
+            <token>někdy</token>
+            <original_position from="848" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w6">
+            <token>překvapuje</token>
+            <original_position from="854" len="10"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w7">
+            <token>svět</token>
+            <original_position from="865" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w8">
+            <token>.</token>
+            <original_position from="869" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w9">
+            <token>Je</token>
+            <original_position from="872" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w10">
+            <token>to</token>
+            <original_position from="875" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w11">
+            <token>země</token>
+            <original_position from="878" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w12">
+            <token>,</token>
+            <original_position from="882" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w13">
+            <token>na</token>
+            <original_position from="884" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w14">
+            <token>které</token>
+            <original_position from="887" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w15">
+            <token>žili</token>
+            <original_position from="893" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w16">
+            <token>a</token>
+            <original_position from="898" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w17">
+            <token>žijou</token>
+            <original_position from="903" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w18">
+            <token>světové</token>
+            <original_position from="909" len="7"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w19">
+            <token>známé</token>
+            <original_position from="917" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w20">
+            <token>osobnosti</token>
+            <original_position from="923" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w21">
+            <token>.</token>
+            <original_position from="932" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w22">
+            <token>Je</token>
+            <original_position from="935" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w23">
+            <token>to</token>
+            <original_position from="938" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w24">
+            <token>země</token>
+            <original_position from="941" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w25">
+            <token>,</token>
+            <original_position from="945" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w26">
+            <token>na</token>
+            <original_position from="947" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w27">
+            <token>celou</token>
+            <original_position from="950" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w28">
+            <token>dobu</token>
+            <original_position from="956" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w29">
+            <token>bojuje</token>
+            <original_position from="961" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w30">
+            <token>za</token>
+            <original_position from="968" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w31">
+            <token>svou</token>
+            <original_position from="971" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w32">
+            <token>svobodu</token>
+            <original_position from="976" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p6w33">
+            <token>.</token>
+            <original_position from="983" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_1E_168_t_1 - ASIA-d1p7">
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w1">
+            <token>Z</token>
+            <original_position from="987" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w2">
+            <token>tolika</token>
+            <original_position from="989" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w3">
+            <token>důvodů</token>
+            <original_position from="996" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w4">
+            <token>,</token>
+            <original_position from="1002" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w5">
+            <token>jak</token>
+            <original_position from="1004" len="3"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w6">
+            <token>můžu</token>
+            <original_position from="1008" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w7">
+            <token>říct</token>
+            <original_position from="1016" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w8">
+            <token>,</token>
+            <original_position from="1020" len="1"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w9">
+            <token>že</token>
+            <original_position from="1022" len="2"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w10">
+            <token>nemám</token>
+            <original_position from="1025" len="5"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w11">
+            <token>ráda</token>
+            <original_position from="1031" len="4"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w12">
+            <token>Českou</token>
+            <original_position from="1036" len="6"/>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w13">
+            <token>republiku</token>
+            <original_position from="1043" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_1E_168_t_1 - ASIA-d1p7w14">
+            <token>?</token>
+            <original_position from="1052" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-HRD_1E_168_t_1 - ASIA-cor-del1">
+            <from>w-HRD_1E_168_t_1 - ASIA-d1p2w20</from>
+            <orig>řikal</orig>
+         </deleted>
+         <deleted id="w-HRD_1E_168_t_1 - ASIA-cor-del2">
+            <from>w-HRD_1E_168_t_1 - ASIA-d1p5w3</from>
+            <orig>Asie</orig>
+         </deleted>
+         <deleted id="w-HRD_1E_168_t_1 - ASIA-cor-del3">
+            <from>w-HRD_1E_168_t_1 - ASIA-d1p5w24</from>
+            <orig>má</orig>
+         </deleted>
+         <deleted id="w-HRD_1E_168_t_1 - ASIA-cor-del4">
+            <from>w-HRD_1E_168_t_1 - ASIA-d1p5w24</from>
+            <orig>více</orig>
+         </deleted>
+         <deleted id="w-HRD_1E_168_t_1 - ASIA-cor-del5">
+            <from>w-HRD_1E_168_t_1 - ASIA-d1p5w24</from>
+            <orig>shod</orig>
+         </deleted>
+         <deleted id="w-HRD_1E_168_t_1 - ASIA-cor-del6">
+            <from>w-HRD_1E_168_t_1 - ASIA-d1p6w16</from>
+            <orig>ži</orig>
+         </deleted>
+         <deleted id="w-HRD_1E_168_t_1 - ASIA-cor-del7">
+            <from>w-HRD_1E_168_t_1 - ASIA-d1p7w6</from>
+            <orig>ži</orig>
+         </deleted>
+         <insert id="w-HRD_1E_168_t_1 - ASIA-cor-in1">
+            <token>w-HRD_1E_168_t_1 - ASIA-d1p4w7</token>
+         </insert>
+         <insert id="w-HRD_1E_168_t_1 - ASIA-cor-in2">
+            <token>w-HRD_1E_168_t_1 - ASIA-d1p5w4</token>
+         </insert>
+         <insert id="w-HRD_1E_168_t_1 - ASIA-cor-in3">
+            <token>w-HRD_1E_168_t_1 - ASIA-d1p5w23</token>
+            <token>w-HRD_1E_168_t_1 - ASIA-d1p5w24</token>
+         </insert>
+      </corrections>
+   </doc>
+</wdata>

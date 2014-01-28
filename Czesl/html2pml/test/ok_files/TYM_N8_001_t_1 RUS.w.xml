@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="TYM_N8_001_t_1 RUS.html"/>
+         <reffile id="i" href="TYM_N8_001_t_1 RUS.jpg"/>
+      </references>
+   </head>
+   <doc id="w-TYM_N8_001_t_1 RUS-d1">
+      <para id="w-TYM_N8_001_t_1 RUS-d1p1">
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w1">
+            <token>Po</token>
+            <original_position from="5" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w2">
+            <token>dlouhých</token>
+            <original_position from="8" len="8"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w3">
+            <token>horkých</token>
+            <original_position from="17" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w4">
+            <token>dnech</token>
+            <original_position from="25" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w5">
+            <token>počasí</token>
+            <original_position from="31" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w6">
+            <token>se</token>
+            <original_position from="38" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w7">
+            <token>zhoršilo</token>
+            <original_position from="41" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w8">
+            <token>.</token>
+            <original_position from="49" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w9">
+            <token>Trochu</token>
+            <original_position from="52" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w10">
+            <token>začalo</token>
+            <original_position from="59" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w11">
+            <token>se</token>
+            <original_position from="66" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w12">
+            <token>ochladit</token>
+            <original_position from="69" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w13">
+            <token>.</token>
+            <original_position from="77" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w14">
+            <token>Z</token>
+            <original_position from="80" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w15">
+            <token>východu</token>
+            <original_position from="82" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w16">
+            <token>foukal</token>
+            <original_position from="90" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w17">
+            <token>chladný</token>
+            <original_position from="97" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w18">
+            <token>vítr</token>
+            <original_position from="105" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w19">
+            <token>.</token>
+            <original_position from="109" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w20">
+            <token>Nebe</token>
+            <original_position from="112" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w21">
+            <token>bylo</token>
+            <original_position from="117" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w22">
+            <token>oblačene</token>
+            <original_position from="122" len="8"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w23">
+            <token>a</token>
+            <original_position from="131" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w24">
+            <token>začalo</token>
+            <original_position from="133" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w25">
+            <token>hřmit</token>
+            <original_position from="140" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w26">
+            <token>a</token>
+            <original_position from="146" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w27">
+            <token>se</token>
+            <original_position from="148" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w28">
+            <token>blýskat</token>
+            <original_position from="151" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w29">
+            <token>.</token>
+            <original_position from="158" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w30">
+            <token>Po</token>
+            <original_position from="161" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w31">
+            <token>bouřce</token>
+            <original_position from="164" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w32">
+            <token>venku</token>
+            <original_position from="171" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w33">
+            <token>svítilo</token>
+            <original_position from="177" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w34">
+            <token>slunce</token>
+            <original_position from="185" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w35">
+            <token>.</token>
+            <original_position from="191" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w36">
+            <token>Už</token>
+            <original_position from="194" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w37">
+            <token>celý</token>
+            <original_position from="197" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w38">
+            <token>tyden</token>
+            <original_position from="202" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w39">
+            <token>venku</token>
+            <original_position from="208" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w40">
+            <token>prší</token>
+            <original_position from="214" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p1w41">
+            <token>.</token>
+            <original_position from="218" len="1"/>
+         </w>
+      </para>
+      <para id="w-TYM_N8_001_t_1 RUS-d1p2">
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w1">
+            <token>V</token>
+            <original_position from="222" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w2">
+            <token>první</token>
+            <original_position from="224" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w3">
+            <token>den</token>
+            <original_position from="230" len="3"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w4">
+            <token>listopadu</token>
+            <original_position from="234" len="9"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w5">
+            <token>hřmilo</token>
+            <original_position from="244" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w6">
+            <token>,</token>
+            <original_position from="250" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w7">
+            <token>byla</token>
+            <original_position from="252" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w8">
+            <token>tma</token>
+            <original_position from="257" len="3"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w9">
+            <token>a</token>
+            <original_position from="261" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w10">
+            <token>proto</token>
+            <original_position from="263" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w11">
+            <token>jsem</token>
+            <original_position from="269" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w12">
+            <token>byla</token>
+            <original_position from="274" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w13">
+            <token>v</token>
+            <original_position from="279" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w14">
+            <token>svém</token>
+            <original_position from="281" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w15">
+            <token>pokoji</token>
+            <original_position from="286" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p2w16">
+            <token>.</token>
+            <original_position from="292" len="1"/>
+         </w>
+      </para>
+      <para id="w-TYM_N8_001_t_1 RUS-d1p3">
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w1">
+            <token>Dnes</token>
+            <original_position from="296" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w2">
+            <token>v</token>
+            <original_position from="301" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w3">
+            <token>horách</token>
+            <original_position from="303" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w4">
+            <token>je</token>
+            <original_position from="310" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w5">
+            <token>zima</token>
+            <original_position from="313" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w6">
+            <token>a</token>
+            <original_position from="318" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w7">
+            <token>padá</token>
+            <original_position from="320" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w8">
+            <token>sníh</token>
+            <original_position from="325" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p3w9">
+            <token>.</token>
+            <original_position from="329" len="1"/>
+         </w>
+      </para>
+      <para id="w-TYM_N8_001_t_1 RUS-d1p4">
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w1">
+            <token>V</token>
+            <original_position from="333" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w2">
+            <token>březně</token>
+            <original_position from="335" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w3">
+            <token>se</token>
+            <original_position from="342" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w4">
+            <token>otepluje</token>
+            <original_position from="345" len="8"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w5">
+            <token>a</token>
+            <original_position from="354" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w6">
+            <token>příroda</token>
+            <original_position from="356" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w7">
+            <token>zeleněje</token>
+            <original_position from="364" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p4w8">
+            <token>.</token>
+            <original_position from="372" len="1"/>
+         </w>
+      </para>
+      <para id="w-TYM_N8_001_t_1 RUS-d1p5">
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w1">
+            <token>Minulý</token>
+            <original_position from="376" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w2">
+            <token>večer</token>
+            <original_position from="383" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w3">
+            <token>počasí</token>
+            <original_position from="389" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w4">
+            <token>bylo</token>
+            <original_position from="396" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w5">
+            <token>hezké</token>
+            <original_position from="401" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w6">
+            <token>,</token>
+            <original_position from="406" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w7">
+            <token>protože</token>
+            <original_position from="408" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w8">
+            <token>venku</token>
+            <original_position from="416" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w9">
+            <token>byl</token>
+            <original_position from="422" len="3"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w10">
+            <token>teplý</token>
+            <original_position from="426" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w11">
+            <token>vzduch</token>
+            <original_position from="432" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p5w12">
+            <token>.</token>
+            <original_position from="438" len="1"/>
+         </w>
+      </para>
+      <para id="w-TYM_N8_001_t_1 RUS-d1p6">
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w1">
+            <token>Na</token>
+            <original_position from="442" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w2">
+            <token>podzime</token>
+            <original_position from="445" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w3">
+            <token>často</token>
+            <original_position from="453" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w4">
+            <token>mrholí</token>
+            <original_position from="459" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w5">
+            <token>,</token>
+            <original_position from="465" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w6">
+            <token>proto</token>
+            <original_position from="467" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w7">
+            <token>musím</token>
+            <original_position from="473" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w8">
+            <token>byt</token>
+            <original_position from="479" len="3"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w9">
+            <token>doma</token>
+            <original_position from="483" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w10">
+            <token>.</token>
+            <original_position from="487" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w11">
+            <token>Večer</token>
+            <original_position from="490" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w12">
+            <token>byl</token>
+            <original_position from="496" len="3"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w13">
+            <token>chladný</token>
+            <original_position from="500" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w14">
+            <token>a</token>
+            <original_position from="508" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w15">
+            <token>divala</token>
+            <original_position from="510" len="6"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w16">
+            <token>jsem</token>
+            <original_position from="517" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w17">
+            <token>se</token>
+            <original_position from="522" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w18">
+            <token>na</token>
+            <original_position from="525" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w19">
+            <token>televízí</token>
+            <original_position from="528" len="8"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w20">
+            <token>předpověď</token>
+            <original_position from="537" len="9"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w21">
+            <token>počasí</token>
+            <original_position from="547" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w22">
+            <token>.</token>
+            <original_position from="553" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w23">
+            <token>Tam</token>
+            <original_position from="556" len="3"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w24">
+            <token>řekli</token>
+            <original_position from="560" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w25">
+            <token>,</token>
+            <original_position from="565" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w26">
+            <token>že</token>
+            <original_position from="567" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w27">
+            <token>očekává</token>
+            <original_position from="570" len="7"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w28">
+            <token>se</token>
+            <original_position from="578" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w29">
+            <token>bouřka</token>
+            <original_position from="581" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p6w30">
+            <token>.</token>
+            <original_position from="587" len="1"/>
+         </w>
+      </para>
+      <para id="w-TYM_N8_001_t_1 RUS-d1p7">
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w1">
+            <token>Ráno</token>
+            <original_position from="591" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w2">
+            <token>,</token>
+            <original_position from="595" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w3">
+            <token>když</token>
+            <original_position from="597" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w4">
+            <token>jsem</token>
+            <original_position from="602" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w5">
+            <token>jela</token>
+            <original_position from="607" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w6">
+            <token>domů</token>
+            <original_position from="612" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w7">
+            <token>,</token>
+            <original_position from="616" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w8">
+            <token>začal</token>
+            <original_position from="618" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w9">
+            <token>jít</token>
+            <original_position from="624" len="3"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w10">
+            <token>dešť</token>
+            <original_position from="628" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w11">
+            <token>,</token>
+            <original_position from="632" len="1"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w12">
+            <token>proto</token>
+            <original_position from="634" len="5"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w13">
+            <token>jsem</token>
+            <original_position from="640" len="4"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w14">
+            <token>promokla</token>
+            <original_position from="645" len="8"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w15">
+            <token>na</token>
+            <original_position from="654" len="2"/>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w16">
+            <token>kůži</token>
+            <original_position from="657" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_N8_001_t_1 RUS-d1p7w17">
+            <token>.</token>
+            <original_position from="661" len="1"/>
+         </w>
+      </para>
+      <corrections>
+      </corrections>
+   </doc>
+</wdata>

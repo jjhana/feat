@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="HRD_TD_148_t_1 CINA.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-HRD_TD_148_t_1 CINA-d1" lowerdoc.rf="w#w-HRD_TD_148_t_1 CINA-d1">
+      <para id="a-HRD_TD_148_t_1 CINA-d1p1" lowerpara.rf="w#w-HRD_TD_148_t_1 CINA-d1p1">
+         <s id="a-HRD_TD_148_t_1 CINA-d1p1s0">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w1">
+               <token>Byla</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w2">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w3">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w4">
+               <token>restauraci</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w5">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w6">
+               <token>dcerou</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w7">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w8">
+               <token>Chtely</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w9">
+               <token>bysme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w10">
+               <token>do</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w11">
+               <token>Vidně</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w12">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w13">
+               <token>hledaly</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w14">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w15">
+               <token>cestovní</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w16">
+               <token>kancelař</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w17">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w18">
+               <token>průvodci</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w19">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_148_t_1 CINA-d1p1s1">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w20">
+               <token>pak</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w21">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w22">
+               <token>videly</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w23">
+               <token>jakou</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w24">
+               <token>vídeň</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w25">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w26">
+               <token>kterou</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w27">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w28">
+               <token>mohly</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w29">
+               <token>vybrát</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w30">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w31">
+               <token>třeba</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w32">
+               <token>historiskou</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w33">
+               <token>vídeň</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w34">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w35">
+               <token>klasickou</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w36">
+               <token>vídeň</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w37">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w38">
+               <token>nocní</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w39">
+               <token>vídeň</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w40">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w41">
+               <token>denní</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w42">
+               <token>vídeň</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w43">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w44">
+               <token>mnoho</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w45">
+               <token>vyběr</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w46">
+               <token>bychom</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w47">
+               <token>vybraly</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w48">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_148_t_1 CINA-d1p1s2">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w49">
+               <token>Nakonec</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w50">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w51">
+               <token>koupily</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w52">
+               <token>listenky</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w53">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w54">
+               <token>historiskou</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w55">
+               <token>vídeň</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p1w56">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e0">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w1</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w1</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e1">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w2</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w2</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e2">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w3</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w3</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e3">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w4</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w4</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e4">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w5</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w5</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e5">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w6</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w6</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e6">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w7</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w7</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e7">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w8</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w8</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e8">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w9</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w9</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e9">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w10</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w10</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e10">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w11</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w11</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e11">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w12</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w12</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e12">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w13</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w13</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e13">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w14</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w14</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e14">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w15</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w15</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e15">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w16</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w16</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e16">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w17</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w17</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e17">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w18</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w18</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e18">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w19</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w19</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e19">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w20</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w20</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e20">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w21</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w21</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e21">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w22</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w22</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e22">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w23</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w23</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e23">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w24</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w24</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e24">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w25</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w25</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e25">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w26</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w26</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e26">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w27</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w27</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e27">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w28</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w28</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e28">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w29</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w29</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e29">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w30</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w30</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e30">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w31</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w31</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e31">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w32</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w32</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e32">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w33</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w33</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e33">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w34</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w34</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e34">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w35</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w35</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e35">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w36</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w36</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e36">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w37</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w37</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e37">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w38</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w38</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e38">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w39</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w39</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e39">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w40</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w40</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e40">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w41</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w41</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e41">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w42</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w42</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e42">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w43</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w43</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e43">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w44</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w44</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e44">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w45</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w45</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e45">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w46</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w46</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e46">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w47</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w47</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e47">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w48</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w48</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e48">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w49</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w49</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e49">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w50</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w50</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e50">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w51</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w51</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e51">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w52</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w52</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e52">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w53</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w53</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e53">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w54</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w54</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e54">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w55</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w55</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p1e55">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p1w56</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p1w56</to>
+         </edge>
+      </para>
+      <para id="a-HRD_TD_148_t_1 CINA-d1p2" lowerpara.rf="w#w-HRD_TD_148_t_1 CINA-d1p2">
+         <s id="a-HRD_TD_148_t_1 CINA-d1p2s0">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w1">
+               <token>Průvodce</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w2">
+               <token>umí</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w3">
+               <token>mnoho</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w4">
+               <token>jazyků</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w5">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w6">
+               <token>když</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w7">
+               <token>mluví</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w8">
+               <token>anglicky</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w9">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w10">
+               <token>italským</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w11">
+               <token>přizvůkem</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w12">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_148_t_1 CINA-d1p2s1">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w13">
+               <token>A</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w14">
+               <token>když</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w15">
+               <token>mluví</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w16">
+               <token>francouzky</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w17">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w18">
+               <token>anglickým</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w19">
+               <token>přizvůkem</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w20">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w21">
+               <token>mluví</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w22">
+               <token>italsky</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w23">
+               <token>bez</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w24">
+               <token>přizůcku</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w25">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w26">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w27">
+               <token>pomohl</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w28">
+               <token>německy</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w29">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_148_t_1 CINA-d1p2s2">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w30">
+               <token>Jeli</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w31">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w32">
+               <token>autobusem</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w33">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_148_t_1 CINA-d1p2s3">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w34">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w35">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w36">
+               <token>půl</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w37">
+               <token>cestě</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w38">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w39">
+               <token>ztrati</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w40">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w41">
+               <token>cestu</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w42">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w43">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w44">
+               <token>průvodce</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w45">
+               <token>také</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w46">
+               <token>neznal</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w47">
+               <token>cestu</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w48">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w49">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w50">
+               <token>nakonec</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w51">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w52">
+               <token>našli</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p2w53">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e0">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w1</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w1</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e1">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w2</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w2</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e2">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w3</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w3</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e3">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w4</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w4</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e4">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w5</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w5</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e5">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w6</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w6</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e6">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w7</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w7</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e7">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w8</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w8</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e8">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w9</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w9</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e9">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w10</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w10</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e10">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w11</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w11</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e11">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w12</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w12</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e12">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w13</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w13</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e13">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w14</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w14</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e14">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w15</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w15</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e15">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w16</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w16</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e16">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w17</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w17</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e17">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w18</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w18</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e18">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w19</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w19</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e19">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w20</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w20</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e20">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w21</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w21</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e21">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w22</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w22</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e22">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w23</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w23</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e23">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w24</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w24</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e24">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w25</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w25</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e25">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w26</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w26</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e26">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w27</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w27</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e27">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w28</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w28</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e28">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w29</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w29</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e29">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w30</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w30</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e30">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w31</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w31</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e31">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w32</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w32</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e32">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w33</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w33</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e33">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w34</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w34</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e34">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w35</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w35</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e35">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w36</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w36</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e36">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w37</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w37</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e37">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w38</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w38</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e38">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w39</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w39</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e39">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w40</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w40</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e40">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w41</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w41</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e41">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w42</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w42</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e42">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w43</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w43</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e43">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w44</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w44</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e44">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w45</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w45</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e45">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w46</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w46</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e46">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w47</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w47</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e47">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w48</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w48</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e48">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w49</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w49</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e49">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w50</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w50</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e50">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w51</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w51</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e51">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w52</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w52</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p2e52">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p2w53</to>
+         </edge>
+      </para>
+      <para id="a-HRD_TD_148_t_1 CINA-d1p3" lowerpara.rf="w#w-HRD_TD_148_t_1 CINA-d1p3">
+         <s id="a-HRD_TD_148_t_1 CINA-d1p3s0">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w1">
+               <token>Také</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w2">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w3">
+               <token>viděli</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w4">
+               <token>novou</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w5">
+               <token>vídeň</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w6">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_148_t_1 CINA-d1p3s1">
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w7">
+               <token>Když</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w8">
+               <token>jsme</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w9">
+               <token>vrátili</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w10">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w11">
+               <token>průvodce</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w12">
+               <token>byla</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w13">
+               <token>mlčela</token>
+            </w>
+            <w id="a-HRD_TD_148_t_1 CINA-d1p3w14">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e0">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w1</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w1</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e1">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w2</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w2</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e2">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w3</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w3</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e3">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w4</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w4</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e4">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w5</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w5</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e5">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w6</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w6</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e6">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w7</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w7</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e7">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w8</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w8</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e8">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w9</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w9</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e9">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w10</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w10</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e10">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w11</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w11</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e11">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w12</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w12</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e12">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w13</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w13</to>
+         </edge>
+         <edge id="a-HRD_TD_148_t_1 CINA-d1p3e13">
+            <from>w#w-HRD_TD_148_t_1 CINA-d1p3w14</from>
+            <to>a-HRD_TD_148_t_1 CINA-d1p3w14</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

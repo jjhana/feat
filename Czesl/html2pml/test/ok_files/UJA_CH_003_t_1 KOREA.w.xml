@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="UJA_CH_003_t_1 KOREA.html"/>
+         <reffile id="i" href="UJA_CH_003_t_1 KOREA.jpg"/>
+      </references>
+   </head>
+   <doc id="w-UJA_CH_003_t_1 KOREA-d1">
+      <para id="w-UJA_CH_003_t_1 KOREA-d1p1">
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w1">
+            <token>Já</token>
+            <original_position from="5" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w2">
+            <token>jsem</token>
+            <original_position from="8" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w3">
+            <token>horolezkyně</token>
+            <original_position from="13" len="11"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w4">
+            <token>.</token>
+            <original_position from="24" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w5">
+            <token>V</token>
+            <original_position from="27" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w6">
+            <token>Koreji</token>
+            <original_position from="29" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w7">
+            <token>je</token>
+            <original_position from="39" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w8">
+            <token>hodně</token>
+            <original_position from="42" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w9">
+            <token>hor</token>
+            <original_position from="48" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w10">
+            <token>.</token>
+            <original_position from="51" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w11">
+            <token>často</token>
+            <original_position from="54" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w12">
+            <token>jsem</token>
+            <original_position from="67" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w13">
+            <token>ležela</token>
+            <original_position from="72" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w14">
+            <token>na</token>
+            <original_position from="79" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w15">
+            <token>hrou</token>
+            <original_position from="82" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w16">
+            <token>s</token>
+            <original_position from="87" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w17">
+            <token>rodinou</token>
+            <original_position from="89" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w18">
+            <token>.</token>
+            <original_position from="96" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w19">
+            <token>V</token>
+            <original_position from="103" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w20">
+            <token>česke</token>
+            <original_position from="105" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w21">
+            <token>republice</token>
+            <original_position from="111" len="10"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w22">
+            <token>jsem</token>
+            <original_position from="141" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w23">
+            <token>nedělala</token>
+            <original_position from="146" len="8"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w24">
+            <token>ale</token>
+            <original_position from="155" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w25">
+            <token>často</token>
+            <original_position from="159" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w26">
+            <token>ležu</token>
+            <original_position from="165" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w27">
+            <token>na</token>
+            <original_position from="170" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w28">
+            <token>steně</token>
+            <original_position from="173" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w29">
+            <token>s</token>
+            <original_position from="179" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w30">
+            <token>Adamem</token>
+            <original_position from="181" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w31">
+            <token>.</token>
+            <original_position from="187" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w32">
+            <token>Ten</token>
+            <original_position from="190" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w33">
+            <token>sport</token>
+            <original_position from="194" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w34">
+            <token>je</token>
+            <original_position from="200" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w35">
+            <token>adrenalinový</token>
+            <original_position from="203" len="12"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w36">
+            <token>ale</token>
+            <original_position from="216" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w37">
+            <token>moc</token>
+            <original_position from="220" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w38">
+            <token>zaímavý</token>
+            <original_position from="224" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p1w39">
+            <token>.</token>
+            <original_position from="231" len="1"/>
+         </w>
+      </para>
+      <para id="w-UJA_CH_003_t_1 KOREA-d1p2">
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w1">
+            <token>Tento</token>
+            <original_position from="235" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w2">
+            <token>rok</token>
+            <original_position from="241" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w3">
+            <token>pojedeme</token>
+            <original_position from="245" len="8"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w4">
+            <token>v</token>
+            <original_position from="254" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w5">
+            <token>koreji</token>
+            <original_position from="256" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w6">
+            <token>,</token>
+            <original_position from="262" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w7">
+            <token>tak</token>
+            <original_position from="264" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w8">
+            <token>můžeme</token>
+            <original_position from="268" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w9">
+            <token>ležet</token>
+            <original_position from="275" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w10">
+            <token>na</token>
+            <original_position from="281" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w11">
+            <token>horu</token>
+            <original_position from="284" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w12">
+            <token>s</token>
+            <original_position from="289" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w13">
+            <token>Adamem</token>
+            <original_position from="291" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w14">
+            <token>a</token>
+            <original_position from="298" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w15">
+            <token>rodinou</token>
+            <original_position from="300" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p2w16">
+            <token>.</token>
+            <original_position from="307" len="1"/>
+         </w>
+      </para>
+      <para id="w-UJA_CH_003_t_1 KOREA-d1p3">
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w1">
+            <token>A</token>
+            <original_position from="311" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w2">
+            <token>taky</token>
+            <original_position from="313" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w3">
+            <token>ježdím</token>
+            <original_position from="318" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w4">
+            <token>na</token>
+            <original_position from="325" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w5">
+            <token>kole</token>
+            <original_position from="328" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w6">
+            <token>,</token>
+            <original_position from="332" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w7">
+            <token>v</token>
+            <original_position from="334" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w8">
+            <token>Koreji</token>
+            <original_position from="336" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w9">
+            <token>nemá</token>
+            <original_position from="343" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w10">
+            <token>místo</token>
+            <original_position from="348" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w11">
+            <token>pro</token>
+            <original_position from="354" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w12">
+            <token>na</token>
+            <original_position from="358" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w13">
+            <token>kole</token>
+            <original_position from="361" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w14">
+            <token>ale</token>
+            <original_position from="366" len="3"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w15">
+            <token>v</token>
+            <original_position from="370" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w16">
+            <token>Česke</token>
+            <original_position from="372" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w17">
+            <token>republice</token>
+            <original_position from="378" len="9"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w18">
+            <token>má</token>
+            <original_position from="388" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w19">
+            <token>.</token>
+            <original_position from="390" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w20">
+            <token>Často</token>
+            <original_position from="393" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w21">
+            <token>ježdím</token>
+            <original_position from="399" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w22">
+            <token>na</token>
+            <original_position from="406" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w23">
+            <token>kole</token>
+            <original_position from="409" len="4"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w24">
+            <token>od</token>
+            <original_position from="432" len="2"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w25">
+            <token>Kunžaku</token>
+            <original_position from="435" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w26">
+            <token>,</token>
+            <original_position from="442" len="1"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w27">
+            <token>který</token>
+            <original_position from="444" len="5"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w28">
+            <token>Adamově</token>
+            <original_position from="450" len="7"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w29">
+            <token>rodina</token>
+            <original_position from="458" len="6"/>
+         </w>
+         <w id="w-UJA_CH_003_t_1 KOREA-d1p3w30">
+            <token>misto</token>
+            <original_position from="465" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del1">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p1w6</from>
+            <orig>ma</orig>
+         </deleted>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del2">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p1w11</from>
+            <orig>lezela</orig>
+         </deleted>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del3">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p1w18</from>
+            <orig>Ale</orig>
+         </deleted>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del4">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p1w21</from>
+            <orig>nedělalam</orig>
+         </deleted>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del5">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p1w21</from>
+            <orig>nedělala</orig>
+         </deleted>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del6">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p3w23</from>
+            <orig>severný</orig>
+         </deleted>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del7">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p3w23</from>
+            <orig>ček</orig>
+         </deleted>
+         <deleted id="w-UJA_CH_003_t_1 KOREA-cor-del8">
+            <from>w-UJA_CH_003_t_1 KOREA-d1p3w23</from>
+            <orig>česky</orig>
+         </deleted>
+         <change id="w-UJA_CH_003_t_1 KOREA-cor-change1">
+            <old>rebpublice</old>
+            <token>w-UJA_CH_003_t_1 KOREA-d1p1w21</token>
+         </change>
+      </corrections>
+   </doc>
+</wdata>

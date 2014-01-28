@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="zkusebni_text.2.html"/>
+         <reffile id="i" href="zkusebni_text.2.jpg"/>
+      </references>
+   </head>
+   <doc id="w-zkusebni_text-d1">
+      <para id="w-zkusebni_text-d1p1">
+         <w id="w-zkusebni_text-d1p1w1">
+            <token>Header</token>
+            <original_position from="4" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p1w2">
+            <token>1</token>
+            <original_position from="11" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p2">
+         <w id="w-zkusebni_text-d1p2w1">
+            <token>Some</token>
+            <original_position from="13" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w2">
+            <token>text</token>
+            <original_position from="18" len="4"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p3">
+         <w id="w-zkusebni_text-d1p3w1">
+            <token>Some</token>
+            <original_position from="23" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w2">
+            <token>other</token>
+            <original_position from="28" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w3">
+            <token>text</token>
+            <original_position from="34" len="4"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p4">
+         <w id="w-zkusebni_text-d1p4w1">
+            <token>Header</token>
+            <original_position from="39" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w2">
+            <token>2</token>
+            <original_position from="46" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p5">
+         <w id="w-zkusebni_text-d1p5w1">
+            <token>More</token>
+            <original_position from="48" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p5w2">
+            <token>text</token>
+            <original_position from="53" len="4"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p6">
+         <w id="w-zkusebni_text-d1p6w1">
+            <token>Even</token>
+            <original_position from="58" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p6w2">
+            <token>more</token>
+            <original_position from="63" len="4"/>
+         </w>
+      </para>
+      <corrections>
+      </corrections>
+   </doc>
+</wdata>

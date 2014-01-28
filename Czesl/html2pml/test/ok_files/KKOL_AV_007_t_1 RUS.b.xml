@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="bdata_schema.xml"/>
+      <references>
+         <reffile id="a" name="adata" href="KKOL_AV_007_t_1 RUS.a.xml"/>
+      </references>
+   </head>
+   <doc id="w-KKOL_AV_007_t_1 RUS-d1" lowerdoc.rf="a#w-KKOL_AV_007_t_1 RUS-d1">
+      <para id="b-KKOL_AV_007_t_1 RUS-d1p1" lowerpara.rf="a#a-KKOL_AV_007_t_1 RUS-d1p1">
+      </para>
+      <para id="b-KKOL_AV_007_t_1 RUS-d1p2" lowerpara.rf="a#a-KKOL_AV_007_t_1 RUS-d1p2">
+      </para>
+      <para id="b-KKOL_AV_007_t_1 RUS-d1p3" lowerpara.rf="a#a-KKOL_AV_007_t_1 RUS-d1p3">
+      </para>
+   </doc>
+</bdata>

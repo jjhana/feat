@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="KKOL_A3_001_t_1 RUS.html"/>
+         <reffile id="i" href="KKOL_A3_001_t_1 RUS.jpg"/>
+      </references>
+   </head>
+   <doc id="w-KKOL_A3_001_t_1 RUS-d1">
+      <para id="w-KKOL_A3_001_t_1 RUS-d1p1">
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p1w1">
+            <token>Čeština</token>
+            <original_position from="3" len="7"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p1w2">
+            <token>a</token>
+            <original_position from="11" len="1"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p1w3">
+            <token>ja</token>
+            <original_position from="13" len="2"/>
+            <format name="underline"/>
+         </w>
+      </para>
+      <para id="w-KKOL_A3_001_t_1 RUS-d1p2">
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w1">
+            <token>Český</token>
+            <original_position from="18" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w2">
+            <token>začala</token>
+            <original_position from="24" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w3">
+            <token>učit</token>
+            <original_position from="31" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w4">
+            <token>když</token>
+            <original_position from="36" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w5">
+            <token>příjela</token>
+            <original_position from="41" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w6">
+            <token>na</token>
+            <original_position from="49" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w7">
+            <token>abiturientský</token>
+            <original_position from="52" len="13"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w8">
+            <token>kurs</token>
+            <original_position from="66" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w9">
+            <token>do</token>
+            <original_position from="71" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w10">
+            <token>Prahy</token>
+            <original_position from="74" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w11">
+            <token>.</token>
+            <original_position from="79" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w12">
+            <token>Moji</token>
+            <original_position from="82" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w13">
+            <token>kamaradi</token>
+            <original_position from="87" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w14">
+            <token>,</token>
+            <original_position from="95" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w15">
+            <token>které</token>
+            <original_position from="97" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w16">
+            <token>žijí</token>
+            <original_position from="103" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w17">
+            <token>v</token>
+            <original_position from="108" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w18">
+            <token>Praze</token>
+            <original_position from="110" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w19">
+            <token>několik</token>
+            <original_position from="116" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w20">
+            <token>let</token>
+            <original_position from="124" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w21">
+            <token>,</token>
+            <original_position from="127" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w22">
+            <token>říkali</token>
+            <original_position from="129" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w23">
+            <token>že</token>
+            <original_position from="136" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w24">
+            <token>čeština</token>
+            <original_position from="139" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w25">
+            <token>není</token>
+            <original_position from="147" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w26">
+            <token>moc</token>
+            <original_position from="152" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w27">
+            <token>těžké</token>
+            <original_position from="156" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w28">
+            <token>.</token>
+            <original_position from="161" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w29">
+            <token>Zatím</token>
+            <original_position from="164" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w30">
+            <token>nemohu</token>
+            <original_position from="170" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w31">
+            <token>s</token>
+            <original_position from="177" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w32">
+            <token>nimi</token>
+            <original_position from="179" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w33">
+            <token>souhlasít</token>
+            <original_position from="184" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w34">
+            <token>.</token>
+            <original_position from="193" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w35">
+            <token>Protože</token>
+            <original_position from="196" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w36">
+            <token>nedoumívám</token>
+            <original_position from="204" len="10"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w37">
+            <token>se</token>
+            <original_position from="215" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w38">
+            <token>čeština</token>
+            <original_position from="218" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w39">
+            <token>je</token>
+            <original_position from="226" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w40">
+            <token>lehká</token>
+            <original_position from="229" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w41">
+            <token>.</token>
+            <original_position from="234" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w42">
+            <token>Zda</token>
+            <original_position from="237" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w43">
+            <token>se</token>
+            <original_position from="241" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w44">
+            <token>že</token>
+            <original_position from="244" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w45">
+            <token>všechno</token>
+            <original_position from="247" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w46">
+            <token>je</token>
+            <original_position from="255" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w47">
+            <token>jasné</token>
+            <original_position from="258" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w48">
+            <token>,</token>
+            <original_position from="263" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w49">
+            <token>ale</token>
+            <original_position from="265" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w50">
+            <token>chyby</token>
+            <original_position from="269" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w51">
+            <token>dělám</token>
+            <original_position from="275" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w52">
+            <token>moc</token>
+            <original_position from="281" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w53">
+            <token>často</token>
+            <original_position from="285" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w54">
+            <token>,</token>
+            <original_position from="290" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w55">
+            <token>to</token>
+            <original_position from="292" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w56">
+            <token>je</token>
+            <original_position from="295" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w57">
+            <token>různé</token>
+            <original_position from="298" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w58">
+            <token>chyby</token>
+            <original_position from="304" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w59">
+            <token>…</token>
+            <original_position from="309" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w60">
+            <token>Chtělo</token>
+            <original_position from="312" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w61">
+            <token>by</token>
+            <original_position from="319" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w62">
+            <token>se</token>
+            <original_position from="322" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w63">
+            <token>lepšé</token>
+            <original_position from="325" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w64">
+            <token>všíchní</token>
+            <original_position from="331" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w65">
+            <token>rozumět</token>
+            <original_position from="339" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w66">
+            <token>a</token>
+            <original_position from="347" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w67">
+            <token>psát</token>
+            <original_position from="349" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w68">
+            <token>testy</token>
+            <original_position from="354" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w69">
+            <token>lépe</token>
+            <original_position from="360" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w70">
+            <token>.</token>
+            <original_position from="364" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w71">
+            <token>Ale</token>
+            <original_position from="367" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w72">
+            <token>mam</token>
+            <original_position from="371" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w73">
+            <token>problemy</token>
+            <original_position from="375" len="8"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w74">
+            <token>nejen</token>
+            <original_position from="384" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w75">
+            <token>s</token>
+            <original_position from="390" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w76">
+            <token>českou</token>
+            <original_position from="392" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w77">
+            <token>gramatikou</token>
+            <original_position from="399" len="10"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w78">
+            <token>ale</token>
+            <original_position from="410" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w79">
+            <token>is</token>
+            <original_position from="414" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w80">
+            <token>ústní</token>
+            <original_position from="417" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w81">
+            <token>řečí</token>
+            <original_position from="423" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w82">
+            <token>.</token>
+            <original_position from="427" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w83">
+            <token>Nejčastěji</token>
+            <original_position from="430" len="10"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w84">
+            <token>stydím</token>
+            <original_position from="441" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w85">
+            <token>se</token>
+            <original_position from="448" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w86">
+            <token>mluvit</token>
+            <original_position from="451" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w87">
+            <token>,</token>
+            <original_position from="457" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w88">
+            <token>nevím</token>
+            <original_position from="459" len="5"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w89">
+            <token>proč</token>
+            <original_position from="465" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w90">
+            <token>.</token>
+            <original_position from="469" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w91">
+            <token>Nam</token>
+            <original_position from="472" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w92">
+            <token>nedostáva</token>
+            <original_position from="476" len="9"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w93">
+            <token>se</token>
+            <original_position from="486" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w94">
+            <token>mluvní</token>
+            <original_position from="489" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w95">
+            <token>praxe</token>
+            <original_position from="496" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p2w96">
+            <token>,</token>
+            <original_position from="501" len="1"/>
+         </w>
+      </para>
+      <para id="w-KKOL_A3_001_t_1 RUS-d1p3">
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w1">
+            <token>Do</token>
+            <original_position from="505" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w2">
+            <token>zkoušek</token>
+            <original_position from="508" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w3">
+            <token>zůstalo</token>
+            <original_position from="516" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w4">
+            <token>moc</token>
+            <original_position from="524" len="3"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w5">
+            <token>malo</token>
+            <original_position from="528" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w6">
+            <token>doby</token>
+            <original_position from="533" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w7">
+            <token>a</token>
+            <original_position from="538" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w8">
+            <token>chtela</token>
+            <original_position from="540" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w9">
+            <token>bych</token>
+            <original_position from="547" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w10">
+            <token>po</token>
+            <original_position from="552" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w11">
+            <token>tyto</token>
+            <original_position from="555" len="4"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w12">
+            <token>2</token>
+            <original_position from="560" len="1"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w13">
+            <token>měsíce</token>
+            <original_position from="562" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w14">
+            <token>doučit</token>
+            <original_position from="569" len="6"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w15">
+            <token>češtinu</token>
+            <original_position from="576" len="7"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w16">
+            <token>do</token>
+            <original_position from="584" len="2"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w17">
+            <token>nezbytného</token>
+            <original_position from="587" len="10"/>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w18">
+            <token>úrovně</token>
+            <original_position from="598" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-KKOL_A3_001_t_1 RUS-d1p3w19">
+            <token>.</token>
+            <original_position from="604" len="1"/>
+         </w>
+      </para>
+      <corrections>
+      </corrections>
+   </doc>
+</wdata>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You may freely edit this file. See harness/README in the NetBeans platform -->
+<!-- for some information on what you could do (e.g. targets to override). -->
+<!-- If you delete this file and reopen the project it will be recreated. -->
+<project name="Czesl" basedir=".">
+    <description>Builds the module suite Czesl.</description>
+    <import file="nbproject/build-impl.xml"/>
+
+    <target name="echox" depends="-init">
+        <echoproperties prefix="nbm"/>
+    </target>
+
+    <target name="bdeploy" depends="-init,clean,prepare-updates,nbms,build-zips "  description="Deploy the app">
+        
+        <!-- todo produce dist with jre, usb dist -->
+    </target>
+
+    <target name="build-zips" depends="build-zip,prepare-for-zips,build-usb-zip,build-jre-zip,build-usb-jre-zip"  description="Create zip distributions">
+    </target>
+
+    <target name="prepare-for-zips" depends="-init">
+        <delete failonerror="false">
+            <fileset dir="${suite.build.dir}/for-zips"/>
+        </delete>
+        <mkdir dir="${suite.build.dir}/for-zips/feat"/>
+
+        <copy todir="${suite.build.dir}/for-zips/feat">
+            <fileset dir="dist.prep/for_usb/feat"/>
+        </copy>
+  
+        <unzip src="${dist.dir}/${app.name}.zip" dest="${suite.build.dir}/for-zips/feat"/>
+        <copy file="dist.prep/for_usb/feat.conf" todir="${suite.build.dir}/for-zips/feat/feat/etc"/>
+    </target>
+
+    <target name="build-usb-zip" depends="-init,prepare-for-zips">
+        <zip destfile="${dist.dir}/${app.name}-usb.zip" >
+            <zipfileset dir="${suite.build.dir}/for-zips/feat" prefix="feat"/>
+        </zip>
+        
+    </target>
+        
+    <target name="build-jre-zip" depends="-init,prepare-for-zips" description="todo" >
+    </target>
+
+    <target name="build-usb-jre-zip" depends="-init,prepare-for-zips" description="todo">
+    </target>
+                
+
+    <target name="prepare-updates" depends="-init,prepare-nb_modules">
+        <property name="build.updates.dir" location="${suite.build.dir}/updates"/>
+        <copy todir="${build.updates.dir}">
+            <fileset dir="../nb_modules/build/updates"/>
+            <!-- empty modules, that are no longer used (to disable them on computers that were not updated for a long time) -->
+            <fileset dir="dist.prep/old_nbms"/> 
+            <!-- platform modules -->
+            <fileset dir="nb_uc/_uc"/>
+        </copy>
+    </target>
+
+    <target name="prepare-nb_modules">
+        <subant target="clean" antfile="../nb_modules/build.xml" buildpath="../nb_modules"/>
+        <subant target="nbms" antfile="../nb_modules/build.xml" buildpath="../nb_modules"/>
+    </target>
+
+</project>

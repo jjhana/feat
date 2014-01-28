@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="UH_LI_003_t_1 - cina.html"/>
+         <reffile id="i" href="UH_LI_003_t_1 - cina.jpg"/>
+      </references>
+   </head>
+   <doc id="w-UH_LI_003_t_1 - cina-d1">
+      <para id="w-UH_LI_003_t_1 - cina-d1p1">
+         <w id="w-UH_LI_003_t_1 - cina-d1p1w1">
+            <token>Můj</token>
+            <original_position from="3" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p1w2">
+            <token>nejhorší</token>
+            <original_position from="7" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p1w3">
+            <token>den</token>
+            <original_position from="16" len="3"/>
+         </w>
+      </para>
+      <para id="w-UH_LI_003_t_1 - cina-d1p2">
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w1">
+            <token>Ve</token>
+            <original_position from="22" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w2">
+            <token>svém</token>
+            <original_position from="25" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w3">
+            <token>životě</token>
+            <original_position from="30" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w4">
+            <token>nemám</token>
+            <original_position from="37" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w5">
+            <token>hodně</token>
+            <original_position from="43" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w6">
+            <token>vzpomínek</token>
+            <original_position from="49" len="9"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w7">
+            <token>o</token>
+            <original_position from="59" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w8">
+            <token>smutku</token>
+            <original_position from="61" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w9">
+            <token>.</token>
+            <original_position from="67" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w10">
+            <token>myslím</token>
+            <original_position from="70" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w11">
+            <token>,</token>
+            <original_position from="76" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w12">
+            <token>že</token>
+            <original_position from="78" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w13">
+            <token>můj</token>
+            <original_position from="81" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w14">
+            <token>nejhorší</token>
+            <original_position from="85" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w15">
+            <token>den</token>
+            <original_position from="94" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w16">
+            <token>asi</token>
+            <original_position from="98" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w17">
+            <token>se</token>
+            <original_position from="102" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w18">
+            <token>stal</token>
+            <original_position from="105" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w19">
+            <token>ve</token>
+            <original_position from="110" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w20">
+            <token>střední</token>
+            <original_position from="113" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w21">
+            <token>škole</token>
+            <original_position from="121" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p2w22">
+            <token>.</token>
+            <original_position from="126" len="1"/>
+         </w>
+      </para>
+      <para id="w-UH_LI_003_t_1 - cina-d1p3">
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w1">
+            <token>Ještě</token>
+            <original_position from="130" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w2">
+            <token>si</token>
+            <original_position from="136" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w3">
+            <token>pamatuju</token>
+            <original_position from="139" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w4">
+            <token>,</token>
+            <original_position from="147" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w5">
+            <token>že</token>
+            <original_position from="149" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w6">
+            <token>byl</token>
+            <original_position from="152" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w7">
+            <token>nějaký</token>
+            <original_position from="156" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w8">
+            <token>pátek</token>
+            <original_position from="163" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w9">
+            <token>.</token>
+            <original_position from="168" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w10">
+            <token>protože</token>
+            <original_position from="170" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w11">
+            <token>jsem</token>
+            <original_position from="178" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w12">
+            <token>bydlela</token>
+            <original_position from="183" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w13">
+            <token>na</token>
+            <original_position from="191" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w14">
+            <token>koleji</token>
+            <original_position from="194" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w15">
+            <token>ve</token>
+            <original_position from="201" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w16">
+            <token>škole</token>
+            <original_position from="204" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w17">
+            <token>,</token>
+            <original_position from="209" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w18">
+            <token>po</token>
+            <original_position from="211" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w19">
+            <token>výučování</token>
+            <original_position from="214" len="9"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w20">
+            <token>jsem</token>
+            <original_position from="224" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w21">
+            <token>musela</token>
+            <original_position from="229" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w22">
+            <token>přijít</token>
+            <original_position from="236" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w23">
+            <token>na</token>
+            <original_position from="243" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w24">
+            <token>kolej</token>
+            <original_position from="246" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w25">
+            <token>vzít</token>
+            <original_position from="252" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w26">
+            <token>prádlo</token>
+            <original_position from="257" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w27">
+            <token>dříve</token>
+            <original_position from="264" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w28">
+            <token>,</token>
+            <original_position from="269" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w29">
+            <token>abych</token>
+            <original_position from="271" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w30">
+            <token>vyměnila</token>
+            <original_position from="277" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w31">
+            <token>na</token>
+            <original_position from="286" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w32">
+            <token>teplejší</token>
+            <original_position from="289" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w33">
+            <token>oblečení</token>
+            <original_position from="298" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w34">
+            <token>na</token>
+            <original_position from="307" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w35">
+            <token>zimě</token>
+            <original_position from="310" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w36">
+            <token>doma</token>
+            <original_position from="315" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w37">
+            <token>.</token>
+            <original_position from="319" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w38">
+            <token>Na</token>
+            <original_position from="322" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w39">
+            <token>cestě</token>
+            <original_position from="325" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w40">
+            <token>do</token>
+            <original_position from="331" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w41">
+            <token>koleje</token>
+            <original_position from="334" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w42">
+            <token>jsem</token>
+            <original_position from="341" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w43">
+            <token>ztratila</token>
+            <original_position from="346" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w44">
+            <token>peněženku</token>
+            <original_position from="355" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w45">
+            <token>,</token>
+            <original_position from="364" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w46">
+            <token>to</token>
+            <original_position from="366" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w47">
+            <token>známená</token>
+            <original_position from="369" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w48">
+            <token>,</token>
+            <original_position from="376" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w49">
+            <token>musela</token>
+            <original_position from="378" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w50">
+            <token>jsem</token>
+            <original_position from="385" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w51">
+            <token>se</token>
+            <original_position from="390" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w52">
+            <token>vrátit</token>
+            <original_position from="393" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w53">
+            <token>domů</token>
+            <original_position from="400" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w54">
+            <token>pěšky</token>
+            <original_position from="405" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w55">
+            <token>!</token>
+            <original_position from="410" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w56">
+            <token>Zeptala</token>
+            <original_position from="413" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w57">
+            <token>jsem</token>
+            <original_position from="421" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w58">
+            <token>se</token>
+            <original_position from="426" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w59">
+            <token>několika</token>
+            <original_position from="429" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w60">
+            <token>spolubydlicí</token>
+            <original_position from="438" len="12"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w61">
+            <token>.</token>
+            <original_position from="450" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w62">
+            <token>aby</token>
+            <original_position from="452" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w63">
+            <token>mi</token>
+            <original_position from="456" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w64">
+            <token>pujičilẏ</token>
+            <original_position from="459" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w65">
+            <token>peníze</token>
+            <original_position from="471" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w66">
+            <token>na</token>
+            <original_position from="478" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w67">
+            <token>jízdenky</token>
+            <original_position from="481" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w68">
+            <token>,</token>
+            <original_position from="489" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w69">
+            <token>ale</token>
+            <original_position from="491" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w70">
+            <token>neměla</token>
+            <original_position from="495" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w71">
+            <token>jsem</token>
+            <original_position from="502" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w72">
+            <token>štěstí</token>
+            <original_position from="507" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w73">
+            <token>,</token>
+            <original_position from="513" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w74">
+            <token>ani</token>
+            <original_position from="515" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w75">
+            <token>neměly</token>
+            <original_position from="519" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w76">
+            <token>dost</token>
+            <original_position from="526" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w77">
+            <token>peněz</token>
+            <original_position from="531" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w78">
+            <token>.</token>
+            <original_position from="536" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w79">
+            <token>Pak</token>
+            <original_position from="539" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w80">
+            <token>jsem</token>
+            <original_position from="543" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w81">
+            <token>neměla</token>
+            <original_position from="548" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w82">
+            <token>jiný</token>
+            <original_position from="555" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w83">
+            <token>způsob</token>
+            <original_position from="560" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w84">
+            <token>.</token>
+            <original_position from="566" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w85">
+            <token>začala</token>
+            <original_position from="569" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w86">
+            <token>jsem</token>
+            <original_position from="576" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w87">
+            <token>tu</token>
+            <original_position from="581" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w88">
+            <token>dlouhou</token>
+            <original_position from="584" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w89">
+            <token>cestu</token>
+            <original_position from="592" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w90">
+            <token>domů</token>
+            <original_position from="598" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w91">
+            <token>.</token>
+            <original_position from="602" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w92">
+            <token>Když</token>
+            <original_position from="605" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w93">
+            <token>jsem</token>
+            <original_position from="610" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w94">
+            <token>přišla</token>
+            <original_position from="615" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w95">
+            <token>,</token>
+            <original_position from="621" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w96">
+            <token>venku</token>
+            <original_position from="623" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w97">
+            <token>byla</token>
+            <original_position from="629" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w98">
+            <token>už</token>
+            <original_position from="634" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w99">
+            <token>tma</token>
+            <original_position from="637" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w100">
+            <token>.</token>
+            <original_position from="640" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w101">
+            <token>byla</token>
+            <original_position from="643" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w102">
+            <token>jsem</token>
+            <original_position from="648" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w103">
+            <token>unavená</token>
+            <original_position from="653" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w104">
+            <token>a</token>
+            <original_position from="661" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w105">
+            <token>měla</token>
+            <original_position from="663" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w106">
+            <token>jsem</token>
+            <original_position from="668" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w107">
+            <token>velký</token>
+            <original_position from="673" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w108">
+            <token>hlad</token>
+            <original_position from="679" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w109">
+            <token>,</token>
+            <original_position from="683" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w110">
+            <token>ale</token>
+            <original_position from="685" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w111">
+            <token>nikdo</token>
+            <original_position from="689" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w112">
+            <token>nebyl</token>
+            <original_position from="695" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w113">
+            <token>doma</token>
+            <original_position from="701" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w114">
+            <token>,</token>
+            <original_position from="705" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w115">
+            <token>to</token>
+            <original_position from="707" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w116">
+            <token>bylo</token>
+            <original_position from="710" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w117">
+            <token>divné</token>
+            <original_position from="715" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w118">
+            <token>protože</token>
+            <original_position from="721" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w119">
+            <token>moje</token>
+            <original_position from="729" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w120">
+            <token>matka</token>
+            <original_position from="734" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w121">
+            <token>je</token>
+            <original_position from="740" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w122">
+            <token>učitelka</token>
+            <original_position from="743" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w123">
+            <token>.</token>
+            <original_position from="751" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w124">
+            <token>už</token>
+            <original_position from="754" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w125">
+            <token>bylo</token>
+            <original_position from="757" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w126">
+            <token>19:30</token>
+            <original_position from="762" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w127">
+            <token>večer</token>
+            <original_position from="768" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w128">
+            <token>.</token>
+            <original_position from="773" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w129">
+            <token>končila</token>
+            <original_position from="776" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w130">
+            <token>praci</token>
+            <original_position from="784" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w131">
+            <token>ve</token>
+            <original_position from="790" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w132">
+            <token>17:00</token>
+            <original_position from="793" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w133">
+            <token>každý</token>
+            <original_position from="799" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w134">
+            <token>den</token>
+            <original_position from="805" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w135">
+            <token>.</token>
+            <original_position from="808" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w136">
+            <token>potom</token>
+            <original_position from="811" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w137">
+            <token>jsem</token>
+            <original_position from="817" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w138">
+            <token>jí</token>
+            <original_position from="822" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w139">
+            <token>zavolala</token>
+            <original_position from="825" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w140">
+            <token>.</token>
+            <original_position from="833" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w141">
+            <token>maminka</token>
+            <original_position from="836" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w142">
+            <token>mi</token>
+            <original_position from="844" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w143">
+            <token>řekla</token>
+            <original_position from="847" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w144">
+            <token>.</token>
+            <original_position from="852" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w145">
+            <token>že</token>
+            <original_position from="854" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w146">
+            <token>byla</token>
+            <original_position from="857" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w147">
+            <token>v</token>
+            <original_position from="862" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w148">
+            <token>nemocnici</token>
+            <original_position from="864" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w149">
+            <token>.</token>
+            <original_position from="873" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w150">
+            <token>moje</token>
+            <original_position from="876" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w151">
+            <token>babička</token>
+            <original_position from="881" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w152">
+            <token>byla</token>
+            <original_position from="889" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w153">
+            <token>važně</token>
+            <original_position from="894" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w154">
+            <token>nemocná</token>
+            <original_position from="900" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w155">
+            <token>.</token>
+            <original_position from="907" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w156">
+            <token>Ježiš</token>
+            <original_position from="910" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w157">
+            <token>Marie</token>
+            <original_position from="916" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w158">
+            <token>!</token>
+            <original_position from="921" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w159">
+            <token>Byla</token>
+            <original_position from="924" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w160">
+            <token>jsem</token>
+            <original_position from="929" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w161">
+            <token>moc</token>
+            <original_position from="934" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w162">
+            <token>ustaraná</token>
+            <original_position from="938" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w163">
+            <token>.</token>
+            <original_position from="946" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w164">
+            <token>bylo</token>
+            <original_position from="949" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w165">
+            <token>babičce</token>
+            <original_position from="954" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w166">
+            <token>80</token>
+            <original_position from="962" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w167">
+            <token>let</token>
+            <original_position from="965" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w168">
+            <token>.</token>
+            <original_position from="968" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w169">
+            <token>byla</token>
+            <original_position from="971" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w170">
+            <token>pořád</token>
+            <original_position from="976" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w171">
+            <token>ztravá</token>
+            <original_position from="982" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w172">
+            <token>,</token>
+            <original_position from="988" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w173">
+            <token>ale</token>
+            <original_position from="990" len="3"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w174">
+            <token>proč</token>
+            <original_position from="994" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w175">
+            <token>okamžitě</token>
+            <original_position from="999" len="8"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w176">
+            <token>byla</token>
+            <original_position from="1008" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w177">
+            <token>nemocná</token>
+            <original_position from="1013" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w178">
+            <token>?</token>
+            <original_position from="1020" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w179">
+            <token>Pospichala</token>
+            <original_position from="1023" len="10"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w180">
+            <token>jsem</token>
+            <original_position from="1034" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w181">
+            <token>do</token>
+            <original_position from="1039" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w182">
+            <token>nemocnice</token>
+            <original_position from="1042" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w183">
+            <token>.</token>
+            <original_position from="1051" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w184">
+            <token>na</token>
+            <original_position from="1054" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w185">
+            <token>cestě</token>
+            <original_position from="1057" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w186">
+            <token>jsem</token>
+            <original_position from="1063" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w187">
+            <token>vzpomínala</token>
+            <original_position from="1072" len="10"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w188">
+            <token>dětství</token>
+            <original_position from="1083" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w189">
+            <token>s</token>
+            <original_position from="1091" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w190">
+            <token>babičkou</token>
+            <original_position from="1093" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w191">
+            <token>,</token>
+            <original_position from="1101" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w192">
+            <token>přímo</token>
+            <original_position from="1103" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w193">
+            <token>jsem</token>
+            <original_position from="1109" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w194">
+            <token>plakala</token>
+            <original_position from="1114" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w195">
+            <token>.</token>
+            <original_position from="1121" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w196">
+            <token>Bydlela</token>
+            <original_position from="1124" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w197">
+            <token>jsem</token>
+            <original_position from="1132" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w198">
+            <token>u</token>
+            <original_position from="1137" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w199">
+            <token>babičky</token>
+            <original_position from="1139" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w200">
+            <token>až</token>
+            <original_position from="1147" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w201">
+            <token>bylo</token>
+            <original_position from="1150" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w202">
+            <token>mi</token>
+            <original_position from="1155" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w203">
+            <token>6</token>
+            <original_position from="1158" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w204">
+            <token>let</token>
+            <original_position from="1160" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w205">
+            <token>,</token>
+            <original_position from="1163" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w206">
+            <token>protože</token>
+            <original_position from="1165" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w207">
+            <token>moje</token>
+            <original_position from="1173" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w208">
+            <token>rodiče</token>
+            <original_position from="1178" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w209">
+            <token>neměly</token>
+            <original_position from="1185" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w210">
+            <token>dost</token>
+            <original_position from="1192" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w211">
+            <token>času</token>
+            <original_position from="1197" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w212">
+            <token>na</token>
+            <original_position from="1202" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w213">
+            <token>mě</token>
+            <original_position from="1205" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w214">
+            <token>.</token>
+            <original_position from="1207" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w215">
+            <token>babička</token>
+            <original_position from="1210" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w216">
+            <token>se</token>
+            <original_position from="1218" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w217">
+            <token>na</token>
+            <original_position from="1221" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w218">
+            <token>mě</token>
+            <original_position from="1224" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w219">
+            <token>starala</token>
+            <original_position from="1227" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w220">
+            <token>.</token>
+            <original_position from="1234" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w221">
+            <token>Říkala</token>
+            <original_position from="1237" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w222">
+            <token>mi</token>
+            <original_position from="1244" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w223">
+            <token>staré</token>
+            <original_position from="1247" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w224">
+            <token>pověsti</token>
+            <original_position from="1253" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w225">
+            <token>,</token>
+            <original_position from="1260" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w226">
+            <token>vařila</token>
+            <original_position from="1262" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w227">
+            <token>mi</token>
+            <original_position from="1269" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w228">
+            <token>vynikající</token>
+            <original_position from="1272" len="10"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w229">
+            <token>lahůdky</token>
+            <original_position from="1283" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w230">
+            <token>,</token>
+            <original_position from="1290" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w231">
+            <token>vedla</token>
+            <original_position from="1292" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w232">
+            <token>mi</token>
+            <original_position from="1298" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w233">
+            <token>do</token>
+            <original_position from="1301" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w234">
+            <token>školky</token>
+            <original_position from="1304" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w235">
+            <token>....</token>
+            <original_position from="1311" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w236">
+            <token>Na</token>
+            <original_position from="1317" len="2"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w237">
+            <token>štěstí</token>
+            <original_position from="1320" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w238">
+            <token>všechno</token>
+            <original_position from="1327" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w239">
+            <token>dobře</token>
+            <original_position from="1335" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w240">
+            <token>dopadlo</token>
+            <original_position from="1341" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w241">
+            <token>.</token>
+            <original_position from="1348" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w242">
+            <token>moje</token>
+            <original_position from="1351" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w243">
+            <token>babička</token>
+            <original_position from="1356" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w244">
+            <token>nebyla</token>
+            <original_position from="1364" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w245">
+            <token>v</token>
+            <original_position from="1371" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w246">
+            <token>nemocnici</token>
+            <original_position from="1373" len="9"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w247">
+            <token>dlouho</token>
+            <original_position from="1383" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w248">
+            <token>a</token>
+            <original_position from="1390" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w249">
+            <token>byla</token>
+            <original_position from="1392" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w250">
+            <token>zdravá</token>
+            <original_position from="1397" len="6"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w251">
+            <token>zase</token>
+            <original_position from="1404" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w252">
+            <token>.</token>
+            <original_position from="1408" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w253">
+            <token>Poděkovali</token>
+            <original_position from="1414" len="10"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w254">
+            <token>jsme</token>
+            <original_position from="1425" len="4"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w255">
+            <token>vybornímu</token>
+            <original_position from="1430" len="9"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w256">
+            <token>doktoři</token>
+            <original_position from="1440" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w257">
+            <token>,</token>
+            <original_position from="1447" len="1"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w258">
+            <token>který</token>
+            <original_position from="1449" len="5"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w259">
+            <token>babičku</token>
+            <original_position from="1455" len="7"/>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w260">
+            <token>vylečil</token>
+            <original_position from="1463" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_LI_003_t_1 - cina-d1p3w261">
+            <token>.</token>
+            <original_position from="1470" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-UH_LI_003_t_1 - cina-cor-del1">
+            <from>w-UH_LI_003_t_1 - cina-d1p3w186</from>
+            <orig>pře</orig>
+         </deleted>
+         <deleted id="w-UH_LI_003_t_1 - cina-cor-del2">
+            <from>w-UH_LI_003_t_1 - cina-d1p3w252</from>
+            <orig>Dě</orig>
+         </deleted>
+      </corrections>
+   </doc>
+</wdata>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="zkusebni_text.2.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-zkusebni_text-d1" lowerdoc.rf="w#w-zkusebni_text-d1">
+      <para id="a-zkusebni_text-d1p1" lowerpara.rf="w#w-zkusebni_text-d1p1">
+         <s id="a-zkusebni_text-d1p1s0">
+            <w id="a-zkusebni_text-d1p1w1">
+               <token>Header</token>
+            </w>
+            <w id="a-zkusebni_text-d1p1w2">
+               <token>1</token>
+            </w>
+         </s>
+         <edge id="a-zkusebni_text-d1p1e0">
+            <from>w#w-zkusebni_text-d1p1w1</from>
+            <to>a-zkusebni_text-d1p1w1</to>
+         </edge>
+         <edge id="a-zkusebni_text-d1p1e1">
+            <from>w#w-zkusebni_text-d1p1w2</from>
+            <to>a-zkusebni_text-d1p1w2</to>
+         </edge>
+      </para>
+      <para id="a-zkusebni_text-d1p2" lowerpara.rf="w#w-zkusebni_text-d1p2">
+         <s id="a-zkusebni_text-d1p2s0">
+            <w id="a-zkusebni_text-d1p2w1">
+               <token>Some</token>
+            </w>
+            <w id="a-zkusebni_text-d1p2w2">
+               <token>text</token>
+            </w>
+         </s>
+         <edge id="a-zkusebni_text-d1p2e0">
+            <from>w#w-zkusebni_text-d1p2w1</from>
+            <to>a-zkusebni_text-d1p2w1</to>
+         </edge>
+         <edge id="a-zkusebni_text-d1p2e1">
+            <from>w#w-zkusebni_text-d1p2w2</from>
+            <to>a-zkusebni_text-d1p2w2</to>
+         </edge>
+      </para>
+      <para id="a-zkusebni_text-d1p3" lowerpara.rf="w#w-zkusebni_text-d1p3">
+         <s id="a-zkusebni_text-d1p3s0">
+            <w id="a-zkusebni_text-d1p3w1">
+               <token>Some</token>
+            </w>
+            <w id="a-zkusebni_text-d1p3w2">
+               <token>other</token>
+            </w>
+            <w id="a-zkusebni_text-d1p3w3">
+               <token>text</token>
+            </w>
+         </s>
+         <edge id="a-zkusebni_text-d1p3e0">
+            <from>w#w-zkusebni_text-d1p3w1</from>
+            <to>a-zkusebni_text-d1p3w1</to>
+         </edge>
+         <edge id="a-zkusebni_text-d1p3e1">
+            <from>w#w-zkusebni_text-d1p3w2</from>
+            <to>a-zkusebni_text-d1p3w2</to>
+         </edge>
+         <edge id="a-zkusebni_text-d1p3e2">
+            <from>w#w-zkusebni_text-d1p3w3</from>
+            <to>a-zkusebni_text-d1p3w3</to>
+         </edge>
+      </para>
+      <para id="a-zkusebni_text-d1p4" lowerpara.rf="w#w-zkusebni_text-d1p4">
+         <s id="a-zkusebni_text-d1p4s0">
+            <w id="a-zkusebni_text-d1p4w1">
+               <token>Header</token>
+            </w>
+            <w id="a-zkusebni_text-d1p4w2">
+               <token>2</token>
+            </w>
+         </s>
+         <edge id="a-zkusebni_text-d1p4e0">
+            <from>w#w-zkusebni_text-d1p4w1</from>
+            <to>a-zkusebni_text-d1p4w1</to>
+         </edge>
+         <edge id="a-zkusebni_text-d1p4e1">
+            <from>w#w-zkusebni_text-d1p4w2</from>
+            <to>a-zkusebni_text-d1p4w2</to>
+         </edge>
+      </para>
+      <para id="a-zkusebni_text-d1p5" lowerpara.rf="w#w-zkusebni_text-d1p5">
+         <s id="a-zkusebni_text-d1p5s0">
+            <w id="a-zkusebni_text-d1p5w1">
+               <token>More</token>
+            </w>
+            <w id="a-zkusebni_text-d1p5w2">
+               <token>text</token>
+            </w>
+         </s>
+         <edge id="a-zkusebni_text-d1p5e0">
+            <from>w#w-zkusebni_text-d1p5w1</from>
+            <to>a-zkusebni_text-d1p5w1</to>
+         </edge>
+         <edge id="a-zkusebni_text-d1p5e1">
+            <from>w#w-zkusebni_text-d1p5w2</from>
+            <to>a-zkusebni_text-d1p5w2</to>
+         </edge>
+      </para>
+      <para id="a-zkusebni_text-d1p6" lowerpara.rf="w#w-zkusebni_text-d1p6">
+         <s id="a-zkusebni_text-d1p6s0">
+            <w id="a-zkusebni_text-d1p6w1">
+               <token>Even</token>
+            </w>
+            <w id="a-zkusebni_text-d1p6w2">
+               <token>more</token>
+            </w>
+         </s>
+         <edge id="a-zkusebni_text-d1p6e0">
+            <from>w#w-zkusebni_text-d1p6w1</from>
+            <to>a-zkusebni_text-d1p6w1</to>
+         </edge>
+         <edge id="a-zkusebni_text-d1p6e1">
+            <from>w#w-zkusebni_text-d1p6w2</from>
+            <to>a-zkusebni_text-d1p6w2</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

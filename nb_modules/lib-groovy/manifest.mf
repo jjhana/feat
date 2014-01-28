@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.purl.lib.groovy
+OpenIDE-Module-Implementation-Version: 6
+OpenIDE-Module-Localizing-Bundle: org/purl/lib/groovy/Bundle.properties
+

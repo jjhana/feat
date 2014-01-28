@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="UJA_AG_001_t_1.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-UJA_AG_001_t_1-d1" lowerdoc.rf="w#w-UJA_AG_001_t_1-d1">
+      <para id="a-UJA_AG_001_t_1-d1p1" lowerpara.rf="w#w-UJA_AG_001_t_1-d1p1">
+         <s id="a-UJA_AG_001_t_1-d1p1s0">
+            <w id="a-UJA_AG_001_t_1-d1p1w2">
+               <token>protože</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w3">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w4">
+               <token>neplanoval</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w5">
+               <token>to</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w6">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w7">
+               <token>neměl</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w8">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w9">
+               <token>penize</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w10">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w11">
+               <token>nový</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w12">
+               <token>byt</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w13">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AG_001_t_1-d1p1s1">
+            <w id="a-UJA_AG_001_t_1-d1p1w14">
+               <token>Bydlil</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w15">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w16">
+               <token>s</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w17">
+               <token>maminkou</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w18">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w19">
+               <token>tatinkem</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w20">
+               <token>stejně</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w21">
+               <token>jako</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w22">
+               <token>ma</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w23">
+               <token>Eva</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w24">
+               <token>.</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w25">
+               <token>proto</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w26">
+               <token>museli</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w27">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w28">
+               <token>najit</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w29">
+               <token>nový</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w30">
+               <token>byt</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w31">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AG_001_t_1-d1p1s2">
+            <w id="a-UJA_AG_001_t_1-d1p1w32">
+               <token>Rozhodli</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w33">
+               <token>jsmese</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w34">
+               <token>vzit</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w35">
+               <token>hypoteku</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w36">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w37">
+               <token>najit</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w38">
+               <token>nemoc</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w39">
+               <token>drahy</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w40">
+               <token>byt</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w41">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w42">
+               <token>napřiklad</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w43">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w44">
+               <token>paneláku</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w45">
+               <token>po</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w46">
+               <token>ceně</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w47">
+               <token>1,5</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w48">
+               <token>mln</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w49">
+               <token>korun</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w50">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w51">
+               <token>tem̌eř</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w52">
+               <token>už</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w53">
+               <token>chtěli</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w54">
+               <token>jsmeho</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w55">
+               <token>koupit</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w56">
+               <token>ale</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w57">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w58">
+               <token>ten</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w59">
+               <token>den</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w60">
+               <token>zmřel</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w61">
+               <token>můj</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w62">
+               <token>stric</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w63">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w64">
+               <token>zustavil</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w65">
+               <token>mi</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w66">
+               <token>svůj</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w67">
+               <token>velký</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w68">
+               <token>dům</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w69">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w70">
+               <token>daleko</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w71">
+               <token>od</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w72">
+               <token>centra</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w73">
+               <token>Prahy</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w74">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w75">
+               <token>ale</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w76">
+               <token>samozřejm̌e</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w77">
+               <token>zařízený</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w78">
+               <token>3+1</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w79">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w80">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w81">
+               <token>taký</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w82">
+               <token>auto</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w83">
+               <token>škoda</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w84">
+               <token>Octavia</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w85">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AG_001_t_1-d1p1s3">
+            <w id="a-UJA_AG_001_t_1-d1p1w86">
+               <token>Přestěhováli</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w87">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w88">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w89">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w90">
+               <token>ale</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w91">
+               <token>trochu</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w92">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w93">
+               <token>si</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w94">
+               <token>stěžovali</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w95">
+               <token>po</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w96">
+               <token>memu</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w97">
+               <token>stricu</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w98">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w99">
+               <token>byl</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w100">
+               <token>mě</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w101">
+               <token>jako</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w102">
+               <token>bratr</token>
+            </w>
+            <w id="a-UJA_AG_001_t_1-d1p1w103">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UJA_AG_001_t_1-d1p1e0">
+            <from>w#w-UJA_AG_001_t_1-d1p1w2</from>
+            <to>a-UJA_AG_001_t_1-d1p1w2</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e1">
+            <from>w#w-UJA_AG_001_t_1-d1p1w3</from>
+            <to>a-UJA_AG_001_t_1-d1p1w3</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e2">
+            <from>w#w-UJA_AG_001_t_1-d1p1w4</from>
+            <to>a-UJA_AG_001_t_1-d1p1w4</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e3">
+            <from>w#w-UJA_AG_001_t_1-d1p1w5</from>
+            <to>a-UJA_AG_001_t_1-d1p1w5</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e4">
+            <from>w#w-UJA_AG_001_t_1-d1p1w6</from>
+            <to>a-UJA_AG_001_t_1-d1p1w6</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e5">
+            <from>w#w-UJA_AG_001_t_1-d1p1w7</from>
+            <to>a-UJA_AG_001_t_1-d1p1w7</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e6">
+            <from>w#w-UJA_AG_001_t_1-d1p1w8</from>
+            <to>a-UJA_AG_001_t_1-d1p1w8</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e7">
+            <from>w#w-UJA_AG_001_t_1-d1p1w9</from>
+            <to>a-UJA_AG_001_t_1-d1p1w9</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e8">
+            <from>w#w-UJA_AG_001_t_1-d1p1w10</from>
+            <to>a-UJA_AG_001_t_1-d1p1w10</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e9">
+            <from>w#w-UJA_AG_001_t_1-d1p1w11</from>
+            <to>a-UJA_AG_001_t_1-d1p1w11</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e10">
+            <from>w#w-UJA_AG_001_t_1-d1p1w12</from>
+            <to>a-UJA_AG_001_t_1-d1p1w12</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e11">
+            <from>w#w-UJA_AG_001_t_1-d1p1w13</from>
+            <to>a-UJA_AG_001_t_1-d1p1w13</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e12">
+            <from>w#w-UJA_AG_001_t_1-d1p1w14</from>
+            <to>a-UJA_AG_001_t_1-d1p1w14</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e13">
+            <from>w#w-UJA_AG_001_t_1-d1p1w15</from>
+            <to>a-UJA_AG_001_t_1-d1p1w15</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e14">
+            <from>w#w-UJA_AG_001_t_1-d1p1w16</from>
+            <to>a-UJA_AG_001_t_1-d1p1w16</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e15">
+            <from>w#w-UJA_AG_001_t_1-d1p1w17</from>
+            <to>a-UJA_AG_001_t_1-d1p1w17</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e16">
+            <from>w#w-UJA_AG_001_t_1-d1p1w18</from>
+            <to>a-UJA_AG_001_t_1-d1p1w18</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e17">
+            <from>w#w-UJA_AG_001_t_1-d1p1w19</from>
+            <to>a-UJA_AG_001_t_1-d1p1w19</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e18">
+            <from>w#w-UJA_AG_001_t_1-d1p1w20</from>
+            <to>a-UJA_AG_001_t_1-d1p1w20</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e19">
+            <from>w#w-UJA_AG_001_t_1-d1p1w21</from>
+            <to>a-UJA_AG_001_t_1-d1p1w21</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e20">
+            <from>w#w-UJA_AG_001_t_1-d1p1w22</from>
+            <to>a-UJA_AG_001_t_1-d1p1w22</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e21">
+            <from>w#w-UJA_AG_001_t_1-d1p1w23</from>
+            <to>a-UJA_AG_001_t_1-d1p1w23</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e22">
+            <from>w#w-UJA_AG_001_t_1-d1p1w24</from>
+            <to>a-UJA_AG_001_t_1-d1p1w24</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e23">
+            <from>w#w-UJA_AG_001_t_1-d1p1w25</from>
+            <to>a-UJA_AG_001_t_1-d1p1w25</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e24">
+            <from>w#w-UJA_AG_001_t_1-d1p1w26</from>
+            <to>a-UJA_AG_001_t_1-d1p1w26</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e25">
+            <from>w#w-UJA_AG_001_t_1-d1p1w27</from>
+            <to>a-UJA_AG_001_t_1-d1p1w27</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e26">
+            <from>w#w-UJA_AG_001_t_1-d1p1w28</from>
+            <to>a-UJA_AG_001_t_1-d1p1w28</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e27">
+            <from>w#w-UJA_AG_001_t_1-d1p1w29</from>
+            <to>a-UJA_AG_001_t_1-d1p1w29</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e28">
+            <from>w#w-UJA_AG_001_t_1-d1p1w30</from>
+            <to>a-UJA_AG_001_t_1-d1p1w30</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e29">
+            <from>w#w-UJA_AG_001_t_1-d1p1w31</from>
+            <to>a-UJA_AG_001_t_1-d1p1w31</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e30">
+            <from>w#w-UJA_AG_001_t_1-d1p1w32</from>
+            <to>a-UJA_AG_001_t_1-d1p1w32</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e31">
+            <from>w#w-UJA_AG_001_t_1-d1p1w33</from>
+            <to>a-UJA_AG_001_t_1-d1p1w33</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e32">
+            <from>w#w-UJA_AG_001_t_1-d1p1w34</from>
+            <to>a-UJA_AG_001_t_1-d1p1w34</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e33">
+            <from>w#w-UJA_AG_001_t_1-d1p1w35</from>
+            <to>a-UJA_AG_001_t_1-d1p1w35</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e34">
+            <from>w#w-UJA_AG_001_t_1-d1p1w36</from>
+            <to>a-UJA_AG_001_t_1-d1p1w36</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e35">
+            <from>w#w-UJA_AG_001_t_1-d1p1w37</from>
+            <to>a-UJA_AG_001_t_1-d1p1w37</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e36">
+            <from>w#w-UJA_AG_001_t_1-d1p1w38</from>
+            <to>a-UJA_AG_001_t_1-d1p1w38</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e37">
+            <from>w#w-UJA_AG_001_t_1-d1p1w39</from>
+            <to>a-UJA_AG_001_t_1-d1p1w39</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e38">
+            <from>w#w-UJA_AG_001_t_1-d1p1w40</from>
+            <to>a-UJA_AG_001_t_1-d1p1w40</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e39">
+            <from>w#w-UJA_AG_001_t_1-d1p1w41</from>
+            <to>a-UJA_AG_001_t_1-d1p1w41</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e40">
+            <from>w#w-UJA_AG_001_t_1-d1p1w42</from>
+            <to>a-UJA_AG_001_t_1-d1p1w42</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e41">
+            <from>w#w-UJA_AG_001_t_1-d1p1w43</from>
+            <to>a-UJA_AG_001_t_1-d1p1w43</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e42">
+            <from>w#w-UJA_AG_001_t_1-d1p1w44</from>
+            <to>a-UJA_AG_001_t_1-d1p1w44</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e43">
+            <from>w#w-UJA_AG_001_t_1-d1p1w45</from>
+            <to>a-UJA_AG_001_t_1-d1p1w45</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e44">
+            <from>w#w-UJA_AG_001_t_1-d1p1w46</from>
+            <to>a-UJA_AG_001_t_1-d1p1w46</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e45">
+            <from>w#w-UJA_AG_001_t_1-d1p1w47</from>
+            <to>a-UJA_AG_001_t_1-d1p1w47</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e46">
+            <from>w#w-UJA_AG_001_t_1-d1p1w48</from>
+            <to>a-UJA_AG_001_t_1-d1p1w48</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e47">
+            <from>w#w-UJA_AG_001_t_1-d1p1w49</from>
+            <to>a-UJA_AG_001_t_1-d1p1w49</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e48">
+            <from>w#w-UJA_AG_001_t_1-d1p1w50</from>
+            <to>a-UJA_AG_001_t_1-d1p1w50</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e49">
+            <from>w#w-UJA_AG_001_t_1-d1p1w51</from>
+            <to>a-UJA_AG_001_t_1-d1p1w51</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e50">
+            <from>w#w-UJA_AG_001_t_1-d1p1w52</from>
+            <to>a-UJA_AG_001_t_1-d1p1w52</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e51">
+            <from>w#w-UJA_AG_001_t_1-d1p1w53</from>
+            <to>a-UJA_AG_001_t_1-d1p1w53</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e52">
+            <from>w#w-UJA_AG_001_t_1-d1p1w54</from>
+            <to>a-UJA_AG_001_t_1-d1p1w54</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e53">
+            <from>w#w-UJA_AG_001_t_1-d1p1w55</from>
+            <to>a-UJA_AG_001_t_1-d1p1w55</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e54">
+            <from>w#w-UJA_AG_001_t_1-d1p1w56</from>
+            <to>a-UJA_AG_001_t_1-d1p1w56</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e55">
+            <from>w#w-UJA_AG_001_t_1-d1p1w57</from>
+            <to>a-UJA_AG_001_t_1-d1p1w57</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e56">
+            <from>w#w-UJA_AG_001_t_1-d1p1w58</from>
+            <to>a-UJA_AG_001_t_1-d1p1w58</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e57">
+            <from>w#w-UJA_AG_001_t_1-d1p1w59</from>
+            <to>a-UJA_AG_001_t_1-d1p1w59</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e58">
+            <from>w#w-UJA_AG_001_t_1-d1p1w60</from>
+            <to>a-UJA_AG_001_t_1-d1p1w60</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e59">
+            <from>w#w-UJA_AG_001_t_1-d1p1w61</from>
+            <to>a-UJA_AG_001_t_1-d1p1w61</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e60">
+            <from>w#w-UJA_AG_001_t_1-d1p1w62</from>
+            <to>a-UJA_AG_001_t_1-d1p1w62</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e61">
+            <from>w#w-UJA_AG_001_t_1-d1p1w63</from>
+            <to>a-UJA_AG_001_t_1-d1p1w63</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e62">
+            <from>w#w-UJA_AG_001_t_1-d1p1w64</from>
+            <to>a-UJA_AG_001_t_1-d1p1w64</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e63">
+            <from>w#w-UJA_AG_001_t_1-d1p1w65</from>
+            <to>a-UJA_AG_001_t_1-d1p1w65</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e64">
+            <from>w#w-UJA_AG_001_t_1-d1p1w66</from>
+            <to>a-UJA_AG_001_t_1-d1p1w66</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e65">
+            <from>w#w-UJA_AG_001_t_1-d1p1w67</from>
+            <to>a-UJA_AG_001_t_1-d1p1w67</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e66">
+            <from>w#w-UJA_AG_001_t_1-d1p1w68</from>
+            <to>a-UJA_AG_001_t_1-d1p1w68</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e67">
+            <from>w#w-UJA_AG_001_t_1-d1p1w69</from>
+            <to>a-UJA_AG_001_t_1-d1p1w69</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e68">
+            <from>w#w-UJA_AG_001_t_1-d1p1w70</from>
+            <to>a-UJA_AG_001_t_1-d1p1w70</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e69">
+            <from>w#w-UJA_AG_001_t_1-d1p1w71</from>
+            <to>a-UJA_AG_001_t_1-d1p1w71</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e70">
+            <from>w#w-UJA_AG_001_t_1-d1p1w72</from>
+            <to>a-UJA_AG_001_t_1-d1p1w72</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e71">
+            <from>w#w-UJA_AG_001_t_1-d1p1w73</from>
+            <to>a-UJA_AG_001_t_1-d1p1w73</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e72">
+            <from>w#w-UJA_AG_001_t_1-d1p1w74</from>
+            <to>a-UJA_AG_001_t_1-d1p1w74</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e73">
+            <from>w#w-UJA_AG_001_t_1-d1p1w75</from>
+            <to>a-UJA_AG_001_t_1-d1p1w75</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e74">
+            <from>w#w-UJA_AG_001_t_1-d1p1w76</from>
+            <to>a-UJA_AG_001_t_1-d1p1w76</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e75">
+            <from>w#w-UJA_AG_001_t_1-d1p1w77</from>
+            <to>a-UJA_AG_001_t_1-d1p1w77</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e76">
+            <from>w#w-UJA_AG_001_t_1-d1p1w78</from>
+            <to>a-UJA_AG_001_t_1-d1p1w78</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e77">
+            <from>w#w-UJA_AG_001_t_1-d1p1w79</from>
+            <to>a-UJA_AG_001_t_1-d1p1w79</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e78">
+            <from>w#w-UJA_AG_001_t_1-d1p1w80</from>
+            <to>a-UJA_AG_001_t_1-d1p1w80</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e79">
+            <from>w#w-UJA_AG_001_t_1-d1p1w81</from>
+            <to>a-UJA_AG_001_t_1-d1p1w81</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e80">
+            <from>w#w-UJA_AG_001_t_1-d1p1w82</from>
+            <to>a-UJA_AG_001_t_1-d1p1w82</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e81">
+            <from>w#w-UJA_AG_001_t_1-d1p1w83</from>
+            <to>a-UJA_AG_001_t_1-d1p1w83</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e82">
+            <from>w#w-UJA_AG_001_t_1-d1p1w84</from>
+            <to>a-UJA_AG_001_t_1-d1p1w84</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e83">
+            <from>w#w-UJA_AG_001_t_1-d1p1w85</from>
+            <to>a-UJA_AG_001_t_1-d1p1w85</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e84">
+            <from>w#w-UJA_AG_001_t_1-d1p1w86</from>
+            <to>a-UJA_AG_001_t_1-d1p1w86</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e85">
+            <from>w#w-UJA_AG_001_t_1-d1p1w87</from>
+            <to>a-UJA_AG_001_t_1-d1p1w87</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e86">
+            <from>w#w-UJA_AG_001_t_1-d1p1w88</from>
+            <to>a-UJA_AG_001_t_1-d1p1w88</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e87">
+            <from>w#w-UJA_AG_001_t_1-d1p1w89</from>
+            <to>a-UJA_AG_001_t_1-d1p1w89</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e88">
+            <from>w#w-UJA_AG_001_t_1-d1p1w90</from>
+            <to>a-UJA_AG_001_t_1-d1p1w90</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e89">
+            <from>w#w-UJA_AG_001_t_1-d1p1w91</from>
+            <to>a-UJA_AG_001_t_1-d1p1w91</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e90">
+            <from>w#w-UJA_AG_001_t_1-d1p1w92</from>
+            <to>a-UJA_AG_001_t_1-d1p1w92</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e91">
+            <from>w#w-UJA_AG_001_t_1-d1p1w93</from>
+            <to>a-UJA_AG_001_t_1-d1p1w93</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e92">
+            <from>w#w-UJA_AG_001_t_1-d1p1w94</from>
+            <to>a-UJA_AG_001_t_1-d1p1w94</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e93">
+            <from>w#w-UJA_AG_001_t_1-d1p1w95</from>
+            <to>a-UJA_AG_001_t_1-d1p1w95</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e94">
+            <from>w#w-UJA_AG_001_t_1-d1p1w96</from>
+            <to>a-UJA_AG_001_t_1-d1p1w96</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e95">
+            <from>w#w-UJA_AG_001_t_1-d1p1w97</from>
+            <to>a-UJA_AG_001_t_1-d1p1w97</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e96">
+            <from>w#w-UJA_AG_001_t_1-d1p1w98</from>
+            <to>a-UJA_AG_001_t_1-d1p1w98</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e97">
+            <from>w#w-UJA_AG_001_t_1-d1p1w99</from>
+            <to>a-UJA_AG_001_t_1-d1p1w99</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e98">
+            <from>w#w-UJA_AG_001_t_1-d1p1w100</from>
+            <to>a-UJA_AG_001_t_1-d1p1w100</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e99">
+            <from>w#w-UJA_AG_001_t_1-d1p1w101</from>
+            <to>a-UJA_AG_001_t_1-d1p1w101</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e100">
+            <from>w#w-UJA_AG_001_t_1-d1p1w102</from>
+            <to>a-UJA_AG_001_t_1-d1p1w102</to>
+         </edge>
+         <edge id="a-UJA_AG_001_t_1-d1p1e101">
+            <from>w#w-UJA_AG_001_t_1-d1p1w103</from>
+            <to>a-UJA_AG_001_t_1-d1p1w103</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

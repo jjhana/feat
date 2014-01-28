@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldata xmlns="http://utkl.cuni.cz/czesl/">
+  <head>
+    <schema href="ldata_schema.xml" />
+    <references>
+      <reffile id="a" name="adata" href="zkusebni_text.now.a.xml" />
+    </references>
+  </head>
+  <doc id="w-zkusebni_text-d1" lowerdoc.rf="a#w-zkusebni_text-d1">
+    <para id="b-zkusebni_text-d1p1" lowerpara.rf="a#a-zkusebni_text-d1p1">
+      <s id="a-zkusebni_text-d1p1s1">
+        <w id="b-zkusebni_text-d1p1w1">
+          <token>test</token>
+        </w>
+        <w id="b-zkusebni_text-d1p1w2">
+          <token>zkušebního</token>
+        </w>
+      </s>
+      <edge id="zkusebni_text.now.b-e0">
+        <from>a#a-zkusebni_text-d1p1w1</from>
+        <to>b-zkusebni_text-d1p1w1</to>
+      </edge>
+      <edge id="zkusebni_text.now.b-e1">
+        <from>a#a-zkusebni_text-d1p1w2</from>
+        <to>b-zkusebni_text-d1p1w2</to>
+      </edge>
+    </para>
+    <para id="b-zkusebni_text-d1p2" lowerpara.rf="a#a-zkusebni_text-d1p2" />
+    <para id="b-zkusebni_text-d1p3" lowerpara.rf="a#a-zkusebni_text-d1p3" />
+    <para id="b-zkusebni_text-d1p4" lowerpara.rf="a#a-zkusebni_text-d1p4" />
+    <para id="b-zkusebni_text-d1p5" lowerpara.rf="a#a-zkusebni_text-d1p5" />
+    <para id="b-zkusebni_text-d1p6" lowerpara.rf="a#a-zkusebni_text-d1p6" />
+    <para id="b-zkusebni_text-d1p7" lowerpara.rf="a#a-zkusebni_text-d1p7" />
+    <para id="b-zkusebni_text-d1p8" lowerpara.rf="a#a-zkusebni_text-d1p8" />
+    <para id="b-zkusebni_text-d1p9" lowerpara.rf="a#a-zkusebni_text-d1p9" />
+    <para id="b-zkusebni_text-d1p10" lowerpara.rf="a#a-zkusebni_text-d1p10" />
+    <para id="b-zkusebni_text-d1p11" lowerpara.rf="a#a-zkusebni_text-d1p11" />
+    <para id="b-zkusebni_text-d1p12" lowerpara.rf="a#a-zkusebni_text-d1p12" />
+  </doc>
+</ldata>
+

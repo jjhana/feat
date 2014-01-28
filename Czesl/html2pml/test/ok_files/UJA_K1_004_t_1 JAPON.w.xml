@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="UJA_K1_004_t_1 JAPON.html"/>
+         <reffile id="i" href="UJA_K1_004_t_1 JAPON.jpg"/>
+      </references>
+   </head>
+   <doc id="w-UJA_K1_004_t_1 JAPON-d1">
+      <para id="w-UJA_K1_004_t_1 JAPON-d1p1">
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w1">
+            <token>Mám</token>
+            <original_position from="5" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w2">
+            <token>dvě</token>
+            <original_position from="9" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w3">
+            <token>maminky</token>
+            <original_position from="13" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w4">
+            <token>.</token>
+            <original_position from="20" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w5">
+            <token>Jedna</token>
+            <original_position from="23" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w6">
+            <token>je</token>
+            <original_position from="29" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w7">
+            <token>moje</token>
+            <original_position from="32" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w8">
+            <token>vlastná</token>
+            <original_position from="37" len="7"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w9">
+            <token>maminka</token>
+            <original_position from="45" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w10">
+            <token>,</token>
+            <original_position from="52" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w11">
+            <token>ktera</token>
+            <original_position from="54" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w12">
+            <token>mě</token>
+            <original_position from="60" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w13">
+            <token>rodila</token>
+            <original_position from="63" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w14">
+            <token>v</token>
+            <original_position from="70" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w15">
+            <token>Japonsku</token>
+            <original_position from="72" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w16">
+            <token>.</token>
+            <original_position from="80" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w17">
+            <token>Jedna</token>
+            <original_position from="83" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w18">
+            <token>je</token>
+            <original_position from="89" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w19">
+            <token>moje</token>
+            <original_position from="92" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w20">
+            <token>česká</token>
+            <original_position from="97" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w21">
+            <token>maminka</token>
+            <original_position from="103" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w22">
+            <token>.</token>
+            <original_position from="110" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w23">
+            <token>Jmenuje</token>
+            <original_position from="113" len="7"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w24">
+            <token>se</token>
+            <original_position from="121" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w25">
+            <token>Eva</token>
+            <original_position from="124" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w26">
+            <token>.</token>
+            <original_position from="127" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w27">
+            <token>Je</token>
+            <original_position from="130" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w28">
+            <token>jí</token>
+            <original_position from="133" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w29">
+            <token>40</token>
+            <original_position from="136" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w30">
+            <token>let</token>
+            <original_position from="139" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w31">
+            <token>.</token>
+            <original_position from="142" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w32">
+            <token>Je</token>
+            <original_position from="145" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w33">
+            <token>moc</token>
+            <original_position from="148" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w34">
+            <token>mladá</token>
+            <original_position from="152" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w35">
+            <token>,</token>
+            <original_position from="157" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w36">
+            <token>ale</token>
+            <original_position from="159" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w37">
+            <token>má</token>
+            <original_position from="163" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w38">
+            <token>tři</token>
+            <original_position from="166" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w39">
+            <token>děti</token>
+            <original_position from="170" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w40">
+            <token>.</token>
+            <original_position from="174" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w41">
+            <token>Jejím</token>
+            <original_position from="177" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w42">
+            <token>prvním</token>
+            <original_position from="183" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w43">
+            <token>ditěti</token>
+            <original_position from="190" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w44">
+            <token>Tereze</token>
+            <original_position from="197" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w45">
+            <token>je</token>
+            <original_position from="204" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w46">
+            <token>už</token>
+            <original_position from="207" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w47">
+            <token>19</token>
+            <original_position from="210" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w48">
+            <token>let</token>
+            <original_position from="213" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w49">
+            <token>.</token>
+            <original_position from="216" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w50">
+            <token>Eva</token>
+            <original_position from="219" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w51">
+            <token>ji</token>
+            <original_position from="224" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w52">
+            <token>polodila</token>
+            <original_position from="232" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w53">
+            <token>,</token>
+            <original_position from="240" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w54">
+            <token>když</token>
+            <original_position from="242" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w55">
+            <token>je</token>
+            <original_position from="247" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w56">
+            <token>ji</token>
+            <original_position from="250" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w57">
+            <token>20</token>
+            <original_position from="253" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w58">
+            <token>let</token>
+            <original_position from="256" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w59">
+            <token>.</token>
+            <original_position from="259" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w60">
+            <token>Proto</token>
+            <original_position from="262" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w61">
+            <token>nevystudovala</token>
+            <original_position from="268" len="13"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w62">
+            <token>na</token>
+            <original_position from="282" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w63">
+            <token>univerzízu</token>
+            <original_position from="285" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w64">
+            <token>.</token>
+            <original_position from="295" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w65">
+            <token>Ale</token>
+            <original_position from="298" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w66">
+            <token>je</token>
+            <original_position from="302" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w67">
+            <token>moc</token>
+            <original_position from="305" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w68">
+            <token>inteligentná</token>
+            <original_position from="309" len="12"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w69">
+            <token>žena</token>
+            <original_position from="322" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w70">
+            <token>.</token>
+            <original_position from="326" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w71">
+            <token>Miluje</token>
+            <original_position from="329" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w72">
+            <token>svoji</token>
+            <original_position from="336" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w73">
+            <token>rodínu</token>
+            <original_position from="342" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w74">
+            <token>,</token>
+            <original_position from="348" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w75">
+            <token>vaří</token>
+            <original_position from="350" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w76">
+            <token>české</token>
+            <original_position from="355" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w77">
+            <token>jídlo</token>
+            <original_position from="361" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w78">
+            <token>ani</token>
+            <original_position from="367" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w79">
+            <token>tradiční</token>
+            <original_position from="371" len="8"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w80">
+            <token>ani</token>
+            <original_position from="380" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w81">
+            <token>moderní</token>
+            <original_position from="384" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w82">
+            <token>.</token>
+            <original_position from="391" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w83">
+            <token>Stálá</token>
+            <original_position from="394" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w84">
+            <token>se</token>
+            <original_position from="400" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w85">
+            <token>o</token>
+            <original_position from="403" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w86">
+            <token>dědečky</token>
+            <original_position from="405" len="7"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w87">
+            <token>a</token>
+            <original_position from="413" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w88">
+            <token>babičky</token>
+            <original_position from="415" len="7"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w89">
+            <token>a</token>
+            <original_position from="423" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w90">
+            <token>psy</token>
+            <original_position from="425" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w91">
+            <token>a</token>
+            <original_position from="429" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w92">
+            <token>kočky</token>
+            <original_position from="431" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w93">
+            <token>.</token>
+            <original_position from="436" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w94">
+            <token>Pracuje</token>
+            <original_position from="439" len="7"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w95">
+            <token>na</token>
+            <original_position from="447" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w96">
+            <token>kempu</token>
+            <original_position from="450" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w97">
+            <token>v</token>
+            <original_position from="456" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w98">
+            <token>naší</token>
+            <original_position from="458" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w99">
+            <token>vesnici</token>
+            <original_position from="463" len="7"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w100">
+            <token>jako</token>
+            <original_position from="471" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w101">
+            <token>kuchářkou</token>
+            <original_position from="476" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w102">
+            <token>.</token>
+            <original_position from="485" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w103">
+            <token>Vaří</token>
+            <original_position from="488" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w104">
+            <token>moc</token>
+            <original_position from="493" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w105">
+            <token>dobře</token>
+            <original_position from="497" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w106">
+            <token>.</token>
+            <original_position from="502" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w107">
+            <token>Každý</token>
+            <original_position from="505" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w108">
+            <token>víkend</token>
+            <original_position from="511" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w109">
+            <token>lidé</token>
+            <original_position from="518" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w110">
+            <token>sejdou</token>
+            <original_position from="523" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w111">
+            <token>na</token>
+            <original_position from="530" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w112">
+            <token>kemp</token>
+            <original_position from="533" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w113">
+            <token>,</token>
+            <original_position from="537" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w114">
+            <token>aby</token>
+            <original_position from="539" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w115">
+            <token>jedli</token>
+            <original_position from="543" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w116">
+            <token>její</token>
+            <original_position from="549" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w117">
+            <token>jídla</token>
+            <original_position from="554" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w118">
+            <token>.</token>
+            <original_position from="559" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w119">
+            <token>Baví</token>
+            <original_position from="562" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w120">
+            <token>se</token>
+            <original_position from="567" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w121">
+            <token>o</token>
+            <original_position from="570" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w122">
+            <token>všem</token>
+            <original_position from="572" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w123">
+            <token>v</token>
+            <original_position from="577" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w124">
+            <token>naší</token>
+            <original_position from="579" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w125">
+            <token>vesnici</token>
+            <original_position from="584" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w126">
+            <token>.</token>
+            <original_position from="591" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w127">
+            <token>A</token>
+            <original_position from="594" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w128">
+            <token>proto</token>
+            <original_position from="596" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w129">
+            <token>ona</token>
+            <original_position from="602" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w130">
+            <token>urcítě</token>
+            <original_position from="606" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w131">
+            <token>zná</token>
+            <original_position from="613" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w132">
+            <token>novinky</token>
+            <original_position from="617" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w133">
+            <token>.</token>
+            <original_position from="624" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w134">
+            <token>Překuvapilo</token>
+            <original_position from="627" len="11"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w135">
+            <token>mě</token>
+            <original_position from="639" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w136">
+            <token>to</token>
+            <original_position from="642" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w137">
+            <token>.</token>
+            <original_position from="644" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w138">
+            <token>Ale</token>
+            <original_position from="647" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w139">
+            <token>už</token>
+            <original_position from="651" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w140">
+            <token>jsem</token>
+            <original_position from="654" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w141">
+            <token>byla</token>
+            <original_position from="659" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w142">
+            <token>zvyklá</token>
+            <original_position from="664" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w143">
+            <token>na</token>
+            <original_position from="671" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w144">
+            <token>to</token>
+            <original_position from="674" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p1w145">
+            <token>.</token>
+            <original_position from="676" len="1"/>
+         </w>
+      </para>
+      <para id="w-UJA_K1_004_t_1 JAPON-d1p2">
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w1">
+            <token>Ona</token>
+            <original_position from="680" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w2">
+            <token>mi</token>
+            <original_position from="684" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w3">
+            <token>říká</token>
+            <original_position from="687" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w4">
+            <token>„</token>
+            <original_position from="693" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w5">
+            <token>Jsi</token>
+            <original_position from="694" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w6">
+            <token>moje</token>
+            <original_position from="698" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w7">
+            <token>dcera</token>
+            <original_position from="703" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w8">
+            <token>.</token>
+            <original_position from="708" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w9">
+            <token>Chci</token>
+            <original_position from="711" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w10">
+            <token>ti</token>
+            <original_position from="716" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w11">
+            <token>zůstat</token>
+            <original_position from="719" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w12">
+            <token>v</token>
+            <original_position from="726" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w13">
+            <token>České</token>
+            <original_position from="728" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w14">
+            <token>repubulice</token>
+            <original_position from="734" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w15">
+            <token>“</token>
+            <original_position from="744" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w16">
+            <token>.</token>
+            <original_position from="745" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w17">
+            <token>Mám</token>
+            <original_position from="748" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w18">
+            <token>moc</token>
+            <original_position from="752" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w19">
+            <token>radosti</token>
+            <original_position from="756" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w20">
+            <token>.</token>
+            <original_position from="763" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w21">
+            <token>Ona</token>
+            <original_position from="766" len="3"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w22">
+            <token>je</token>
+            <original_position from="770" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w23">
+            <token>ideální</token>
+            <original_position from="773" len="7"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w24">
+            <token>česká</token>
+            <original_position from="781" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w25">
+            <token>žena</token>
+            <original_position from="787" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w26">
+            <token>.</token>
+            <original_position from="791" len="1"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w27">
+            <token>Chtěla</token>
+            <original_position from="794" len="6"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w28">
+            <token>bych</token>
+            <original_position from="801" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w29">
+            <token>se</token>
+            <original_position from="806" len="2"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w30">
+            <token>stat</token>
+            <original_position from="809" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w31">
+            <token>hodne</token>
+            <original_position from="814" len="5"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w32">
+            <token>maminkou</token>
+            <original_position from="820" len="8"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w33">
+            <token>jako</token>
+            <original_position from="829" len="4"/>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w34">
+            <token>Eva</token>
+            <original_position from="834" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UJA_K1_004_t_1 JAPON-d1p2w35">
+            <token>.</token>
+            <original_position from="837" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <insert id="w-UJA_K1_004_t_1 JAPON-cor-in1">
+            <token>w-UJA_K1_004_t_1 JAPON-d1p1w51</token>
+         </insert>
+      </corrections>
+   </doc>
+</wdata>

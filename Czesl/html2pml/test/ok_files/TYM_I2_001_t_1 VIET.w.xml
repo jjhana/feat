@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="TYM_I2_001_t_1 VIET.html"/>
+         <reffile id="i" href="TYM_I2_001_t_1 VIET.jpg"/>
+      </references>
+   </head>
+   <doc id="w-TYM_I2_001_t_1 VIET-d1">
+      <para id="w-TYM_I2_001_t_1 VIET-d1p1">
+         <w id="w-TYM_I2_001_t_1 VIET-d1p1w1">
+            <token>Můj</token>
+            <original_position from="5" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p1w2">
+            <token>život</token>
+            <original_position from="9" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p1w3">
+            <token>a</token>
+            <original_position from="15" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p1w4">
+            <token>studium</token>
+            <original_position from="17" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p1w5">
+            <token>v</token>
+            <original_position from="26" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p1w6">
+            <token>České</token>
+            <original_position from="28" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p1w7">
+            <token>republice</token>
+            <original_position from="34" len="9"/>
+         </w>
+      </para>
+      <para id="w-TYM_I2_001_t_1 VIET-d1p2">
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w1">
+            <token>Jmenuji</token>
+            <original_position from="51" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w2">
+            <token>se</token>
+            <original_position from="59" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w3">
+            <token>EVA</token>
+            <original_position from="62" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w4">
+            <token>.</token>
+            <original_position from="65" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w5">
+            <token>Jsem</token>
+            <original_position from="68" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w6">
+            <token>z</token>
+            <original_position from="73" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w7">
+            <token>vietnamu</token>
+            <original_position from="75" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w8">
+            <token>.</token>
+            <original_position from="83" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w9">
+            <token>Žiju</token>
+            <original_position from="86" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w10">
+            <token>tady</token>
+            <original_position from="91" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w11">
+            <token>v</token>
+            <original_position from="96" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w12">
+            <token>České</token>
+            <original_position from="98" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w13">
+            <token>republice</token>
+            <original_position from="104" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w14">
+            <token>už</token>
+            <original_position from="114" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w15">
+            <token>skoro</token>
+            <original_position from="117" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w16">
+            <token>8</token>
+            <original_position from="123" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w17">
+            <token>roky</token>
+            <original_position from="125" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w18">
+            <token>Než</token>
+            <original_position from="134" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w19">
+            <token>jsem</token>
+            <original_position from="138" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w20">
+            <token>přiletela</token>
+            <original_position from="143" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w21">
+            <token>do</token>
+            <original_position from="153" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w22">
+            <token>Česka</token>
+            <original_position from="156" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w23">
+            <token>,</token>
+            <original_position from="161" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w24">
+            <token>měla</token>
+            <original_position from="163" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w25">
+            <token>jsem</token>
+            <original_position from="168" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w26">
+            <token>růžné</token>
+            <original_position from="173" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w27">
+            <token>myslenky</token>
+            <original_position from="179" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w28">
+            <token>o</token>
+            <original_position from="188" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w29">
+            <token>této</token>
+            <original_position from="190" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w30">
+            <token>zemi</token>
+            <original_position from="195" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w31">
+            <token>.</token>
+            <original_position from="199" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w32">
+            <token>Dívala</token>
+            <original_position from="202" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w33">
+            <token>jsem</token>
+            <original_position from="209" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w34">
+            <token>na</token>
+            <original_position from="214" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w35">
+            <token>hodně</token>
+            <original_position from="217" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w36">
+            <token>americké</token>
+            <original_position from="223" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w37">
+            <token>i</token>
+            <original_position from="232" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w38">
+            <token>anglické</token>
+            <original_position from="234" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w39">
+            <token>filmy</token>
+            <original_position from="243" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w40">
+            <token>.</token>
+            <original_position from="248" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w41">
+            <token>Myslela</token>
+            <original_position from="251" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w42">
+            <token>jsem</token>
+            <original_position from="259" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w43">
+            <token>si</token>
+            <original_position from="264" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w44">
+            <token>,</token>
+            <original_position from="266" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w45">
+            <token>že</token>
+            <original_position from="268" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w46">
+            <token>v</token>
+            <original_position from="271" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w47">
+            <token>české</token>
+            <original_position from="273" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w48">
+            <token>republice</token>
+            <original_position from="279" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w49">
+            <token>je</token>
+            <original_position from="289" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w50">
+            <token>také</token>
+            <original_position from="292" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w51">
+            <token>hodně</token>
+            <original_position from="297" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w52">
+            <token>moderní</token>
+            <original_position from="303" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w53">
+            <token>budovy</token>
+            <original_position from="311" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w54">
+            <token>a</token>
+            <original_position from="318" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w55">
+            <token>mrakodrapy</token>
+            <original_position from="320" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w56">
+            <token>.</token>
+            <original_position from="330" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w57">
+            <token>Ale</token>
+            <original_position from="333" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w58">
+            <token>když</token>
+            <original_position from="337" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w59">
+            <token>jsem</token>
+            <original_position from="342" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w60">
+            <token>přiletela</token>
+            <original_position from="347" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w61">
+            <token>sem</token>
+            <original_position from="357" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w62">
+            <token>,</token>
+            <original_position from="360" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w63">
+            <token>věděla</token>
+            <original_position from="362" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w64">
+            <token>jsem</token>
+            <original_position from="369" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w65">
+            <token>,</token>
+            <original_position from="373" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w66">
+            <token>že</token>
+            <original_position from="375" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w67">
+            <token>česká</token>
+            <original_position from="378" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w68">
+            <token>republika</token>
+            <original_position from="384" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w69">
+            <token>je</token>
+            <original_position from="394" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w70">
+            <token>antická</token>
+            <original_position from="397" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w71">
+            <token>země</token>
+            <original_position from="405" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w72">
+            <token>se</token>
+            <original_position from="410" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w73">
+            <token>Starobylými</token>
+            <original_position from="413" len="11"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w74">
+            <token>zámky</token>
+            <original_position from="425" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w75">
+            <token>a</token>
+            <original_position from="431" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w76">
+            <token>hrady</token>
+            <original_position from="433" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w77">
+            <token>jako</token>
+            <original_position from="439" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w78">
+            <token>v</token>
+            <original_position from="444" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w79">
+            <token>filmu</token>
+            <original_position from="446" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w80">
+            <token>historického</token>
+            <original_position from="452" len="12"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w81">
+            <token>žánru</token>
+            <original_position from="465" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w82">
+            <token>.</token>
+            <original_position from="470" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w83">
+            <token>Pak</token>
+            <original_position from="473" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w84">
+            <token>jsem</token>
+            <original_position from="477" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w85">
+            <token>také</token>
+            <original_position from="482" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w86">
+            <token>věděla</token>
+            <original_position from="487" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w87">
+            <token>,</token>
+            <original_position from="493" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w88">
+            <token>že</token>
+            <original_position from="495" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w89">
+            <token>je</token>
+            <original_position from="498" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w90">
+            <token>různé</token>
+            <original_position from="501" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w91">
+            <token>mezi</token>
+            <original_position from="507" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w92">
+            <token>českou</token>
+            <original_position from="512" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w93">
+            <token>a</token>
+            <original_position from="519" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w94">
+            <token>vietnamskou</token>
+            <original_position from="521" len="11"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w95">
+            <token>kulturou</token>
+            <original_position from="533" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w96">
+            <token>,</token>
+            <original_position from="541" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w97">
+            <token>jídlem</token>
+            <original_position from="543" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w98">
+            <token>i</token>
+            <original_position from="550" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w99">
+            <token>počasím</token>
+            <original_position from="552" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w100">
+            <token>.</token>
+            <original_position from="559" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w101">
+            <token>Netrvalo</token>
+            <original_position from="562" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w102">
+            <token>mi</token>
+            <original_position from="571" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w103">
+            <token>to</token>
+            <original_position from="574" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w104">
+            <token>dlouho</token>
+            <original_position from="577" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w105">
+            <token>,</token>
+            <original_position from="583" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w106">
+            <token>abych</token>
+            <original_position from="585" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w107">
+            <token>si</token>
+            <original_position from="591" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w108">
+            <token>mohla</token>
+            <original_position from="594" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w109">
+            <token>zvyknout</token>
+            <original_position from="600" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w110">
+            <token>na</token>
+            <original_position from="609" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w111">
+            <token>zdejší</token>
+            <original_position from="612" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w112">
+            <token>život</token>
+            <original_position from="619" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w113">
+            <token>.</token>
+            <original_position from="624" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w114">
+            <token>České</token>
+            <original_position from="627" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w115">
+            <token>jídlo</token>
+            <original_position from="633" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w116">
+            <token>je</token>
+            <original_position from="639" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w117">
+            <token>slané</token>
+            <original_position from="642" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w118">
+            <token>a</token>
+            <original_position from="648" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w119">
+            <token>tučné</token>
+            <original_position from="650" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w120">
+            <token>.</token>
+            <original_position from="655" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w121">
+            <token>Mně</token>
+            <original_position from="658" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w122">
+            <token>moc</token>
+            <original_position from="662" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w123">
+            <token>nechutná</token>
+            <original_position from="666" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w124">
+            <token>.</token>
+            <original_position from="674" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w125">
+            <token>Ale</token>
+            <original_position from="677" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w126">
+            <token>se</token>
+            <original_position from="681" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w127">
+            <token>zajímám</token>
+            <original_position from="684" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w128">
+            <token>o</token>
+            <original_position from="692" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w129">
+            <token>„</token>
+            <original_position from="694" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w130">
+            <token>smažený</token>
+            <original_position from="695" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w131">
+            <token>sýr</token>
+            <original_position from="703" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w132">
+            <token>“</token>
+            <original_position from="706" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w133">
+            <token>.</token>
+            <original_position from="707" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w134">
+            <token>Nikdy</token>
+            <original_position from="710" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w135">
+            <token>přetím</token>
+            <original_position from="716" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w136">
+            <token>jsem</token>
+            <original_position from="723" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w137">
+            <token>vůbec</token>
+            <original_position from="728" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w138">
+            <token>neslysela</token>
+            <original_position from="734" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w139">
+            <token>o</token>
+            <original_position from="744" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w140">
+            <token>tomto</token>
+            <original_position from="746" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w141">
+            <token>jídle</token>
+            <original_position from="752" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w142">
+            <token>.</token>
+            <original_position from="757" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w143">
+            <token>Občas</token>
+            <original_position from="760" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w144">
+            <token>vařím</token>
+            <original_position from="766" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w145">
+            <token>vietnamské</token>
+            <original_position from="772" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w146">
+            <token>jídlo</token>
+            <original_position from="783" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w147">
+            <token>.</token>
+            <original_position from="788" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w148">
+            <token>Je</token>
+            <original_position from="791" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w149">
+            <token>mi</token>
+            <original_position from="794" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w150">
+            <token>chutnější</token>
+            <original_position from="797" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w151">
+            <token>Přijela</token>
+            <original_position from="811" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w152">
+            <token>jsem</token>
+            <original_position from="819" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w153">
+            <token>do</token>
+            <original_position from="824" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w154">
+            <token>Plzně</token>
+            <original_position from="827" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w155">
+            <token>v</token>
+            <original_position from="833" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w156">
+            <token>zimě</token>
+            <original_position from="835" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w157">
+            <token>.</token>
+            <original_position from="839" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w158">
+            <token>Bylo</token>
+            <original_position from="842" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w159">
+            <token>velmi</token>
+            <original_position from="847" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w160">
+            <token>zima</token>
+            <original_position from="853" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w161">
+            <token>a</token>
+            <original_position from="858" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w162">
+            <token>padálo</token>
+            <original_position from="860" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w163">
+            <token>sníh</token>
+            <original_position from="867" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w164">
+            <token>.</token>
+            <original_position from="871" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w165">
+            <token>Byla</token>
+            <original_position from="874" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w166">
+            <token>jsem</token>
+            <original_position from="879" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w167">
+            <token>občas</token>
+            <original_position from="884" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w168">
+            <token>nemocná</token>
+            <original_position from="890" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w169">
+            <token>.</token>
+            <original_position from="897" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w170">
+            <token>Ted</token>
+            <original_position from="900" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w171">
+            <token>už</token>
+            <original_position from="904" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w172">
+            <token>si</token>
+            <original_position from="907" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w173">
+            <token>zvyknu</token>
+            <original_position from="910" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w174">
+            <token>na</token>
+            <original_position from="917" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w175">
+            <token>české</token>
+            <original_position from="920" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w176">
+            <token>počasí</token>
+            <original_position from="926" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w177">
+            <token>,</token>
+            <original_position from="932" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w178">
+            <token>ale</token>
+            <original_position from="934" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w179">
+            <token>nemám</token>
+            <original_position from="938" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w180">
+            <token>ráda</token>
+            <original_position from="944" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w181">
+            <token>zimu</token>
+            <original_position from="949" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w182">
+            <token>.</token>
+            <original_position from="953" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w183">
+            <token>Bydlím</token>
+            <original_position from="956" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w184">
+            <token>na</token>
+            <original_position from="963" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w185">
+            <token>koleji</token>
+            <original_position from="966" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w186">
+            <token>.</token>
+            <original_position from="972" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w187">
+            <token>Tady</token>
+            <original_position from="975" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w188">
+            <token>mám</token>
+            <original_position from="980" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w189">
+            <token>také</token>
+            <original_position from="984" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w190">
+            <token>několik</token>
+            <original_position from="989" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w191">
+            <token>vietnamské</token>
+            <original_position from="997" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w192">
+            <token>i</token>
+            <original_position from="1008" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w193">
+            <token>české</token>
+            <original_position from="1010" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w194">
+            <token>kamarády</token>
+            <original_position from="1016" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w195">
+            <token>.</token>
+            <original_position from="1024" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w196">
+            <token>Moje</token>
+            <original_position from="1027" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w197">
+            <token>spolubydlící</token>
+            <original_position from="1032" len="12"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w198">
+            <token>je</token>
+            <original_position from="1045" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w199">
+            <token>hodná</token>
+            <original_position from="1048" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w200">
+            <token>česka</token>
+            <original_position from="1054" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w201">
+            <token>.</token>
+            <original_position from="1059" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w202">
+            <token>Studuje</token>
+            <original_position from="1062" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w203">
+            <token>na</token>
+            <original_position from="1070" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w204">
+            <token>ekonomické</token>
+            <original_position from="1073" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w205">
+            <token>a</token>
+            <original_position from="1084" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w206">
+            <token>pravnické</token>
+            <original_position from="1086" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w207">
+            <token>fakultě</token>
+            <original_position from="1096" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w208">
+            <token>.</token>
+            <original_position from="1103" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w209">
+            <token>Můj</token>
+            <original_position from="1106" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w210">
+            <token>otec</token>
+            <original_position from="1110" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w211">
+            <token>také</token>
+            <original_position from="1115" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w212">
+            <token>bydlí</token>
+            <original_position from="1120" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w213">
+            <token>v</token>
+            <original_position from="1126" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w214">
+            <token>české</token>
+            <original_position from="1128" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w215">
+            <token>republice</token>
+            <original_position from="1134" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w216">
+            <token>.</token>
+            <original_position from="1143" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w217">
+            <token>On</token>
+            <original_position from="1145" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w218">
+            <token>chtěl</token>
+            <original_position from="1148" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w219">
+            <token>,</token>
+            <original_position from="1153" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w220">
+            <token>abych</token>
+            <original_position from="1155" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w221">
+            <token>byla</token>
+            <original_position from="1161" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w222">
+            <token>tady</token>
+            <original_position from="1166" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w223">
+            <token>a</token>
+            <original_position from="1171" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w224">
+            <token>studovala</token>
+            <original_position from="1173" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w225">
+            <token>na</token>
+            <original_position from="1183" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w226">
+            <token>české</token>
+            <original_position from="1186" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w227">
+            <token>univerzitě</token>
+            <original_position from="1192" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w228">
+            <token>.</token>
+            <original_position from="1202" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w229">
+            <token>Myslela</token>
+            <original_position from="1205" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w230">
+            <token>jsem</token>
+            <original_position from="1213" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w231">
+            <token>se</token>
+            <original_position from="1218" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w232">
+            <token>,</token>
+            <original_position from="1220" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w233">
+            <token>že</token>
+            <original_position from="1222" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w234">
+            <token>vzdělání</token>
+            <original_position from="1225" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w235">
+            <token>v</token>
+            <original_position from="1234" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w236">
+            <token>EU</token>
+            <original_position from="1236" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w237">
+            <token>je</token>
+            <original_position from="1239" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w238">
+            <token>lepší</token>
+            <original_position from="1242" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w239">
+            <token>než</token>
+            <original_position from="1248" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w240">
+            <token>ve</token>
+            <original_position from="1252" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w241">
+            <token>Vietnamu</token>
+            <original_position from="1255" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w242">
+            <token>A</token>
+            <original_position from="1268" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w243">
+            <token>proto</token>
+            <original_position from="1270" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w244">
+            <token>jsem</token>
+            <original_position from="1276" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w245">
+            <token>rychle</token>
+            <original_position from="1281" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w246">
+            <token>rozhodla</token>
+            <original_position from="1288" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w247">
+            <token>,</token>
+            <original_position from="1296" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w248">
+            <token>že</token>
+            <original_position from="1298" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w249">
+            <token>budu</token>
+            <original_position from="1301" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w250">
+            <token>studovat</token>
+            <original_position from="1306" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w251">
+            <token>tady</token>
+            <original_position from="1315" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w252">
+            <token>ačkoli</token>
+            <original_position from="1320" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w253">
+            <token>jsem</token>
+            <original_position from="1327" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w254">
+            <token>dostala</token>
+            <original_position from="1332" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w255">
+            <token>rozhodnutí</token>
+            <original_position from="1340" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w256">
+            <token>o</token>
+            <original_position from="1351" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w257">
+            <token>mém</token>
+            <original_position from="1353" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w258">
+            <token>přijetí</token>
+            <original_position from="1357" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w259">
+            <token>ke</token>
+            <original_position from="1365" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w260">
+            <token>studium</token>
+            <original_position from="1368" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w261">
+            <token>na</token>
+            <original_position from="1376" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w262">
+            <token>jedné</token>
+            <original_position from="1379" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w263">
+            <token>slavné</token>
+            <original_position from="1385" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w264">
+            <token>univerzitě</token>
+            <original_position from="1392" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w265">
+            <token>v</token>
+            <original_position from="1403" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w266">
+            <token>Hanoje</token>
+            <original_position from="1405" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w267">
+            <token>v</token>
+            <original_position from="1412" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w268">
+            <token>vietnamu</token>
+            <original_position from="1414" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w269">
+            <token>.</token>
+            <original_position from="1422" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w270">
+            <token>Teď</token>
+            <original_position from="1425" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w271">
+            <token>Studuju</token>
+            <original_position from="1434" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w272">
+            <token>podnikovou</token>
+            <original_position from="1442" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w273">
+            <token>ekonomiku</token>
+            <original_position from="1453" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w274">
+            <token>a</token>
+            <original_position from="1463" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w275">
+            <token>management</token>
+            <original_position from="1465" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w276">
+            <token>na</token>
+            <original_position from="1476" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w277">
+            <token>ekonomické</token>
+            <original_position from="1479" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w278">
+            <token>fakultě</token>
+            <original_position from="1490" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w279">
+            <token>v</token>
+            <original_position from="1498" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w280">
+            <token>Plzni</token>
+            <original_position from="1500" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w281">
+            <token>Když</token>
+            <original_position from="1510" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w282">
+            <token>jsem</token>
+            <original_position from="1515" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w283">
+            <token>poprvé</token>
+            <original_position from="1520" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w284">
+            <token>přijela</token>
+            <original_position from="1527" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w285">
+            <token>sem</token>
+            <original_position from="1535" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w286">
+            <token>,</token>
+            <original_position from="1538" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w287">
+            <token>učila</token>
+            <original_position from="1540" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w288">
+            <token>jsem</token>
+            <original_position from="1546" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w289">
+            <token>se</token>
+            <original_position from="1551" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w290">
+            <token>češtinu</token>
+            <original_position from="1554" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w291">
+            <token>pro</token>
+            <original_position from="1562" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w292">
+            <token>cizince</token>
+            <original_position from="1566" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w293">
+            <token>5</token>
+            <original_position from="1574" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w294">
+            <token>měsíců</token>
+            <original_position from="1576" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w295">
+            <token>na</token>
+            <original_position from="1583" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w296">
+            <token>západočeské</token>
+            <original_position from="1586" len="11"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w297">
+            <token>univerzitě</token>
+            <original_position from="1598" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w298">
+            <token>v</token>
+            <original_position from="1609" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w299">
+            <token>Plzni</token>
+            <original_position from="1611" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w300">
+            <token>.</token>
+            <original_position from="1616" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w301">
+            <token>Učili</token>
+            <original_position from="1619" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w302">
+            <token>mi</token>
+            <original_position from="1625" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w303">
+            <token>Českou</token>
+            <original_position from="1628" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w304">
+            <token>gramatiku</token>
+            <original_position from="1635" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w305">
+            <token>,</token>
+            <original_position from="1644" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w306">
+            <token>hodně</token>
+            <original_position from="1646" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w307">
+            <token>sloviček</token>
+            <original_position from="1652" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w308">
+            <token>a</token>
+            <original_position from="1661" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w309">
+            <token>komunikací</token>
+            <original_position from="1663" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w310">
+            <token>v</token>
+            <original_position from="1674" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w311">
+            <token>životě</token>
+            <original_position from="1676" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w312">
+            <token>.</token>
+            <original_position from="1682" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w313">
+            <token>Čeština</token>
+            <original_position from="1685" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w314">
+            <token>je</token>
+            <original_position from="1693" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w315">
+            <token>moc</token>
+            <original_position from="1696" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w316">
+            <token>těžká</token>
+            <original_position from="1700" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w317">
+            <token>pro</token>
+            <original_position from="1706" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w318">
+            <token>mě</token>
+            <original_position from="1710" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w319">
+            <token>.</token>
+            <original_position from="1712" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w320">
+            <token>Snažila</token>
+            <original_position from="1715" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w321">
+            <token>jsem</token>
+            <original_position from="1723" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w322">
+            <token>se</token>
+            <original_position from="1728" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w323">
+            <token>mluvit</token>
+            <original_position from="1731" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w324">
+            <token>česky</token>
+            <original_position from="1738" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w325">
+            <token>každý</token>
+            <original_position from="1744" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w326">
+            <token>den</token>
+            <original_position from="1750" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w327">
+            <token>ale</token>
+            <original_position from="1754" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w328">
+            <token>teď</token>
+            <original_position from="1758" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w329">
+            <token>ještě</token>
+            <original_position from="1762" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w330">
+            <token>neumím</token>
+            <original_position from="1768" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w331">
+            <token>dobře</token>
+            <original_position from="1775" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w332">
+            <token>česky</token>
+            <original_position from="1781" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w333">
+            <token>.</token>
+            <original_position from="1786" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w334">
+            <token>Můj</token>
+            <original_position from="1789" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w335">
+            <token>začátek</token>
+            <original_position from="1793" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w336">
+            <token>studia</token>
+            <original_position from="1801" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w337">
+            <token>na</token>
+            <original_position from="1808" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w338">
+            <token>ekonomické</token>
+            <original_position from="1811" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w339">
+            <token>fakultě</token>
+            <original_position from="1822" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w340">
+            <token>skutečně</token>
+            <original_position from="1830" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w341">
+            <token>není</token>
+            <original_position from="1839" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w342">
+            <token>snadné</token>
+            <original_position from="1844" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w343">
+            <token>.</token>
+            <original_position from="1850" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w344">
+            <token>Chodila</token>
+            <original_position from="1853" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w345">
+            <token>jsem</token>
+            <original_position from="1861" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w346">
+            <token>na</token>
+            <original_position from="1866" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w347">
+            <token>přednášky</token>
+            <original_position from="1869" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w348">
+            <token>ale</token>
+            <original_position from="1879" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w349">
+            <token>jsem</token>
+            <original_position from="1883" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w350">
+            <token>vůbec</token>
+            <original_position from="1888" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w351">
+            <token>neslysela</token>
+            <original_position from="1894" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w352">
+            <token>,</token>
+            <original_position from="1903" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w353">
+            <token>co</token>
+            <original_position from="1905" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w354">
+            <token>vyučující</token>
+            <original_position from="1908" len="9"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w355">
+            <token>přednáseli</token>
+            <original_position from="1918" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w356">
+            <token>.</token>
+            <original_position from="1928" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w357">
+            <token>Řekli</token>
+            <original_position from="1931" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w358">
+            <token>hodně</token>
+            <original_position from="1937" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w359">
+            <token>rychle</token>
+            <original_position from="1943" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w360">
+            <token>a</token>
+            <original_position from="1950" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w361">
+            <token>navíc</token>
+            <original_position from="1952" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w362">
+            <token>potkala</token>
+            <original_position from="1958" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w363">
+            <token>jsem</token>
+            <original_position from="1966" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w364">
+            <token>se</token>
+            <original_position from="1971" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w365">
+            <token>hodně</token>
+            <original_position from="1974" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w366">
+            <token>nových</token>
+            <original_position from="1980" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w367">
+            <token>slov</token>
+            <original_position from="1987" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w368">
+            <token>.</token>
+            <original_position from="1991" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w369">
+            <token>Pak</token>
+            <original_position from="1994" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w370">
+            <token>musela</token>
+            <original_position from="1998" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w371">
+            <token>jsem</token>
+            <original_position from="2005" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w372">
+            <token>použit</token>
+            <original_position from="2010" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w373">
+            <token>slovník</token>
+            <original_position from="2017" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w374">
+            <token>a</token>
+            <original_position from="2025" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w375">
+            <token>půjčila</token>
+            <original_position from="2027" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w376">
+            <token>jsem</token>
+            <original_position from="2035" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w377">
+            <token>si</token>
+            <original_position from="2040" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w378">
+            <token>skripty</token>
+            <original_position from="2043" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w379">
+            <token>a</token>
+            <original_position from="2051" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w380">
+            <token>knihy</token>
+            <original_position from="2053" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w381">
+            <token>z</token>
+            <original_position from="2059" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w382">
+            <token>knihovny</token>
+            <original_position from="2061" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w383">
+            <token>a</token>
+            <original_position from="2070" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w384">
+            <token>naučila</token>
+            <original_position from="2072" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w385">
+            <token>jsem</token>
+            <original_position from="2080" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w386">
+            <token>se</token>
+            <original_position from="2085" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w387">
+            <token>doma</token>
+            <original_position from="2088" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w388">
+            <token>sama</token>
+            <original_position from="2093" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w389">
+            <token>.</token>
+            <original_position from="2097" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w390">
+            <token>Na</token>
+            <original_position from="2100" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w391">
+            <token>štěstí</token>
+            <original_position from="2103" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w392">
+            <token>měla</token>
+            <original_position from="2110" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w393">
+            <token>jsem</token>
+            <original_position from="2115" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w394">
+            <token>některé</token>
+            <original_position from="2120" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w395">
+            <token>hodné</token>
+            <original_position from="2128" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w396">
+            <token>kamarádky</token>
+            <original_position from="2134" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w397">
+            <token>,</token>
+            <original_position from="2143" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w398">
+            <token>které</token>
+            <original_position from="2145" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w399">
+            <token>mi</token>
+            <original_position from="2151" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w400">
+            <token>pomohly</token>
+            <original_position from="2154" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w401">
+            <token>moc</token>
+            <original_position from="2162" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w402">
+            <token>.</token>
+            <original_position from="2165" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w403">
+            <token>Půjčily</token>
+            <original_position from="2168" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w404">
+            <token>mi</token>
+            <original_position from="2176" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w405">
+            <token>šešity</token>
+            <original_position from="2179" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w406">
+            <token>a</token>
+            <original_position from="2186" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w407">
+            <token>řekly</token>
+            <original_position from="2188" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w408">
+            <token>mi</token>
+            <original_position from="2194" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w409">
+            <token>,</token>
+            <original_position from="2196" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w410">
+            <token>co</token>
+            <original_position from="2198" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w411">
+            <token>měla</token>
+            <original_position from="2201" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w412">
+            <token>jsem</token>
+            <original_position from="2206" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w413">
+            <token>udělat</token>
+            <original_position from="2211" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w414">
+            <token>za</token>
+            <original_position from="2218" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w415">
+            <token>úkoly</token>
+            <original_position from="2221" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w416">
+            <token>a</token>
+            <original_position from="2227" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w417">
+            <token>seminárky</token>
+            <original_position from="2229" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w418">
+            <token>Snažila</token>
+            <original_position from="2243" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w419">
+            <token>jsem</token>
+            <original_position from="2251" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w420">
+            <token>se</token>
+            <original_position from="2256" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w421">
+            <token>hodně</token>
+            <original_position from="2259" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w422">
+            <token>a</token>
+            <original_position from="2265" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w423">
+            <token>byla</token>
+            <original_position from="2267" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w424">
+            <token>jsem</token>
+            <original_position from="2272" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w425">
+            <token>trochu</token>
+            <original_position from="2277" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w426">
+            <token>důvěrnější</token>
+            <original_position from="2284" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w427">
+            <token>.</token>
+            <original_position from="2294" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w428">
+            <token>Když</token>
+            <original_position from="2297" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w429">
+            <token>končil</token>
+            <original_position from="2302" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w430">
+            <token>zimní</token>
+            <original_position from="2309" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w431">
+            <token>semestr</token>
+            <original_position from="2315" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w432">
+            <token>prvního</token>
+            <original_position from="2323" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w433">
+            <token>roku</token>
+            <original_position from="2331" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w434">
+            <token>,</token>
+            <original_position from="2335" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w435">
+            <token>mohla</token>
+            <original_position from="2337" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w436">
+            <token>jsem</token>
+            <original_position from="2343" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w437">
+            <token>zůstat</token>
+            <original_position from="2348" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w438">
+            <token>a</token>
+            <original_position from="2355" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w439">
+            <token>pokračovat</token>
+            <original_position from="2357" len="10"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w440">
+            <token>dál</token>
+            <original_position from="2368" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w441">
+            <token>zatímco</token>
+            <original_position from="2372" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w442">
+            <token>některé</token>
+            <original_position from="2380" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w443">
+            <token>české</token>
+            <original_position from="2388" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w444">
+            <token>studenty</token>
+            <original_position from="2394" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w445">
+            <token>museli</token>
+            <original_position from="2403" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w446">
+            <token>končit</token>
+            <original_position from="2410" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w447">
+            <token>studium</token>
+            <original_position from="2417" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w448">
+            <token>.</token>
+            <original_position from="2424" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w449">
+            <token>Myslím</token>
+            <original_position from="2427" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w450">
+            <token>si</token>
+            <original_position from="2434" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w451">
+            <token>,</token>
+            <original_position from="2436" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w452">
+            <token>že</token>
+            <original_position from="2438" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w453">
+            <token>když</token>
+            <original_position from="2441" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w454">
+            <token>chtěla</token>
+            <original_position from="2446" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w455">
+            <token>bych</token>
+            <original_position from="2453" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w456">
+            <token>něco</token>
+            <original_position from="2458" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w457">
+            <token>dělat</token>
+            <original_position from="2463" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w458">
+            <token>a</token>
+            <original_position from="2469" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w459">
+            <token>snažím</token>
+            <original_position from="2471" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w460">
+            <token>se</token>
+            <original_position from="2478" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w461">
+            <token>ze</token>
+            <original_position from="2481" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w462">
+            <token>všech</token>
+            <original_position from="2484" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w463">
+            <token>síl</token>
+            <original_position from="2490" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w464">
+            <token>,</token>
+            <original_position from="2493" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w465">
+            <token>pak</token>
+            <original_position from="2495" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w466">
+            <token>můžu</token>
+            <original_position from="2499" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w467">
+            <token>to</token>
+            <original_position from="2504" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w468">
+            <token>udělat</token>
+            <original_position from="2507" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w469">
+            <token>.</token>
+            <original_position from="2513" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w470">
+            <token>Samozřejmě</token>
+            <original_position from="2516" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w471">
+            <token>,</token>
+            <original_position from="2526" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w472">
+            <token>že</token>
+            <original_position from="2528" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w473">
+            <token>štěstí</token>
+            <original_position from="2531" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w474">
+            <token>je</token>
+            <original_position from="2538" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w475">
+            <token>také</token>
+            <original_position from="2541" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w476">
+            <token>důležité</token>
+            <original_position from="2546" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w477">
+            <token>.</token>
+            <original_position from="2554" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w478">
+            <token>Teď</token>
+            <original_position from="2557" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w479">
+            <token>všechno</token>
+            <original_position from="2561" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w480">
+            <token>už</token>
+            <original_position from="2569" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w481">
+            <token>je</token>
+            <original_position from="2572" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w482">
+            <token>lepší</token>
+            <original_position from="2575" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w483">
+            <token>než</token>
+            <original_position from="2581" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w484">
+            <token>dříve</token>
+            <original_position from="2585" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w485">
+            <token>.</token>
+            <original_position from="2590" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w486">
+            <token>Jsem</token>
+            <original_position from="2593" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w487">
+            <token>štastný</token>
+            <original_position from="2598" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w488">
+            <token>člověk</token>
+            <original_position from="2606" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w489">
+            <token>.</token>
+            <original_position from="2612" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w490">
+            <token>protože</token>
+            <original_position from="2615" len="7"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w491">
+            <token>mám</token>
+            <original_position from="2623" len="3"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w492">
+            <token>vedle</token>
+            <original_position from="2627" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w493">
+            <token>sebe</token>
+            <original_position from="2633" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w494">
+            <token>takové</token>
+            <original_position from="2638" len="6"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w495">
+            <token>hodné</token>
+            <original_position from="2645" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w496">
+            <token>kamarády</token>
+            <original_position from="2651" len="8"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w497">
+            <token>i</token>
+            <original_position from="2660" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w498">
+            <token>učitele</token>
+            <original_position from="2662" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w499">
+            <token>,</token>
+            <original_position from="2669" len="1"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w500">
+            <token>které</token>
+            <original_position from="2671" len="5"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w501">
+            <token>mi</token>
+            <original_position from="2677" len="2"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w502">
+            <token>vždy</token>
+            <original_position from="2680" len="4"/>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w503">
+            <token>pomůzou</token>
+            <original_position from="2685" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-TYM_I2_001_t_1 VIET-d1p2w504">
+            <token>.</token>
+            <original_position from="2692" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <insert id="w-TYM_I2_001_t_1 VIET-cor-in1">
+            <token>w-TYM_I2_001_t_1 VIET-d1p2w270</token>
+         </insert>
+      </corrections>
+   </doc>
+</wdata>

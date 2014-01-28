@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="UJA_AK_012_t_1.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-UJA_AK_012_t_1-d1" lowerdoc.rf="w#w-UJA_AK_012_t_1-d1">
+      <para id="a-UJA_AK_012_t_1-d1p1" lowerpara.rf="w#w-UJA_AK_012_t_1-d1p1">
+         <s id="a-UJA_AK_012_t_1-d1p1s0">
+            <w id="a-UJA_AK_012_t_1-d1p1w1">
+               <token>V</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p1w2">
+               <token>Praze</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p1w3">
+               <token>7</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p1w4">
+               <token>.</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p1w5">
+               <token>12</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p1w6">
+               <token>.</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p1w7">
+               <token>09</token>
+            </w>
+         </s>
+         <edge id="a-UJA_AK_012_t_1-d1p1e0">
+            <from>w#w-UJA_AK_012_t_1-d1p1w1</from>
+            <to>a-UJA_AK_012_t_1-d1p1w1</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p1e1">
+            <from>w#w-UJA_AK_012_t_1-d1p1w2</from>
+            <to>a-UJA_AK_012_t_1-d1p1w2</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p1e2">
+            <from>w#w-UJA_AK_012_t_1-d1p1w3</from>
+            <to>a-UJA_AK_012_t_1-d1p1w3</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p1e3">
+            <from>w#w-UJA_AK_012_t_1-d1p1w4</from>
+            <to>a-UJA_AK_012_t_1-d1p1w4</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p1e4">
+            <from>w#w-UJA_AK_012_t_1-d1p1w5</from>
+            <to>a-UJA_AK_012_t_1-d1p1w5</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p1e5">
+            <from>w#w-UJA_AK_012_t_1-d1p1w6</from>
+            <to>a-UJA_AK_012_t_1-d1p1w6</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p1e6">
+            <from>w#w-UJA_AK_012_t_1-d1p1w7</from>
+            <to>a-UJA_AK_012_t_1-d1p1w7</to>
+         </edge>
+      </para>
+      <para id="a-UJA_AK_012_t_1-d1p2" lowerpara.rf="w#w-UJA_AK_012_t_1-d1p2">
+         <s id="a-UJA_AK_012_t_1-d1p2s0">
+            <w id="a-UJA_AK_012_t_1-d1p2w1">
+               <token>Milý</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p2w2">
+               <token>kamarad</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p2w3">
+               <token>,</token>
+            </w>
+         </s>
+         <edge id="a-UJA_AK_012_t_1-d1p2e0">
+            <from>w#w-UJA_AK_012_t_1-d1p2w1</from>
+            <to>a-UJA_AK_012_t_1-d1p2w1</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p2e1">
+            <from>w#w-UJA_AK_012_t_1-d1p2w2</from>
+            <to>a-UJA_AK_012_t_1-d1p2w2</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p2e2">
+            <from>w#w-UJA_AK_012_t_1-d1p2w3</from>
+            <to>a-UJA_AK_012_t_1-d1p2w3</to>
+         </edge>
+      </para>
+      <para id="a-UJA_AK_012_t_1-d1p3" lowerpara.rf="w#w-UJA_AK_012_t_1-d1p3">
+         <s id="a-UJA_AK_012_t_1-d1p3s0">
+            <w id="a-UJA_AK_012_t_1-d1p3w1">
+               <token>Včera</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w2">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w3">
+               <token>bylá</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w4">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w5">
+               <token>horách</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w6">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w7">
+               <token>chci</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w8">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w9">
+               <token>řeknut</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w10">
+               <token>tebe</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w11">
+               <token>co</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w12">
+               <token>dělala</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w13">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w14">
+               <token>Kdýž</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w15">
+               <token>bylá</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w16">
+               <token>tam</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w17">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s1">
+            <w id="a-UJA_AK_012_t_1-d1p3w18">
+               <token>V</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w19">
+               <token>10</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w20">
+               <token>hodin</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w21">
+               <token>ráno</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w22">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w23">
+               <token>vstavála</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w24">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w25">
+               <token>umyvála</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w26">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w27">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s2">
+            <w id="a-UJA_AK_012_t_1-d1p3w28">
+               <token>Pak</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w29">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w30">
+               <token>11:30</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w31">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w32">
+               <token>šla</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w33">
+               <token>hrát</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w34">
+               <token>ping-pong</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w35">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w36">
+               <token>to</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w37">
+               <token>bylo</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w38">
+               <token>zajimavé</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w39">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s3">
+            <w id="a-UJA_AK_012_t_1-d1p3w40">
+               <token>Až</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w41">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w42">
+               <token>12:30</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w43">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w44">
+               <token>šla</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w45">
+               <token>do</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w46">
+               <token>bazénu</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w47">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s4">
+            <w id="a-UJA_AK_012_t_1-d1p3w48">
+               <token>Obed</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w49">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w50">
+               <token>měla</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w51">
+               <token>uz</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w52">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w53">
+               <token>13:00</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w54">
+               <token>h</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w55">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s5">
+            <w id="a-UJA_AK_012_t_1-d1p3w56">
+               <token>V</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w57">
+               <token>14:00</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w58">
+               <token>sešli</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w59">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w60">
+               <token>s</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w61">
+               <token>přateleme</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w62">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w63">
+               <token>šli</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w64">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w65">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w66">
+               <token>proházku</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w67">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s6">
+            <w id="a-UJA_AK_012_t_1-d1p3w68">
+               <token>V</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w69">
+               <token>17:00</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w70">
+               <token>večer</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w71">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w72">
+               <token>šli</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w73">
+               <token>do</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w74">
+               <token>kina</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w75">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s7">
+            <w id="a-UJA_AK_012_t_1-d1p3w76">
+               <token>Podle</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w77">
+               <token>kina</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w78">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w79">
+               <token>šli</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w80">
+               <token>do</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w81">
+               <token>diskoteci</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w82">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w83">
+               <token>tam</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w84">
+               <token>bylo</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w85">
+               <token>hezké</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w86">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s8">
+            <w id="a-UJA_AK_012_t_1-d1p3w87">
+               <token>V</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w88">
+               <token>1:00</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w89">
+               <token>noci</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w90">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w91">
+               <token>šli</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w92">
+               <token>do</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w93">
+               <token>restouraci</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w94">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w95">
+               <token>pili</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w96">
+               <token>vino</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w97">
+               <token>,</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s9">
+            <w id="a-UJA_AK_012_t_1-d1p3w98">
+               <token>Byl</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w99">
+               <token>moc</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w100">
+               <token>zajimavý</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w101">
+               <token>den</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w102">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w103">
+               <token>bohužel</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w104">
+               <token>byli</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w105">
+               <token>všihny</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w106">
+               <token>kromě</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w107">
+               <token>tebé</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w108">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_AK_012_t_1-d1p3s10">
+            <w id="a-UJA_AK_012_t_1-d1p3w109">
+               <token>Těším</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w110">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w111">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w112">
+               <token>tvůj</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w113">
+               <token>dopis</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p3w114">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UJA_AK_012_t_1-d1p3e0">
+            <from>w#w-UJA_AK_012_t_1-d1p3w1</from>
+            <to>a-UJA_AK_012_t_1-d1p3w1</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e1">
+            <from>w#w-UJA_AK_012_t_1-d1p3w2</from>
+            <to>a-UJA_AK_012_t_1-d1p3w2</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e2">
+            <from>w#w-UJA_AK_012_t_1-d1p3w3</from>
+            <to>a-UJA_AK_012_t_1-d1p3w3</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e3">
+            <from>w#w-UJA_AK_012_t_1-d1p3w4</from>
+            <to>a-UJA_AK_012_t_1-d1p3w4</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e4">
+            <from>w#w-UJA_AK_012_t_1-d1p3w5</from>
+            <to>a-UJA_AK_012_t_1-d1p3w5</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e5">
+            <from>w#w-UJA_AK_012_t_1-d1p3w6</from>
+            <to>a-UJA_AK_012_t_1-d1p3w6</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e6">
+            <from>w#w-UJA_AK_012_t_1-d1p3w7</from>
+            <to>a-UJA_AK_012_t_1-d1p3w7</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e7">
+            <from>w#w-UJA_AK_012_t_1-d1p3w8</from>
+            <to>a-UJA_AK_012_t_1-d1p3w8</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e8">
+            <from>w#w-UJA_AK_012_t_1-d1p3w9</from>
+            <to>a-UJA_AK_012_t_1-d1p3w9</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e9">
+            <from>w#w-UJA_AK_012_t_1-d1p3w10</from>
+            <to>a-UJA_AK_012_t_1-d1p3w10</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e10">
+            <from>w#w-UJA_AK_012_t_1-d1p3w11</from>
+            <to>a-UJA_AK_012_t_1-d1p3w11</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e11">
+            <from>w#w-UJA_AK_012_t_1-d1p3w12</from>
+            <to>a-UJA_AK_012_t_1-d1p3w12</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e12">
+            <from>w#w-UJA_AK_012_t_1-d1p3w13</from>
+            <to>a-UJA_AK_012_t_1-d1p3w13</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e13">
+            <from>w#w-UJA_AK_012_t_1-d1p3w14</from>
+            <to>a-UJA_AK_012_t_1-d1p3w14</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e14">
+            <from>w#w-UJA_AK_012_t_1-d1p3w15</from>
+            <to>a-UJA_AK_012_t_1-d1p3w15</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e15">
+            <from>w#w-UJA_AK_012_t_1-d1p3w16</from>
+            <to>a-UJA_AK_012_t_1-d1p3w16</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e16">
+            <from>w#w-UJA_AK_012_t_1-d1p3w17</from>
+            <to>a-UJA_AK_012_t_1-d1p3w17</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e17">
+            <from>w#w-UJA_AK_012_t_1-d1p3w18</from>
+            <to>a-UJA_AK_012_t_1-d1p3w18</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e18">
+            <from>w#w-UJA_AK_012_t_1-d1p3w19</from>
+            <to>a-UJA_AK_012_t_1-d1p3w19</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e19">
+            <from>w#w-UJA_AK_012_t_1-d1p3w20</from>
+            <to>a-UJA_AK_012_t_1-d1p3w20</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e20">
+            <from>w#w-UJA_AK_012_t_1-d1p3w21</from>
+            <to>a-UJA_AK_012_t_1-d1p3w21</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e21">
+            <from>w#w-UJA_AK_012_t_1-d1p3w22</from>
+            <to>a-UJA_AK_012_t_1-d1p3w22</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e22">
+            <from>w#w-UJA_AK_012_t_1-d1p3w23</from>
+            <to>a-UJA_AK_012_t_1-d1p3w23</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e23">
+            <from>w#w-UJA_AK_012_t_1-d1p3w24</from>
+            <to>a-UJA_AK_012_t_1-d1p3w24</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e24">
+            <from>w#w-UJA_AK_012_t_1-d1p3w25</from>
+            <to>a-UJA_AK_012_t_1-d1p3w25</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e25">
+            <from>w#w-UJA_AK_012_t_1-d1p3w26</from>
+            <to>a-UJA_AK_012_t_1-d1p3w26</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e26">
+            <from>w#w-UJA_AK_012_t_1-d1p3w27</from>
+            <to>a-UJA_AK_012_t_1-d1p3w27</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e27">
+            <from>w#w-UJA_AK_012_t_1-d1p3w28</from>
+            <to>a-UJA_AK_012_t_1-d1p3w28</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e28">
+            <from>w#w-UJA_AK_012_t_1-d1p3w29</from>
+            <to>a-UJA_AK_012_t_1-d1p3w29</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e29">
+            <from>w#w-UJA_AK_012_t_1-d1p3w30</from>
+            <to>a-UJA_AK_012_t_1-d1p3w30</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e30">
+            <from>w#w-UJA_AK_012_t_1-d1p3w31</from>
+            <to>a-UJA_AK_012_t_1-d1p3w31</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e31">
+            <from>w#w-UJA_AK_012_t_1-d1p3w32</from>
+            <to>a-UJA_AK_012_t_1-d1p3w32</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e32">
+            <from>w#w-UJA_AK_012_t_1-d1p3w33</from>
+            <to>a-UJA_AK_012_t_1-d1p3w33</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e33">
+            <from>w#w-UJA_AK_012_t_1-d1p3w34</from>
+            <to>a-UJA_AK_012_t_1-d1p3w34</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e34">
+            <from>w#w-UJA_AK_012_t_1-d1p3w35</from>
+            <to>a-UJA_AK_012_t_1-d1p3w35</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e35">
+            <from>w#w-UJA_AK_012_t_1-d1p3w36</from>
+            <to>a-UJA_AK_012_t_1-d1p3w36</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e36">
+            <from>w#w-UJA_AK_012_t_1-d1p3w37</from>
+            <to>a-UJA_AK_012_t_1-d1p3w37</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e37">
+            <from>w#w-UJA_AK_012_t_1-d1p3w38</from>
+            <to>a-UJA_AK_012_t_1-d1p3w38</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e38">
+            <from>w#w-UJA_AK_012_t_1-d1p3w39</from>
+            <to>a-UJA_AK_012_t_1-d1p3w39</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e39">
+            <from>w#w-UJA_AK_012_t_1-d1p3w40</from>
+            <to>a-UJA_AK_012_t_1-d1p3w40</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e40">
+            <from>w#w-UJA_AK_012_t_1-d1p3w41</from>
+            <to>a-UJA_AK_012_t_1-d1p3w41</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e41">
+            <from>w#w-UJA_AK_012_t_1-d1p3w42</from>
+            <to>a-UJA_AK_012_t_1-d1p3w42</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e42">
+            <from>w#w-UJA_AK_012_t_1-d1p3w43</from>
+            <to>a-UJA_AK_012_t_1-d1p3w43</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e43">
+            <from>w#w-UJA_AK_012_t_1-d1p3w44</from>
+            <to>a-UJA_AK_012_t_1-d1p3w44</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e44">
+            <from>w#w-UJA_AK_012_t_1-d1p3w45</from>
+            <to>a-UJA_AK_012_t_1-d1p3w45</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e45">
+            <from>w#w-UJA_AK_012_t_1-d1p3w46</from>
+            <to>a-UJA_AK_012_t_1-d1p3w46</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e46">
+            <from>w#w-UJA_AK_012_t_1-d1p3w47</from>
+            <to>a-UJA_AK_012_t_1-d1p3w47</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e47">
+            <from>w#w-UJA_AK_012_t_1-d1p3w48</from>
+            <to>a-UJA_AK_012_t_1-d1p3w48</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e48">
+            <from>w#w-UJA_AK_012_t_1-d1p3w49</from>
+            <to>a-UJA_AK_012_t_1-d1p3w49</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e49">
+            <from>w#w-UJA_AK_012_t_1-d1p3w50</from>
+            <to>a-UJA_AK_012_t_1-d1p3w50</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e50">
+            <from>w#w-UJA_AK_012_t_1-d1p3w51</from>
+            <to>a-UJA_AK_012_t_1-d1p3w51</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e51">
+            <from>w#w-UJA_AK_012_t_1-d1p3w52</from>
+            <to>a-UJA_AK_012_t_1-d1p3w52</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e52">
+            <from>w#w-UJA_AK_012_t_1-d1p3w53</from>
+            <to>a-UJA_AK_012_t_1-d1p3w53</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e53">
+            <from>w#w-UJA_AK_012_t_1-d1p3w54</from>
+            <to>a-UJA_AK_012_t_1-d1p3w54</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e54">
+            <from>w#w-UJA_AK_012_t_1-d1p3w55</from>
+            <to>a-UJA_AK_012_t_1-d1p3w55</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e55">
+            <from>w#w-UJA_AK_012_t_1-d1p3w56</from>
+            <to>a-UJA_AK_012_t_1-d1p3w56</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e56">
+            <from>w#w-UJA_AK_012_t_1-d1p3w57</from>
+            <to>a-UJA_AK_012_t_1-d1p3w57</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e57">
+            <from>w#w-UJA_AK_012_t_1-d1p3w58</from>
+            <to>a-UJA_AK_012_t_1-d1p3w58</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e58">
+            <from>w#w-UJA_AK_012_t_1-d1p3w59</from>
+            <to>a-UJA_AK_012_t_1-d1p3w59</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e59">
+            <from>w#w-UJA_AK_012_t_1-d1p3w60</from>
+            <to>a-UJA_AK_012_t_1-d1p3w60</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e60">
+            <from>w#w-UJA_AK_012_t_1-d1p3w61</from>
+            <to>a-UJA_AK_012_t_1-d1p3w61</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e61">
+            <from>w#w-UJA_AK_012_t_1-d1p3w62</from>
+            <to>a-UJA_AK_012_t_1-d1p3w62</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e62">
+            <from>w#w-UJA_AK_012_t_1-d1p3w63</from>
+            <to>a-UJA_AK_012_t_1-d1p3w63</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e63">
+            <from>w#w-UJA_AK_012_t_1-d1p3w64</from>
+            <to>a-UJA_AK_012_t_1-d1p3w64</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e64">
+            <from>w#w-UJA_AK_012_t_1-d1p3w65</from>
+            <to>a-UJA_AK_012_t_1-d1p3w65</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e65">
+            <from>w#w-UJA_AK_012_t_1-d1p3w66</from>
+            <to>a-UJA_AK_012_t_1-d1p3w66</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e66">
+            <from>w#w-UJA_AK_012_t_1-d1p3w67</from>
+            <to>a-UJA_AK_012_t_1-d1p3w67</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e67">
+            <from>w#w-UJA_AK_012_t_1-d1p3w68</from>
+            <to>a-UJA_AK_012_t_1-d1p3w68</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e68">
+            <from>w#w-UJA_AK_012_t_1-d1p3w69</from>
+            <to>a-UJA_AK_012_t_1-d1p3w69</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e69">
+            <from>w#w-UJA_AK_012_t_1-d1p3w70</from>
+            <to>a-UJA_AK_012_t_1-d1p3w70</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e70">
+            <from>w#w-UJA_AK_012_t_1-d1p3w71</from>
+            <to>a-UJA_AK_012_t_1-d1p3w71</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e71">
+            <from>w#w-UJA_AK_012_t_1-d1p3w72</from>
+            <to>a-UJA_AK_012_t_1-d1p3w72</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e72">
+            <from>w#w-UJA_AK_012_t_1-d1p3w73</from>
+            <to>a-UJA_AK_012_t_1-d1p3w73</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e73">
+            <from>w#w-UJA_AK_012_t_1-d1p3w74</from>
+            <to>a-UJA_AK_012_t_1-d1p3w74</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e74">
+            <from>w#w-UJA_AK_012_t_1-d1p3w75</from>
+            <to>a-UJA_AK_012_t_1-d1p3w75</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e75">
+            <from>w#w-UJA_AK_012_t_1-d1p3w76</from>
+            <to>a-UJA_AK_012_t_1-d1p3w76</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e76">
+            <from>w#w-UJA_AK_012_t_1-d1p3w77</from>
+            <to>a-UJA_AK_012_t_1-d1p3w77</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e77">
+            <from>w#w-UJA_AK_012_t_1-d1p3w78</from>
+            <to>a-UJA_AK_012_t_1-d1p3w78</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e78">
+            <from>w#w-UJA_AK_012_t_1-d1p3w79</from>
+            <to>a-UJA_AK_012_t_1-d1p3w79</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e79">
+            <from>w#w-UJA_AK_012_t_1-d1p3w80</from>
+            <to>a-UJA_AK_012_t_1-d1p3w80</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e80">
+            <from>w#w-UJA_AK_012_t_1-d1p3w81</from>
+            <to>a-UJA_AK_012_t_1-d1p3w81</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e81">
+            <from>w#w-UJA_AK_012_t_1-d1p3w82</from>
+            <to>a-UJA_AK_012_t_1-d1p3w82</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e82">
+            <from>w#w-UJA_AK_012_t_1-d1p3w83</from>
+            <to>a-UJA_AK_012_t_1-d1p3w83</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e83">
+            <from>w#w-UJA_AK_012_t_1-d1p3w84</from>
+            <to>a-UJA_AK_012_t_1-d1p3w84</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e84">
+            <from>w#w-UJA_AK_012_t_1-d1p3w85</from>
+            <to>a-UJA_AK_012_t_1-d1p3w85</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e85">
+            <from>w#w-UJA_AK_012_t_1-d1p3w86</from>
+            <to>a-UJA_AK_012_t_1-d1p3w86</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e86">
+            <from>w#w-UJA_AK_012_t_1-d1p3w87</from>
+            <to>a-UJA_AK_012_t_1-d1p3w87</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e87">
+            <from>w#w-UJA_AK_012_t_1-d1p3w88</from>
+            <to>a-UJA_AK_012_t_1-d1p3w88</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e88">
+            <from>w#w-UJA_AK_012_t_1-d1p3w89</from>
+            <to>a-UJA_AK_012_t_1-d1p3w89</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e89">
+            <from>w#w-UJA_AK_012_t_1-d1p3w90</from>
+            <to>a-UJA_AK_012_t_1-d1p3w90</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e90">
+            <from>w#w-UJA_AK_012_t_1-d1p3w91</from>
+            <to>a-UJA_AK_012_t_1-d1p3w91</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e91">
+            <from>w#w-UJA_AK_012_t_1-d1p3w92</from>
+            <to>a-UJA_AK_012_t_1-d1p3w92</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e92">
+            <from>w#w-UJA_AK_012_t_1-d1p3w93</from>
+            <to>a-UJA_AK_012_t_1-d1p3w93</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e93">
+            <from>w#w-UJA_AK_012_t_1-d1p3w94</from>
+            <to>a-UJA_AK_012_t_1-d1p3w94</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e94">
+            <from>w#w-UJA_AK_012_t_1-d1p3w95</from>
+            <to>a-UJA_AK_012_t_1-d1p3w95</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e95">
+            <from>w#w-UJA_AK_012_t_1-d1p3w96</from>
+            <to>a-UJA_AK_012_t_1-d1p3w96</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e96">
+            <from>w#w-UJA_AK_012_t_1-d1p3w97</from>
+            <to>a-UJA_AK_012_t_1-d1p3w97</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e97">
+            <from>w#w-UJA_AK_012_t_1-d1p3w98</from>
+            <to>a-UJA_AK_012_t_1-d1p3w98</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e98">
+            <from>w#w-UJA_AK_012_t_1-d1p3w99</from>
+            <to>a-UJA_AK_012_t_1-d1p3w99</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e99">
+            <from>w#w-UJA_AK_012_t_1-d1p3w100</from>
+            <to>a-UJA_AK_012_t_1-d1p3w100</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e100">
+            <from>w#w-UJA_AK_012_t_1-d1p3w101</from>
+            <to>a-UJA_AK_012_t_1-d1p3w101</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e101">
+            <from>w#w-UJA_AK_012_t_1-d1p3w102</from>
+            <to>a-UJA_AK_012_t_1-d1p3w102</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e102">
+            <from>w#w-UJA_AK_012_t_1-d1p3w103</from>
+            <to>a-UJA_AK_012_t_1-d1p3w103</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e103">
+            <from>w#w-UJA_AK_012_t_1-d1p3w104</from>
+            <to>a-UJA_AK_012_t_1-d1p3w104</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e104">
+            <from>w#w-UJA_AK_012_t_1-d1p3w105</from>
+            <to>a-UJA_AK_012_t_1-d1p3w105</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e105">
+            <from>w#w-UJA_AK_012_t_1-d1p3w106</from>
+            <to>a-UJA_AK_012_t_1-d1p3w106</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e106">
+            <from>w#w-UJA_AK_012_t_1-d1p3w107</from>
+            <to>a-UJA_AK_012_t_1-d1p3w107</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e107">
+            <from>w#w-UJA_AK_012_t_1-d1p3w108</from>
+            <to>a-UJA_AK_012_t_1-d1p3w108</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e108">
+            <from>w#w-UJA_AK_012_t_1-d1p3w109</from>
+            <to>a-UJA_AK_012_t_1-d1p3w109</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e109">
+            <from>w#w-UJA_AK_012_t_1-d1p3w110</from>
+            <to>a-UJA_AK_012_t_1-d1p3w110</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e110">
+            <from>w#w-UJA_AK_012_t_1-d1p3w111</from>
+            <to>a-UJA_AK_012_t_1-d1p3w111</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e111">
+            <from>w#w-UJA_AK_012_t_1-d1p3w112</from>
+            <to>a-UJA_AK_012_t_1-d1p3w112</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e112">
+            <from>w#w-UJA_AK_012_t_1-d1p3w113</from>
+            <to>a-UJA_AK_012_t_1-d1p3w113</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p3e113">
+            <from>w#w-UJA_AK_012_t_1-d1p3w114</from>
+            <to>a-UJA_AK_012_t_1-d1p3w114</to>
+         </edge>
+      </para>
+      <para id="a-UJA_AK_012_t_1-d1p4" lowerpara.rf="w#w-UJA_AK_012_t_1-d1p4">
+         <s id="a-UJA_AK_012_t_1-d1p4s0">
+            <w id="a-UJA_AK_012_t_1-d1p4w1">
+               <token>Tvá</token>
+            </w>
+            <w id="a-UJA_AK_012_t_1-d1p4w2">
+               <token>Eva</token>
+            </w>
+         </s>
+         <edge id="a-UJA_AK_012_t_1-d1p4e0">
+            <from>w#w-UJA_AK_012_t_1-d1p4w1</from>
+            <to>a-UJA_AK_012_t_1-d1p4w1</to>
+         </edge>
+         <edge id="a-UJA_AK_012_t_1-d1p4e1">
+            <from>w#w-UJA_AK_012_t_1-d1p4w2</from>
+            <to>a-UJA_AK_012_t_1-d1p4w2</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

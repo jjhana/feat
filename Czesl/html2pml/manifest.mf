@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: cz.cuni.utkl.czesl.html2pml
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Localizing-Bundle: cz/cuni/utkl/czesl/html2pml/Bundle.properties
+

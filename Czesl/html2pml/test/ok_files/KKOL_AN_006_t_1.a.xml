@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="KKOL_AN_006_t_1.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-KKOL_AN_006_t_1-d1" lowerdoc.rf="w#w-KKOL_AN_006_t_1-d1">
+      <para id="a-KKOL_AN_006_t_1-d1p1" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p1">
+         <s id="a-KKOL_AN_006_t_1-d1p1s0">
+            <w id="a-KKOL_AN_006_t_1-d1p1w1">
+               <token>Praha</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p1w2">
+               <token>24</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p1w3">
+               <token>.</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p1w4">
+               <token>3</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p1w5">
+               <token>.</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p1w6">
+               <token>10</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p1e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p1w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p1w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p1e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p1w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p1w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p1e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p1w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p1w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p1e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p1w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p1w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p1e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p1w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p1w5</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p1e5">
+            <from>w#w-KKOL_AN_006_t_1-d1p1w6</from>
+            <to>a-KKOL_AN_006_t_1-d1p1w6</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p2" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p2">
+         <s id="a-KKOL_AN_006_t_1-d1p2s0">
+            <w id="a-KKOL_AN_006_t_1-d1p2w1">
+               <token>Ahoj</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p2w2">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p2w3">
+               <token>Aleno</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p2e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p2w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p2w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p2e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p2w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p2w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p2e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p2w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p2w3</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p3" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p3">
+         <s id="a-KKOL_AN_006_t_1-d1p3s0">
+            <w id="a-KKOL_AN_006_t_1-d1p3w1">
+               <token>Už</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w2">
+               <token>začina</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w3">
+               <token>leto</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w4">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w5">
+               <token>jak</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w6">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w7">
+               <token>tě</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w8">
+               <token>rekala</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w9">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w10">
+               <token>chtěla</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w11">
+               <token>bych</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w12">
+               <token>jet</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w13">
+               <token>do</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w14">
+               <token>Karlovych</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w15">
+               <token>Varu</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w16">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p3s1">
+            <w id="a-KKOL_AN_006_t_1-d1p3w17">
+               <token>Vím</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w18">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w19">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w20">
+               <token>nelibi</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w21">
+               <token>tě</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w22">
+               <token>cesta</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w23">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w24">
+               <token>ale</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w25">
+               <token>poslouchej</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w26">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p3s2">
+            <w id="a-KKOL_AN_006_t_1-d1p3w27">
+               <token>To</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w28">
+               <token>město</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w29">
+               <token>známe</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w30">
+               <token>léčebny</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w31">
+               <token>procedury</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w32">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w33">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w34">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w35">
+               <token>hlavně</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w36">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w37">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w38">
+               <token>můžou</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w39">
+               <token>pomoct</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w40">
+               <token>s</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w41">
+               <token>tvými</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w42">
+               <token>problemamy</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w43">
+               <token>z</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w44">
+               <token>žaludkem</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w45">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p3s3">
+            <w id="a-KKOL_AN_006_t_1-d1p3w46">
+               <token>Pro</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w47">
+               <token>mě</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w48">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w49">
+               <token>taky</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w50">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w51">
+               <token>důležite</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w52">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p3s4">
+            <w id="a-KKOL_AN_006_t_1-d1p3w53">
+               <token>Přišti</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w54">
+               <token>měsic</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w55">
+               <token>tam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w56">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w57">
+               <token>Mezinárodní</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w58">
+               <token>filmový</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w59">
+               <token>festival</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w60">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w61">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w62">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w63">
+               <token>velmẏ</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w64">
+               <token>zajímave</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p3w65">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w5</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e5">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w6</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w6</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e6">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w7</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w7</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e7">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w8</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w8</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e8">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w9</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w9</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e9">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w10</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w10</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e10">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w11</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w11</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e11">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w12</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w12</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e12">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w13</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w13</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e13">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w14</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w14</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e14">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w15</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w15</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e15">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w16</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w16</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e16">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w17</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w17</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e17">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w18</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w18</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e18">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w19</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w19</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e19">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w20</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w20</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e20">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w21</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w21</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e21">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w22</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w22</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e22">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w23</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w23</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e23">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w24</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w24</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e24">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w25</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w25</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e25">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w26</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w26</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e26">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w27</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w27</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e27">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w28</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w28</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e28">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w29</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w29</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e29">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w30</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w30</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e30">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w31</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w31</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e31">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w32</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w32</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e32">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w33</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w33</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e33">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w34</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w34</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e34">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w35</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w35</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e35">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w36</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w36</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e36">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w37</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w37</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e37">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w38</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w38</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e38">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w39</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w39</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e39">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w40</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w40</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e40">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w41</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w41</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e41">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w42</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w42</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e42">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w43</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w43</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e43">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w44</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w44</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e44">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w45</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w45</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e45">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w46</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w46</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e46">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w47</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w47</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e47">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w48</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w48</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e48">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w49</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w49</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e49">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w50</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w50</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e50">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w51</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w51</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e51">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w52</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w52</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e52">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w53</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w53</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e53">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w54</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w54</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e54">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w55</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w55</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e55">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w56</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w56</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e56">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w57</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w57</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e57">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w58</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w58</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e58">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w59</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w59</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e59">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w60</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w60</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e60">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w61</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w61</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e61">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w62</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w62</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e62">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w63</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w63</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e63">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w64</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w64</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p3e64">
+            <from>w#w-KKOL_AN_006_t_1-d1p3w65</from>
+            <to>a-KKOL_AN_006_t_1-d1p3w65</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p4" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p4">
+         <s id="a-KKOL_AN_006_t_1-d1p4s0">
+            <w id="a-KKOL_AN_006_t_1-d1p4w1">
+               <token>Taky</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w2">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w3">
+               <token>tam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w4">
+               <token>mnoho</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w5">
+               <token>suveniru</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w6">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p4s1">
+            <w id="a-KKOL_AN_006_t_1-d1p4w7">
+               <token>Napřiklad</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w8">
+               <token>jsem</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w9">
+               <token>četla</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w10">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w11">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w12">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w13">
+               <token>tam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w14">
+               <token>sklo</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w15">
+               <token>Moser</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w16">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w17">
+               <token>ktere</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w18">
+               <token>známe</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w19">
+               <token>v</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w20">
+               <token>ČR</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p4w21">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w5</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e5">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w6</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w6</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e6">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w7</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w7</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e7">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w8</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w8</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e8">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w9</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w9</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e9">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w10</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w10</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e10">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w11</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w11</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e11">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w12</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w12</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e12">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w13</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w13</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e13">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w14</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w14</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e14">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w15</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w15</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e15">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w16</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w16</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e16">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w17</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w17</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e17">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w18</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w18</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e18">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w19</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w19</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e19">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w20</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w20</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p4e20">
+            <from>w#w-KKOL_AN_006_t_1-d1p4w21</from>
+            <to>a-KKOL_AN_006_t_1-d1p4w21</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p5" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p5">
+         <s id="a-KKOL_AN_006_t_1-d1p5s0">
+            <w id="a-KKOL_AN_006_t_1-d1p5w1">
+               <token>Tve</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w2">
+               <token>mamince</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w3">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w4">
+               <token>libi</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w5">
+               <token>porcelán</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w6">
+               <token>(</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w7">
+               <token>ja</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w8">
+               <token>vím</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w9">
+               <token>o</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w10">
+               <token>tom</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w11">
+               <token>)</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w12">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w13">
+               <token>tak</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w14">
+               <token>můžeme</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w15">
+               <token>tam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w16">
+               <token>koupit</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w17">
+               <token>Thunský</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w18">
+               <token>porcelan</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w19">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p5s1">
+            <w id="a-KKOL_AN_006_t_1-d1p5w20">
+               <token>V</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w21">
+               <token>Karlových</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w22">
+               <token>Varech</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w23">
+               <token>on</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w24">
+               <token>neni</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w25">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w26">
+               <token>drahy</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p5w27">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w5</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e5">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w6</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w6</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e6">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w7</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w7</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e7">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w8</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w8</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e8">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w9</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w9</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e9">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w10</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w10</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e10">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w11</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w11</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e11">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w12</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w12</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e12">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w13</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w13</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e13">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w14</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w14</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e14">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w15</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w15</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e15">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w16</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w16</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e16">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w17</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w17</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e17">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w18</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w18</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e18">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w19</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w19</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e19">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w20</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w20</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e20">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w21</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w21</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e21">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w22</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w22</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e22">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w23</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w23</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e23">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w24</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w24</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e24">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w25</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w25</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e25">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w26</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w26</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p5e26">
+            <from>w#w-KKOL_AN_006_t_1-d1p5w27</from>
+            <to>a-KKOL_AN_006_t_1-d1p5w27</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p6" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p6">
+         <s id="a-KKOL_AN_006_t_1-d1p6s0">
+            <w id="a-KKOL_AN_006_t_1-d1p6w1">
+               <token>Libime</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w2">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w3">
+               <token>prochazet</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w4">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w5">
+               <token>tancovat</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w6">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p6s1">
+            <w id="a-KKOL_AN_006_t_1-d1p6w7">
+               <token>Tak</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w8">
+               <token>vím</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w9">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w10">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w11">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w12">
+               <token>tam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w13">
+               <token>taky</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w14">
+               <token>kluby</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w15">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w16">
+               <token>kde</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w17">
+               <token>můžeme</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w18">
+               <token>odpočivat</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w19">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w20">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w21">
+               <token>taky</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w22">
+               <token>heský</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w23">
+               <token>parky</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p6w24">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w5</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e5">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w6</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w6</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e6">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w7</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w7</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e7">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w8</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w8</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e8">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w9</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w9</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e9">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w10</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w10</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e10">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w11</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w11</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e11">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w12</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w12</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e12">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w13</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w13</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e13">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w14</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w14</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e14">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w15</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w15</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e15">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w16</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w16</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e16">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w17</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w17</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e17">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w18</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w18</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e18">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w19</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w19</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e19">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w20</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w20</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e20">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w21</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w21</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e21">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w22</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w22</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e22">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w23</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w23</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p6e23">
+            <from>w#w-KKOL_AN_006_t_1-d1p6w24</from>
+            <to>a-KKOL_AN_006_t_1-d1p6w24</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p7" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p7">
+         <s id="a-KKOL_AN_006_t_1-d1p7s0">
+            <w id="a-KKOL_AN_006_t_1-d1p7w1">
+               <token>Je</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w2">
+               <token>tam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w3">
+               <token>karlovarský</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w4">
+               <token>nápoj</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w5">
+               <token>Becherovka</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w6">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w7">
+               <token>toti</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w8">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w9">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p7w10">
+               <token>libit</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w5</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e5">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w6</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w6</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e6">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w7</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w7</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e7">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w8</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w8</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e8">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w9</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w9</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p7e9">
+            <from>w#w-KKOL_AN_006_t_1-d1p7w10</from>
+            <to>a-KKOL_AN_006_t_1-d1p7w10</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p8" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p8">
+         <s id="a-KKOL_AN_006_t_1-d1p8s0">
+            <w id="a-KKOL_AN_006_t_1-d1p8w1">
+               <token>A</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w2">
+               <token>ještě</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w3">
+               <token>důležite</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w4">
+               <token>pro</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w5">
+               <token>tebe</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w6">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w7">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w8">
+               <token>můžeš</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w9">
+               <token>tam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w10">
+               <token>potkat</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w11">
+               <token>nějakého</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w12">
+               <token>hezkého</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w13">
+               <token>cizince</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w14">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AN_006_t_1-d1p8s1">
+            <w id="a-KKOL_AN_006_t_1-d1p8w15">
+               <token>Tak</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w16">
+               <token>jedeme</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p8w17">
+               <token>!</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w5</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e5">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w6</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w6</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e6">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w7</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w7</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e7">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w8</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w8</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e8">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w9</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w9</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e9">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w10</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w10</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e10">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w11</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w11</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e11">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w12</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w12</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e12">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w13</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w13</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e13">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w14</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w14</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e14">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w15</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w15</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e15">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w16</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w16</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p8e16">
+            <from>w#w-KKOL_AN_006_t_1-d1p8w17</from>
+            <to>a-KKOL_AN_006_t_1-d1p8w17</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p9" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p9">
+         <s id="a-KKOL_AN_006_t_1-d1p9s0">
+            <w id="a-KKOL_AN_006_t_1-d1p9w1">
+               <token>Čekam</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p9w2">
+               <token>na</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p9w3">
+               <token>tvůj</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p9w4">
+               <token>dopis</token>
+            </w>
+            <w id="a-KKOL_AN_006_t_1-d1p9w5">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p9e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p9w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p9w1</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p9e1">
+            <from>w#w-KKOL_AN_006_t_1-d1p9w2</from>
+            <to>a-KKOL_AN_006_t_1-d1p9w2</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p9e2">
+            <from>w#w-KKOL_AN_006_t_1-d1p9w3</from>
+            <to>a-KKOL_AN_006_t_1-d1p9w3</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p9e3">
+            <from>w#w-KKOL_AN_006_t_1-d1p9w4</from>
+            <to>a-KKOL_AN_006_t_1-d1p9w4</to>
+         </edge>
+         <edge id="a-KKOL_AN_006_t_1-d1p9e4">
+            <from>w#w-KKOL_AN_006_t_1-d1p9w5</from>
+            <to>a-KKOL_AN_006_t_1-d1p9w5</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AN_006_t_1-d1p10" lowerpara.rf="w#w-KKOL_AN_006_t_1-d1p10">
+         <s id="a-KKOL_AN_006_t_1-d1p10s0">
+            <w id="a-KKOL_AN_006_t_1-d1p10w1">
+               <token>Eva</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AN_006_t_1-d1p10e0">
+            <from>w#w-KKOL_AN_006_t_1-d1p10w1</from>
+            <to>a-KKOL_AN_006_t_1-d1p10w1</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

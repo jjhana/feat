@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="UH_AA_039_t_1 RUS.html"/>
+         <reffile id="i" href="UH_AA_039_t_1 RUS.jpg"/>
+      </references>
+   </head>
+   <doc id="w-UH_AA_039_t_1 RUS-d1">
+      <para id="w-UH_AA_039_t_1 RUS-d1p1">
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w1">
+            <token>Každý</token>
+            <original_position from="5" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w2">
+            <token>člověk</token>
+            <original_position from="11" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w3">
+            <token>chci</token>
+            <original_position from="18" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w4">
+            <token>být</token>
+            <original_position from="23" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w5">
+            <token>zdravým</token>
+            <original_position from="27" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w6">
+            <token>,</token>
+            <original_position from="34" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w7">
+            <token>ale</token>
+            <original_position from="36" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w8">
+            <token>udělat</token>
+            <original_position from="40" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w9">
+            <token>to</token>
+            <original_position from="47" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w10">
+            <token>není</token>
+            <original_position from="50" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w11">
+            <token>tak</token>
+            <original_position from="55" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w12">
+            <token>lehke</token>
+            <original_position from="59" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w13">
+            <token>.</token>
+            <original_position from="64" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w14">
+            <token>Dnešní</token>
+            <original_position from="67" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w15">
+            <token>život</token>
+            <original_position from="74" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w16">
+            <token>má</token>
+            <original_position from="80" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w17">
+            <token>velké</token>
+            <original_position from="83" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w18">
+            <token>problemy</token>
+            <original_position from="89" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w19">
+            <token>,</token>
+            <original_position from="97" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w20">
+            <token>které</token>
+            <original_position from="99" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w21">
+            <token>lidé</token>
+            <original_position from="105" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w22">
+            <token>chtejí</token>
+            <original_position from="110" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w23">
+            <token>řešit</token>
+            <original_position from="117" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w24">
+            <token>.</token>
+            <original_position from="122" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w25">
+            <token>Myslím</token>
+            <original_position from="125" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w26">
+            <token>,</token>
+            <original_position from="131" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w27">
+            <token>že</token>
+            <original_position from="133" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w28">
+            <token>náš</token>
+            <original_position from="136" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w29">
+            <token>jídelníček</token>
+            <original_position from="140" len="10"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w30">
+            <token>musí</token>
+            <original_position from="151" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w31">
+            <token>být</token>
+            <original_position from="156" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w32">
+            <token>takovým</token>
+            <original_position from="160" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w33">
+            <token>:</token>
+            <original_position from="167" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w34">
+            <token>rano</token>
+            <original_position from="169" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w35">
+            <token>–</token>
+            <original_position from="174" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w36">
+            <token>tvoroh</token>
+            <original_position from="176" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w37">
+            <token>nebo</token>
+            <original_position from="183" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w38">
+            <token>neco</token>
+            <original_position from="188" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w39">
+            <token>mlečného</token>
+            <original_position from="193" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w40">
+            <token>,</token>
+            <original_position from="201" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w41">
+            <token>pak</token>
+            <original_position from="203" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w42">
+            <token>–</token>
+            <original_position from="207" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w43">
+            <token>maso</token>
+            <original_position from="209" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w44">
+            <token>,</token>
+            <original_position from="213" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w45">
+            <token>večer</token>
+            <original_position from="215" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w46">
+            <token>–</token>
+            <original_position from="221" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w47">
+            <token>zelenina</token>
+            <original_position from="223" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w48">
+            <token>.</token>
+            <original_position from="231" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w49">
+            <token>Vím</token>
+            <original_position from="234" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w50">
+            <token>,</token>
+            <original_position from="237" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w51">
+            <token>že</token>
+            <original_position from="239" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w52">
+            <token>člověk</token>
+            <original_position from="242" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w53">
+            <token>musí</token>
+            <original_position from="249" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w54">
+            <token>jíst</token>
+            <original_position from="254" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w55">
+            <token>každý</token>
+            <original_position from="259" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w56">
+            <token>den</token>
+            <original_position from="265" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w57">
+            <token>5</token>
+            <original_position from="269" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w58">
+            <token>nebo</token>
+            <original_position from="271" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w59">
+            <token>6</token>
+            <original_position from="276" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w60">
+            <token>,</token>
+            <original_position from="277" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w61">
+            <token>pít</token>
+            <original_position from="279" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w62">
+            <token>2</token>
+            <original_position from="283" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w63">
+            <token>litru</token>
+            <original_position from="285" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w64">
+            <token>vody</token>
+            <original_position from="291" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w65">
+            <token>.</token>
+            <original_position from="295" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w66">
+            <token>R{ú|ů}zdé</token>
+            <original_position from="298" len="9"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w67">
+            <token>návody</token>
+            <original_position from="308" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w68">
+            <token>mají</token>
+            <original_position from="315" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w69">
+            <token>ruzné</token>
+            <original_position from="320" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w70">
+            <token>životní</token>
+            <original_position from="326" len="7"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w71">
+            <token>styly</token>
+            <original_position from="334" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w72">
+            <token>.</token>
+            <original_position from="339" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w73">
+            <token>Napr</token>
+            <original_position from="342" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w74">
+            <token>.</token>
+            <original_position from="346" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w75">
+            <token>v</token>
+            <original_position from="348" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w76">
+            <token>Rusku</token>
+            <original_position from="350" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w77">
+            <token>lidé</token>
+            <original_position from="356" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w78">
+            <token>potřebují</token>
+            <original_position from="361" len="9"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w79">
+            <token>mnoha</token>
+            <original_position from="371" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w80">
+            <token>masa</token>
+            <original_position from="377" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w81">
+            <token>a</token>
+            <original_position from="382" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w82">
+            <token>ryby</token>
+            <original_position from="384" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w83">
+            <token>,</token>
+            <original_position from="388" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w84">
+            <token>v</token>
+            <original_position from="390" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w85">
+            <token>Anglii</token>
+            <original_position from="392" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w86">
+            <token>–</token>
+            <original_position from="399" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w87">
+            <token>ovoce</token>
+            <original_position from="401" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w88">
+            <token>a</token>
+            <original_position from="407" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w89">
+            <token>zeleninu</token>
+            <original_position from="409" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w90">
+            <token>,</token>
+            <original_position from="417" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w91">
+            <token>v</token>
+            <original_position from="419" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w92">
+            <token>Americe</token>
+            <original_position from="421" len="7"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w93">
+            <token>–</token>
+            <original_position from="429" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w94">
+            <token>fastfood</token>
+            <original_position from="431" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p1w95">
+            <token>.</token>
+            <original_position from="439" len="1"/>
+         </w>
+      </para>
+      <para id="w-UH_AA_039_t_1 RUS-d1p2">
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w1">
+            <token>Líbí</token>
+            <original_position from="444" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w2">
+            <token>se</token>
+            <original_position from="449" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w3">
+            <token>mi</token>
+            <original_position from="452" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w4">
+            <token>sport</token>
+            <original_position from="455" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w5">
+            <token>a</token>
+            <original_position from="461" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w6">
+            <token>zdravá</token>
+            <original_position from="463" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w7">
+            <token>jídla</token>
+            <original_position from="470" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w8">
+            <token>.</token>
+            <original_position from="475" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w9">
+            <token>Jím</token>
+            <original_position from="478" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w10">
+            <token>často</token>
+            <original_position from="482" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w11">
+            <token>,</token>
+            <original_position from="487" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w12">
+            <token>ale</token>
+            <original_position from="489" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w13">
+            <token>pomalu</token>
+            <original_position from="493" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w14">
+            <token>.</token>
+            <original_position from="499" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w15">
+            <token>kupuju</token>
+            <original_position from="502" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w16">
+            <token>každý</token>
+            <original_position from="509" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w17">
+            <token>den</token>
+            <original_position from="515" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w18">
+            <token>ovoce</token>
+            <original_position from="519" len="5"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w19">
+            <token>(</token>
+            <original_position from="525" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w20">
+            <token>jablka</token>
+            <original_position from="526" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w21">
+            <token>,</token>
+            <original_position from="532" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w22">
+            <token>pomeranče</token>
+            <original_position from="534" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w23">
+            <token>,</token>
+            <original_position from="543" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w24">
+            <token>banany</token>
+            <original_position from="545" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w25">
+            <token>)</token>
+            <original_position from="551" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w26">
+            <token>,</token>
+            <original_position from="552" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w27">
+            <token>zeleninu</token>
+            <original_position from="554" len="8"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w28">
+            <token>(</token>
+            <original_position from="563" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w29">
+            <token>okurky</token>
+            <original_position from="564" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w30">
+            <token>,</token>
+            <original_position from="570" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w31">
+            <token>brokoly</token>
+            <original_position from="572" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w32">
+            <token>,</token>
+            <original_position from="579" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w33">
+            <token>tomaty</token>
+            <original_position from="581" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w34">
+            <token>)</token>
+            <original_position from="587" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w35">
+            <token>,</token>
+            <original_position from="588" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w36">
+            <token>neperlívou</token>
+            <original_position from="590" len="10"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w37">
+            <token>vodu</token>
+            <original_position from="601" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w38">
+            <token>,</token>
+            <original_position from="605" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w39">
+            <token>maso</token>
+            <original_position from="607" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w40">
+            <token>(</token>
+            <original_position from="612" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w41">
+            <token>častejí</token>
+            <original_position from="613" len="7"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w42">
+            <token>kuře</token>
+            <original_position from="621" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w43">
+            <token>)</token>
+            <original_position from="625" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w44">
+            <token>a</token>
+            <original_position from="627" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w45">
+            <token>nějaké</token>
+            <original_position from="629" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w46">
+            <token>mlečné</token>
+            <original_position from="636" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w47">
+            <token>výrobky</token>
+            <original_position from="643" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w48">
+            <token>.</token>
+            <original_position from="650" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w49">
+            <token>Mýslím</token>
+            <original_position from="653" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w50">
+            <token>,</token>
+            <original_position from="659" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w51">
+            <token>že</token>
+            <original_position from="661" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w52">
+            <token>v</token>
+            <original_position from="664" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w53">
+            <token>dnešní</token>
+            <original_position from="666" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w54">
+            <token>době</token>
+            <original_position from="673" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w55">
+            <token>být</token>
+            <original_position from="678" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w56">
+            <token>zdravým</token>
+            <original_position from="682" len="7"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w57">
+            <token>není</token>
+            <original_position from="690" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w58">
+            <token>možno</token>
+            <original_position from="695" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w59">
+            <token>.</token>
+            <original_position from="700" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w60">
+            <token>Protože</token>
+            <original_position from="703" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w61">
+            <token>,</token>
+            <original_position from="710" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w62">
+            <token>jím</token>
+            <original_position from="712" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w63">
+            <token>,</token>
+            <original_position from="715" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w64">
+            <token>spím</token>
+            <original_position from="717" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w65">
+            <token>,</token>
+            <original_position from="721" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w66">
+            <token>piju</token>
+            <original_position from="723" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w67">
+            <token>,</token>
+            <original_position from="727" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w68">
+            <token>sportuju</token>
+            <original_position from="729" len="8"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w69">
+            <token>spravně</token>
+            <original_position from="738" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w70">
+            <token>,</token>
+            <original_position from="745" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w71">
+            <token>ale</token>
+            <original_position from="747" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w72">
+            <token>bydlím</token>
+            <original_position from="751" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w73">
+            <token>ve</token>
+            <original_position from="758" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w74">
+            <token>městě</token>
+            <original_position from="761" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w75">
+            <token>,</token>
+            <original_position from="766" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w76">
+            <token>kde</token>
+            <original_position from="768" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w77">
+            <token>jsou</token>
+            <original_position from="772" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w78">
+            <token>dost</token>
+            <original_position from="777" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w79">
+            <token>aut</token>
+            <original_position from="782" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w80">
+            <token>,</token>
+            <original_position from="785" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w81">
+            <token>odpadků</token>
+            <original_position from="787" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w82">
+            <token>,</token>
+            <original_position from="794" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w83">
+            <token>vzdůch</token>
+            <original_position from="796" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w84">
+            <token>tady</token>
+            <original_position from="803" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w85">
+            <token>není</token>
+            <original_position from="808" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w86">
+            <token>čístý</token>
+            <original_position from="813" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w87">
+            <token>,</token>
+            <original_position from="818" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w88">
+            <token>voda</token>
+            <original_position from="820" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w89">
+            <token>take</token>
+            <original_position from="825" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p2w90">
+            <token>.</token>
+            <original_position from="829" len="1"/>
+         </w>
+      </para>
+      <para id="w-UH_AA_039_t_1 RUS-d1p3">
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w1">
+            <token>Doufám</token>
+            <original_position from="833" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w2">
+            <token>,</token>
+            <original_position from="839" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w3">
+            <token>že</token>
+            <original_position from="841" len="2"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w4">
+            <token>všechno</token>
+            <original_position from="844" len="7"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w5">
+            <token>bude</token>
+            <original_position from="852" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w6">
+            <token>lépé</token>
+            <original_position from="857" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w7">
+            <token>,</token>
+            <original_position from="861" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w8">
+            <token>aby</token>
+            <original_position from="863" len="3"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w9">
+            <token>mojí</token>
+            <original_position from="867" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w10">
+            <token>děti</token>
+            <original_position from="872" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w11">
+            <token>měli</token>
+            <original_position from="877" len="4"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w12">
+            <token>zdravý</token>
+            <original_position from="882" len="6"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w13">
+            <token>a</token>
+            <original_position from="889" len="1"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w14">
+            <token>štastný</token>
+            <original_position from="891" len="7"/>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w15">
+            <token>žívot</token>
+            <original_position from="899" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-UH_AA_039_t_1 RUS-d1p3w16">
+            <token>.</token>
+            <original_position from="904" len="1"/>
+         </w>
+      </para>
+      <corrections>
+      </corrections>
+   </doc>
+</wdata>

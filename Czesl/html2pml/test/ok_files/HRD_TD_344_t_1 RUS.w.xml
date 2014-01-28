@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="HRD_TD_344_t_1 RUS.html"/>
+         <reffile id="i" href="HRD_TD_344_t_1 RUS.jpg"/>
+      </references>
+   </head>
+   <doc id="w-HRD_TD_344_t_1 RUS-d1">
+      <para id="w-HRD_TD_344_t_1 RUS-d1p1">
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w1">
+            <token>Co</token>
+            <original_position from="5" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w2">
+            <token>je</token>
+            <original_position from="8" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w3">
+            <token>pro</token>
+            <original_position from="11" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w4">
+            <token>mě</token>
+            <original_position from="15" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w5">
+            <token>v</token>
+            <original_position from="18" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w6">
+            <token>životě</token>
+            <original_position from="20" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w7">
+            <token>nejduležitější</token>
+            <original_position from="27" len="14"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p1w8">
+            <token>.</token>
+            <original_position from="41" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_TD_344_t_1 RUS-d1p2">
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w1">
+            <token>Ve</token>
+            <original_position from="45" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w2">
+            <token>svém</token>
+            <original_position from="48" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w3">
+            <token>životě</token>
+            <original_position from="53" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w4">
+            <token>,</token>
+            <original_position from="59" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w5">
+            <token>je</token>
+            <original_position from="61" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w6">
+            <token>hodně</token>
+            <original_position from="64" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w7">
+            <token>věci</token>
+            <original_position from="70" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w8">
+            <token>pro</token>
+            <original_position from="75" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w9">
+            <token>mě</token>
+            <original_position from="79" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w10">
+            <token>je</token>
+            <original_position from="82" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w11">
+            <token>důležitý</token>
+            <original_position from="85" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w12">
+            <token>.</token>
+            <original_position from="93" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w13">
+            <token>Je</token>
+            <original_position from="96" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w14">
+            <token>těžko</token>
+            <original_position from="99" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w15">
+            <token>říct</token>
+            <original_position from="105" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w16">
+            <token>,</token>
+            <original_position from="109" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w17">
+            <token>co</token>
+            <original_position from="111" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w18">
+            <token>je</token>
+            <original_position from="114" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w19">
+            <token>pro</token>
+            <original_position from="117" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w20">
+            <token>mě</token>
+            <original_position from="121" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w21">
+            <token>nejdůležitější</token>
+            <original_position from="124" len="14"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w22">
+            <token>.</token>
+            <original_position from="138" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w23">
+            <token>Například</token>
+            <original_position from="141" len="9"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w24">
+            <token>rodina</token>
+            <original_position from="151" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w25">
+            <token>.</token>
+            <original_position from="157" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w26">
+            <token>Rodina</token>
+            <original_position from="160" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w27">
+            <token>pro</token>
+            <original_position from="167" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w28">
+            <token>mě</token>
+            <original_position from="171" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w29">
+            <token>je</token>
+            <original_position from="174" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w30">
+            <token>velmi</token>
+            <original_position from="177" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w31">
+            <token>důležitá</token>
+            <original_position from="183" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w32">
+            <token>.</token>
+            <original_position from="191" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w33">
+            <token>Kdo</token>
+            <original_position from="194" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w34">
+            <token>nám</token>
+            <original_position from="198" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w35">
+            <token>dá</token>
+            <original_position from="202" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w36">
+            <token>nejvíce</token>
+            <original_position from="205" len="7"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w37">
+            <token>na</token>
+            <original_position from="213" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w38">
+            <token>světě</token>
+            <original_position from="216" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w39">
+            <token>?</token>
+            <original_position from="221" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w40">
+            <token>jsou</token>
+            <original_position from="224" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w41">
+            <token>rodiče</token>
+            <original_position from="229" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w42">
+            <token>.</token>
+            <original_position from="235" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w43">
+            <token>Myslí</token>
+            <original_position from="238" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w44">
+            <token>si</token>
+            <original_position from="244" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w45">
+            <token>,</token>
+            <original_position from="246" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w46">
+            <token>že</token>
+            <original_position from="248" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w47">
+            <token>jsem</token>
+            <original_position from="251" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w48">
+            <token>nemohla</token>
+            <original_position from="256" len="7"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w49">
+            <token>bez</token>
+            <original_position from="289" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w50">
+            <token>rodiče</token>
+            <original_position from="293" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w51">
+            <token>dobře</token>
+            <original_position from="300" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w52">
+            <token>žit</token>
+            <original_position from="306" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w53">
+            <token>,</token>
+            <original_position from="310" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w54">
+            <token>když</token>
+            <original_position from="312" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w55">
+            <token>jsem</token>
+            <original_position from="317" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w56">
+            <token>nedospěla</token>
+            <original_position from="322" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w57">
+            <token>.</token>
+            <original_position from="331" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w58">
+            <token>A</token>
+            <original_position from="334" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w59">
+            <token>koho</token>
+            <original_position from="342" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w60">
+            <token>ještě</token>
+            <original_position from="347" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w61">
+            <token>potřebuje</token>
+            <original_position from="353" len="9"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w62">
+            <token>člověk</token>
+            <original_position from="363" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w63">
+            <token>kromě</token>
+            <original_position from="370" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w64">
+            <token>rodiče</token>
+            <original_position from="376" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w65">
+            <token>?</token>
+            <original_position from="382" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w66">
+            <token>jsou</token>
+            <original_position from="385" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w67">
+            <token>kamarádi</token>
+            <original_position from="390" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w68">
+            <token>.</token>
+            <original_position from="398" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w69">
+            <token>Když</token>
+            <original_position from="401" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w70">
+            <token>s</token>
+            <original_position from="406" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w71">
+            <token>kamarády</token>
+            <original_position from="408" len="8"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w72">
+            <token>někam</token>
+            <original_position from="417" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w73">
+            <token>půjde</token>
+            <original_position from="423" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w74">
+            <token>,</token>
+            <original_position from="428" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w75">
+            <token>tak</token>
+            <original_position from="430" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w76">
+            <token>může</token>
+            <original_position from="434" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w77">
+            <token>zapomenout</token>
+            <original_position from="439" len="10"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w78">
+            <token>hodně</token>
+            <original_position from="450" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w79">
+            <token>špatných</token>
+            <original_position from="456" len="8"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w80">
+            <token>věcí</token>
+            <original_position from="465" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w81">
+            <token>.</token>
+            <original_position from="469" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w82">
+            <token>Když</token>
+            <original_position from="472" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w83">
+            <token>jsem</token>
+            <original_position from="477" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w84">
+            <token>byla</token>
+            <original_position from="482" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w85">
+            <token>v</token>
+            <original_position from="487" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w86">
+            <token>Praze</token>
+            <original_position from="489" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w87">
+            <token>poprvé</token>
+            <original_position from="495" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w88">
+            <token>,</token>
+            <original_position from="501" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w89">
+            <token>citila</token>
+            <original_position from="503" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w90">
+            <token>jsem</token>
+            <original_position from="510" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w91">
+            <token>velmi</token>
+            <original_position from="515" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w92">
+            <token>špatně</token>
+            <original_position from="521" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w93">
+            <token>.</token>
+            <original_position from="527" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w94">
+            <token>Vůbec</token>
+            <original_position from="530" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w95">
+            <token>jsem</token>
+            <original_position from="536" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w96">
+            <token>nemohla</token>
+            <original_position from="541" len="7"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w97">
+            <token>tady</token>
+            <original_position from="549" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w98">
+            <token>zvyknout</token>
+            <original_position from="554" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w99">
+            <token>.</token>
+            <original_position from="562" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w100">
+            <token>Je</token>
+            <original_position from="565" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w101">
+            <token>tady</token>
+            <original_position from="568" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w102">
+            <token>všechno</token>
+            <original_position from="573" len="7"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w103">
+            <token>pro</token>
+            <original_position from="581" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w104">
+            <token>mě</token>
+            <original_position from="585" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w105">
+            <token>jako</token>
+            <original_position from="588" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w106">
+            <token>cízí</token>
+            <original_position from="593" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w107">
+            <token>.</token>
+            <original_position from="597" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w108">
+            <token>Když</token>
+            <original_position from="600" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w109">
+            <token>jsem</token>
+            <original_position from="605" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w110">
+            <token>začala</token>
+            <original_position from="610" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w111">
+            <token>chodit</token>
+            <original_position from="617" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w112">
+            <token>do</token>
+            <original_position from="624" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w113">
+            <token>školy</token>
+            <original_position from="627" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w114">
+            <token>,</token>
+            <original_position from="632" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w115">
+            <token>začala</token>
+            <original_position from="634" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w116">
+            <token>jsem</token>
+            <original_position from="641" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w117">
+            <token>se</token>
+            <original_position from="646" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w118">
+            <token>seznamit</token>
+            <original_position from="649" len="8"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w119">
+            <token>kamarády</token>
+            <original_position from="658" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w120">
+            <token>.</token>
+            <original_position from="666" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w121">
+            <token>Oni</token>
+            <original_position from="669" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w122">
+            <token>mě</token>
+            <original_position from="673" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w123">
+            <token>hodně</token>
+            <original_position from="676" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w124">
+            <token>učili</token>
+            <original_position from="682" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w125">
+            <token>a</token>
+            <original_position from="688" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w126">
+            <token>pomohli</token>
+            <original_position from="690" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w127">
+            <token>.</token>
+            <original_position from="697" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w128">
+            <token>Proto</token>
+            <original_position from="700" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w129">
+            <token>si</token>
+            <original_position from="706" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w130">
+            <token>myslím</token>
+            <original_position from="709" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w131">
+            <token>,</token>
+            <original_position from="715" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w132">
+            <token>že</token>
+            <original_position from="717" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w133">
+            <token>kamarádi</token>
+            <original_position from="720" len="9"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w134">
+            <token>ve</token>
+            <original_position from="730" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w135">
+            <token>svém</token>
+            <original_position from="733" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w136">
+            <token>životě</token>
+            <original_position from="738" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w137">
+            <token>jsou</token>
+            <original_position from="745" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w138">
+            <token>důležití</token>
+            <original_position from="750" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w139">
+            <token>.</token>
+            <original_position from="758" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w140">
+            <token>A</token>
+            <original_position from="761" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w141">
+            <token>pak</token>
+            <original_position from="763" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w142">
+            <token>jsou</token>
+            <original_position from="767" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w143">
+            <token>znalosti</token>
+            <original_position from="772" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w144">
+            <token>.</token>
+            <original_position from="780" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w145">
+            <token>Když</token>
+            <original_position from="783" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w146">
+            <token>lidé</token>
+            <original_position from="788" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w147">
+            <token>byli</token>
+            <original_position from="793" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w148">
+            <token>malí</token>
+            <original_position from="798" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w149">
+            <token>,</token>
+            <original_position from="802" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w150">
+            <token>taky</token>
+            <original_position from="804" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w151">
+            <token>začali</token>
+            <original_position from="809" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w152">
+            <token>chodit</token>
+            <original_position from="816" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w153">
+            <token>do</token>
+            <original_position from="823" len="2"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w154">
+            <token>školy</token>
+            <original_position from="830" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w155">
+            <token>,</token>
+            <original_position from="835" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w156">
+            <token>aby</token>
+            <original_position from="837" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w157">
+            <token>studovali</token>
+            <original_position from="841" len="9"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w158">
+            <token>hodně</token>
+            <original_position from="851" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w159">
+            <token>věcí</token>
+            <original_position from="857" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w160">
+            <token>,</token>
+            <original_position from="861" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w161">
+            <token>kteří</token>
+            <original_position from="863" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w162">
+            <token>nejena</token>
+            <original_position from="869" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w163">
+            <token>v</token>
+            <original_position from="876" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w164">
+            <token>knihách</token>
+            <original_position from="878" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w165">
+            <token>,</token>
+            <original_position from="885" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w166">
+            <token>a</token>
+            <original_position from="887" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w167">
+            <token>ještě</token>
+            <original_position from="889" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w168">
+            <token>v</token>
+            <original_position from="895" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w169">
+            <token>životě</token>
+            <original_position from="897" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w170">
+            <token>.</token>
+            <original_position from="903" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w171">
+            <token>Studovali</token>
+            <original_position from="906" len="14"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w172">
+            <token>jsme</token>
+            <original_position from="922" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w173">
+            <token>hodně</token>
+            <original_position from="932" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w174">
+            <token>věcí</token>
+            <original_position from="938" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w175">
+            <token>a</token>
+            <original_position from="943" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w176">
+            <token>cizí</token>
+            <original_position from="945" len="4"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w177">
+            <token>jazyky</token>
+            <original_position from="950" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w178">
+            <token>,</token>
+            <original_position from="956" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w179">
+            <token>abychom</token>
+            <original_position from="958" len="8"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w180">
+            <token>hledali</token>
+            <original_position from="967" len="7"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w181">
+            <token>dobrou</token>
+            <original_position from="975" len="6"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w182">
+            <token>práci</token>
+            <original_position from="982" len="5"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w183">
+            <token>a</token>
+            <original_position from="988" len="1"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w184">
+            <token>tak</token>
+            <original_position from="990" len="3"/>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w185">
+            <token>dál</token>
+            <original_position from="994" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_344_t_1 RUS-d1p2w186">
+            <token>.</token>
+            <original_position from="997" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-HRD_TD_344_t_1 RUS-cor-del1">
+            <from>w-HRD_TD_344_t_1 RUS-d1p2w58</from>
+            <orig>ještě</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_344_t_1 RUS-cor-del2">
+            <from>w-HRD_TD_344_t_1 RUS-d1p2w153</from>
+            <orig>šlo</orig>
+         </deleted>
+         <change id="w-HRD_TD_344_t_1 RUS-cor-change1">
+            <old>dobře žit bez rodiče</old>
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w49</token>
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w50</token>
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w51</token>
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w52</token>
+         </change>
+         <change id="w-HRD_TD_344_t_1 RUS-cor-change2">
+            <old>kamarádyi</old>
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w133</token>
+         </change>
+         <change id="w-HRD_TD_344_t_1 RUS-cor-change3">
+            <old>Studujemeovali</old>
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w171</token>
+         </change>
+         <change id="w-HRD_TD_344_t_1 RUS-cor-change4">
+            <old>abyschom</old>
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w179</token>
+         </change>
+         <insert id="w-HRD_TD_344_t_1 RUS-cor-in1">
+            <token>w-HRD_TD_344_t_1 RUS-d1p2w172</token>
+         </insert>
+      </corrections>
+   </doc>
+</wdata>
