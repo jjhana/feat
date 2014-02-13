@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.purl.jh.feat.sconfigui
+OpenIDE-Module-Localizing-Bundle: org/purl/jh/feat/sconfigui/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
