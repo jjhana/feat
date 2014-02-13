@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="HRD_JG_007_t_1.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-HRD_JG_007_t_1-d1" lowerdoc.rf="w#w-HRD_JG_007_t_1-d1">
+      <para id="a-HRD_JG_007_t_1-d1p1" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p1">
+         <s id="a-HRD_JG_007_t_1-d1p1s0">
+            <w id="a-HRD_JG_007_t_1-d1p1w1">
+               <token>ČEŠTINA</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p1w2">
+               <token>A</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p1w3">
+               <token>JÁ</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p1e0">
+            <from>w#w-HRD_JG_007_t_1-d1p1w1</from>
+            <to>a-HRD_JG_007_t_1-d1p1w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p1e1">
+            <from>w#w-HRD_JG_007_t_1-d1p1w2</from>
+            <to>a-HRD_JG_007_t_1-d1p1w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p1e2">
+            <from>w#w-HRD_JG_007_t_1-d1p1w3</from>
+            <to>a-HRD_JG_007_t_1-d1p1w3</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p2" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p2">
+         <s id="a-HRD_JG_007_t_1-d1p2s0">
+            <w id="a-HRD_JG_007_t_1-d1p2w1">
+               <token>Chtěla</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w2">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w3">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w4">
+               <token>uči</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w5">
+               <token>(</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w6">
+               <token>r/t</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w7">
+               <token>)</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w8">
+               <token>češtinu</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w9">
+               <token>když</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w10">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w11">
+               <token>přijela</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p2w12">
+               <token>poprvé</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p2e0">
+            <from>w#w-HRD_JG_007_t_1-d1p2w1</from>
+            <to>a-HRD_JG_007_t_1-d1p2w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e1">
+            <from>w#w-HRD_JG_007_t_1-d1p2w2</from>
+            <to>a-HRD_JG_007_t_1-d1p2w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e2">
+            <from>w#w-HRD_JG_007_t_1-d1p2w3</from>
+            <to>a-HRD_JG_007_t_1-d1p2w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e3">
+            <from>w#w-HRD_JG_007_t_1-d1p2w4</from>
+            <to>a-HRD_JG_007_t_1-d1p2w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e4">
+            <from>w#w-HRD_JG_007_t_1-d1p2w5</from>
+            <to>a-HRD_JG_007_t_1-d1p2w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e5">
+            <from>w#w-HRD_JG_007_t_1-d1p2w6</from>
+            <to>a-HRD_JG_007_t_1-d1p2w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e6">
+            <from>w#w-HRD_JG_007_t_1-d1p2w7</from>
+            <to>a-HRD_JG_007_t_1-d1p2w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e7">
+            <from>w#w-HRD_JG_007_t_1-d1p2w8</from>
+            <to>a-HRD_JG_007_t_1-d1p2w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e8">
+            <from>w#w-HRD_JG_007_t_1-d1p2w9</from>
+            <to>a-HRD_JG_007_t_1-d1p2w9</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e9">
+            <from>w#w-HRD_JG_007_t_1-d1p2w10</from>
+            <to>a-HRD_JG_007_t_1-d1p2w10</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e10">
+            <from>w#w-HRD_JG_007_t_1-d1p2w11</from>
+            <to>a-HRD_JG_007_t_1-d1p2w11</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p2e11">
+            <from>w#w-HRD_JG_007_t_1-d1p2w12</from>
+            <to>a-HRD_JG_007_t_1-d1p2w12</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p3" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p3">
+         <s id="a-HRD_JG_007_t_1-d1p3s0">
+            <w id="a-HRD_JG_007_t_1-d1p3w1">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w2">
+               <token>Praze</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w3">
+               <token>.</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w4">
+               <token>Je</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w5">
+               <token>to</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w6">
+               <token>jazyk</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w7">
+               <token>uplně</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w8">
+               <token>jiná</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w9">
+               <token>od</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w10">
+               <token>francousky</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p3w11">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p3e0">
+            <from>w#w-HRD_JG_007_t_1-d1p3w1</from>
+            <to>a-HRD_JG_007_t_1-d1p3w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e1">
+            <from>w#w-HRD_JG_007_t_1-d1p3w2</from>
+            <to>a-HRD_JG_007_t_1-d1p3w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e2">
+            <from>w#w-HRD_JG_007_t_1-d1p3w3</from>
+            <to>a-HRD_JG_007_t_1-d1p3w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e3">
+            <from>w#w-HRD_JG_007_t_1-d1p3w4</from>
+            <to>a-HRD_JG_007_t_1-d1p3w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e4">
+            <from>w#w-HRD_JG_007_t_1-d1p3w5</from>
+            <to>a-HRD_JG_007_t_1-d1p3w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e5">
+            <from>w#w-HRD_JG_007_t_1-d1p3w6</from>
+            <to>a-HRD_JG_007_t_1-d1p3w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e6">
+            <from>w#w-HRD_JG_007_t_1-d1p3w7</from>
+            <to>a-HRD_JG_007_t_1-d1p3w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e7">
+            <from>w#w-HRD_JG_007_t_1-d1p3w8</from>
+            <to>a-HRD_JG_007_t_1-d1p3w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e8">
+            <from>w#w-HRD_JG_007_t_1-d1p3w9</from>
+            <to>a-HRD_JG_007_t_1-d1p3w9</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e9">
+            <from>w#w-HRD_JG_007_t_1-d1p3w10</from>
+            <to>a-HRD_JG_007_t_1-d1p3w10</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p3e10">
+            <from>w#w-HRD_JG_007_t_1-d1p3w11</from>
+            <to>a-HRD_JG_007_t_1-d1p3w11</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p4" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p4">
+         <s id="a-HRD_JG_007_t_1-d1p4s0">
+            <w id="a-HRD_JG_007_t_1-d1p4w1">
+               <token>Koupila</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p4w2">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p4w3">
+               <token>si</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p4w4">
+               <token>knihu</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p4w5">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p4w6">
+               <token>naučila</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p4w7">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p4w8">
+               <token>zakládní</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p4e0">
+            <from>w#w-HRD_JG_007_t_1-d1p4w1</from>
+            <to>a-HRD_JG_007_t_1-d1p4w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p4e1">
+            <from>w#w-HRD_JG_007_t_1-d1p4w2</from>
+            <to>a-HRD_JG_007_t_1-d1p4w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p4e2">
+            <from>w#w-HRD_JG_007_t_1-d1p4w3</from>
+            <to>a-HRD_JG_007_t_1-d1p4w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p4e3">
+            <from>w#w-HRD_JG_007_t_1-d1p4w4</from>
+            <to>a-HRD_JG_007_t_1-d1p4w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p4e4">
+            <from>w#w-HRD_JG_007_t_1-d1p4w5</from>
+            <to>a-HRD_JG_007_t_1-d1p4w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p4e5">
+            <from>w#w-HRD_JG_007_t_1-d1p4w6</from>
+            <to>a-HRD_JG_007_t_1-d1p4w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p4e6">
+            <from>w#w-HRD_JG_007_t_1-d1p4w7</from>
+            <to>a-HRD_JG_007_t_1-d1p4w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p4e7">
+            <from>w#w-HRD_JG_007_t_1-d1p4w8</from>
+            <to>a-HRD_JG_007_t_1-d1p4w8</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p5" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p5">
+         <s id="a-HRD_JG_007_t_1-d1p5s0">
+            <w id="a-HRD_JG_007_t_1-d1p5w1">
+               <token>slovní</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w2">
+               <token>zásobu</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w3">
+               <token>.</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w4">
+               <token>Potom</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w5">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w6">
+               <token>začala</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w7">
+               <token>studova</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w8">
+               <token>(</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w9">
+               <token>r/t</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w10">
+               <token>)</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p5w11">
+               <token>češtinu</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p5e0">
+            <from>w#w-HRD_JG_007_t_1-d1p5w1</from>
+            <to>a-HRD_JG_007_t_1-d1p5w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e1">
+            <from>w#w-HRD_JG_007_t_1-d1p5w2</from>
+            <to>a-HRD_JG_007_t_1-d1p5w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e2">
+            <from>w#w-HRD_JG_007_t_1-d1p5w3</from>
+            <to>a-HRD_JG_007_t_1-d1p5w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e3">
+            <from>w#w-HRD_JG_007_t_1-d1p5w4</from>
+            <to>a-HRD_JG_007_t_1-d1p5w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e4">
+            <from>w#w-HRD_JG_007_t_1-d1p5w5</from>
+            <to>a-HRD_JG_007_t_1-d1p5w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e5">
+            <from>w#w-HRD_JG_007_t_1-d1p5w6</from>
+            <to>a-HRD_JG_007_t_1-d1p5w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e6">
+            <from>w#w-HRD_JG_007_t_1-d1p5w7</from>
+            <to>a-HRD_JG_007_t_1-d1p5w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e7">
+            <from>w#w-HRD_JG_007_t_1-d1p5w8</from>
+            <to>a-HRD_JG_007_t_1-d1p5w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e8">
+            <from>w#w-HRD_JG_007_t_1-d1p5w9</from>
+            <to>a-HRD_JG_007_t_1-d1p5w9</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e9">
+            <from>w#w-HRD_JG_007_t_1-d1p5w10</from>
+            <to>a-HRD_JG_007_t_1-d1p5w10</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p5e10">
+            <from>w#w-HRD_JG_007_t_1-d1p5w11</from>
+            <to>a-HRD_JG_007_t_1-d1p5w11</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p6" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p6">
+         <s id="a-HRD_JG_007_t_1-d1p6s0">
+            <w id="a-HRD_JG_007_t_1-d1p6w1">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w2">
+               <token>ULB</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w3">
+               <token>.</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w4">
+               <token>Taky</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w5">
+               <token>hodně</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w6">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w7">
+               <token>chodila</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w8">
+               <token>do</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w9">
+               <token>českého</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w10">
+               <token>centra</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p6w11">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p6e0">
+            <from>w#w-HRD_JG_007_t_1-d1p6w1</from>
+            <to>a-HRD_JG_007_t_1-d1p6w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e1">
+            <from>w#w-HRD_JG_007_t_1-d1p6w2</from>
+            <to>a-HRD_JG_007_t_1-d1p6w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e2">
+            <from>w#w-HRD_JG_007_t_1-d1p6w3</from>
+            <to>a-HRD_JG_007_t_1-d1p6w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e3">
+            <from>w#w-HRD_JG_007_t_1-d1p6w4</from>
+            <to>a-HRD_JG_007_t_1-d1p6w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e4">
+            <from>w#w-HRD_JG_007_t_1-d1p6w5</from>
+            <to>a-HRD_JG_007_t_1-d1p6w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e5">
+            <from>w#w-HRD_JG_007_t_1-d1p6w6</from>
+            <to>a-HRD_JG_007_t_1-d1p6w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e6">
+            <from>w#w-HRD_JG_007_t_1-d1p6w7</from>
+            <to>a-HRD_JG_007_t_1-d1p6w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e7">
+            <from>w#w-HRD_JG_007_t_1-d1p6w8</from>
+            <to>a-HRD_JG_007_t_1-d1p6w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e8">
+            <from>w#w-HRD_JG_007_t_1-d1p6w9</from>
+            <to>a-HRD_JG_007_t_1-d1p6w9</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e9">
+            <from>w#w-HRD_JG_007_t_1-d1p6w10</from>
+            <to>a-HRD_JG_007_t_1-d1p6w10</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p6e10">
+            <from>w#w-HRD_JG_007_t_1-d1p6w11</from>
+            <to>a-HRD_JG_007_t_1-d1p6w11</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p7" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p7">
+         <s id="a-HRD_JG_007_t_1-d1p7s0">
+            <w id="a-HRD_JG_007_t_1-d1p7w1">
+               <token>Mám</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w2">
+               <token>problémy</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w3">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w4">
+               <token>gramatikou</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w5">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w6">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w7">
+               <token>mám</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w8">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w9">
+               <token>literaturu</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p7w10">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p7e0">
+            <from>w#w-HRD_JG_007_t_1-d1p7w1</from>
+            <to>a-HRD_JG_007_t_1-d1p7w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e1">
+            <from>w#w-HRD_JG_007_t_1-d1p7w2</from>
+            <to>a-HRD_JG_007_t_1-d1p7w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e2">
+            <from>w#w-HRD_JG_007_t_1-d1p7w3</from>
+            <to>a-HRD_JG_007_t_1-d1p7w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e3">
+            <from>w#w-HRD_JG_007_t_1-d1p7w4</from>
+            <to>a-HRD_JG_007_t_1-d1p7w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e4">
+            <from>w#w-HRD_JG_007_t_1-d1p7w5</from>
+            <to>a-HRD_JG_007_t_1-d1p7w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e5">
+            <from>w#w-HRD_JG_007_t_1-d1p7w6</from>
+            <to>a-HRD_JG_007_t_1-d1p7w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e6">
+            <from>w#w-HRD_JG_007_t_1-d1p7w7</from>
+            <to>a-HRD_JG_007_t_1-d1p7w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e7">
+            <from>w#w-HRD_JG_007_t_1-d1p7w8</from>
+            <to>a-HRD_JG_007_t_1-d1p7w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e8">
+            <from>w#w-HRD_JG_007_t_1-d1p7w9</from>
+            <to>a-HRD_JG_007_t_1-d1p7w9</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p7e9">
+            <from>w#w-HRD_JG_007_t_1-d1p7w10</from>
+            <to>a-HRD_JG_007_t_1-d1p7w10</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p8" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p8">
+         <s id="a-HRD_JG_007_t_1-d1p8s0">
+            <w id="a-HRD_JG_007_t_1-d1p8w1">
+               <token>Neráda</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p8w2">
+               <token>studuju</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p8w3">
+               <token>morfologie</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p8w4">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p8w5">
+               <token>nebo</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p8w6">
+               <token>lingvistiku</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p8w7">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p8e0">
+            <from>w#w-HRD_JG_007_t_1-d1p8w1</from>
+            <to>a-HRD_JG_007_t_1-d1p8w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p8e1">
+            <from>w#w-HRD_JG_007_t_1-d1p8w2</from>
+            <to>a-HRD_JG_007_t_1-d1p8w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p8e2">
+            <from>w#w-HRD_JG_007_t_1-d1p8w3</from>
+            <to>a-HRD_JG_007_t_1-d1p8w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p8e3">
+            <from>w#w-HRD_JG_007_t_1-d1p8w4</from>
+            <to>a-HRD_JG_007_t_1-d1p8w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p8e4">
+            <from>w#w-HRD_JG_007_t_1-d1p8w5</from>
+            <to>a-HRD_JG_007_t_1-d1p8w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p8e5">
+            <from>w#w-HRD_JG_007_t_1-d1p8w6</from>
+            <to>a-HRD_JG_007_t_1-d1p8w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p8e6">
+            <from>w#w-HRD_JG_007_t_1-d1p8w7</from>
+            <to>a-HRD_JG_007_t_1-d1p8w7</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p9" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p9">
+         <s id="a-HRD_JG_007_t_1-d1p9s0">
+            <w id="a-HRD_JG_007_t_1-d1p9w1">
+               <token>čeština</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w2">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w3">
+               <token>jazyk</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w4">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w5">
+               <token>kteru</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w6">
+               <token>zapomínáme</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w7">
+               <token>rychle</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w8">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p9w9">
+               <token>pokud</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p9e0">
+            <from>w#w-HRD_JG_007_t_1-d1p9w1</from>
+            <to>a-HRD_JG_007_t_1-d1p9w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e1">
+            <from>w#w-HRD_JG_007_t_1-d1p9w2</from>
+            <to>a-HRD_JG_007_t_1-d1p9w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e2">
+            <from>w#w-HRD_JG_007_t_1-d1p9w3</from>
+            <to>a-HRD_JG_007_t_1-d1p9w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e3">
+            <from>w#w-HRD_JG_007_t_1-d1p9w4</from>
+            <to>a-HRD_JG_007_t_1-d1p9w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e4">
+            <from>w#w-HRD_JG_007_t_1-d1p9w5</from>
+            <to>a-HRD_JG_007_t_1-d1p9w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e5">
+            <from>w#w-HRD_JG_007_t_1-d1p9w6</from>
+            <to>a-HRD_JG_007_t_1-d1p9w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e6">
+            <from>w#w-HRD_JG_007_t_1-d1p9w7</from>
+            <to>a-HRD_JG_007_t_1-d1p9w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e7">
+            <from>w#w-HRD_JG_007_t_1-d1p9w8</from>
+            <to>a-HRD_JG_007_t_1-d1p9w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p9e8">
+            <from>w#w-HRD_JG_007_t_1-d1p9w9</from>
+            <to>a-HRD_JG_007_t_1-d1p9w9</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p10" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p10">
+         <s id="a-HRD_JG_007_t_1-d1p10s0">
+            <w id="a-HRD_JG_007_t_1-d1p10w1">
+               <token>musíme</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w2">
+               <token>poslouchat</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w3">
+               <token>rádia</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w4">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w5">
+               <token>čís</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w6">
+               <token>(</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w7">
+               <token>r/t</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w8">
+               <token>)</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w9">
+               <token>časopisy</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w10">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w11">
+               <token>mí</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w12">
+               <token>(</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w13">
+               <token>r/t</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p10w14">
+               <token>)</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p10e0">
+            <from>w#w-HRD_JG_007_t_1-d1p10w1</from>
+            <to>a-HRD_JG_007_t_1-d1p10w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e1">
+            <from>w#w-HRD_JG_007_t_1-d1p10w2</from>
+            <to>a-HRD_JG_007_t_1-d1p10w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e2">
+            <from>w#w-HRD_JG_007_t_1-d1p10w3</from>
+            <to>a-HRD_JG_007_t_1-d1p10w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e3">
+            <from>w#w-HRD_JG_007_t_1-d1p10w4</from>
+            <to>a-HRD_JG_007_t_1-d1p10w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e4">
+            <from>w#w-HRD_JG_007_t_1-d1p10w5</from>
+            <to>a-HRD_JG_007_t_1-d1p10w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e5">
+            <from>w#w-HRD_JG_007_t_1-d1p10w6</from>
+            <to>a-HRD_JG_007_t_1-d1p10w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e6">
+            <from>w#w-HRD_JG_007_t_1-d1p10w7</from>
+            <to>a-HRD_JG_007_t_1-d1p10w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e7">
+            <from>w#w-HRD_JG_007_t_1-d1p10w8</from>
+            <to>a-HRD_JG_007_t_1-d1p10w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e8">
+            <from>w#w-HRD_JG_007_t_1-d1p10w9</from>
+            <to>a-HRD_JG_007_t_1-d1p10w9</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e9">
+            <from>w#w-HRD_JG_007_t_1-d1p10w10</from>
+            <to>a-HRD_JG_007_t_1-d1p10w10</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e10">
+            <from>w#w-HRD_JG_007_t_1-d1p10w11</from>
+            <to>a-HRD_JG_007_t_1-d1p10w11</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e11">
+            <from>w#w-HRD_JG_007_t_1-d1p10w12</from>
+            <to>a-HRD_JG_007_t_1-d1p10w12</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e12">
+            <from>w#w-HRD_JG_007_t_1-d1p10w13</from>
+            <to>a-HRD_JG_007_t_1-d1p10w13</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p10e13">
+            <from>w#w-HRD_JG_007_t_1-d1p10w14</from>
+            <to>a-HRD_JG_007_t_1-d1p10w14</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p11" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p11">
+         <s id="a-HRD_JG_007_t_1-d1p11s0">
+            <w id="a-HRD_JG_007_t_1-d1p11w1">
+               <token>český</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w2">
+               <token>kamarady</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w3">
+               <token>.</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w4">
+               <token>Teď</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w5">
+               <token>nemluvím</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w6">
+               <token>moc</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w7">
+               <token>dobře</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w8">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p11w9">
+               <token>protože</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p11e0">
+            <from>w#w-HRD_JG_007_t_1-d1p11w1</from>
+            <to>a-HRD_JG_007_t_1-d1p11w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e1">
+            <from>w#w-HRD_JG_007_t_1-d1p11w2</from>
+            <to>a-HRD_JG_007_t_1-d1p11w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e2">
+            <from>w#w-HRD_JG_007_t_1-d1p11w3</from>
+            <to>a-HRD_JG_007_t_1-d1p11w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e3">
+            <from>w#w-HRD_JG_007_t_1-d1p11w4</from>
+            <to>a-HRD_JG_007_t_1-d1p11w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e4">
+            <from>w#w-HRD_JG_007_t_1-d1p11w5</from>
+            <to>a-HRD_JG_007_t_1-d1p11w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e5">
+            <from>w#w-HRD_JG_007_t_1-d1p11w6</from>
+            <to>a-HRD_JG_007_t_1-d1p11w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e6">
+            <from>w#w-HRD_JG_007_t_1-d1p11w7</from>
+            <to>a-HRD_JG_007_t_1-d1p11w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e7">
+            <from>w#w-HRD_JG_007_t_1-d1p11w8</from>
+            <to>a-HRD_JG_007_t_1-d1p11w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p11e8">
+            <from>w#w-HRD_JG_007_t_1-d1p11w9</from>
+            <to>a-HRD_JG_007_t_1-d1p11w9</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p12" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p12">
+         <s id="a-HRD_JG_007_t_1-d1p12s0">
+            <w id="a-HRD_JG_007_t_1-d1p12w1">
+               <token>vytvoři</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w2">
+               <token>(</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w3">
+               <token>r/t</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w4">
+               <token>)</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w5">
+               <token>větu</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w6">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w7">
+               <token>hlavě</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w8">
+               <token>chvíli</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w9">
+               <token>trvá</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w10">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w11">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w12">
+               <token>já</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p12w13">
+               <token>ráda</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p12e0">
+            <from>w#w-HRD_JG_007_t_1-d1p12w1</from>
+            <to>a-HRD_JG_007_t_1-d1p12w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e1">
+            <from>w#w-HRD_JG_007_t_1-d1p12w2</from>
+            <to>a-HRD_JG_007_t_1-d1p12w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e2">
+            <from>w#w-HRD_JG_007_t_1-d1p12w3</from>
+            <to>a-HRD_JG_007_t_1-d1p12w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e3">
+            <from>w#w-HRD_JG_007_t_1-d1p12w4</from>
+            <to>a-HRD_JG_007_t_1-d1p12w4</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e4">
+            <from>w#w-HRD_JG_007_t_1-d1p12w5</from>
+            <to>a-HRD_JG_007_t_1-d1p12w5</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e5">
+            <from>w#w-HRD_JG_007_t_1-d1p12w6</from>
+            <to>a-HRD_JG_007_t_1-d1p12w6</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e6">
+            <from>w#w-HRD_JG_007_t_1-d1p12w7</from>
+            <to>a-HRD_JG_007_t_1-d1p12w7</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e7">
+            <from>w#w-HRD_JG_007_t_1-d1p12w8</from>
+            <to>a-HRD_JG_007_t_1-d1p12w8</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e8">
+            <from>w#w-HRD_JG_007_t_1-d1p12w9</from>
+            <to>a-HRD_JG_007_t_1-d1p12w9</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e9">
+            <from>w#w-HRD_JG_007_t_1-d1p12w10</from>
+            <to>a-HRD_JG_007_t_1-d1p12w10</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e10">
+            <from>w#w-HRD_JG_007_t_1-d1p12w11</from>
+            <to>a-HRD_JG_007_t_1-d1p12w11</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e11">
+            <from>w#w-HRD_JG_007_t_1-d1p12w12</from>
+            <to>a-HRD_JG_007_t_1-d1p12w12</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p12e12">
+            <from>w#w-HRD_JG_007_t_1-d1p12w13</from>
+            <to>a-HRD_JG_007_t_1-d1p12w13</to>
+         </edge>
+      </para>
+      <para id="a-HRD_JG_007_t_1-d1p13" lowerpara.rf="w#w-HRD_JG_007_t_1-d1p13">
+         <s id="a-HRD_JG_007_t_1-d1p13s0">
+            <w id="a-HRD_JG_007_t_1-d1p13w1">
+               <token>poslouchám</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p13w2">
+               <token>český</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p13w3">
+               <token>lidé</token>
+            </w>
+            <w id="a-HRD_JG_007_t_1-d1p13w4">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_JG_007_t_1-d1p13e0">
+            <from>w#w-HRD_JG_007_t_1-d1p13w1</from>
+            <to>a-HRD_JG_007_t_1-d1p13w1</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p13e1">
+            <from>w#w-HRD_JG_007_t_1-d1p13w2</from>
+            <to>a-HRD_JG_007_t_1-d1p13w2</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p13e2">
+            <from>w#w-HRD_JG_007_t_1-d1p13w3</from>
+            <to>a-HRD_JG_007_t_1-d1p13w3</to>
+         </edge>
+         <edge id="a-HRD_JG_007_t_1-d1p13e3">
+            <from>w#w-HRD_JG_007_t_1-d1p13w4</from>
+            <to>a-HRD_JG_007_t_1-d1p13w4</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

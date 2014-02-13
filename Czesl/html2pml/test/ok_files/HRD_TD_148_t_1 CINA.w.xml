@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="HRD_TD_148_t_1 CINA.html"/>
+         <reffile id="i" href="HRD_TD_148_t_1 CINA.jpg"/>
+      </references>
+   </head>
+   <doc id="w-HRD_TD_148_t_1 CINA-d1">
+      <para id="w-HRD_TD_148_t_1 CINA-d1p1">
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w1">
+            <token>Byla</token>
+            <original_position from="5" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w2">
+            <token>jsem</token>
+            <original_position from="10" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w3">
+            <token>v</token>
+            <original_position from="15" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w4">
+            <token>restauraci</token>
+            <original_position from="17" len="10"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w5">
+            <token>s</token>
+            <original_position from="28" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w6">
+            <token>dcerou</token>
+            <original_position from="30" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w7">
+            <token>,</token>
+            <original_position from="36" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w8">
+            <token>Chtely</token>
+            <original_position from="38" len="6"/>
+            <comment>tečka nad y</comment>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w9">
+            <token>bysme</token>
+            <original_position from="62" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w10">
+            <token>do</token>
+            <original_position from="68" len="2"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w11">
+            <token>Vidně</token>
+            <original_position from="71" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w12">
+            <token>a</token>
+            <original_position from="77" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w13">
+            <token>hledaly</token>
+            <original_position from="79" len="7"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w14">
+            <token>jsme</token>
+            <original_position from="87" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w15">
+            <token>cestovní</token>
+            <original_position from="92" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w16">
+            <token>kancelař</token>
+            <original_position from="101" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w17">
+            <token>a</token>
+            <original_position from="110" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w18">
+            <token>průvodci</token>
+            <original_position from="112" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w19">
+            <token>.</token>
+            <original_position from="120" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w20">
+            <token>pak</token>
+            <original_position from="123" len="3"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w21">
+            <token>jsme</token>
+            <original_position from="127" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w22">
+            <token>videly</token>
+            <original_position from="132" len="6"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w23">
+            <token>jakou</token>
+            <original_position from="139" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w24">
+            <token>vídeň</token>
+            <original_position from="145" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w25">
+            <token>,</token>
+            <original_position from="150" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w26">
+            <token>kterou</token>
+            <original_position from="152" len="6"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w27">
+            <token>jsme</token>
+            <original_position from="159" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w28">
+            <token>mohly</token>
+            <original_position from="164" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w29">
+            <token>vybrát</token>
+            <original_position from="170" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w30">
+            <token>,</token>
+            <original_position from="176" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w31">
+            <token>třeba</token>
+            <original_position from="178" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w32">
+            <token>historiskou</token>
+            <original_position from="184" len="11"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w33">
+            <token>vídeň</token>
+            <original_position from="196" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w34">
+            <token>,</token>
+            <original_position from="201" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w35">
+            <token>klasickou</token>
+            <original_position from="206" len="9"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w36">
+            <token>vídeň</token>
+            <original_position from="216" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w37">
+            <token>,</token>
+            <original_position from="221" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w38">
+            <token>nocní</token>
+            <original_position from="223" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w39">
+            <token>vídeň</token>
+            <original_position from="229" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w40">
+            <token>,</token>
+            <original_position from="234" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w41">
+            <token>denní</token>
+            <original_position from="236" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w42">
+            <token>vídeň</token>
+            <original_position from="242" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w43">
+            <token>a</token>
+            <original_position from="248" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w44">
+            <token>mnoho</token>
+            <original_position from="250" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w45">
+            <token>vyběr</token>
+            <original_position from="256" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w46">
+            <token>bychom</token>
+            <original_position from="262" len="6"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w47">
+            <token>vybraly</token>
+            <original_position from="269" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w48">
+            <token>.</token>
+            <original_position from="276" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w49">
+            <token>Nakonec</token>
+            <original_position from="279" len="7"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w50">
+            <token>jsme</token>
+            <original_position from="291" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w51">
+            <token>koupily</token>
+            <original_position from="296" len="7"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w52">
+            <token>listenky</token>
+            <original_position from="304" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w53">
+            <token>na</token>
+            <original_position from="313" len="2"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w54">
+            <token>historiskou</token>
+            <original_position from="316" len="11"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w55">
+            <token>vídeň</token>
+            <original_position from="328" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p1w56">
+            <token>.</token>
+            <original_position from="333" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_TD_148_t_1 CINA-d1p2">
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w1">
+            <token>Průvodce</token>
+            <original_position from="337" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w2">
+            <token>umí</token>
+            <original_position from="346" len="3"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w3">
+            <token>mnoho</token>
+            <original_position from="350" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w4">
+            <token>jazyků</token>
+            <original_position from="356" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w5">
+            <token>,</token>
+            <original_position from="362" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w6">
+            <token>když</token>
+            <original_position from="364" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w7">
+            <token>mluví</token>
+            <original_position from="369" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w8">
+            <token>anglicky</token>
+            <original_position from="375" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w9">
+            <token>s</token>
+            <original_position from="384" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w10">
+            <token>italským</token>
+            <original_position from="386" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w11">
+            <token>přizvůkem</token>
+            <original_position from="395" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w12">
+            <token>.</token>
+            <original_position from="404" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w13">
+            <token>A</token>
+            <original_position from="407" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w14">
+            <token>když</token>
+            <original_position from="409" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w15">
+            <token>mluví</token>
+            <original_position from="414" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w16">
+            <token>francouzky</token>
+            <original_position from="420" len="10"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w17">
+            <token>s</token>
+            <original_position from="431" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w18">
+            <token>anglickým</token>
+            <original_position from="433" len="9"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w19">
+            <token>přizvůkem</token>
+            <original_position from="443" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w20">
+            <token>,</token>
+            <original_position from="452" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w21">
+            <token>mluví</token>
+            <original_position from="458" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w22">
+            <token>italsky</token>
+            <original_position from="464" len="7"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w23">
+            <token>bez</token>
+            <original_position from="472" len="3"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w24">
+            <token>přizůcku</token>
+            <original_position from="476" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w25">
+            <token>,</token>
+            <original_position from="484" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w26">
+            <token>ale</token>
+            <original_position from="486" len="3"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w27">
+            <token>pomohl</token>
+            <original_position from="490" len="6"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w28">
+            <token>německy</token>
+            <original_position from="497" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w29">
+            <token>.</token>
+            <original_position from="504" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w30">
+            <token>Jeli</token>
+            <original_position from="507" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w31">
+            <token>jsme</token>
+            <original_position from="512" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w32">
+            <token>autobusem</token>
+            <original_position from="517" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w33">
+            <token>.</token>
+            <original_position from="526" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w34">
+            <token>ale</token>
+            <original_position from="529" len="3"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w35">
+            <token>na</token>
+            <original_position from="533" len="2"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w36">
+            <token>půl</token>
+            <original_position from="536" len="3"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w37">
+            <token>cestě</token>
+            <original_position from="540" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w38">
+            <token>,</token>
+            <original_position from="545" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w39">
+            <token>ztrati</token>
+            <original_position from="547" len="6"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w40">
+            <token>jsme</token>
+            <original_position from="554" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w41">
+            <token>cestu</token>
+            <original_position from="559" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w42">
+            <token>,</token>
+            <original_position from="564" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w43">
+            <token>a</token>
+            <original_position from="566" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w44">
+            <token>průvodce</token>
+            <original_position from="568" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w45">
+            <token>také</token>
+            <original_position from="577" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w46">
+            <token>neznal</token>
+            <original_position from="582" len="6"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w47">
+            <token>cestu</token>
+            <original_position from="589" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w48">
+            <token>,</token>
+            <original_position from="594" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w49">
+            <token>ale</token>
+            <original_position from="596" len="3"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w50">
+            <token>nakonec</token>
+            <original_position from="600" len="7"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w51">
+            <token>jsme</token>
+            <original_position from="608" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w52">
+            <token>našli</token>
+            <original_position from="613" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p2w53">
+            <token>.</token>
+            <original_position from="618" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_TD_148_t_1 CINA-d1p3">
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w1">
+            <token>Také</token>
+            <original_position from="674" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w2">
+            <token>jsme</token>
+            <original_position from="684" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w3">
+            <token>viděli</token>
+            <original_position from="689" len="6"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w4">
+            <token>novou</token>
+            <original_position from="696" len="5"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w5">
+            <token>vídeň</token>
+            <original_position from="702" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w6">
+            <token>.</token>
+            <original_position from="707" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w7">
+            <token>Když</token>
+            <original_position from="710" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w8">
+            <token>jsme</token>
+            <original_position from="715" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w9">
+            <token>vrátili</token>
+            <original_position from="720" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w10">
+            <token>,</token>
+            <original_position from="727" len="1"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w11">
+            <token>průvodce</token>
+            <original_position from="729" len="8"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w12">
+            <token>byla</token>
+            <original_position from="738" len="4"/>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w13">
+            <token>mlčela</token>
+            <original_position from="743" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_TD_148_t_1 CINA-d1p3w14">
+            <token>.</token>
+            <original_position from="749" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del1">
+            <from>w-HRD_TD_148_t_1 CINA-d1p1w34</from>
+            <orig>hl</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del2">
+            <from>w-HRD_TD_148_t_1 CINA-d1p1w49</from>
+            <orig>jme</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del3">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w20</from>
+            <orig>ale</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del4">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>Ptala</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del5">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>jsem</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del6">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>dcery</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del7">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>„</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del8">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>Máš</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del9">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>ten</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del10">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>fotoaparat</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del11">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>?</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del12">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>Máš</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del13">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>hlad</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del14">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>?</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del15">
+            <from>w-HRD_TD_148_t_1 CINA-d1p2w53</from>
+            <orig>“</orig>
+         </deleted>
+         <deleted id="w-HRD_TD_148_t_1 CINA-cor-del16">
+            <from>w-HRD_TD_148_t_1 CINA-d1p3w1</from>
+            <orig>jsme</orig>
+         </deleted>
+      </corrections>
+   </doc>
+</wdata>

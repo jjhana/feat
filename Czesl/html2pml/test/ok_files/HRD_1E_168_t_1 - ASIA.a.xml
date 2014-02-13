@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="HRD_1E_168_t_1 - ASIA.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-HRD_1E_168_t_1 - ASIA-d1" lowerdoc.rf="w#w-HRD_1E_168_t_1 - ASIA-d1">
+      <para id="a-HRD_1E_168_t_1 - ASIA-d1p1" lowerpara.rf="w#w-HRD_1E_168_t_1 - ASIA-d1p1">
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p1s0">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p1w1">
+               <token>Proč</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p1w2">
+               <token>mám</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p1w3">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p1w4">
+               <token>Českou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p1w5">
+               <token>republiku</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p1w6">
+               <token>?</token>
+            </w>
+         </s>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p1e0">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p1w1</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p1w1</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p1e1">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p1w2</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p1w2</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p1e2">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p1w3</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p1w3</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p1e3">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p1w4</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p1w4</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p1e4">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p1w5</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p1w5</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p1e5">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p1w6</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p1w6</to>
+         </edge>
+      </para>
+      <para id="a-HRD_1E_168_t_1 - ASIA-d1p2" lowerpara.rf="w#w-HRD_1E_168_t_1 - ASIA-d1p2">
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p2s0">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w1">
+               <token>Česká</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w2">
+               <token>republika</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w3">
+               <token>není</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w4">
+               <token>velká</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w5">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w6">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w7">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w8">
+               <token>perla</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w9">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w10">
+               <token>Evropě</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w11">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p2s1">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w12">
+               <token>Pamatuji</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w13">
+               <token>si</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w14">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w15">
+               <token>že</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w16">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w17">
+               <token>jednom</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w18">
+               <token>filmu</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w19">
+               <token>nějaký</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w20">
+               <token>herec</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w21">
+               <token>řekl</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w22">
+               <token>:</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w23">
+               <token>„</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w24">
+               <token>to</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w25">
+               <token>není</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w26">
+               <token>země</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w27">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w28">
+               <token>to</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w29">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w30">
+               <token>zahrádka</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w31">
+               <token>.</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w32">
+               <token>“</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p2s2">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w33">
+               <token>Já</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w34">
+               <token>osobně</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w35">
+               <token>souhlasím</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w36">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w37">
+               <token>tím</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w38">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p2s3">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w39">
+               <token>Mám</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w40">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w41">
+               <token>Českou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w42">
+               <token>republiku</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p2w43">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e0">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w1</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w1</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e1">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w2</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w2</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e2">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w3</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w3</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e3">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w4</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w4</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e4">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w5</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w5</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e5">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w6</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w6</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e6">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w7</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w7</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e7">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w8</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w8</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e8">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w9</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w9</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e9">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w10</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w10</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e10">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w11</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w11</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e11">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w12</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w12</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e12">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w13</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w13</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e13">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w14</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w14</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e14">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w15</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w15</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e15">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w16</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w16</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e16">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w17</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w17</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e17">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w18</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w18</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e18">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w19</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w19</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e19">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w20</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w20</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e20">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w21</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w21</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e21">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w22</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w22</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e22">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w23</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w23</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e23">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w24</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w24</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e24">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w25</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w25</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e25">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w26</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w26</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e26">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w27</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w27</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e27">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w28</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w28</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e28">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w29</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w29</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e29">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w30</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w30</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e30">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w31</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w31</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e31">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w32</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w32</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e32">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w33</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w33</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e33">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w34</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w34</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e34">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w35</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w35</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e35">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w36</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w36</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e36">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w37</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w37</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e37">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w38</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w38</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e38">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w39</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w39</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e39">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w40</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w40</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e40">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w41</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w41</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e41">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w42</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w42</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p2e42">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p2w43</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p2w43</to>
+         </edge>
+      </para>
+      <para id="a-HRD_1E_168_t_1 - ASIA-d1p3" lowerpara.rf="w#w-HRD_1E_168_t_1 - ASIA-d1p3">
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p3s0">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w1">
+               <token>Mám</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w2">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w3">
+               <token>Českou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w4">
+               <token>republiku</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w5">
+               <token>nejen</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w6">
+               <token>proto</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w7">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w8">
+               <token>že</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w9">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w10">
+               <token>krásná</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w11">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p3s1">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w12">
+               <token>Také</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w13">
+               <token>kvůli</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w14">
+               <token>její</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w15">
+               <token>historii</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w16">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w17">
+               <token>kultuře</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w18">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w19">
+               <token>literatuře</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w20">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w21">
+               <token>životním</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w22">
+               <token>stylu</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w23">
+               <token>lidu</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p3w24">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e0">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w1</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w1</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e1">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w2</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w2</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e2">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w3</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w3</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e3">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w4</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w4</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e4">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w5</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w5</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e5">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w6</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w6</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e6">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w7</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w7</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e7">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w8</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w8</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e8">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w9</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w9</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e9">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w10</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w10</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e10">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w11</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w11</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e11">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w12</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w12</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e12">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w13</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w13</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e13">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w14</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w14</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e14">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w15</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w15</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e15">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w16</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w16</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e16">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w17</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w17</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e17">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w18</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w18</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e18">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w19</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w19</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e19">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w20</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w20</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e20">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w21</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w21</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e21">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w22</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w22</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e22">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w23</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w23</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p3e23">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p3w24</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p3w24</to>
+         </edge>
+      </para>
+      <para id="a-HRD_1E_168_t_1 - ASIA-d1p4" lowerpara.rf="w#w-HRD_1E_168_t_1 - ASIA-d1p4">
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p4s0">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w1">
+               <token>Češi</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w2">
+               <token>schovají</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w3">
+               <token>všechno</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w4">
+               <token>opatrně</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w5">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p4s1">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w6">
+               <token>Tady</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w7">
+               <token>si</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w8">
+               <token>nemyslím</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w9">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w10">
+               <token>že</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w11">
+               <token>schovají</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w12">
+               <token>věci</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w13">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w14">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w15">
+               <token>jejích</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w16">
+               <token>tradici</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w17">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p4s2">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w18">
+               <token>Věršinou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w19">
+               <token>lidé</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w20">
+               <token>podlé</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w21">
+               <token>té</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w22">
+               <token>žijou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w23">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w24">
+               <token>většinou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w25">
+               <token>jsou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w26">
+               <token>šťastní</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w27">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w28">
+               <token>spokojení</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w29">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w30">
+               <token>životem</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p4w31">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e0">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w1</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w1</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e1">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w2</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w2</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e2">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w3</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w3</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e3">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w4</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w4</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e4">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w5</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w5</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e5">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w6</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w6</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e6">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w7</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w7</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e7">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w8</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w8</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e8">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w9</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w9</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e9">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w10</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w10</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e10">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w11</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w11</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e11">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w12</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w12</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e12">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w13</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w13</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e13">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w14</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w14</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e14">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w15</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w15</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e15">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w16</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w16</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e16">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w17</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w17</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e17">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w18</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w18</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e18">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w19</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w19</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e19">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w20</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w20</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e20">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w21</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w21</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e21">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w22</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w22</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e22">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w23</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w23</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e23">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w24</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w24</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e24">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w25</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w25</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e25">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w26</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w26</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e26">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w27</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w27</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e27">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w28</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w28</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e28">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w29</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w29</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e29">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w30</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w30</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p4e30">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p4w31</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p4w31</to>
+         </edge>
+      </para>
+      <para id="a-HRD_1E_168_t_1 - ASIA-d1p5" lowerpara.rf="w#w-HRD_1E_168_t_1 - ASIA-d1p5">
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p5s0">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w1">
+               <token>Jako</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w2">
+               <token>cizinka</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w3">
+               <token>z</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w4">
+               <token>Číny</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w5">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w6">
+               <token>automaticky</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w7">
+               <token>srovnám</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w8">
+               <token>shody</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w9">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w10">
+               <token>neshody</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w11">
+               <token>z</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w12">
+               <token>některých</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w13">
+               <token>hledisek</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w14">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p5s1">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w15">
+               <token>Z</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w16">
+               <token>hlediska</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w17">
+               <token>kultury</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w18">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w19">
+               <token>tradice</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w20">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w21">
+               <token>Česká</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w22">
+               <token>republika</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w23">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w24">
+               <token>lépe</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w25">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p5s2">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w26">
+               <token>Jinak</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w27">
+               <token>tady</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w28">
+               <token>žije</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w29">
+               <token>o</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w30">
+               <token>mnoha</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w31">
+               <token>méně</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w32">
+               <token>lidí</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w33">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w34">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w35">
+               <token>proto</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w36">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w37">
+               <token>klidnější</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w38">
+               <token>životní</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w39">
+               <token>prostředí</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w40">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p5s3">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w41">
+               <token>Rozdíl</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w42">
+               <token>mezi</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w43">
+               <token>venkovou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w44">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w45">
+               <token>městem</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w46">
+               <token>není</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w47">
+               <token>tak</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w48">
+               <token>velký</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w49">
+               <token>jako</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w50">
+               <token>u</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w51">
+               <token>nás</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p5w52">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e0">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w1</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w1</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e1">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w2</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w2</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e2">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w3</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w3</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e3">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w4</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w4</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e4">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w5</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w5</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e5">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w6</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w6</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e6">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w7</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w7</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e7">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w8</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w8</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e8">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w9</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w9</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e9">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w10</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w10</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e10">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w11</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w11</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e11">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w12</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w12</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e12">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w13</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w13</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e13">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w14</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w14</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e14">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w15</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w15</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e15">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w16</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w16</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e16">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w17</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w17</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e17">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w18</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w18</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e18">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w19</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w19</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e19">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w20</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w20</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e20">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w21</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w21</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e21">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w22</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w22</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e22">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w23</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w23</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e23">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w24</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w24</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e24">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w25</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w25</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e25">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w26</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w26</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e26">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w27</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w27</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e27">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w28</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w28</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e28">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w29</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w29</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e29">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w30</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w30</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e30">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w31</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w31</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e31">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w32</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w32</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e32">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w33</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w33</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e33">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w34</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w34</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e34">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w35</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w35</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e35">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w36</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w36</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e36">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w37</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w37</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e37">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w38</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w38</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e38">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w39</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w39</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e39">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w40</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w40</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e40">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w41</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w41</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e41">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w42</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w42</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e42">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w43</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w43</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e43">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w44</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w44</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e44">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w45</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w45</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e45">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w46</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w46</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e46">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w47</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w47</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e47">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w48</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w48</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e48">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w49</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w49</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e49">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w50</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w50</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e50">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w51</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w51</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p5e51">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p5w52</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p5w52</to>
+         </edge>
+      </para>
+      <para id="a-HRD_1E_168_t_1 - ASIA-d1p6" lowerpara.rf="w#w-HRD_1E_168_t_1 - ASIA-d1p6">
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p6s0">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w1">
+               <token>Je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w2">
+               <token>to</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w3">
+               <token>země</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w4">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w5">
+               <token>někdy</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w6">
+               <token>překvapuje</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w7">
+               <token>svět</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w8">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p6s1">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w9">
+               <token>Je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w10">
+               <token>to</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w11">
+               <token>země</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w12">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w13">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w14">
+               <token>které</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w15">
+               <token>žili</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w16">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w17">
+               <token>žijou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w18">
+               <token>světové</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w19">
+               <token>známé</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w20">
+               <token>osobnosti</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w21">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p6s2">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w22">
+               <token>Je</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w23">
+               <token>to</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w24">
+               <token>země</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w25">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w26">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w27">
+               <token>celou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w28">
+               <token>dobu</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w29">
+               <token>bojuje</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w30">
+               <token>za</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w31">
+               <token>svou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w32">
+               <token>svobodu</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p6w33">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e0">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w1</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w1</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e1">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w2</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w2</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e2">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w3</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w3</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e3">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w4</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w4</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e4">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w5</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w5</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e5">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w6</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w6</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e6">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w7</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w7</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e7">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w8</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w8</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e8">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w9</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w9</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e9">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w10</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w10</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e10">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w11</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w11</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e11">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w12</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w12</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e12">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w13</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w13</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e13">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w14</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w14</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e14">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w15</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w15</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e15">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w16</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w16</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e16">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w17</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w17</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e17">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w18</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w18</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e18">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w19</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w19</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e19">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w20</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w20</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e20">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w21</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w21</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e21">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w22</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w22</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e22">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w23</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w23</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e23">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w24</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w24</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e24">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w25</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w25</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e25">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w26</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w26</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e26">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w27</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w27</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e27">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w28</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w28</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e28">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w29</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w29</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e29">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w30</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w30</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e30">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w31</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w31</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e31">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w32</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w32</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p6e32">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p6w33</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p6w33</to>
+         </edge>
+      </para>
+      <para id="a-HRD_1E_168_t_1 - ASIA-d1p7" lowerpara.rf="w#w-HRD_1E_168_t_1 - ASIA-d1p7">
+         <s id="a-HRD_1E_168_t_1 - ASIA-d1p7s0">
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w1">
+               <token>Z</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w2">
+               <token>tolika</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w3">
+               <token>důvodů</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w4">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w5">
+               <token>jak</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w6">
+               <token>můžu</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w7">
+               <token>říct</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w8">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w9">
+               <token>že</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w10">
+               <token>nemám</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w11">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w12">
+               <token>Českou</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w13">
+               <token>republiku</token>
+            </w>
+            <w id="a-HRD_1E_168_t_1 - ASIA-d1p7w14">
+               <token>?</token>
+            </w>
+         </s>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e0">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w1</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w1</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e1">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w2</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w2</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e2">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w3</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w3</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e3">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w4</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w4</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e4">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w5</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w5</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e5">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w6</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w6</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e6">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w7</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w7</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e7">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w8</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w8</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e8">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w9</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w9</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e9">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w10</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w10</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e10">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w11</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w11</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e11">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w12</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w12</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e12">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w13</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w13</to>
+         </edge>
+         <edge id="a-HRD_1E_168_t_1 - ASIA-d1p7e13">
+            <from>w#w-HRD_1E_168_t_1 - ASIA-d1p7w14</from>
+            <to>a-HRD_1E_168_t_1 - ASIA-d1p7w14</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

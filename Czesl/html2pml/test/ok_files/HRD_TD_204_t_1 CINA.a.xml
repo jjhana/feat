@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="HRD_TD_204_t_1 CINA.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-HRD_TD_204_t_1 CINA-d1" lowerdoc.rf="w#w-HRD_TD_204_t_1 CINA-d1">
+      <para id="a-HRD_TD_204_t_1 CINA-d1p1" lowerpara.rf="w#w-HRD_TD_204_t_1 CINA-d1p1">
+         <s id="a-HRD_TD_204_t_1 CINA-d1p1s0">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w1">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w2">
+               <token>jela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w3">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w4">
+               <token>letní</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w5">
+               <token>dovolenou</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w6">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w7">
+               <token>Itálii</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w8">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w9">
+               <token>protože</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w10">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w11">
+               <token>tam</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w12">
+               <token>velmi</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w13">
+               <token>krásné</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w14">
+               <token>moře</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w15">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w16">
+               <token>moc</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w17">
+               <token>měla</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w18">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w19">
+               <token>plavat</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w20">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p1s1">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w21">
+               <token>Každý</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w22">
+               <token>den</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w23">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w24">
+               <token>kamarádkou</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w25">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w26">
+               <token>pláži</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p1w27">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e0">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w1</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w1</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e1">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w2</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w2</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e2">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w3</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w3</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e3">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w4</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w4</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e4">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w5</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w5</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e5">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w6</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w6</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e6">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w7</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w7</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e7">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w8</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w8</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e8">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w9</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w9</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e9">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w10</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w10</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e10">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w11</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w11</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e11">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w12</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w12</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e12">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w13</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w13</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e13">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w14</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w14</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e14">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w15</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w15</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e15">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w16</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w16</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e16">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w17</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w17</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e17">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w18</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w18</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e18">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w19</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w19</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e19">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w20</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w20</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e20">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w21</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w21</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e21">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w22</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w22</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e22">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w23</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w23</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e23">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w24</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w24</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e24">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w25</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w25</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e25">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w26</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w26</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p1e26">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p1w27</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p1w27</to>
+         </edge>
+      </para>
+      <para id="a-HRD_TD_204_t_1 CINA-d1p2" lowerpara.rf="w#w-HRD_TD_204_t_1 CINA-d1p2">
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s0">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w1">
+               <token>Byl</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w2">
+               <token>jeden</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w3">
+               <token>den</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w4">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w5">
+               <token>když</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w6">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w7">
+               <token>plavala</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w8">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w9">
+               <token>moři</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w10">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w11">
+               <token>dostala</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w12">
+               <token>křeče</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w13">
+               <token>do</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w14">
+               <token>nohy</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w15">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s1">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w16">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w17">
+               <token>zavolala</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w18">
+               <token>„</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w19">
+               <token>help</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w20">
+               <token>!</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s2">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w21">
+               <token>help</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w22">
+               <token>!</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w23">
+               <token>“</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s3">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w24">
+               <token>(</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w25">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w26">
+               <token>neumí</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w27">
+               <token>italsky</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w28">
+               <token>)</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w29">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s4">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w30">
+               <token>Ale</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w31">
+               <token>nikomu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w32">
+               <token>neslyšeli</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w33">
+               <token>kromě</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w34">
+               <token>zachráněny</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w35">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s5">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w36">
+               <token>zachráněna</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w37">
+               <token>skočil</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w38">
+               <token>do</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w39">
+               <token>vody</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w40">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w41">
+               <token>chranil</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w42">
+               <token>ji</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w43">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s6">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w44">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w45">
+               <token>mu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w46">
+               <token>poděkovala</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w47">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w48">
+               <token>seznamili</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w49">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w50">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s7">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w51">
+               <token>zachráněna</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w52">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w53">
+               <token>jmenuje</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w54">
+               <token>Max</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w55">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w56">
+               <token>který</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w57">
+               <token>je</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w58">
+               <token>velmi</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w59">
+               <token>sympatický</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w60">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s8">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w61">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w62">
+               <token>ho</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w63">
+               <token>pozvala</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w64">
+               <token>do</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w65">
+               <token>baru</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w66">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w67">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w68">
+               <token>spolu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w69">
+               <token>prožili</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w70">
+               <token>hezký</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w71">
+               <token>týden</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w72">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w73">
+               <token>spolu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w74">
+               <token>byli</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w75">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w76">
+               <token>mnoha</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w77">
+               <token>místech</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w78">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w79">
+               <token>třeba</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w80">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w81">
+               <token>diskotéce</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w82">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w83">
+               <token>navýletu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w84">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w85">
+               <token>vecerní</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w86">
+               <token>procházky</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w87">
+               <token>po</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w88">
+               <token>plaži</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w89">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s9">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w90">
+               <token>A</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w91">
+               <token>dokonce</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w92">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w93">
+               <token>zamilovali</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w94">
+               <token>do</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w95">
+               <token>sebe</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w96">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s10">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w97">
+               <token>Ale</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w98">
+               <token>bohužel</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w99">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w100">
+               <token>musela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w101">
+               <token>jet</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w102">
+               <token>domů</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w103">
+               <token>po</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w104">
+               <token>tydnů</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w105">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s11">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w106">
+               <token>Když</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w107">
+               <token>Marcela</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w108">
+               <token>bla</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w109">
+               <token>v</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w110">
+               <token>Praze</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w111">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w112">
+               <token>Často</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w113">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w114">
+               <token>Maxem</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w115">
+               <token>psala</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w116">
+               <token>maily</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w117">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p2s12">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w118">
+               <token>Max</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w119">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w120">
+               <token>chtěl</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w121">
+               <token>učit</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w122">
+               <token>česky</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w123">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w124">
+               <token>protože</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w125">
+               <token>chtěl</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w126">
+               <token>přestěhovat</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w127">
+               <token>do</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w128">
+               <token>Prahy</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w129">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w130">
+               <token>spolu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w131">
+               <token>žil</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w132">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w133">
+               <token>Marcelou</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p2w134">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e0">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w1</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w1</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e1">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w2</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w2</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e2">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w3</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w3</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e3">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w4</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w4</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e4">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w5</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w5</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e5">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w6</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w6</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e6">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w7</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w7</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e7">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w8</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w8</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e8">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w9</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w9</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e9">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w10</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w10</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e10">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w11</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w11</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e11">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w12</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w12</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e12">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w13</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w13</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e13">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w14</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w14</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e14">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w15</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w15</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e15">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w16</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w16</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e16">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w17</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w17</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e17">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w18</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w18</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e18">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w19</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w19</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e19">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w20</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w20</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e20">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w21</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w21</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e21">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w22</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w22</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e22">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w23</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w23</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e23">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w24</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w24</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e24">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w25</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w25</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e25">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w26</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w26</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e26">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w27</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w27</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e27">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w28</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w28</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e28">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w29</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w29</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e29">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w30</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w30</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e30">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w31</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w31</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e31">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w32</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w32</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e32">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w33</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w33</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e33">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w34</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w34</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e34">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w35</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w35</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e35">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w36</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w36</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e36">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w37</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w37</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e37">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w38</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w38</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e38">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w39</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w39</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e39">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w40</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w40</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e40">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w41</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w41</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e41">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w42</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w42</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e42">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w43</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w43</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e43">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w44</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w44</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e44">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w45</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w45</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e45">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w46</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w46</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e46">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w47</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w47</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e47">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w48</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w48</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e48">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w49</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w49</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e49">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w50</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w50</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e50">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w51</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w51</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e51">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w52</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w52</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e52">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w53</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w53</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e53">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w54</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w54</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e54">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w55</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w55</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e55">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w56</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w56</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e56">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w57</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w57</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e57">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w58</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w58</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e58">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w59</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w59</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e59">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w60</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w60</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e60">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w61</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w61</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e61">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w62</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w62</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e62">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w63</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w63</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e63">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w64</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w64</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e64">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w65</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w65</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e65">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w66</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w66</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e66">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w67</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w67</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e67">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w68</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w68</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e68">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w69</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w69</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e69">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w70</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w70</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e70">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w71</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w71</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e71">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w72</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w72</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e72">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w73</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w73</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e73">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w74</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w74</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e74">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w75</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w75</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e75">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w76</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w76</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e76">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w77</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w77</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e77">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w78</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w78</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e78">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w79</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w79</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e79">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w80</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w80</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e80">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w81</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w81</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e81">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w82</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w82</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e82">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w83</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w83</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e83">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w84</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w84</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e84">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w85</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w85</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e85">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w86</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w86</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e86">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w87</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w87</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e87">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w88</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w88</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e88">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w89</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w89</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e89">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w90</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w90</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e90">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w91</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w91</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e91">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w92</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w92</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e92">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w93</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w93</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e93">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w94</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w94</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e94">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w95</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w95</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e95">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w96</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w96</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e96">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w97</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w97</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e97">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w98</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w98</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e98">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w99</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w99</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e99">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w100</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w100</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e100">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w101</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w101</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e101">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w102</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w102</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e102">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w103</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w103</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e103">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w104</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w104</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e104">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w105</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w105</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e105">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w106</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w106</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e106">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w107</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w107</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e107">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w108</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w108</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e108">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w109</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w109</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e109">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w110</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w110</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e110">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w111</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w111</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e111">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w112</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w112</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e112">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w113</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w113</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e113">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w114</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w114</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e114">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w115</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w115</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e115">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w116</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w116</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e116">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w117</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w117</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e117">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w118</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w118</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e118">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w119</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w119</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e119">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w120</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w120</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e120">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w121</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w121</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e121">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w122</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w122</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e122">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w123</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w123</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e123">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w124</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w124</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e124">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w125</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w125</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e125">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w126</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w126</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e126">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w127</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w127</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e127">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w128</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w128</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e128">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w129</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w129</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e129">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w130</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w130</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e130">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w131</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w131</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e131">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w132</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w132</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e132">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w133</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w133</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p2e133">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p2w134</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p2w134</to>
+         </edge>
+      </para>
+      <para id="a-HRD_TD_204_t_1 CINA-d1p3" lowerpara.rf="w#w-HRD_TD_204_t_1 CINA-d1p3">
+         <s id="a-HRD_TD_204_t_1 CINA-d1p3s0">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w1">
+               <token>12</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w2">
+               <token>.</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w3">
+               <token>VŠ</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w4">
+               <token>XXX</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w5">
+               <token>/</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w6">
+               <token>188</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w7">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w8">
+               <token>nekuřak</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w9">
+               <token>.</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w10">
+               <token>Dobrý</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w11">
+               <token>den</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w12">
+               <token>!</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p3s1">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w13">
+               <token>pane</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p3w14">
+               <token>,</token>
+            </w>
+         </s>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e0">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w1</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w1</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e1">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w2</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w2</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e2">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w3</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w3</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e3">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w4</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w4</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e4">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w5</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w5</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e5">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w6</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w6</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e6">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w7</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w7</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e7">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w8</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w8</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e8">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w9</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w9</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e9">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w10</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w10</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e10">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w11</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w11</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e11">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w12</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w12</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e12">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w13</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w13</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p3e13">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p3w14</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p3w14</to>
+         </edge>
+      </para>
+      <para id="a-HRD_TD_204_t_1 CINA-d1p4" lowerpara.rf="w#w-HRD_TD_204_t_1 CINA-d1p4">
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s0">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w1">
+               <token>Jsem</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w2">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w3">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w4">
+               <token>že</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w5">
+               <token>s</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w6">
+               <token>vámi</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w7">
+               <token>seznamil</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w8">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s1">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w9">
+               <token>Jmenuju</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w10">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w11">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w12">
+               <token>jsem</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w13">
+               <token>z</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w14">
+               <token>Číny</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w15">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s2">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w16">
+               <token>Rozumím</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w17">
+               <token>česky</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w18">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w19">
+               <token>tak</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w20">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w21">
+               <token>nebojte</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w22">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s3">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w23">
+               <token>Jsem</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w24">
+               <token>štíla</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w25">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w26">
+               <token>veselá</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w27">
+               <token>holka</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w28">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w29">
+               <token>ale</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w30">
+               <token>nejsem</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w31">
+               <token>moc</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w32">
+               <token>hezká</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w33">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s4">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w34">
+               <token>Ráda</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w35">
+               <token>moc</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w36">
+               <token>cestuju</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w37">
+               <token>a</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w38">
+               <token>jezdím</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w39">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w40">
+               <token>kole</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w41">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s5">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w42">
+               <token>Doufám</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w43">
+               <token>,</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w44">
+               <token>že</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w45">
+               <token>můžeme</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w46">
+               <token>někdy</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w47">
+               <token>spolu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w48">
+               <token>jít</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w49">
+               <token>na</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w50">
+               <token>výlety</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w51">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s6">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w52">
+               <token>Tak</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w53">
+               <token>budu</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w54">
+               <token>moc</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w55">
+               <token>ráda</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w56">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-HRD_TD_204_t_1 CINA-d1p4s7">
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w57">
+               <token>Tak</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w58">
+               <token>se</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w59">
+               <token>mějte</token>
+            </w>
+            <w id="a-HRD_TD_204_t_1 CINA-d1p4w60">
+               <token>!</token>
+            </w>
+         </s>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e0">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w1</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w1</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e1">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w2</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w2</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e2">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w3</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w3</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e3">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w4</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w4</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e4">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w5</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w5</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e5">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w6</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w6</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e6">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w7</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w7</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e7">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w8</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w8</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e8">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w9</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w9</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e9">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w10</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w10</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e10">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w11</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w11</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e11">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w12</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w12</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e12">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w13</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w13</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e13">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w14</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w14</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e14">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w15</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w15</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e15">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w16</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w16</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e16">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w17</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w17</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e17">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w18</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w18</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e18">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w19</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w19</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e19">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w20</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w20</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e20">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w21</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w21</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e21">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w22</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w22</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e22">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w23</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w23</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e23">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w24</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w24</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e24">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w25</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w25</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e25">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w26</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w26</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e26">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w27</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w27</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e27">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w28</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w28</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e28">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w29</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w29</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e29">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w30</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w30</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e30">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w31</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w31</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e31">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w32</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w32</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e32">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w33</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w33</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e33">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w34</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w34</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e34">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w35</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w35</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e35">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w36</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w36</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e36">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w37</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w37</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e37">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w38</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w38</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e38">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w39</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w39</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e39">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w40</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w40</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e40">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w41</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w41</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e41">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w42</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w42</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e42">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w43</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w43</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e43">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w44</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w44</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e44">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w45</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w45</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e45">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w46</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w46</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e46">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w47</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w47</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e47">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w48</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w48</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e48">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w49</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w49</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e49">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w50</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w50</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e50">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w51</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w51</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e51">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w52</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w52</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e52">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w53</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w53</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e53">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w54</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w54</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e54">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w55</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w55</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e55">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w56</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w56</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e56">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w57</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w57</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e57">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w58</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w58</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e58">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w59</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w59</to>
+         </edge>
+         <edge id="a-HRD_TD_204_t_1 CINA-d1p4e59">
+            <from>w#w-HRD_TD_204_t_1 CINA-d1p4w60</from>
+            <to>a-HRD_TD_204_t_1 CINA-d1p4w60</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

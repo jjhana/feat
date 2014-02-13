@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trans-unit id="70082edb-8f5b-4289-9d59-a3d10473528a">
+    <source>
+        <g id="pt4543">
+            <g id="pt4544">Podrobně: www.abc.cz</g>
+        </g>
+    </source>
+    <seg-source>
+        <g id="pt4543">
+            <g id="pt4544">
+                <mrk mtype="seg" mid="4513">Podrobně: www.abc.cz</mrk>
+            </g>
+        </g>
+    </seg-source>
+    <target>
+        <g id="pt4543">
+            <g id="pt4544">
+                <mrk mtype="seg" mid="4513">For details see: www.abc.cz</mrk>
+            </g>
+        </g>
+    </target>
+    <sdl:seg-defs>
+        <sdl:seg id="4513" conf="Translated" origin="interactive">
+            <sdl:prev-origin origin="mt" origin-system="Google Translate">
+                <sdl:prev-origin /></sdl:prev-origin>
+            <sdl:value key="SDL:ProjectTranslationHash">-1732446504</sdl:value>
+            <sdl:value key="SDL:OriginalTranslationHash">-1732446504</sdl:value>
+        </sdl:seg>
+    </sdl:seg-defs>
+</trans-unit>

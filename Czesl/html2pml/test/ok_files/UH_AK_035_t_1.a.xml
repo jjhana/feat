@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="UH_AK_035_t_1.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-UH_AK_035_t_1-d1" lowerdoc.rf="w#w-UH_AK_035_t_1-d1">
+      <para id="a-UH_AK_035_t_1-d1p1" lowerpara.rf="w#w-UH_AK_035_t_1-d1p1">
+         <s id="a-UH_AK_035_t_1-d1p1s0">
+            <w id="a-UH_AK_035_t_1-d1p1w1">
+               <token>Proč</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w2">
+               <token>cestujeme</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w3">
+               <token>a</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w4">
+               <token>poznáváme</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w5">
+               <token>život</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w6">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w7">
+               <token>jiných</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w8">
+               <token>zemích</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p1w9">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UH_AK_035_t_1-d1p1e0">
+            <from>w#w-UH_AK_035_t_1-d1p1w1</from>
+            <to>a-UH_AK_035_t_1-d1p1w1</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e1">
+            <from>w#w-UH_AK_035_t_1-d1p1w2</from>
+            <to>a-UH_AK_035_t_1-d1p1w2</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e2">
+            <from>w#w-UH_AK_035_t_1-d1p1w3</from>
+            <to>a-UH_AK_035_t_1-d1p1w3</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e3">
+            <from>w#w-UH_AK_035_t_1-d1p1w4</from>
+            <to>a-UH_AK_035_t_1-d1p1w4</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e4">
+            <from>w#w-UH_AK_035_t_1-d1p1w5</from>
+            <to>a-UH_AK_035_t_1-d1p1w5</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e5">
+            <from>w#w-UH_AK_035_t_1-d1p1w6</from>
+            <to>a-UH_AK_035_t_1-d1p1w6</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e6">
+            <from>w#w-UH_AK_035_t_1-d1p1w7</from>
+            <to>a-UH_AK_035_t_1-d1p1w7</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e7">
+            <from>w#w-UH_AK_035_t_1-d1p1w8</from>
+            <to>a-UH_AK_035_t_1-d1p1w8</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p1e8">
+            <from>w#w-UH_AK_035_t_1-d1p1w9</from>
+            <to>a-UH_AK_035_t_1-d1p1w9</to>
+         </edge>
+      </para>
+      <para id="a-UH_AK_035_t_1-d1p2" lowerpara.rf="w#w-UH_AK_035_t_1-d1p2">
+         <s id="a-UH_AK_035_t_1-d1p2s0">
+            <w id="a-UH_AK_035_t_1-d1p2w1">
+               <token>Jsem</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w2">
+               <token>student</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w3">
+               <token>a</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w4">
+               <token>studuju</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w5">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w6">
+               <token>Praze</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w7">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p2s1">
+            <w id="a-UH_AK_035_t_1-d1p2w8">
+               <token>Když</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w9">
+               <token>mám</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w10">
+               <token>volný</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w11">
+               <token>čas</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w12">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w13">
+               <token>například</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w14">
+               <token>o</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w15">
+               <token>vikendu</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w16">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w17">
+               <token>jedu</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w18">
+               <token>nekam</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w19">
+               <token>se</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w20">
+               <token>svými</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w21">
+               <token>kamaradi</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w22">
+               <token>nebo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w23">
+               <token>rodiči</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w24">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p2s2">
+            <w id="a-UH_AK_035_t_1-d1p2w25">
+               <token>Moc</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w26">
+               <token>se</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w27">
+               <token>mi</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w28">
+               <token>líbi</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w29">
+               <token>cestovat</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w30">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p2s3">
+            <w id="a-UH_AK_035_t_1-d1p2w31">
+               <token>I</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w32">
+               <token>přesto</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w33">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w34">
+               <token>že</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w35">
+               <token>jsem</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w36">
+               <token>mladý</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w37">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w38">
+               <token>už</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w39">
+               <token>jsem</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w40">
+               <token>hodně</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w41">
+               <token>cestoval</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w42">
+               <token>a</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w43">
+               <token>viděl</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w44">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w45">
+               <token>díky</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w46">
+               <token>mým</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w47">
+               <token>rodičům</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w48">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p2s4">
+            <w id="a-UH_AK_035_t_1-d1p2w49">
+               <token>Moc</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w50">
+               <token>se</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w51">
+               <token>mi</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w52">
+               <token>líbilo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w53">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w54">
+               <token>Itálii</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w55">
+               <token>a</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w56">
+               <token>Turecku</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p2w57">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UH_AK_035_t_1-d1p2e0">
+            <from>w#w-UH_AK_035_t_1-d1p2w1</from>
+            <to>a-UH_AK_035_t_1-d1p2w1</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e1">
+            <from>w#w-UH_AK_035_t_1-d1p2w2</from>
+            <to>a-UH_AK_035_t_1-d1p2w2</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e2">
+            <from>w#w-UH_AK_035_t_1-d1p2w3</from>
+            <to>a-UH_AK_035_t_1-d1p2w3</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e3">
+            <from>w#w-UH_AK_035_t_1-d1p2w4</from>
+            <to>a-UH_AK_035_t_1-d1p2w4</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e4">
+            <from>w#w-UH_AK_035_t_1-d1p2w5</from>
+            <to>a-UH_AK_035_t_1-d1p2w5</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e5">
+            <from>w#w-UH_AK_035_t_1-d1p2w6</from>
+            <to>a-UH_AK_035_t_1-d1p2w6</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e6">
+            <from>w#w-UH_AK_035_t_1-d1p2w7</from>
+            <to>a-UH_AK_035_t_1-d1p2w7</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e7">
+            <from>w#w-UH_AK_035_t_1-d1p2w8</from>
+            <to>a-UH_AK_035_t_1-d1p2w8</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e8">
+            <from>w#w-UH_AK_035_t_1-d1p2w9</from>
+            <to>a-UH_AK_035_t_1-d1p2w9</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e9">
+            <from>w#w-UH_AK_035_t_1-d1p2w10</from>
+            <to>a-UH_AK_035_t_1-d1p2w10</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e10">
+            <from>w#w-UH_AK_035_t_1-d1p2w11</from>
+            <to>a-UH_AK_035_t_1-d1p2w11</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e11">
+            <from>w#w-UH_AK_035_t_1-d1p2w12</from>
+            <to>a-UH_AK_035_t_1-d1p2w12</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e12">
+            <from>w#w-UH_AK_035_t_1-d1p2w13</from>
+            <to>a-UH_AK_035_t_1-d1p2w13</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e13">
+            <from>w#w-UH_AK_035_t_1-d1p2w14</from>
+            <to>a-UH_AK_035_t_1-d1p2w14</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e14">
+            <from>w#w-UH_AK_035_t_1-d1p2w15</from>
+            <to>a-UH_AK_035_t_1-d1p2w15</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e15">
+            <from>w#w-UH_AK_035_t_1-d1p2w16</from>
+            <to>a-UH_AK_035_t_1-d1p2w16</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e16">
+            <from>w#w-UH_AK_035_t_1-d1p2w17</from>
+            <to>a-UH_AK_035_t_1-d1p2w17</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e17">
+            <from>w#w-UH_AK_035_t_1-d1p2w18</from>
+            <to>a-UH_AK_035_t_1-d1p2w18</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e18">
+            <from>w#w-UH_AK_035_t_1-d1p2w19</from>
+            <to>a-UH_AK_035_t_1-d1p2w19</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e19">
+            <from>w#w-UH_AK_035_t_1-d1p2w20</from>
+            <to>a-UH_AK_035_t_1-d1p2w20</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e20">
+            <from>w#w-UH_AK_035_t_1-d1p2w21</from>
+            <to>a-UH_AK_035_t_1-d1p2w21</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e21">
+            <from>w#w-UH_AK_035_t_1-d1p2w22</from>
+            <to>a-UH_AK_035_t_1-d1p2w22</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e22">
+            <from>w#w-UH_AK_035_t_1-d1p2w23</from>
+            <to>a-UH_AK_035_t_1-d1p2w23</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e23">
+            <from>w#w-UH_AK_035_t_1-d1p2w24</from>
+            <to>a-UH_AK_035_t_1-d1p2w24</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e24">
+            <from>w#w-UH_AK_035_t_1-d1p2w25</from>
+            <to>a-UH_AK_035_t_1-d1p2w25</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e25">
+            <from>w#w-UH_AK_035_t_1-d1p2w26</from>
+            <to>a-UH_AK_035_t_1-d1p2w26</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e26">
+            <from>w#w-UH_AK_035_t_1-d1p2w27</from>
+            <to>a-UH_AK_035_t_1-d1p2w27</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e27">
+            <from>w#w-UH_AK_035_t_1-d1p2w28</from>
+            <to>a-UH_AK_035_t_1-d1p2w28</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e28">
+            <from>w#w-UH_AK_035_t_1-d1p2w29</from>
+            <to>a-UH_AK_035_t_1-d1p2w29</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e29">
+            <from>w#w-UH_AK_035_t_1-d1p2w30</from>
+            <to>a-UH_AK_035_t_1-d1p2w30</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e30">
+            <from>w#w-UH_AK_035_t_1-d1p2w31</from>
+            <to>a-UH_AK_035_t_1-d1p2w31</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e31">
+            <from>w#w-UH_AK_035_t_1-d1p2w32</from>
+            <to>a-UH_AK_035_t_1-d1p2w32</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e32">
+            <from>w#w-UH_AK_035_t_1-d1p2w33</from>
+            <to>a-UH_AK_035_t_1-d1p2w33</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e33">
+            <from>w#w-UH_AK_035_t_1-d1p2w34</from>
+            <to>a-UH_AK_035_t_1-d1p2w34</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e34">
+            <from>w#w-UH_AK_035_t_1-d1p2w35</from>
+            <to>a-UH_AK_035_t_1-d1p2w35</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e35">
+            <from>w#w-UH_AK_035_t_1-d1p2w36</from>
+            <to>a-UH_AK_035_t_1-d1p2w36</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e36">
+            <from>w#w-UH_AK_035_t_1-d1p2w37</from>
+            <to>a-UH_AK_035_t_1-d1p2w37</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e37">
+            <from>w#w-UH_AK_035_t_1-d1p2w38</from>
+            <to>a-UH_AK_035_t_1-d1p2w38</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e38">
+            <from>w#w-UH_AK_035_t_1-d1p2w39</from>
+            <to>a-UH_AK_035_t_1-d1p2w39</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e39">
+            <from>w#w-UH_AK_035_t_1-d1p2w40</from>
+            <to>a-UH_AK_035_t_1-d1p2w40</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e40">
+            <from>w#w-UH_AK_035_t_1-d1p2w41</from>
+            <to>a-UH_AK_035_t_1-d1p2w41</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e41">
+            <from>w#w-UH_AK_035_t_1-d1p2w42</from>
+            <to>a-UH_AK_035_t_1-d1p2w42</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e42">
+            <from>w#w-UH_AK_035_t_1-d1p2w43</from>
+            <to>a-UH_AK_035_t_1-d1p2w43</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e43">
+            <from>w#w-UH_AK_035_t_1-d1p2w44</from>
+            <to>a-UH_AK_035_t_1-d1p2w44</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e44">
+            <from>w#w-UH_AK_035_t_1-d1p2w45</from>
+            <to>a-UH_AK_035_t_1-d1p2w45</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e45">
+            <from>w#w-UH_AK_035_t_1-d1p2w46</from>
+            <to>a-UH_AK_035_t_1-d1p2w46</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e46">
+            <from>w#w-UH_AK_035_t_1-d1p2w47</from>
+            <to>a-UH_AK_035_t_1-d1p2w47</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e47">
+            <from>w#w-UH_AK_035_t_1-d1p2w48</from>
+            <to>a-UH_AK_035_t_1-d1p2w48</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e48">
+            <from>w#w-UH_AK_035_t_1-d1p2w49</from>
+            <to>a-UH_AK_035_t_1-d1p2w49</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e49">
+            <from>w#w-UH_AK_035_t_1-d1p2w50</from>
+            <to>a-UH_AK_035_t_1-d1p2w50</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e50">
+            <from>w#w-UH_AK_035_t_1-d1p2w51</from>
+            <to>a-UH_AK_035_t_1-d1p2w51</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e51">
+            <from>w#w-UH_AK_035_t_1-d1p2w52</from>
+            <to>a-UH_AK_035_t_1-d1p2w52</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e52">
+            <from>w#w-UH_AK_035_t_1-d1p2w53</from>
+            <to>a-UH_AK_035_t_1-d1p2w53</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e53">
+            <from>w#w-UH_AK_035_t_1-d1p2w54</from>
+            <to>a-UH_AK_035_t_1-d1p2w54</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e54">
+            <from>w#w-UH_AK_035_t_1-d1p2w55</from>
+            <to>a-UH_AK_035_t_1-d1p2w55</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e55">
+            <from>w#w-UH_AK_035_t_1-d1p2w56</from>
+            <to>a-UH_AK_035_t_1-d1p2w56</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p2e56">
+            <from>w#w-UH_AK_035_t_1-d1p2w57</from>
+            <to>a-UH_AK_035_t_1-d1p2w57</to>
+         </edge>
+      </para>
+      <para id="a-UH_AK_035_t_1-d1p3" lowerpara.rf="w#w-UH_AK_035_t_1-d1p3">
+         <s id="a-UH_AK_035_t_1-d1p3s0">
+            <w id="a-UH_AK_035_t_1-d1p3w1">
+               <token>U</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w2">
+               <token>nás</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w3">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w4">
+               <token>Rusků</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w5">
+               <token>turistům</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w6">
+               <token>se</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w7">
+               <token>moc</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w8">
+               <token>líbi</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w9">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w10">
+               <token>Egyptu</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w11">
+               <token>a</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w12">
+               <token>Turecku</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w13">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w14">
+               <token>proto</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w15">
+               <token>že</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w16">
+               <token>je</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w17">
+               <token>tam</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w18">
+               <token>o</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w19">
+               <token>trochu</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w20">
+               <token>levneji</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w21">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w22">
+               <token>než</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w23">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w24">
+               <token>ostatních</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w25">
+               <token>statéch</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w26">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p3s1">
+            <w id="a-UH_AK_035_t_1-d1p3w27">
+               <token>Ale</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w28">
+               <token>líde</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w29">
+               <token>jsou</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w30">
+               <token>různý</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w31">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p3s2">
+            <w id="a-UH_AK_035_t_1-d1p3w32">
+               <token>Každý</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w33">
+               <token>člověk</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w34">
+               <token>má</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w35">
+               <token>různý</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w36">
+               <token>plat</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w37">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w38">
+               <token>proto</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w39">
+               <token>někdo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w40">
+               <token>jede</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w41">
+               <token>nekam</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w42">
+               <token>dál</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w43">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w44">
+               <token>na</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w45">
+               <token>příklad</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w46">
+               <token>do</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w47">
+               <token>Australii</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w48">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w49">
+               <token>a</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w50">
+               <token>někdo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w51">
+               <token>nejede</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p3w52">
+               <token>nikam</token>
+            </w>
+         </s>
+         <edge id="a-UH_AK_035_t_1-d1p3e0">
+            <from>w#w-UH_AK_035_t_1-d1p3w1</from>
+            <to>a-UH_AK_035_t_1-d1p3w1</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e1">
+            <from>w#w-UH_AK_035_t_1-d1p3w2</from>
+            <to>a-UH_AK_035_t_1-d1p3w2</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e2">
+            <from>w#w-UH_AK_035_t_1-d1p3w3</from>
+            <to>a-UH_AK_035_t_1-d1p3w3</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e3">
+            <from>w#w-UH_AK_035_t_1-d1p3w4</from>
+            <to>a-UH_AK_035_t_1-d1p3w4</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e4">
+            <from>w#w-UH_AK_035_t_1-d1p3w5</from>
+            <to>a-UH_AK_035_t_1-d1p3w5</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e5">
+            <from>w#w-UH_AK_035_t_1-d1p3w6</from>
+            <to>a-UH_AK_035_t_1-d1p3w6</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e6">
+            <from>w#w-UH_AK_035_t_1-d1p3w7</from>
+            <to>a-UH_AK_035_t_1-d1p3w7</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e7">
+            <from>w#w-UH_AK_035_t_1-d1p3w8</from>
+            <to>a-UH_AK_035_t_1-d1p3w8</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e8">
+            <from>w#w-UH_AK_035_t_1-d1p3w9</from>
+            <to>a-UH_AK_035_t_1-d1p3w9</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e9">
+            <from>w#w-UH_AK_035_t_1-d1p3w10</from>
+            <to>a-UH_AK_035_t_1-d1p3w10</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e10">
+            <from>w#w-UH_AK_035_t_1-d1p3w11</from>
+            <to>a-UH_AK_035_t_1-d1p3w11</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e11">
+            <from>w#w-UH_AK_035_t_1-d1p3w12</from>
+            <to>a-UH_AK_035_t_1-d1p3w12</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e12">
+            <from>w#w-UH_AK_035_t_1-d1p3w13</from>
+            <to>a-UH_AK_035_t_1-d1p3w13</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e13">
+            <from>w#w-UH_AK_035_t_1-d1p3w14</from>
+            <to>a-UH_AK_035_t_1-d1p3w14</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e14">
+            <from>w#w-UH_AK_035_t_1-d1p3w15</from>
+            <to>a-UH_AK_035_t_1-d1p3w15</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e15">
+            <from>w#w-UH_AK_035_t_1-d1p3w16</from>
+            <to>a-UH_AK_035_t_1-d1p3w16</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e16">
+            <from>w#w-UH_AK_035_t_1-d1p3w17</from>
+            <to>a-UH_AK_035_t_1-d1p3w17</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e17">
+            <from>w#w-UH_AK_035_t_1-d1p3w18</from>
+            <to>a-UH_AK_035_t_1-d1p3w18</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e18">
+            <from>w#w-UH_AK_035_t_1-d1p3w19</from>
+            <to>a-UH_AK_035_t_1-d1p3w19</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e19">
+            <from>w#w-UH_AK_035_t_1-d1p3w20</from>
+            <to>a-UH_AK_035_t_1-d1p3w20</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e20">
+            <from>w#w-UH_AK_035_t_1-d1p3w21</from>
+            <to>a-UH_AK_035_t_1-d1p3w21</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e21">
+            <from>w#w-UH_AK_035_t_1-d1p3w22</from>
+            <to>a-UH_AK_035_t_1-d1p3w22</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e22">
+            <from>w#w-UH_AK_035_t_1-d1p3w23</from>
+            <to>a-UH_AK_035_t_1-d1p3w23</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e23">
+            <from>w#w-UH_AK_035_t_1-d1p3w24</from>
+            <to>a-UH_AK_035_t_1-d1p3w24</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e24">
+            <from>w#w-UH_AK_035_t_1-d1p3w25</from>
+            <to>a-UH_AK_035_t_1-d1p3w25</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e25">
+            <from>w#w-UH_AK_035_t_1-d1p3w26</from>
+            <to>a-UH_AK_035_t_1-d1p3w26</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e26">
+            <from>w#w-UH_AK_035_t_1-d1p3w27</from>
+            <to>a-UH_AK_035_t_1-d1p3w27</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e27">
+            <from>w#w-UH_AK_035_t_1-d1p3w28</from>
+            <to>a-UH_AK_035_t_1-d1p3w28</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e28">
+            <from>w#w-UH_AK_035_t_1-d1p3w29</from>
+            <to>a-UH_AK_035_t_1-d1p3w29</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e29">
+            <from>w#w-UH_AK_035_t_1-d1p3w30</from>
+            <to>a-UH_AK_035_t_1-d1p3w30</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e30">
+            <from>w#w-UH_AK_035_t_1-d1p3w31</from>
+            <to>a-UH_AK_035_t_1-d1p3w31</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e31">
+            <from>w#w-UH_AK_035_t_1-d1p3w32</from>
+            <to>a-UH_AK_035_t_1-d1p3w32</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e32">
+            <from>w#w-UH_AK_035_t_1-d1p3w33</from>
+            <to>a-UH_AK_035_t_1-d1p3w33</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e33">
+            <from>w#w-UH_AK_035_t_1-d1p3w34</from>
+            <to>a-UH_AK_035_t_1-d1p3w34</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e34">
+            <from>w#w-UH_AK_035_t_1-d1p3w35</from>
+            <to>a-UH_AK_035_t_1-d1p3w35</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e35">
+            <from>w#w-UH_AK_035_t_1-d1p3w36</from>
+            <to>a-UH_AK_035_t_1-d1p3w36</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e36">
+            <from>w#w-UH_AK_035_t_1-d1p3w37</from>
+            <to>a-UH_AK_035_t_1-d1p3w37</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e37">
+            <from>w#w-UH_AK_035_t_1-d1p3w38</from>
+            <to>a-UH_AK_035_t_1-d1p3w38</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e38">
+            <from>w#w-UH_AK_035_t_1-d1p3w39</from>
+            <to>a-UH_AK_035_t_1-d1p3w39</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e39">
+            <from>w#w-UH_AK_035_t_1-d1p3w40</from>
+            <to>a-UH_AK_035_t_1-d1p3w40</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e40">
+            <from>w#w-UH_AK_035_t_1-d1p3w41</from>
+            <to>a-UH_AK_035_t_1-d1p3w41</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e41">
+            <from>w#w-UH_AK_035_t_1-d1p3w42</from>
+            <to>a-UH_AK_035_t_1-d1p3w42</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e42">
+            <from>w#w-UH_AK_035_t_1-d1p3w43</from>
+            <to>a-UH_AK_035_t_1-d1p3w43</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e43">
+            <from>w#w-UH_AK_035_t_1-d1p3w44</from>
+            <to>a-UH_AK_035_t_1-d1p3w44</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e44">
+            <from>w#w-UH_AK_035_t_1-d1p3w45</from>
+            <to>a-UH_AK_035_t_1-d1p3w45</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e45">
+            <from>w#w-UH_AK_035_t_1-d1p3w46</from>
+            <to>a-UH_AK_035_t_1-d1p3w46</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e46">
+            <from>w#w-UH_AK_035_t_1-d1p3w47</from>
+            <to>a-UH_AK_035_t_1-d1p3w47</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e47">
+            <from>w#w-UH_AK_035_t_1-d1p3w48</from>
+            <to>a-UH_AK_035_t_1-d1p3w48</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e48">
+            <from>w#w-UH_AK_035_t_1-d1p3w49</from>
+            <to>a-UH_AK_035_t_1-d1p3w49</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e49">
+            <from>w#w-UH_AK_035_t_1-d1p3w50</from>
+            <to>a-UH_AK_035_t_1-d1p3w50</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e50">
+            <from>w#w-UH_AK_035_t_1-d1p3w51</from>
+            <to>a-UH_AK_035_t_1-d1p3w51</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p3e51">
+            <from>w#w-UH_AK_035_t_1-d1p3w52</from>
+            <to>a-UH_AK_035_t_1-d1p3w52</to>
+         </edge>
+      </para>
+      <para id="a-UH_AK_035_t_1-d1p4" lowerpara.rf="w#w-UH_AK_035_t_1-d1p4">
+         <s id="a-UH_AK_035_t_1-d1p4s0">
+            <w id="a-UH_AK_035_t_1-d1p4w1">
+               <token>Také</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w2">
+               <token>lide</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w3">
+               <token>mají</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w4">
+               <token>různé</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w5">
+               <token>důvody</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w6">
+               <token>pro</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w7">
+               <token>cestování</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w8">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w9">
+               <token>někdo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w10">
+               <token>jede</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w11">
+               <token>ke</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w12">
+               <token>svým</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w13">
+               <token>známým</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w14">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w15">
+               <token>někdo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w16">
+               <token>jede</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w17">
+               <token>studovat</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w18">
+               <token>a</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w19">
+               <token>někdo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w20">
+               <token>jede</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w21">
+               <token>jěnom</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w22">
+               <token>odpočinout</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w23">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w24">
+               <token>mýslím</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w25">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w26">
+               <token>že</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w27">
+               <token>tech</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w28">
+               <token>je</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w29">
+               <token>nejvice</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p4w30">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UH_AK_035_t_1-d1p4e0">
+            <from>w#w-UH_AK_035_t_1-d1p4w1</from>
+            <to>a-UH_AK_035_t_1-d1p4w1</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e1">
+            <from>w#w-UH_AK_035_t_1-d1p4w2</from>
+            <to>a-UH_AK_035_t_1-d1p4w2</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e2">
+            <from>w#w-UH_AK_035_t_1-d1p4w3</from>
+            <to>a-UH_AK_035_t_1-d1p4w3</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e3">
+            <from>w#w-UH_AK_035_t_1-d1p4w4</from>
+            <to>a-UH_AK_035_t_1-d1p4w4</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e4">
+            <from>w#w-UH_AK_035_t_1-d1p4w5</from>
+            <to>a-UH_AK_035_t_1-d1p4w5</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e5">
+            <from>w#w-UH_AK_035_t_1-d1p4w6</from>
+            <to>a-UH_AK_035_t_1-d1p4w6</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e6">
+            <from>w#w-UH_AK_035_t_1-d1p4w7</from>
+            <to>a-UH_AK_035_t_1-d1p4w7</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e7">
+            <from>w#w-UH_AK_035_t_1-d1p4w8</from>
+            <to>a-UH_AK_035_t_1-d1p4w8</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e8">
+            <from>w#w-UH_AK_035_t_1-d1p4w9</from>
+            <to>a-UH_AK_035_t_1-d1p4w9</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e9">
+            <from>w#w-UH_AK_035_t_1-d1p4w10</from>
+            <to>a-UH_AK_035_t_1-d1p4w10</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e10">
+            <from>w#w-UH_AK_035_t_1-d1p4w11</from>
+            <to>a-UH_AK_035_t_1-d1p4w11</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e11">
+            <from>w#w-UH_AK_035_t_1-d1p4w12</from>
+            <to>a-UH_AK_035_t_1-d1p4w12</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e12">
+            <from>w#w-UH_AK_035_t_1-d1p4w13</from>
+            <to>a-UH_AK_035_t_1-d1p4w13</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e13">
+            <from>w#w-UH_AK_035_t_1-d1p4w14</from>
+            <to>a-UH_AK_035_t_1-d1p4w14</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e14">
+            <from>w#w-UH_AK_035_t_1-d1p4w15</from>
+            <to>a-UH_AK_035_t_1-d1p4w15</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e15">
+            <from>w#w-UH_AK_035_t_1-d1p4w16</from>
+            <to>a-UH_AK_035_t_1-d1p4w16</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e16">
+            <from>w#w-UH_AK_035_t_1-d1p4w17</from>
+            <to>a-UH_AK_035_t_1-d1p4w17</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e17">
+            <from>w#w-UH_AK_035_t_1-d1p4w18</from>
+            <to>a-UH_AK_035_t_1-d1p4w18</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e18">
+            <from>w#w-UH_AK_035_t_1-d1p4w19</from>
+            <to>a-UH_AK_035_t_1-d1p4w19</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e19">
+            <from>w#w-UH_AK_035_t_1-d1p4w20</from>
+            <to>a-UH_AK_035_t_1-d1p4w20</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e20">
+            <from>w#w-UH_AK_035_t_1-d1p4w21</from>
+            <to>a-UH_AK_035_t_1-d1p4w21</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e21">
+            <from>w#w-UH_AK_035_t_1-d1p4w22</from>
+            <to>a-UH_AK_035_t_1-d1p4w22</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e22">
+            <from>w#w-UH_AK_035_t_1-d1p4w23</from>
+            <to>a-UH_AK_035_t_1-d1p4w23</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e23">
+            <from>w#w-UH_AK_035_t_1-d1p4w24</from>
+            <to>a-UH_AK_035_t_1-d1p4w24</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e24">
+            <from>w#w-UH_AK_035_t_1-d1p4w25</from>
+            <to>a-UH_AK_035_t_1-d1p4w25</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e25">
+            <from>w#w-UH_AK_035_t_1-d1p4w26</from>
+            <to>a-UH_AK_035_t_1-d1p4w26</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e26">
+            <from>w#w-UH_AK_035_t_1-d1p4w27</from>
+            <to>a-UH_AK_035_t_1-d1p4w27</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e27">
+            <from>w#w-UH_AK_035_t_1-d1p4w28</from>
+            <to>a-UH_AK_035_t_1-d1p4w28</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e28">
+            <from>w#w-UH_AK_035_t_1-d1p4w29</from>
+            <to>a-UH_AK_035_t_1-d1p4w29</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p4e29">
+            <from>w#w-UH_AK_035_t_1-d1p4w30</from>
+            <to>a-UH_AK_035_t_1-d1p4w30</to>
+         </edge>
+      </para>
+      <para id="a-UH_AK_035_t_1-d1p5" lowerpara.rf="w#w-UH_AK_035_t_1-d1p5">
+         <s id="a-UH_AK_035_t_1-d1p5s0">
+            <w id="a-UH_AK_035_t_1-d1p5w1">
+               <token>Někteří</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w2">
+               <token>líde</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w3">
+               <token>rozhodují</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w4">
+               <token>žít</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w5">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w6">
+               <token>jiné</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w7">
+               <token>zemí</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w8">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w9">
+               <token>například</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w10">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w11">
+               <token>proto</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w12">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w13">
+               <token>že</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w14">
+               <token>tam</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w15">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w16">
+               <token>kde</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w17">
+               <token>žijou</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w18">
+               <token>teď</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w19">
+               <token>je</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w20">
+               <token>hůř</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w21">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w22">
+               <token>než</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w23">
+               <token>například</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w24">
+               <token>v</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w25">
+               <token>Čechách</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w26">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p5s1">
+            <w id="a-UH_AK_035_t_1-d1p5w27">
+               <token>To</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w28">
+               <token>možně</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w29">
+               <token>řict</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w30">
+               <token>o</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w31">
+               <token>nás</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w32">
+               <token>s</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w33">
+               <token>mým</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w34">
+               <token>tatinkem</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p5w35">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UH_AK_035_t_1-d1p5e0">
+            <from>w#w-UH_AK_035_t_1-d1p5w1</from>
+            <to>a-UH_AK_035_t_1-d1p5w1</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e1">
+            <from>w#w-UH_AK_035_t_1-d1p5w2</from>
+            <to>a-UH_AK_035_t_1-d1p5w2</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e2">
+            <from>w#w-UH_AK_035_t_1-d1p5w3</from>
+            <to>a-UH_AK_035_t_1-d1p5w3</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e3">
+            <from>w#w-UH_AK_035_t_1-d1p5w4</from>
+            <to>a-UH_AK_035_t_1-d1p5w4</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e4">
+            <from>w#w-UH_AK_035_t_1-d1p5w5</from>
+            <to>a-UH_AK_035_t_1-d1p5w5</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e5">
+            <from>w#w-UH_AK_035_t_1-d1p5w6</from>
+            <to>a-UH_AK_035_t_1-d1p5w6</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e6">
+            <from>w#w-UH_AK_035_t_1-d1p5w7</from>
+            <to>a-UH_AK_035_t_1-d1p5w7</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e7">
+            <from>w#w-UH_AK_035_t_1-d1p5w8</from>
+            <to>a-UH_AK_035_t_1-d1p5w8</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e8">
+            <from>w#w-UH_AK_035_t_1-d1p5w9</from>
+            <to>a-UH_AK_035_t_1-d1p5w9</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e9">
+            <from>w#w-UH_AK_035_t_1-d1p5w10</from>
+            <to>a-UH_AK_035_t_1-d1p5w10</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e10">
+            <from>w#w-UH_AK_035_t_1-d1p5w11</from>
+            <to>a-UH_AK_035_t_1-d1p5w11</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e11">
+            <from>w#w-UH_AK_035_t_1-d1p5w12</from>
+            <to>a-UH_AK_035_t_1-d1p5w12</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e12">
+            <from>w#w-UH_AK_035_t_1-d1p5w13</from>
+            <to>a-UH_AK_035_t_1-d1p5w13</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e13">
+            <from>w#w-UH_AK_035_t_1-d1p5w14</from>
+            <to>a-UH_AK_035_t_1-d1p5w14</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e14">
+            <from>w#w-UH_AK_035_t_1-d1p5w15</from>
+            <to>a-UH_AK_035_t_1-d1p5w15</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e15">
+            <from>w#w-UH_AK_035_t_1-d1p5w16</from>
+            <to>a-UH_AK_035_t_1-d1p5w16</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e16">
+            <from>w#w-UH_AK_035_t_1-d1p5w17</from>
+            <to>a-UH_AK_035_t_1-d1p5w17</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e17">
+            <from>w#w-UH_AK_035_t_1-d1p5w18</from>
+            <to>a-UH_AK_035_t_1-d1p5w18</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e18">
+            <from>w#w-UH_AK_035_t_1-d1p5w19</from>
+            <to>a-UH_AK_035_t_1-d1p5w19</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e19">
+            <from>w#w-UH_AK_035_t_1-d1p5w20</from>
+            <to>a-UH_AK_035_t_1-d1p5w20</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e20">
+            <from>w#w-UH_AK_035_t_1-d1p5w21</from>
+            <to>a-UH_AK_035_t_1-d1p5w21</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e21">
+            <from>w#w-UH_AK_035_t_1-d1p5w22</from>
+            <to>a-UH_AK_035_t_1-d1p5w22</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e22">
+            <from>w#w-UH_AK_035_t_1-d1p5w23</from>
+            <to>a-UH_AK_035_t_1-d1p5w23</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e23">
+            <from>w#w-UH_AK_035_t_1-d1p5w24</from>
+            <to>a-UH_AK_035_t_1-d1p5w24</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e24">
+            <from>w#w-UH_AK_035_t_1-d1p5w25</from>
+            <to>a-UH_AK_035_t_1-d1p5w25</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e25">
+            <from>w#w-UH_AK_035_t_1-d1p5w26</from>
+            <to>a-UH_AK_035_t_1-d1p5w26</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e26">
+            <from>w#w-UH_AK_035_t_1-d1p5w27</from>
+            <to>a-UH_AK_035_t_1-d1p5w27</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e27">
+            <from>w#w-UH_AK_035_t_1-d1p5w28</from>
+            <to>a-UH_AK_035_t_1-d1p5w28</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e28">
+            <from>w#w-UH_AK_035_t_1-d1p5w29</from>
+            <to>a-UH_AK_035_t_1-d1p5w29</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e29">
+            <from>w#w-UH_AK_035_t_1-d1p5w30</from>
+            <to>a-UH_AK_035_t_1-d1p5w30</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e30">
+            <from>w#w-UH_AK_035_t_1-d1p5w31</from>
+            <to>a-UH_AK_035_t_1-d1p5w31</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e31">
+            <from>w#w-UH_AK_035_t_1-d1p5w32</from>
+            <to>a-UH_AK_035_t_1-d1p5w32</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e32">
+            <from>w#w-UH_AK_035_t_1-d1p5w33</from>
+            <to>a-UH_AK_035_t_1-d1p5w33</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e33">
+            <from>w#w-UH_AK_035_t_1-d1p5w34</from>
+            <to>a-UH_AK_035_t_1-d1p5w34</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p5e34">
+            <from>w#w-UH_AK_035_t_1-d1p5w35</from>
+            <to>a-UH_AK_035_t_1-d1p5w35</to>
+         </edge>
+      </para>
+      <para id="a-UH_AK_035_t_1-d1p6" lowerpara.rf="w#w-UH_AK_035_t_1-d1p6">
+         <s id="a-UH_AK_035_t_1-d1p6s0">
+            <w id="a-UH_AK_035_t_1-d1p6w1">
+               <token>Ja</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w2">
+               <token>nevím</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w3">
+               <token>vubec</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w4">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w5">
+               <token>jakou</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w6">
+               <token>negativu</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w7">
+               <token>může</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w8">
+               <token>mit</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w9">
+               <token>cestovní</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w10">
+               <token>ruch</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w11">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w12">
+               <token>může</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w13">
+               <token>byt</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w14">
+               <token>doprava</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w15">
+               <token>nebo</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w16">
+               <token>úbytování</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w17">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w18">
+               <token>ale</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w19">
+               <token>bohudik</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w20">
+               <token>,</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w21">
+               <token>že</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w22">
+               <token>jsem</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w23">
+               <token>ještě</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w24">
+               <token>neměl</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w25">
+               <token>s</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w26">
+               <token>tím</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w27">
+               <token>žádného</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w28">
+               <token>setkání</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w29">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UH_AK_035_t_1-d1p6s1">
+            <w id="a-UH_AK_035_t_1-d1p6w30">
+               <token>Tě|eším</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w31">
+               <token>se</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w32">
+               <token>na</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w33">
+               <token>nejblizši</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w34">
+               <token>dovolenou</token>
+            </w>
+            <w id="a-UH_AK_035_t_1-d1p6w35">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UH_AK_035_t_1-d1p6e0">
+            <from>w#w-UH_AK_035_t_1-d1p6w1</from>
+            <to>a-UH_AK_035_t_1-d1p6w1</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e1">
+            <from>w#w-UH_AK_035_t_1-d1p6w2</from>
+            <to>a-UH_AK_035_t_1-d1p6w2</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e2">
+            <from>w#w-UH_AK_035_t_1-d1p6w3</from>
+            <to>a-UH_AK_035_t_1-d1p6w3</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e3">
+            <from>w#w-UH_AK_035_t_1-d1p6w4</from>
+            <to>a-UH_AK_035_t_1-d1p6w4</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e4">
+            <from>w#w-UH_AK_035_t_1-d1p6w5</from>
+            <to>a-UH_AK_035_t_1-d1p6w5</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e5">
+            <from>w#w-UH_AK_035_t_1-d1p6w6</from>
+            <to>a-UH_AK_035_t_1-d1p6w6</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e6">
+            <from>w#w-UH_AK_035_t_1-d1p6w7</from>
+            <to>a-UH_AK_035_t_1-d1p6w7</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e7">
+            <from>w#w-UH_AK_035_t_1-d1p6w8</from>
+            <to>a-UH_AK_035_t_1-d1p6w8</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e8">
+            <from>w#w-UH_AK_035_t_1-d1p6w9</from>
+            <to>a-UH_AK_035_t_1-d1p6w9</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e9">
+            <from>w#w-UH_AK_035_t_1-d1p6w10</from>
+            <to>a-UH_AK_035_t_1-d1p6w10</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e10">
+            <from>w#w-UH_AK_035_t_1-d1p6w11</from>
+            <to>a-UH_AK_035_t_1-d1p6w11</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e11">
+            <from>w#w-UH_AK_035_t_1-d1p6w12</from>
+            <to>a-UH_AK_035_t_1-d1p6w12</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e12">
+            <from>w#w-UH_AK_035_t_1-d1p6w13</from>
+            <to>a-UH_AK_035_t_1-d1p6w13</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e13">
+            <from>w#w-UH_AK_035_t_1-d1p6w14</from>
+            <to>a-UH_AK_035_t_1-d1p6w14</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e14">
+            <from>w#w-UH_AK_035_t_1-d1p6w15</from>
+            <to>a-UH_AK_035_t_1-d1p6w15</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e15">
+            <from>w#w-UH_AK_035_t_1-d1p6w16</from>
+            <to>a-UH_AK_035_t_1-d1p6w16</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e16">
+            <from>w#w-UH_AK_035_t_1-d1p6w17</from>
+            <to>a-UH_AK_035_t_1-d1p6w17</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e17">
+            <from>w#w-UH_AK_035_t_1-d1p6w18</from>
+            <to>a-UH_AK_035_t_1-d1p6w18</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e18">
+            <from>w#w-UH_AK_035_t_1-d1p6w19</from>
+            <to>a-UH_AK_035_t_1-d1p6w19</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e19">
+            <from>w#w-UH_AK_035_t_1-d1p6w20</from>
+            <to>a-UH_AK_035_t_1-d1p6w20</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e20">
+            <from>w#w-UH_AK_035_t_1-d1p6w21</from>
+            <to>a-UH_AK_035_t_1-d1p6w21</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e21">
+            <from>w#w-UH_AK_035_t_1-d1p6w22</from>
+            <to>a-UH_AK_035_t_1-d1p6w22</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e22">
+            <from>w#w-UH_AK_035_t_1-d1p6w23</from>
+            <to>a-UH_AK_035_t_1-d1p6w23</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e23">
+            <from>w#w-UH_AK_035_t_1-d1p6w24</from>
+            <to>a-UH_AK_035_t_1-d1p6w24</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e24">
+            <from>w#w-UH_AK_035_t_1-d1p6w25</from>
+            <to>a-UH_AK_035_t_1-d1p6w25</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e25">
+            <from>w#w-UH_AK_035_t_1-d1p6w26</from>
+            <to>a-UH_AK_035_t_1-d1p6w26</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e26">
+            <from>w#w-UH_AK_035_t_1-d1p6w27</from>
+            <to>a-UH_AK_035_t_1-d1p6w27</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e27">
+            <from>w#w-UH_AK_035_t_1-d1p6w28</from>
+            <to>a-UH_AK_035_t_1-d1p6w28</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e28">
+            <from>w#w-UH_AK_035_t_1-d1p6w29</from>
+            <to>a-UH_AK_035_t_1-d1p6w29</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e29">
+            <from>w#w-UH_AK_035_t_1-d1p6w30</from>
+            <to>a-UH_AK_035_t_1-d1p6w30</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e30">
+            <from>w#w-UH_AK_035_t_1-d1p6w31</from>
+            <to>a-UH_AK_035_t_1-d1p6w31</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e31">
+            <from>w#w-UH_AK_035_t_1-d1p6w32</from>
+            <to>a-UH_AK_035_t_1-d1p6w32</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e32">
+            <from>w#w-UH_AK_035_t_1-d1p6w33</from>
+            <to>a-UH_AK_035_t_1-d1p6w33</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e33">
+            <from>w#w-UH_AK_035_t_1-d1p6w34</from>
+            <to>a-UH_AK_035_t_1-d1p6w34</to>
+         </edge>
+         <edge id="a-UH_AK_035_t_1-d1p6e34">
+            <from>w#w-UH_AK_035_t_1-d1p6w35</from>
+            <to>a-UH_AK_035_t_1-d1p6w35</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

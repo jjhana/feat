@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="UJA_K1_004_t_1 JAPON.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-UJA_K1_004_t_1 JAPON-d1" lowerdoc.rf="w#w-UJA_K1_004_t_1 JAPON-d1">
+      <para id="a-UJA_K1_004_t_1 JAPON-d1p1" lowerpara.rf="w#w-UJA_K1_004_t_1 JAPON-d1p1">
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s0">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w1">
+               <token>Mám</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w2">
+               <token>dvě</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w3">
+               <token>maminky</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w4">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s1">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w5">
+               <token>Jedna</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w6">
+               <token>je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w7">
+               <token>moje</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w8">
+               <token>vlastná</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w9">
+               <token>maminka</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w10">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w11">
+               <token>ktera</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w12">
+               <token>mě</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w13">
+               <token>rodila</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w14">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w15">
+               <token>Japonsku</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w16">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s2">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w17">
+               <token>Jedna</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w18">
+               <token>je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w19">
+               <token>moje</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w20">
+               <token>česká</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w21">
+               <token>maminka</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w22">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s3">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w23">
+               <token>Jmenuje</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w24">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w25">
+               <token>Eva</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w26">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s4">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w27">
+               <token>Je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w28">
+               <token>jí</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w29">
+               <token>40</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w30">
+               <token>let</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w31">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s5">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w32">
+               <token>Je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w33">
+               <token>moc</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w34">
+               <token>mladá</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w35">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w36">
+               <token>ale</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w37">
+               <token>má</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w38">
+               <token>tři</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w39">
+               <token>děti</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w40">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s6">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w41">
+               <token>Jejím</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w42">
+               <token>prvním</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w43">
+               <token>ditěti</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w44">
+               <token>Tereze</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w45">
+               <token>je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w46">
+               <token>už</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w47">
+               <token>19</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w48">
+               <token>let</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w49">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s7">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w50">
+               <token>Eva</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w51">
+               <token>ji</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w52">
+               <token>polodila</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w53">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w54">
+               <token>když</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w55">
+               <token>je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w56">
+               <token>ji</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w57">
+               <token>20</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w58">
+               <token>let</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w59">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s8">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w60">
+               <token>Proto</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w61">
+               <token>nevystudovala</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w62">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w63">
+               <token>univerzízu</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w64">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s9">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w65">
+               <token>Ale</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w66">
+               <token>je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w67">
+               <token>moc</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w68">
+               <token>inteligentná</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w69">
+               <token>žena</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w70">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s10">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w71">
+               <token>Miluje</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w72">
+               <token>svoji</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w73">
+               <token>rodínu</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w74">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w75">
+               <token>vaří</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w76">
+               <token>české</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w77">
+               <token>jídlo</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w78">
+               <token>ani</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w79">
+               <token>tradiční</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w80">
+               <token>ani</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w81">
+               <token>moderní</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w82">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s11">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w83">
+               <token>Stálá</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w84">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w85">
+               <token>o</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w86">
+               <token>dědečky</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w87">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w88">
+               <token>babičky</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w89">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w90">
+               <token>psy</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w91">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w92">
+               <token>kočky</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w93">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s12">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w94">
+               <token>Pracuje</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w95">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w96">
+               <token>kempu</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w97">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w98">
+               <token>naší</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w99">
+               <token>vesnici</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w100">
+               <token>jako</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w101">
+               <token>kuchářkou</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w102">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s13">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w103">
+               <token>Vaří</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w104">
+               <token>moc</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w105">
+               <token>dobře</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w106">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s14">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w107">
+               <token>Každý</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w108">
+               <token>víkend</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w109">
+               <token>lidé</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w110">
+               <token>sejdou</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w111">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w112">
+               <token>kemp</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w113">
+               <token>,</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w114">
+               <token>aby</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w115">
+               <token>jedli</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w116">
+               <token>její</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w117">
+               <token>jídla</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w118">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s15">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w119">
+               <token>Baví</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w120">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w121">
+               <token>o</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w122">
+               <token>všem</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w123">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w124">
+               <token>naší</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w125">
+               <token>vesnici</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w126">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s16">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w127">
+               <token>A</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w128">
+               <token>proto</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w129">
+               <token>ona</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w130">
+               <token>urcítě</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w131">
+               <token>zná</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w132">
+               <token>novinky</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w133">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s17">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w134">
+               <token>Překuvapilo</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w135">
+               <token>mě</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w136">
+               <token>to</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w137">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p1s18">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w138">
+               <token>Ale</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w139">
+               <token>už</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w140">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w141">
+               <token>byla</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w142">
+               <token>zvyklá</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w143">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w144">
+               <token>to</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p1w145">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e0">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w1</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w1</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e1">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w2</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w2</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e2">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w3</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w3</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e3">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w4</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w4</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e4">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w5</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w5</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e5">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w6</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w6</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e6">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w7</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w7</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e7">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w8</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w8</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e8">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w9</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w9</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e9">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w10</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w10</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e10">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w11</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w11</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e11">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w12</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w12</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e12">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w13</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w13</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e13">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w14</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w14</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e14">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w15</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w15</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e15">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w16</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w16</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e16">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w17</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w17</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e17">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w18</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w18</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e18">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w19</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w19</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e19">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w20</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w20</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e20">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w21</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w21</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e21">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w22</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w22</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e22">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w23</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w23</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e23">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w24</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w24</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e24">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w25</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w25</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e25">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w26</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w26</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e26">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w27</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w27</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e27">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w28</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w28</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e28">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w29</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w29</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e29">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w30</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w30</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e30">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w31</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w31</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e31">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w32</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w32</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e32">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w33</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w33</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e33">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w34</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w34</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e34">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w35</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w35</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e35">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w36</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w36</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e36">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w37</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w37</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e37">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w38</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w38</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e38">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w39</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w39</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e39">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w40</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w40</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e40">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w41</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w41</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e41">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w42</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w42</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e42">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w43</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w43</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e43">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w44</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w44</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e44">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w45</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w45</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e45">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w46</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w46</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e46">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w47</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w47</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e47">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w48</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w48</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e48">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w49</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w49</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e49">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w50</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w50</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e50">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w51</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w51</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e51">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w52</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w52</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e52">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w53</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w53</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e53">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w54</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w54</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e54">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w55</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w55</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e55">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w56</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w56</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e56">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w57</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w57</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e57">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w58</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w58</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e58">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w59</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w59</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e59">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w60</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w60</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e60">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w61</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w61</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e61">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w62</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w62</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e62">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w63</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w63</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e63">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w64</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w64</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e64">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w65</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w65</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e65">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w66</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w66</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e66">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w67</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w67</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e67">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w68</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w68</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e68">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w69</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w69</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e69">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w70</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w70</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e70">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w71</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w71</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e71">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w72</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w72</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e72">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w73</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w73</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e73">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w74</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w74</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e74">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w75</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w75</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e75">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w76</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w76</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e76">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w77</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w77</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e77">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w78</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w78</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e78">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w79</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w79</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e79">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w80</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w80</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e80">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w81</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w81</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e81">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w82</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w82</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e82">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w83</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w83</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e83">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w84</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w84</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e84">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w85</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w85</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e85">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w86</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w86</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e86">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w87</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w87</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e87">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w88</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w88</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e88">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w89</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w89</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e89">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w90</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w90</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e90">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w91</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w91</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e91">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w92</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w92</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e92">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w93</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w93</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e93">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w94</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w94</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e94">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w95</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w95</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e95">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w96</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w96</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e96">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w97</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w97</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e97">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w98</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w98</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e98">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w99</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w99</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e99">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w100</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w100</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e100">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w101</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w101</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e101">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w102</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w102</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e102">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w103</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w103</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e103">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w104</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w104</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e104">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w105</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w105</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e105">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w106</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w106</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e106">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w107</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w107</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e107">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w108</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w108</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e108">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w109</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w109</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e109">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w110</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w110</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e110">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w111</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w111</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e111">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w112</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w112</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e112">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w113</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w113</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e113">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w114</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w114</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e114">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w115</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w115</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e115">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w116</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w116</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e116">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w117</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w117</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e117">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w118</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w118</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e118">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w119</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w119</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e119">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w120</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w120</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e120">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w121</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w121</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e121">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w122</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w122</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e122">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w123</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w123</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e123">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w124</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w124</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e124">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w125</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w125</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e125">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w126</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w126</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e126">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w127</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w127</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e127">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w128</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w128</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e128">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w129</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w129</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e129">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w130</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w130</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e130">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w131</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w131</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e131">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w132</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w132</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e132">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w133</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w133</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e133">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w134</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w134</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e134">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w135</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w135</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e135">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w136</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w136</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e136">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w137</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w137</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e137">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w138</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w138</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e138">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w139</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w139</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e139">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w140</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w140</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e140">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w141</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w141</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e141">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w142</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w142</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e142">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w143</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w143</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e143">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w144</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w144</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p1e144">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p1w145</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p1w145</to>
+         </edge>
+      </para>
+      <para id="a-UJA_K1_004_t_1 JAPON-d1p2" lowerpara.rf="w#w-UJA_K1_004_t_1 JAPON-d1p2">
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p2s0">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w1">
+               <token>Ona</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w2">
+               <token>mi</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w3">
+               <token>říká</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p2s1">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w4">
+               <token>„</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w5">
+               <token>Jsi</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w6">
+               <token>moje</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w7">
+               <token>dcera</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w8">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p2s2">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w9">
+               <token>Chci</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w10">
+               <token>ti</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w11">
+               <token>zůstat</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w12">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w13">
+               <token>České</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w14">
+               <token>repubulice</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w15">
+               <token>“</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w16">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p2s3">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w17">
+               <token>Mám</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w18">
+               <token>moc</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w19">
+               <token>radosti</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w20">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p2s4">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w21">
+               <token>Ona</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w22">
+               <token>je</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w23">
+               <token>ideální</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w24">
+               <token>česká</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w25">
+               <token>žena</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w26">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_K1_004_t_1 JAPON-d1p2s5">
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w27">
+               <token>Chtěla</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w28">
+               <token>bych</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w29">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w30">
+               <token>stat</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w31">
+               <token>hodne</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w32">
+               <token>maminkou</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w33">
+               <token>jako</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w34">
+               <token>Eva</token>
+            </w>
+            <w id="a-UJA_K1_004_t_1 JAPON-d1p2w35">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e0">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w1</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w1</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e1">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w2</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w2</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e2">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w3</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w3</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e3">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w4</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w4</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e4">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w5</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w5</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e5">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w6</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w6</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e6">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w7</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w7</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e7">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w8</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w8</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e8">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w9</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w9</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e9">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w10</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w10</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e10">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w11</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w11</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e11">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w12</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w12</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e12">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w13</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w13</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e13">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w14</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w14</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e14">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w15</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w15</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e15">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w16</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w16</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e16">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w17</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w17</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e17">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w18</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w18</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e18">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w19</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w19</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e19">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w20</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w20</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e20">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w21</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w21</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e21">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w22</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w22</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e22">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w23</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w23</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e23">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w24</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w24</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e24">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w25</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w25</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e25">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w26</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w26</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e26">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w27</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w27</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e27">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w28</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w28</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e28">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w29</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w29</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e29">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w30</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w30</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e30">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w31</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w31</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e31">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w32</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w32</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e32">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w33</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w33</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e33">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w34</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w34</to>
+         </edge>
+         <edge id="a-UJA_K1_004_t_1 JAPON-d1p2e34">
+            <from>w#w-UJA_K1_004_t_1 JAPON-d1p2w35</from>
+            <to>a-UJA_K1_004_t_1 JAPON-d1p2w35</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

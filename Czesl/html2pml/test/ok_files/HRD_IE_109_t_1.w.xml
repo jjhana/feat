@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="HRD_IE_109_t_1.html"/>
+         <reffile id="i" href="HRD_IE_109_t_1.jpg"/>
+      </references>
+   </head>
+   <doc id="w-HRD_IE_109_t_1-d1">
+      <para id="w-HRD_IE_109_t_1-d1p1">
+         <w id="w-HRD_IE_109_t_1-d1p1w1">
+            <token>Vyborná</token>
+            <original_position from="5" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p1w2">
+            <token>dovolená</token>
+            <original_position from="13" len="8"/>
+         </w>
+      </para>
+      <para id="w-HRD_IE_109_t_1-d1p2">
+         <w id="w-HRD_IE_109_t_1-d1p2w1">
+            <token>podlé</token>
+            <original_position from="24" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w2">
+            <token>mě</token>
+            <original_position from="30" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w3">
+            <token>.</token>
+            <original_position from="32" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w4">
+            <token>nejlepší</token>
+            <original_position from="34" len="8"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w5">
+            <token>dovolená</token>
+            <original_position from="43" len="8"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w6">
+            <token>s</token>
+            <original_position from="52" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w7">
+            <token>Kamarády</token>
+            <original_position from="54" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w8">
+            <token>.</token>
+            <original_position from="62" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w9">
+            <token>Vzpominu</token>
+            <original_position from="65" len="8"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w10">
+            <token>Když</token>
+            <original_position from="74" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w11">
+            <token>jsem</token>
+            <original_position from="79" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w12">
+            <token>jel</token>
+            <original_position from="84" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w13">
+            <token>na</token>
+            <original_position from="88" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w14">
+            <token>dovolenou</token>
+            <original_position from="91" len="9"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w15">
+            <token>s</token>
+            <original_position from="101" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w16">
+            <token>kamarády</token>
+            <original_position from="103" len="8"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w17">
+            <token>do</token>
+            <original_position from="112" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w18">
+            <token>Alexandrie</token>
+            <original_position from="115" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w19">
+            <token>.</token>
+            <original_position from="125" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w20">
+            <token>Bylo</token>
+            <original_position from="128" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w21">
+            <token>nás</token>
+            <original_position from="133" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w22">
+            <token>pět</token>
+            <original_position from="137" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w23">
+            <token>,</token>
+            <original_position from="140" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w24">
+            <token>Sešli</token>
+            <original_position from="142" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w25">
+            <token>jsme</token>
+            <original_position from="148" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w26">
+            <token>se</token>
+            <original_position from="153" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w27">
+            <token>,</token>
+            <original_position from="155" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w28">
+            <token>A</token>
+            <original_position from="158" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w29">
+            <token>pak</token>
+            <original_position from="160" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w30">
+            <token>jsme</token>
+            <original_position from="164" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w31">
+            <token>začinali</token>
+            <original_position from="169" len="8"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w32">
+            <token>cestu</token>
+            <original_position from="178" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w33">
+            <token>do</token>
+            <original_position from="184" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w34">
+            <token>Alexandrie</token>
+            <original_position from="187" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w35">
+            <token>,</token>
+            <original_position from="197" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w36">
+            <token>Cesta</token>
+            <original_position from="200" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w37">
+            <token>trvala</token>
+            <original_position from="206" len="6"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w38">
+            <token>asi</token>
+            <original_position from="213" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w39">
+            <token>dvě</token>
+            <original_position from="217" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w40">
+            <token>a</token>
+            <original_position from="221" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w41">
+            <token>půl</token>
+            <original_position from="223" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w42">
+            <token>hodiny</token>
+            <original_position from="227" len="6"/>
+            <comment>přeškrtnutá tečka za slovem hodiny</comment>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w43">
+            <token>Autem</token>
+            <original_position from="274" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w44">
+            <token>,</token>
+            <original_position from="279" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w45">
+            <token>Celou</token>
+            <original_position from="282" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w46">
+            <token>Cestu</token>
+            <original_position from="288" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w47">
+            <token>jsme</token>
+            <original_position from="294" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w48">
+            <token>slyšeli</token>
+            <original_position from="299" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w49">
+            <token>hudbu</token>
+            <original_position from="307" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w50">
+            <token>až</token>
+            <original_position from="313" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w51">
+            <token>jsme</token>
+            <original_position from="316" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w52">
+            <token>se</token>
+            <original_position from="321" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w53">
+            <token>dostali</token>
+            <original_position from="324" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w54">
+            <token>do</token>
+            <original_position from="332" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w55">
+            <token>Alexandrie</token>
+            <original_position from="335" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w56">
+            <token>.</token>
+            <original_position from="345" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w57">
+            <token>Dali</token>
+            <original_position from="348" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w58">
+            <token>jsme</token>
+            <original_position from="353" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w59">
+            <token>naše</token>
+            <original_position from="358" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w60">
+            <token>zavazadla</token>
+            <original_position from="363" len="9"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w61">
+            <token>do</token>
+            <original_position from="373" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w62">
+            <token>bytu</token>
+            <original_position from="376" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w63">
+            <token>a</token>
+            <original_position from="381" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w64">
+            <token>šli</token>
+            <original_position from="383" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w65">
+            <token>jsme</token>
+            <original_position from="387" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w66">
+            <token>sprchovat</token>
+            <original_position from="392" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w67">
+            <token>,</token>
+            <original_position from="401" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w68">
+            <token>A</token>
+            <original_position from="404" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w69">
+            <token>pak</token>
+            <original_position from="406" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w70">
+            <token>jsme</token>
+            <original_position from="410" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w71">
+            <token>Šli</token>
+            <original_position from="415" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w72">
+            <token>do</token>
+            <original_position from="419" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w73">
+            <token>plaži</token>
+            <original_position from="422" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w74">
+            <token>,</token>
+            <original_position from="427" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w75">
+            <token>,</token>
+            <original_position from="432" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w76">
+            <token>plavali</token>
+            <original_position from="434" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w77">
+            <token>jsme</token>
+            <original_position from="442" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w78">
+            <token>,</token>
+            <original_position from="446" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w79">
+            <token>obalovali</token>
+            <original_position from="448" len="9"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w80">
+            <token>jsme</token>
+            <original_position from="458" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w81">
+            <token>se</token>
+            <original_position from="463" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w82">
+            <token>a</token>
+            <original_position from="466" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w83">
+            <token>hrali</token>
+            <original_position from="468" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w84">
+            <token>jsme</token>
+            <original_position from="474" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w85">
+            <token>Fotbal</token>
+            <original_position from="479" len="6"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w86">
+            <token>na</token>
+            <original_position from="486" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w87">
+            <token>písku</token>
+            <original_position from="489" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w88">
+            <token>plaže</token>
+            <original_position from="495" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w89">
+            <token>.</token>
+            <original_position from="500" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w90">
+            <token>Zase</token>
+            <original_position from="503" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w91">
+            <token>jsme</token>
+            <original_position from="508" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w92">
+            <token>šli</token>
+            <original_position from="513" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w93">
+            <token>do</token>
+            <original_position from="517" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w94">
+            <token>bytu</token>
+            <original_position from="520" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w95">
+            <token>sprchovat</token>
+            <original_position from="525" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w96">
+            <token>,</token>
+            <original_position from="534" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w97">
+            <token>pak</token>
+            <original_position from="536" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w98">
+            <token>šli</token>
+            <original_position from="540" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w99">
+            <token>jsme</token>
+            <original_position from="544" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w100">
+            <token>do</token>
+            <original_position from="549" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w101">
+            <token>restaurace</token>
+            <original_position from="552" len="10"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w102">
+            <token>na</token>
+            <original_position from="563" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w103">
+            <token>oběd</token>
+            <original_position from="566" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w104">
+            <token>,</token>
+            <original_position from="570" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w105">
+            <token>Večer</token>
+            <original_position from="573" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w106">
+            <token>jsme</token>
+            <original_position from="579" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w107">
+            <token>chodili</token>
+            <original_position from="584" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w108">
+            <token>na</token>
+            <original_position from="592" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w109">
+            <token>procházku</token>
+            <original_position from="595" len="9"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w110">
+            <token>až</token>
+            <original_position from="605" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w111">
+            <token>do</token>
+            <original_position from="608" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w112">
+            <token>půl</token>
+            <original_position from="611" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w113">
+            <token>nocí</token>
+            <original_position from="615" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w114">
+            <token>.</token>
+            <original_position from="619" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w115">
+            <token>pak</token>
+            <original_position from="622" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w116">
+            <token>jsme</token>
+            <original_position from="626" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w117">
+            <token>šli</token>
+            <original_position from="631" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w118">
+            <token>spát</token>
+            <original_position from="635" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w119">
+            <token>,</token>
+            <original_position from="639" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w120">
+            <token>Druhý</token>
+            <original_position from="642" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w121">
+            <token>den</token>
+            <original_position from="648" len="3"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w122">
+            <token>jsme</token>
+            <original_position from="652" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w123">
+            <token>zůstali</token>
+            <original_position from="657" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w124">
+            <token>doma</token>
+            <original_position from="665" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w125">
+            <token>hrát</token>
+            <original_position from="670" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w126">
+            <token>Kartu</token>
+            <original_position from="675" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w127">
+            <token>a</token>
+            <original_position from="681" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w128">
+            <token>Šachy</token>
+            <original_position from="683" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w129">
+            <token>,</token>
+            <original_position from="688" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w130">
+            <token>občas</token>
+            <original_position from="690" len="5"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w131">
+            <token>jsme</token>
+            <original_position from="696" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w132">
+            <token>chodili</token>
+            <original_position from="701" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w133">
+            <token>chytat</token>
+            <original_position from="709" len="6"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w134">
+            <token>rybu</token>
+            <original_position from="716" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w135">
+            <token>.</token>
+            <original_position from="720" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w136">
+            <token>Navštivili</token>
+            <original_position from="723" len="10"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w137">
+            <token>jsme</token>
+            <original_position from="734" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w138">
+            <token>nejstarší</token>
+            <original_position from="739" len="9"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w139">
+            <token>pamatky</token>
+            <original_position from="749" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w140">
+            <token>v</token>
+            <original_position from="757" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w141">
+            <token>Alexandrií</token>
+            <original_position from="759" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w142">
+            <token>,</token>
+            <original_position from="769" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w143">
+            <token>Opravdu</token>
+            <original_position from="772" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w144">
+            <token>jsme</token>
+            <original_position from="780" len="4"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w145">
+            <token>stravili</token>
+            <original_position from="785" len="8"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w146">
+            <token>hezkou</token>
+            <original_position from="794" len="6"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w147">
+            <token>dovolenou</token>
+            <original_position from="801" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w148">
+            <token>.</token>
+            <original_position from="810" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w149">
+            <token>Myslim</token>
+            <original_position from="813" len="6"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w150">
+            <token>že</token>
+            <original_position from="820" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w151">
+            <token>,</token>
+            <original_position from="822" len="1"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w152">
+            <token>to</token>
+            <original_position from="824" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w153">
+            <token>je</token>
+            <original_position from="827" len="2"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w154">
+            <token>vyborná</token>
+            <original_position from="830" len="7"/>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w155">
+            <token>dovolená</token>
+            <original_position from="838" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_109_t_1-d1p2w156">
+            <token>.</token>
+            <original_position from="846" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-HRD_IE_109_t_1-cor-del1">
+            <from>w-HRD_IE_109_t_1-d1p2w74</from>
+            <orig>XXX</orig>
+         </deleted>
+      </corrections>
+   </doc>
+</wdata>

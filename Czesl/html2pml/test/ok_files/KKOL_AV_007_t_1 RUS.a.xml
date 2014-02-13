@@ -1,0 +1,1903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="KKOL_AV_007_t_1 RUS.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-KKOL_AV_007_t_1 RUS-d1" lowerdoc.rf="w#w-KKOL_AV_007_t_1 RUS-d1">
+      <para id="a-KKOL_AV_007_t_1 RUS-d1p1" lowerpara.rf="w#w-KKOL_AV_007_t_1 RUS-d1p1">
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p1s0">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w1">
+               <token>Umím</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w2">
+               <token>si</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w3">
+               <token>představit</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w4">
+               <token>,</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w5">
+               <token>ze</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w6">
+               <token>bych</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w7">
+               <token>zůstal</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w8">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w9">
+               <token>svým</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w10">
+               <token>dítětem</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w11">
+               <token>na</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w12">
+               <token>rodičovske</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w13">
+               <token>dovolené</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p1w14">
+               <token>?</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e0">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w1</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w1</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e1">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w2</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w2</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e2">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w3</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w3</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e3">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w4</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w4</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e4">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w5</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w5</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e5">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w6</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w6</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e6">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w7</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w7</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e7">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w8</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w8</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e8">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w9</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w9</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e9">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w10</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w10</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e10">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w11</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w11</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e11">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w12</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w12</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e12">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w13</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w13</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p1e13">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p1w14</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p1w14</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AV_007_t_1 RUS-d1p2" lowerpara.rf="w#w-KKOL_AV_007_t_1 RUS-d1p2">
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p2s0">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w1">
+               <token>Tato</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w2">
+               <token>otázka</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w3">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w4">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w5">
+               <token>těžka</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w6">
+               <token>protože</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w7">
+               <token>v</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w8">
+               <token>Rusko</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w9">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w10">
+               <token>není</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w11">
+               <token>obyčejne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w12">
+               <token>když</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w13">
+               <token>muž</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w14">
+               <token>jide</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w15">
+               <token>na</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w16">
+               <token>rodičovsku</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w17">
+               <token>dovolenu</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w18">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w19">
+               <token>žena</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w20">
+               <token>pracuje</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p2w21">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e0">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w1</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w1</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e1">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w2</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w2</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e2">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w3</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w3</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e3">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w4</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w4</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e4">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w5</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w5</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e5">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w6</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w6</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e6">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w7</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w7</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e7">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w8</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w8</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e8">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w9</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w9</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e9">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w10</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w10</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e10">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w11</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w11</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e11">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w12</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w12</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e12">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w13</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w13</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e13">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w14</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w14</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e14">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w15</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w15</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e15">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w16</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w16</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e16">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w17</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w17</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e17">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w18</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w18</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e18">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w19</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w19</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e19">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w20</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w20</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p2e20">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p2w21</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p2w21</to>
+         </edge>
+      </para>
+      <para id="a-KKOL_AV_007_t_1 RUS-d1p3" lowerpara.rf="w#w-KKOL_AV_007_t_1 RUS-d1p3">
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s0">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w1">
+               <token>V</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w2">
+               <token>Rusku</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w3">
+               <token>obyčejne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w4">
+               <token>manželka</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w5">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w6">
+               <token>v</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w7">
+               <token>domacnosti</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w8">
+               <token>starat</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w9">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w10">
+               <token>o</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w11">
+               <token>detí</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w12">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w13">
+               <token>o</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w14">
+               <token>bytě</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w15">
+               <token>když</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w16">
+               <token>manžel</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w17">
+               <token>pracuje</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w18">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w19">
+               <token>stara</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w20">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w21">
+               <token>o</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w22">
+               <token>všechne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w23">
+               <token>rodině</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w24">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s1">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w25">
+               <token>Myslim</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w26">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w27">
+               <token>kdy</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w28">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w29">
+               <token>byl</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w30">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w31">
+               <token>svim</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w32">
+               <token>ditem</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w33">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w34">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w35">
+               <token>bylo</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w36">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w37">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w38">
+               <token>težke</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w39">
+               <token>protože</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w40">
+               <token>nevedel</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w41">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w42">
+               <token>můj</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w43">
+               <token>synjačeky</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w44">
+               <token>obyčejne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w45">
+               <token>udela</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w46">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s2">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w47">
+               <token>Proto</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w48">
+               <token>myslím</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w49">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w50">
+               <token>poperve</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w51">
+               <token>stratil</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w52">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w53">
+               <token>jsem</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w54">
+               <token>nekolik</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w55">
+               <token>dnů</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w56">
+               <token>protože</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w57">
+               <token>obvykli</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w58">
+               <token>udelat</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w59">
+               <token>ruzne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w60">
+               <token>veci</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w61">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w62">
+               <token>teď</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w63">
+               <token>musili</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w64">
+               <token>byt</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w65">
+               <token>minimalne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w66">
+               <token>půl</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w67">
+               <token>dni</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w68">
+               <token>spoly</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w69">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s3">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w70">
+               <token>Ale</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w71">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w72">
+               <token>bylo</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w73">
+               <token>bylo</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w74">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w75">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w76">
+               <token>vtipně</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w77">
+               <token>kdyz</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w78">
+               <token>poperve</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w79">
+               <token>oblykali</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w80">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w81">
+               <token>spolu</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w82">
+               <token>prol|taženi</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w83">
+               <token>celeho</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w84">
+               <token>dnů</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w85">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s4">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w86">
+               <token>Ani</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w87">
+               <token>na</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w88">
+               <token>problemu</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w89">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w90">
+               <token>vymysleni</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w91">
+               <token>programy</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w92">
+               <token>nejlepšichanu</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w93">
+               <token>protoze</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w94">
+               <token>všichny</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w95">
+               <token>rodiče</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w96">
+               <token>chce</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w97">
+               <token>když</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w98">
+               <token>jich</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w99">
+               <token>dite</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w100">
+               <token>bylo</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w101">
+               <token>sčastne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w102">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w103">
+               <token>protoze</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w104">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w105">
+               <token>starat</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w106">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w107">
+               <token>pro</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w108">
+               <token>sveho</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w109">
+               <token>dite</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w110">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w111">
+               <token>dobře</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w112">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s5">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w113">
+               <token>Ale</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w114">
+               <token>teď</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w115">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w116">
+               <token>nekolik</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w117">
+               <token>problem</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w118">
+               <token>protoze</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w119">
+               <token>veči</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w120">
+               <token>čast</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w121">
+               <token>rodiče</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w122">
+               <token>chce</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w123">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w124">
+               <token>strati</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w125">
+               <token>penize</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w126">
+               <token>pro</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w127">
+               <token>dite</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w128">
+               <token>ale</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w129">
+               <token>nektery</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w130">
+               <token>veci</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w131">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w132">
+               <token>težki</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w133">
+               <token>protoze</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w134">
+               <token>v</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w135">
+               <token>Rusko</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w136">
+               <token>obyčejne</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w137">
+               <token>ma</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w138">
+               <token>společni</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w139">
+               <token>penize</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w140">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w141">
+               <token>když</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w142">
+               <token>stratil</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w143">
+               <token>manzel</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w144">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w145">
+               <token>musit</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w146">
+               <token>být</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w147">
+               <token>težke</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w148">
+               <token>pro</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w149">
+               <token>všehnu</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w150">
+               <token>rodina</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w151">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w152">
+               <token>naopak</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w153">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s6">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w154">
+               <token>Protoze</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w155">
+               <token>myslim</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w156">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w157">
+               <token>udelal</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w158">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w159">
+               <token>velkich</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w160">
+               <token>hib</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w161">
+               <token>a</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w162">
+               <token>mel</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w163">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w164">
+               <token>mnoho</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w165">
+               <token>problem</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w166">
+               <token>s</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w167">
+               <token>manželkou</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w168">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s7">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w169">
+               <token>Take</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w170">
+               <token>když</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w171">
+               <token>manžel</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w172">
+               <token>čekaji</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w173">
+               <token>na</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w174">
+               <token>manželku</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w175">
+               <token>musi</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w176">
+               <token>připravit</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w177">
+               <token>byt</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w178">
+               <token>k</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w179">
+               <token>času</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w180">
+               <token>kdy</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w181">
+               <token>manželka</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w182">
+               <token>vratit</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w183">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w184">
+               <token>zpracy</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w185">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s8">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w186">
+               <token>Vysledkom</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w187">
+               <token>s</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w188">
+               <token>tohoto</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w189">
+               <token>je</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w190">
+               <token>zajimava</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w191">
+               <token>vec</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w192">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w193">
+               <token>nevadi</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w194">
+               <token>kdo</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w195">
+               <token>byde</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w196">
+               <token>staratse</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w197">
+               <token>o</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w198">
+               <token>rodině</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w199">
+               <token>protoze</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w200">
+               <token>každy</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w201">
+               <token>muset</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w202">
+               <token>rešit</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w203">
+               <token>te</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w204">
+               <token>problemy</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w205">
+               <token>poperve</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w206">
+               <token>ale</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w207">
+               <token>pak</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w208">
+               <token>už</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w209">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w210">
+               <token>bude</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w211">
+               <token>lehke</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w212">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-KKOL_AV_007_t_1 RUS-d1p3s9">
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w213">
+               <token>Proto</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w214">
+               <token>myslim</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w215">
+               <token>že</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w216">
+               <token>to</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w217">
+               <token>bylo</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w218">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w219">
+               <token>neni</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w220">
+               <token>moc</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w221">
+               <token>tezke</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w222">
+               <token>kdy</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w223">
+               <token>by</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w224">
+               <token>zůstal</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w225">
+               <token>se</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w226">
+               <token>svým</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w227">
+               <token>ditětem</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w228">
+               <token>na</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w229">
+               <token>rodičovske</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w230">
+               <token>dovolene</token>
+            </w>
+            <w id="a-KKOL_AV_007_t_1 RUS-d1p3w231">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e0">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w1</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w1</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e1">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w2</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w2</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e2">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w3</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w3</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e3">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w4</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w4</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e4">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w5</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w5</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e5">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w6</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w6</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e6">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w7</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w7</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e7">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w8</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w8</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e8">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w9</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w9</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e9">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w10</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w10</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e10">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w11</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w11</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e11">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w12</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w12</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e12">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w13</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w13</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e13">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w14</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w14</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e14">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w15</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w15</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e15">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w16</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w16</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e16">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w17</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w17</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e17">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w18</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w18</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e18">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w19</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w19</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e19">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w20</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w20</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e20">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w21</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w21</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e21">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w22</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w22</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e22">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w23</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w23</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e23">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w24</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w24</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e24">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w25</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w25</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e25">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w26</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w26</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e26">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w27</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w27</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e27">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w28</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w28</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e28">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w29</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w29</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e29">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w30</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w30</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e30">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w31</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w31</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e31">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w32</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w32</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e32">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w33</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w33</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e33">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w34</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w34</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e34">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w35</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w35</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e35">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w36</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w36</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e36">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w37</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w37</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e37">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w38</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w38</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e38">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w39</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w39</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e39">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w40</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w40</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e40">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w41</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w41</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e41">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w42</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w42</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e42">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w43</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w43</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e43">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w44</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w44</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e44">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w45</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w45</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e45">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w46</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w46</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e46">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w47</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w47</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e47">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w48</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w48</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e48">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w49</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w49</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e49">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w50</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w50</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e50">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w51</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w51</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e51">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w52</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w52</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e52">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w53</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w53</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e53">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w54</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w54</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e54">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w55</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w55</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e55">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w56</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w56</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e56">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w57</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w57</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e57">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w58</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w58</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e58">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w59</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w59</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e59">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w60</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w60</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e60">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w61</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w61</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e61">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w62</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w62</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e62">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w63</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w63</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e63">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w64</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w64</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e64">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w65</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w65</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e65">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w66</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w66</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e66">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w67</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w67</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e67">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w68</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w68</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e68">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w69</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w69</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e69">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w70</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w70</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e70">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w71</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w71</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e71">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w72</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w72</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e72">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w73</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w73</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e73">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w74</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w74</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e74">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w75</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w75</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e75">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w76</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w76</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e76">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w77</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w77</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e77">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w78</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w78</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e78">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w79</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w79</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e79">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w80</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w80</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e80">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w81</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w81</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e81">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w82</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w82</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e82">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w83</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w83</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e83">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w84</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w84</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e84">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w85</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w85</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e85">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w86</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w86</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e86">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w87</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w87</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e87">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w88</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w88</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e88">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w89</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w89</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e89">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w90</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w90</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e90">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w91</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w91</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e91">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w92</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w92</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e92">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w93</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w93</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e93">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w94</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w94</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e94">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w95</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w95</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e95">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w96</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w96</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e96">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w97</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w97</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e97">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w98</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w98</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e98">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w99</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w99</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e99">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w100</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w100</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e100">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w101</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w101</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e101">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w102</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w102</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e102">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w103</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w103</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e103">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w104</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w104</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e104">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w105</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w105</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e105">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w106</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w106</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e106">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w107</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w107</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e107">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w108</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w108</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e108">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w109</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w109</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e109">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w110</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w110</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e110">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w111</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w111</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e111">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w112</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w112</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e112">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w113</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w113</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e113">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w114</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w114</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e114">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w115</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w115</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e115">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w116</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w116</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e116">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w117</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w117</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e117">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w118</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w118</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e118">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w119</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w119</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e119">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w120</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w120</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e120">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w121</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w121</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e121">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w122</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w122</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e122">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w123</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w123</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e123">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w124</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w124</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e124">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w125</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w125</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e125">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w126</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w126</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e126">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w127</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w127</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e127">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w128</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w128</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e128">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w129</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w129</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e129">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w130</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w130</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e130">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w131</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w131</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e131">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w132</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w132</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e132">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w133</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w133</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e133">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w134</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w134</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e134">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w135</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w135</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e135">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w136</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w136</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e136">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w137</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w137</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e137">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w138</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w138</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e138">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w139</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w139</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e139">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w140</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w140</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e140">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w141</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w141</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e141">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w142</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w142</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e142">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w143</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w143</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e143">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w144</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w144</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e144">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w145</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w145</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e145">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w146</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w146</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e146">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w147</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w147</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e147">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w148</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w148</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e148">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w149</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w149</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e149">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w150</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w150</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e150">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w151</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w151</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e151">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w152</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w152</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e152">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w153</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w153</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e153">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w154</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w154</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e154">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w155</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w155</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e155">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w156</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w156</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e156">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w157</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w157</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e157">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w158</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w158</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e158">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w159</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w159</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e159">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w160</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w160</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e160">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w161</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w161</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e161">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w162</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w162</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e162">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w163</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w163</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e163">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w164</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w164</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e164">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w165</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w165</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e165">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w166</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w166</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e166">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w167</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w167</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e167">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w168</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w168</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e168">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w169</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w169</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e169">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w170</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w170</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e170">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w171</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w171</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e171">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w172</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w172</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e172">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w173</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w173</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e173">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w174</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w174</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e174">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w175</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w175</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e175">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w176</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w176</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e176">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w177</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w177</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e177">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w178</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w178</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e178">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w179</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w179</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e179">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w180</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w180</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e180">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w181</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w181</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e181">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w182</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w182</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e182">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w183</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w183</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e183">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w184</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w184</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e184">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w185</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w185</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e185">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w186</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w186</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e186">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w187</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w187</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e187">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w188</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w188</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e188">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w189</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w189</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e189">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w190</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w190</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e190">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w191</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w191</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e191">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w192</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w192</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e192">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w193</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w193</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e193">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w194</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w194</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e194">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w195</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w195</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e195">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w196</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w196</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e196">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w197</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w197</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e197">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w198</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w198</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e198">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w199</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w199</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e199">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w200</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w200</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e200">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w201</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w201</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e201">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w202</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w202</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e202">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w203</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w203</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e203">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w204</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w204</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e204">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w205</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w205</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e205">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w206</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w206</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e206">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w207</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w207</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e207">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w208</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w208</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e208">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w209</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w209</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e209">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w210</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w210</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e210">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w211</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w211</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e211">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w212</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w212</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e212">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w213</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w213</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e213">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w214</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w214</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e214">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w215</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w215</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e215">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w216</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w216</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e216">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w217</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w217</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e217">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w218</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w218</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e218">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w219</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w219</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e219">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w220</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w220</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e220">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w221</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w221</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e221">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w222</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w222</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e222">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w223</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w223</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e223">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w224</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w224</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e224">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w225</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w225</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e225">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w226</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w226</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e226">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w227</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w227</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e227">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w228</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w228</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e228">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w229</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w229</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e229">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w230</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w230</to>
+         </edge>
+         <edge id="a-KKOL_AV_007_t_1 RUS-d1p3e230">
+            <from>w#w-KKOL_AV_007_t_1 RUS-d1p3w231</from>
+            <to>a-KKOL_AV_007_t_1 RUS-d1p3w231</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

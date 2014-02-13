@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="MAD_NU_003_t_1.html"/>
+         <reffile id="i" href="MAD_NU_003_t_1.jpg"/>
+      </references>
+   </head>
+   <doc id="w-MAD_NU_003_t_1-d1">
+      <para id="w-MAD_NU_003_t_1-d1p1">
+         <w id="w-MAD_NU_003_t_1-d1p1w1">
+            <token>Jestli</token>
+            <original_position from="5" len="6"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p1w2">
+            <token>bych</token>
+            <original_position from="12" len="4"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p1w3">
+            <token>měl</token>
+            <original_position from="17" len="3"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p1w4">
+            <token>1000000</token>
+            <original_position from="21" len="7"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p1w5">
+            <token>euro</token>
+            <original_position from="29" len="4"/>
+            <format name="underline"/>
+         </w>
+      </para>
+      <para id="w-MAD_NU_003_t_1-d1p2">
+         <w id="w-MAD_NU_003_t_1-d1p2w1">
+            <token>Peníze</token>
+            <original_position from="36" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w2">
+            <token>–</token>
+            <original_position from="43" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w3">
+            <token>To</token>
+            <original_position from="45" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w4">
+            <token>je</token>
+            <original_position from="48" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w5">
+            <token>důležita</token>
+            <original_position from="51" len="8"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w6">
+            <token>věc</token>
+            <original_position from="60" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w7">
+            <token>v</token>
+            <original_position from="64" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w8">
+            <token>životě</token>
+            <original_position from="66" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w9">
+            <token>lidí</token>
+            <original_position from="73" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w10">
+            <token>.</token>
+            <original_position from="78" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w11">
+            <token>Bez</token>
+            <original_position from="81" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w12">
+            <token>peněz</token>
+            <original_position from="85" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w13">
+            <token>,</token>
+            <original_position from="90" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w14">
+            <token>v</token>
+            <original_position from="92" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w15">
+            <token>naší</token>
+            <original_position from="94" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w16">
+            <token>době</token>
+            <original_position from="99" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w17">
+            <token>,</token>
+            <original_position from="103" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w18">
+            <token>člověk</token>
+            <original_position from="105" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w19">
+            <token>by</token>
+            <original_position from="126" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w20">
+            <token>nemohl</token>
+            <original_position from="129" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w21">
+            <token>bydlit</token>
+            <original_position from="137" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w22">
+            <token>.</token>
+            <original_position from="143" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w23">
+            <token>Celý</token>
+            <original_position from="146" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w24">
+            <token>svět</token>
+            <original_position from="151" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w25">
+            <token>je</token>
+            <original_position from="156" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w26">
+            <token>postaven</token>
+            <original_position from="159" len="8"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w27">
+            <token>na</token>
+            <original_position from="168" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w28">
+            <token>penězích</token>
+            <original_position from="171" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w29">
+            <token>.</token>
+            <original_position from="179" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w30">
+            <token>Teď</token>
+            <original_position from="189" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w31">
+            <token>jsme</token>
+            <original_position from="193" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w32">
+            <token>všude</token>
+            <original_position from="198" len="5"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w33">
+            <token>použiváme</token>
+            <original_position from="204" len="9"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w34">
+            <token>peníze</token>
+            <original_position from="214" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w35">
+            <token>:</token>
+            <original_position from="220" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w36">
+            <token>v</token>
+            <original_position from="222" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w37">
+            <token>obchodě</token>
+            <original_position from="224" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w38">
+            <token>,</token>
+            <original_position from="231" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w39">
+            <token>v</token>
+            <original_position from="233" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w40">
+            <token>restauraci</token>
+            <original_position from="235" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w41">
+            <token>,</token>
+            <original_position from="245" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w42">
+            <token>na</token>
+            <original_position from="247" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w43">
+            <token>ulice</token>
+            <original_position from="250" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w44">
+            <token>,</token>
+            <original_position from="255" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w45">
+            <token>a</token>
+            <original_position from="257" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w46">
+            <token>taký</token>
+            <original_position from="259" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w47">
+            <token>i</token>
+            <original_position from="264" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w48">
+            <token>na</token>
+            <original_position from="266" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w49">
+            <token>internetu</token>
+            <original_position from="269" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w50">
+            <token>.</token>
+            <original_position from="278" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w51">
+            <token>Nejlepší</token>
+            <original_position from="281" len="8"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w52">
+            <token>přiklad</token>
+            <original_position from="290" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w53">
+            <token>pro</token>
+            <original_position from="298" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w54">
+            <token>použivání</token>
+            <original_position from="302" len="9"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w55">
+            <token>peněz</token>
+            <original_position from="312" len="5"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w56">
+            <token>v</token>
+            <original_position from="318" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w57">
+            <token>internetu</token>
+            <original_position from="320" len="9"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w58">
+            <token>je</token>
+            <original_position from="330" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w59">
+            <token>Forex</token>
+            <original_position from="333" len="5"/>
+            <format name="underline"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w60">
+            <token>.</token>
+            <original_position from="338" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w61">
+            <token>To</token>
+            <original_position from="341" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w62">
+            <token>je</token>
+            <original_position from="344" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w63">
+            <token>International</token>
+            <original_position from="347" len="13"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w64">
+            <token>interbank</token>
+            <original_position from="361" len="9"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w65">
+            <token>FOReign</token>
+            <original_position from="371" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w66">
+            <token>EXchange</token>
+            <original_position from="379" len="8"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w67">
+            <token>(</token>
+            <original_position from="388" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w68">
+            <token>Mezinárodní</token>
+            <original_position from="389" len="11"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w69">
+            <token>devizový</token>
+            <original_position from="401" len="8"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w70">
+            <token>trh</token>
+            <original_position from="410" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w71">
+            <token>–</token>
+            <original_position from="414" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w72">
+            <token>jednoduše</token>
+            <original_position from="416" len="9"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w73">
+            <token>obchodování</token>
+            <original_position from="426" len="11"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w74">
+            <token>s</token>
+            <original_position from="438" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w75">
+            <token>cizími</token>
+            <original_position from="440" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w76">
+            <token>měnami</token>
+            <original_position from="447" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w77">
+            <token>)</token>
+            <original_position from="453" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w78">
+            <token>To</token>
+            <original_position from="460" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w79">
+            <token>je</token>
+            <original_position from="463" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w80">
+            <token>zajímavé</token>
+            <original_position from="466" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w81">
+            <token>,</token>
+            <original_position from="474" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w82">
+            <token>Ale</token>
+            <original_position from="476" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w83">
+            <token>jestli</token>
+            <original_position from="480" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w84">
+            <token>bych</token>
+            <original_position from="487" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w85">
+            <token>měl</token>
+            <original_position from="492" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w86">
+            <token>milion</token>
+            <original_position from="496" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w87">
+            <token>euro</token>
+            <original_position from="503" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w88">
+            <token>,</token>
+            <original_position from="507" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w89">
+            <token>jsem</token>
+            <original_position from="509" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w90">
+            <token>bych</token>
+            <original_position from="514" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w91">
+            <token>dal</token>
+            <original_position from="519" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w92">
+            <token>půl</token>
+            <original_position from="523" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w93">
+            <token>milionu</token>
+            <original_position from="527" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w94">
+            <token>rodičům</token>
+            <original_position from="535" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w95">
+            <token>,</token>
+            <original_position from="542" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w96">
+            <token>protože</token>
+            <original_position from="544" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w97">
+            <token>oni</token>
+            <original_position from="552" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w98">
+            <token>davali</token>
+            <original_position from="556" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w99">
+            <token>mně</token>
+            <original_position from="563" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w100">
+            <token>peníze</token>
+            <original_position from="567" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w101">
+            <token>celý</token>
+            <original_position from="574" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w102">
+            <token>život</token>
+            <original_position from="579" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w103">
+            <token>,</token>
+            <original_position from="584" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w104">
+            <token>oni</token>
+            <original_position from="586" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w105">
+            <token>naučili</token>
+            <original_position from="590" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w106">
+            <token>mene</token>
+            <original_position from="598" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w107">
+            <token>všemu</token>
+            <original_position from="603" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w108">
+            <token>,</token>
+            <original_position from="608" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w109">
+            <token>oni</token>
+            <original_position from="610" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w110">
+            <token>udělali</token>
+            <original_position from="614" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w111">
+            <token>tak</token>
+            <original_position from="622" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w112">
+            <token>,</token>
+            <original_position from="625" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w113">
+            <token>aby</token>
+            <original_position from="627" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w114">
+            <token>teď</token>
+            <original_position from="631" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w115">
+            <token>studoval</token>
+            <original_position from="635" len="8"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w116">
+            <token>v</token>
+            <original_position from="644" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w117">
+            <token>Praze</token>
+            <original_position from="646" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p2w118">
+            <token>.</token>
+            <original_position from="651" len="1"/>
+         </w>
+      </para>
+      <para id="w-MAD_NU_003_t_1-d1p3">
+         <w id="w-MAD_NU_003_t_1-d1p3w1">
+            <token>Druhou</token>
+            <original_position from="657" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w2">
+            <token>část</token>
+            <original_position from="669" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w3">
+            <token>jsem</token>
+            <original_position from="674" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w4">
+            <token>bych</token>
+            <original_position from="679" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w5">
+            <token>dal</token>
+            <original_position from="684" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w6">
+            <token>do</token>
+            <original_position from="688" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w7">
+            <token>banky</token>
+            <original_position from="691" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w8">
+            <token>,</token>
+            <original_position from="696" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w9">
+            <token>aby</token>
+            <original_position from="698" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w10">
+            <token>pak</token>
+            <original_position from="702" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w11">
+            <token>bydlit</token>
+            <original_position from="706" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w12">
+            <token>na</token>
+            <original_position from="713" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w13">
+            <token>procent</token>
+            <original_position from="716" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w14">
+            <token>od</token>
+            <original_position from="724" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w15">
+            <token>peněz</token>
+            <original_position from="727" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w16">
+            <token>.</token>
+            <original_position from="732" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w17">
+            <token>Ale</token>
+            <original_position from="735" len="3"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w18">
+            <token>myslím</token>
+            <original_position from="739" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w19">
+            <token>že</token>
+            <original_position from="746" len="2"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w20">
+            <token>peníze</token>
+            <original_position from="749" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w21">
+            <token>nejsou</token>
+            <original_position from="756" len="6"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w22">
+            <token>hlavním</token>
+            <original_position from="763" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w23">
+            <token>cílem</token>
+            <original_position from="771" len="5"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w24">
+            <token>v</token>
+            <original_position from="777" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w25">
+            <token>životě</token>
+            <original_position from="779" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w26">
+            <token>.</token>
+            <original_position from="786" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w27">
+            <token>Hlavním</token>
+            <original_position from="790" len="7"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w28">
+            <token>(nejhlavnějším) je vloženo nad slovem Hlavním</token>
+            <original_position from="798" len="51"/>
+            <priv>1</priv>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w29">
+            <token>jsou</token>
+            <original_position from="850" len="4"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w30">
+            <token>laska</token>
+            <original_position from="855" len="5"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w31">
+            <token>a</token>
+            <original_position from="861" len="1"/>
+         </w>
+         <w id="w-MAD_NU_003_t_1-d1p3w32">
+            <token>zdráví</token>
+            <original_position from="863" len="6"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-MAD_NU_003_t_1-cor-del1">
+            <from>w-MAD_NU_003_t_1-d1p2w29</from>
+            <orig>dnesko</orig>
+         </deleted>
+         <deleted id="w-MAD_NU_003_t_1-cor-del2">
+            <from>w-MAD_NU_003_t_1-d1p3w1</from>
+            <orig>čast</orig>
+         </deleted>
+         <change id="w-MAD_NU_003_t_1-cor-change1">
+            <old>nemohl by</old>
+            <token>w-MAD_NU_003_t_1-d1p2w19</token>
+            <token>w-MAD_NU_003_t_1-d1p2w20</token>
+         </change>
+         <change id="w-MAD_NU_003_t_1-cor-change2">
+            <old>lidéí</old>
+            <token>w-MAD_NU_003_t_1-d1p2w9</token>
+         </change>
+         <change id="w-MAD_NU_003_t_1-cor-change3">
+            <old>žeivotě</old>
+            <token>w-MAD_NU_003_t_1-d1p3w25</token>
+         </change>
+      </corrections>
+   </doc>
+</wdata>

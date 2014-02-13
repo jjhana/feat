@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="adata_schema.xml"/>
+      <references>
+         <reffile id="w" name="wdata" href="UJA_DU_001_t_1 ANGL.w.xml"/>
+      </references>
+   </head>
+   <doc id="w-UJA_DU_001_t_1 ANGL-d1" lowerdoc.rf="w#w-UJA_DU_001_t_1 ANGL-d1">
+      <para id="a-UJA_DU_001_t_1 ANGL-d1p1" lowerpara.rf="w#w-UJA_DU_001_t_1 ANGL-d1p1">
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p1s0">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w2">
+               <token>Restaurace</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w3">
+               <token>se</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w4">
+               <token>jsmenuje</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w5">
+               <token>U</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w6">
+               <token>Zpěvačků</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w7">
+               <token>–</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w8">
+               <token>je</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w9">
+               <token>to</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w10">
+               <token>blízko</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w11">
+               <token>mého</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w12">
+               <token>bytu</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w13">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p1s1">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w14">
+               <token>Přišli</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w15">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w16">
+               <token>do</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w17">
+               <token>restaurace</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w18">
+               <token>v</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w19">
+               <token>6</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w20">
+               <token>hodin</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w21">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p1s2">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w22">
+               <token>Nejdřív</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w23">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w24">
+               <token>seděli</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w25">
+               <token>u</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w26">
+               <token>okna</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w27">
+               <token>ale</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w28">
+               <token>u</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w29">
+               <token>okna</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w30">
+               <token>taky</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w31">
+               <token>byli</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w32">
+               <token>dvě</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w33">
+               <token>strašné</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w34">
+               <token>lidi</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w35">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p1s3">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w36">
+               <token>Oni</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w37">
+               <token>kouřili</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w38">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w39">
+               <token>mluvili</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w40">
+               <token>velmi</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w41">
+               <token>nahlas</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w42">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w43">
+               <token>proto</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w44">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w45">
+               <token>si</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w46">
+               <token>stěžovali</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w47">
+               <token>čísnikovi</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w48">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p1s4">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w49">
+               <token>Dostali</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w50">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w51">
+               <token>nový</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w52">
+               <token>stůl</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w53">
+               <token>uprostřed</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w54">
+               <token>restaurace</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w55">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w56">
+               <token>pak</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w57">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w58">
+               <token>si</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w59">
+               <token>objednali</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w60">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p1s5">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w61">
+               <token>Objednal</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w62">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w63">
+               <token>řízek</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w64">
+               <token>ale</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w65">
+               <token>můj</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w66">
+               <token>kamarád</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w67">
+               <token>chtěl</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w68">
+               <token>jen</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w69">
+               <token>něco</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w70">
+               <token>sladkého</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w71">
+               <token>protože</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w72">
+               <token>už</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p1w73">
+               <token>jedl</token>
+            </w>
+         </s>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e0">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w2</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w2</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e1">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w3</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w3</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e2">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w4</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w4</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e3">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w5</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w5</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e4">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w6</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w6</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e5">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w7</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w7</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e6">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w8</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w8</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e7">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w9</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w9</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e8">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w10</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w10</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e9">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w11</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w11</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e10">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w12</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w12</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e11">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w13</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w13</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e12">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w14</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w14</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e13">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w15</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w15</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e14">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w16</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w16</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e15">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w17</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w17</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e16">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w18</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w18</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e17">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w19</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w19</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e18">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w20</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w20</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e19">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w21</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w21</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e20">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w22</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w22</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e21">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w23</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w23</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e22">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w24</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w24</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e23">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w25</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w25</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e24">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w26</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w26</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e25">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w27</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w27</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e26">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w28</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w28</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e27">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w29</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w29</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e28">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w30</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w30</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e29">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w31</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w31</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e30">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w32</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w32</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e31">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w33</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w33</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e32">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w34</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w34</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e33">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w35</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w35</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e34">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w36</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w36</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e35">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w37</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w37</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e36">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w38</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w38</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e37">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w39</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w39</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e38">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w40</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w40</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e39">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w41</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w41</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e40">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w42</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w42</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e41">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w43</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w43</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e42">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w44</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w44</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e43">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w45</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w45</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e44">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w46</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w46</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e45">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w47</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w47</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e46">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w48</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w48</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e47">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w49</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w49</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e48">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w50</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w50</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e49">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w51</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w51</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e50">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w52</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w52</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e51">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w53</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w53</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e52">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w54</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w54</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e53">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w55</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w55</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e54">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w56</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w56</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e55">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w57</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w57</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e56">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w58</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w58</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e57">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w59</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w59</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e58">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w60</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w60</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e59">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w61</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w61</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e60">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w62</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w62</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e61">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w63</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w63</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e62">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w64</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w64</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e63">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w65</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w65</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e64">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w66</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w66</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e65">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w67</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w67</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e66">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w68</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w68</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e67">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w69</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w69</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e68">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w70</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w70</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e69">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w71</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w71</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e70">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w72</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w72</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p1e71">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p1w73</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p1w73</to>
+         </edge>
+      </para>
+      <para id="a-UJA_DU_001_t_1 ANGL-d1p2" lowerpara.rf="w#w-UJA_DU_001_t_1 ANGL-d1p2">
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p2s0">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w1">
+               <token>Čekali</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w2">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w3">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w4">
+               <token>jídlo</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w5">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w6">
+               <token>popovídali</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w7">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w8">
+               <token>si</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w9">
+               <token>o</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w10">
+               <token>škole</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w11">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w12">
+               <token>rodině</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w13">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p2s1">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w14">
+               <token>Pozdějí</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w15">
+               <token>jsme</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w16">
+               <token>dostali</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w17">
+               <token>řízek</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w18">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w19">
+               <token>nějaký</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w20">
+               <token>dort</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w21">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p2s2">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w22">
+               <token>Bohužel</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w23">
+               <token>řízek</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w24">
+               <token>byl</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w25">
+               <token>připalený</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w26">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p2s3">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w27">
+               <token>Neměl</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w28">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w29">
+               <token>čas</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w30">
+               <token>čekat</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w31">
+               <token>na</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w32">
+               <token>něco</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w33">
+               <token>nového</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w34">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w35">
+               <token>proto</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w36">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w37">
+               <token>to</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w38">
+               <token>jedl</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w39">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p2s4">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w40">
+               <token>Čisník</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w41">
+               <token>mi</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w42">
+               <token>dal</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w43">
+               <token>účet</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w44">
+               <token>a</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w45">
+               <token>zaplatil</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w46">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w47">
+               <token>s</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w48">
+               <token>kartou</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w49">
+               <token>.</token>
+            </w>
+         </s>
+         <s id="a-UJA_DU_001_t_1 ANGL-d1p2s5">
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w50">
+               <token>Dal</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w51">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w52">
+               <token>normalní</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w53">
+               <token>spropitné</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w54">
+               <token>protože</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w55">
+               <token>byla</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w56">
+               <token>to</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w57">
+               <token>normalní</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w58">
+               <token>večeře</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w59">
+               <token>–</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w60">
+               <token>celem</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w61">
+               <token>jsem</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w62">
+               <token>byl</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w63">
+               <token>spokojený</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w64">
+               <token>s</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w65">
+               <token>obsluha</token>
+            </w>
+            <w id="a-UJA_DU_001_t_1 ANGL-d1p2w66">
+               <token>.</token>
+            </w>
+         </s>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e0">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w1</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w1</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e1">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w2</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w2</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e2">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w3</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w3</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e3">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w4</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w4</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e4">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w5</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w5</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e5">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w6</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w6</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e6">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w7</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w7</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e7">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w8</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w8</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e8">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w9</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w9</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e9">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w10</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w10</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e10">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w11</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w11</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e11">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w12</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w12</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e12">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w13</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w13</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e13">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w14</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w14</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e14">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w15</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w15</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e15">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w16</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w16</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e16">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w17</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w17</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e17">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w18</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w18</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e18">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w19</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w19</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e19">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w20</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w20</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e20">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w21</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w21</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e21">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w22</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w22</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e22">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w23</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w23</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e23">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w24</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w24</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e24">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w25</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w25</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e25">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w26</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w26</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e26">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w27</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w27</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e27">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w28</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w28</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e28">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w29</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w29</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e29">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w30</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w30</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e30">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w31</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w31</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e31">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w32</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w32</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e32">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w33</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w33</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e33">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w34</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w34</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e34">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w35</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w35</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e35">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w36</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w36</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e36">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w37</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w37</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e37">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w38</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w38</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e38">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w39</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w39</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e39">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w40</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w40</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e40">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w41</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w41</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e41">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w42</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w42</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e42">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w43</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w43</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e43">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w44</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w44</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e44">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w45</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w45</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e45">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w46</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w46</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e46">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w47</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w47</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e47">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w48</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w48</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e48">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w49</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w49</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e49">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w50</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w50</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e50">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w51</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w51</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e51">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w52</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w52</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e52">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w53</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w53</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e53">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w54</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w54</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e54">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w55</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w55</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e55">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w56</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w56</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e56">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w57</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w57</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e57">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w58</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w58</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e58">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w59</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w59</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e59">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w60</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w60</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e60">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w61</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w61</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e61">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w62</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w62</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e62">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w63</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w63</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e63">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w64</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w64</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e64">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w65</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w65</to>
+         </edge>
+         <edge id="a-UJA_DU_001_t_1 ANGL-d1p2e65">
+            <from>w#w-UJA_DU_001_t_1 ANGL-d1p2w66</from>
+            <to>a-UJA_DU_001_t_1 ANGL-d1p2w66</to>
+         </edge>
+      </para>
+   </doc>
+</adata>

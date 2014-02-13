@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="HRD_JG_007_t_1.html"/>
+         <reffile id="i" href="HRD_JG_007_t_1.jpg"/>
+      </references>
+   </head>
+   <doc id="w-HRD_JG_007_t_1-d1">
+      <para id="w-HRD_JG_007_t_1-d1p1">
+         <w id="w-HRD_JG_007_t_1-d1p1w1">
+            <token>ČEŠTINA</token>
+            <original_position from="5" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p1w2">
+            <token>A</token>
+            <original_position from="13" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p1w3">
+            <token>JÁ</token>
+            <original_position from="15" len="2"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p2">
+         <w id="w-HRD_JG_007_t_1-d1p2w1">
+            <token>Chtěla</token>
+            <original_position from="20" len="6"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w2">
+            <token>jsem</token>
+            <original_position from="27" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w3">
+            <token>se</token>
+            <original_position from="32" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w4">
+            <token>uči</token>
+            <original_position from="35" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w5">
+            <token>(</token>
+            <original_position from="38" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w6">
+            <token>r/t</token>
+            <original_position from="39" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w7">
+            <token>)</token>
+            <original_position from="42" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w8">
+            <token>češtinu</token>
+            <original_position from="44" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w9">
+            <token>když</token>
+            <original_position from="52" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w10">
+            <token>jsem</token>
+            <original_position from="57" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w11">
+            <token>přijela</token>
+            <original_position from="62" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p2w12">
+            <token>poprvé</token>
+            <original_position from="70" len="6"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p3">
+         <w id="w-HRD_JG_007_t_1-d1p3w1">
+            <token>v</token>
+            <original_position from="77" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w2">
+            <token>Praze</token>
+            <original_position from="79" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w3">
+            <token>.</token>
+            <original_position from="84" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w4">
+            <token>Je</token>
+            <original_position from="86" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w5">
+            <token>to</token>
+            <original_position from="89" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w6">
+            <token>jazyk</token>
+            <original_position from="92" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w7">
+            <token>uplně</token>
+            <original_position from="98" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w8">
+            <token>jiná</token>
+            <original_position from="104" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w9">
+            <token>od</token>
+            <original_position from="109" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w10">
+            <token>francousky</token>
+            <original_position from="112" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p3w11">
+            <token>.</token>
+            <original_position from="122" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p4">
+         <w id="w-HRD_JG_007_t_1-d1p4w1">
+            <token>Koupila</token>
+            <original_position from="124" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p4w2">
+            <token>jsem</token>
+            <original_position from="132" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p4w3">
+            <token>si</token>
+            <original_position from="137" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p4w4">
+            <token>knihu</token>
+            <original_position from="140" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p4w5">
+            <token>a</token>
+            <original_position from="146" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p4w6">
+            <token>naučila</token>
+            <original_position from="148" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p4w7">
+            <token>jsem</token>
+            <original_position from="156" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p4w8">
+            <token>zakládní</token>
+            <original_position from="161" len="8"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p5">
+         <w id="w-HRD_JG_007_t_1-d1p5w1">
+            <token>slovní</token>
+            <original_position from="170" len="6"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w2">
+            <token>zásobu</token>
+            <original_position from="177" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w3">
+            <token>.</token>
+            <original_position from="183" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w4">
+            <token>Potom</token>
+            <original_position from="185" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w5">
+            <token>jsem</token>
+            <original_position from="191" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w6">
+            <token>začala</token>
+            <original_position from="196" len="6"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w7">
+            <token>studova</token>
+            <original_position from="203" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w8">
+            <token>(</token>
+            <original_position from="210" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w9">
+            <token>r/t</token>
+            <original_position from="211" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w10">
+            <token>)</token>
+            <original_position from="214" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p5w11">
+            <token>češtinu</token>
+            <original_position from="216" len="7"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p6">
+         <w id="w-HRD_JG_007_t_1-d1p6w1">
+            <token>v</token>
+            <original_position from="224" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w2">
+            <token>ULB</token>
+            <original_position from="226" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w3">
+            <token>.</token>
+            <original_position from="229" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w4">
+            <token>Taky</token>
+            <original_position from="231" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w5">
+            <token>hodně</token>
+            <original_position from="236" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w6">
+            <token>jsem</token>
+            <original_position from="242" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w7">
+            <token>chodila</token>
+            <original_position from="247" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w8">
+            <token>do</token>
+            <original_position from="255" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w9">
+            <token>českého</token>
+            <original_position from="258" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w10">
+            <token>centra</token>
+            <original_position from="266" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p6w11">
+            <token>.</token>
+            <original_position from="272" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p7">
+         <w id="w-HRD_JG_007_t_1-d1p7w1">
+            <token>Mám</token>
+            <original_position from="274" len="3"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w2">
+            <token>problémy</token>
+            <original_position from="278" len="8"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w3">
+            <token>s</token>
+            <original_position from="287" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w4">
+            <token>gramatikou</token>
+            <original_position from="289" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w5">
+            <token>,</token>
+            <original_position from="299" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w6">
+            <token>ale</token>
+            <original_position from="301" len="3"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w7">
+            <token>mám</token>
+            <original_position from="305" len="3"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w8">
+            <token>ráda</token>
+            <original_position from="309" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w9">
+            <token>literaturu</token>
+            <original_position from="314" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p7w10">
+            <token>.</token>
+            <original_position from="324" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p8">
+         <w id="w-HRD_JG_007_t_1-d1p8w1">
+            <token>Neráda</token>
+            <original_position from="326" len="6"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p8w2">
+            <token>studuju</token>
+            <original_position from="333" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p8w3">
+            <token>morfologie</token>
+            <original_position from="341" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p8w4">
+            <token>,</token>
+            <original_position from="351" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p8w5">
+            <token>nebo</token>
+            <original_position from="353" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p8w6">
+            <token>lingvistiku</token>
+            <original_position from="358" len="11"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p8w7">
+            <token>.</token>
+            <original_position from="369" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p9">
+         <w id="w-HRD_JG_007_t_1-d1p9w1">
+            <token>čeština</token>
+            <original_position from="371" len="7"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w2">
+            <token>je</token>
+            <original_position from="379" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w3">
+            <token>jazyk</token>
+            <original_position from="382" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w4">
+            <token>,</token>
+            <original_position from="387" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w5">
+            <token>kteru</token>
+            <original_position from="389" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w6">
+            <token>zapomínáme</token>
+            <original_position from="395" len="10"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w7">
+            <token>rychle</token>
+            <original_position from="406" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w8">
+            <token>,</token>
+            <original_position from="412" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p9w9">
+            <token>pokud</token>
+            <original_position from="414" len="5"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p10">
+         <w id="w-HRD_JG_007_t_1-d1p10w1">
+            <token>musíme</token>
+            <original_position from="420" len="6"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w2">
+            <token>poslouchat</token>
+            <original_position from="427" len="10"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w3">
+            <token>rádia</token>
+            <original_position from="438" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w4">
+            <token>,</token>
+            <original_position from="443" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w5">
+            <token>čís</token>
+            <original_position from="445" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w6">
+            <token>(</token>
+            <original_position from="448" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w7">
+            <token>r/t</token>
+            <original_position from="449" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w8">
+            <token>)</token>
+            <original_position from="452" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w9">
+            <token>časopisy</token>
+            <original_position from="454" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w10">
+            <token>,</token>
+            <original_position from="462" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w11">
+            <token>mí</token>
+            <original_position from="464" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w12">
+            <token>(</token>
+            <original_position from="466" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w13">
+            <token>r/t</token>
+            <original_position from="467" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p10w14">
+            <token>)</token>
+            <original_position from="470" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p11">
+         <w id="w-HRD_JG_007_t_1-d1p11w1">
+            <token>český</token>
+            <original_position from="472" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w2">
+            <token>kamarady</token>
+            <original_position from="478" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w3">
+            <token>.</token>
+            <original_position from="486" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w4">
+            <token>Teď</token>
+            <original_position from="488" len="3"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w5">
+            <token>nemluvím</token>
+            <original_position from="492" len="8"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w6">
+            <token>moc</token>
+            <original_position from="501" len="3"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w7">
+            <token>dobře</token>
+            <original_position from="505" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w8">
+            <token>,</token>
+            <original_position from="510" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p11w9">
+            <token>protože</token>
+            <original_position from="512" len="7"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p12">
+         <w id="w-HRD_JG_007_t_1-d1p12w1">
+            <token>vytvoři</token>
+            <original_position from="520" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w2">
+            <token>(</token>
+            <original_position from="527" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w3">
+            <token>r/t</token>
+            <original_position from="528" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w4">
+            <token>)</token>
+            <original_position from="531" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w5">
+            <token>větu</token>
+            <original_position from="533" len="4"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w6">
+            <token>v</token>
+            <original_position from="538" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w7">
+            <token>hlavě</token>
+            <original_position from="540" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w8">
+            <token>chvíli</token>
+            <original_position from="546" len="6"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w9">
+            <token>trvá</token>
+            <original_position from="553" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w10">
+            <token>,</token>
+            <original_position from="557" len="1"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w11">
+            <token>ale</token>
+            <original_position from="559" len="3"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w12">
+            <token>já</token>
+            <original_position from="563" len="2"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p12w13">
+            <token>ráda</token>
+            <original_position from="566" len="4"/>
+         </w>
+      </para>
+      <para id="w-HRD_JG_007_t_1-d1p13">
+         <w id="w-HRD_JG_007_t_1-d1p13w1">
+            <token>poslouchám</token>
+            <original_position from="571" len="10"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p13w2">
+            <token>český</token>
+            <original_position from="587" len="5"/>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p13w3">
+            <token>lidé</token>
+            <original_position from="593" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_JG_007_t_1-d1p13w4">
+            <token>.</token>
+            <original_position from="597" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-HRD_JG_007_t_1-cor-del1">
+            <from>w-HRD_JG_007_t_1-d1p13w1</from>
+            <orig>lidé</orig>
+         </deleted>
+      </corrections>
+   </doc>
+</wdata>

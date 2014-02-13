@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="HRD_PQ_199_t_1 VIET.html"/>
+         <reffile id="i" href="HRD_PQ_199_t_1 VIET.jpg"/>
+      </references>
+   </head>
+   <doc id="w-HRD_PQ_199_t_1 VIET-d1">
+      <para id="w-HRD_PQ_199_t_1 VIET-d1p1">
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p1w1">
+            <token>Láska</token>
+            <original_position from="15" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p1w2">
+            <token>na</token>
+            <original_position from="21" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p1w3">
+            <token>první</token>
+            <original_position from="24" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p1w4">
+            <token>pohled</token>
+            <original_position from="30" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p1w5">
+            <token>.</token>
+            <original_position from="36" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_PQ_199_t_1 VIET-d1p2">
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w1">
+            <token>Marcela</token>
+            <original_position from="40" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w2">
+            <token>-</token>
+            <original_position from="48" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w3">
+            <token>krásná</token>
+            <original_position from="50" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w4">
+            <token>a</token>
+            <original_position from="57" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w5">
+            <token>půvabná</token>
+            <original_position from="59" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w6">
+            <token>česká</token>
+            <original_position from="67" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w7">
+            <token>šlečna</token>
+            <original_position from="73" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w8">
+            <token>,</token>
+            <original_position from="79" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w9">
+            <token>se</token>
+            <original_position from="81" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w10">
+            <token>vydala</token>
+            <original_position from="84" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w11">
+            <token>se</token>
+            <original_position from="91" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w12">
+            <token>svoji</token>
+            <original_position from="94" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w13">
+            <token>kamarádkou</token>
+            <original_position from="100" len="10"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w14">
+            <token>na</token>
+            <original_position from="111" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w15">
+            <token>letní</token>
+            <original_position from="114" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w16">
+            <token>dovolenou</token>
+            <original_position from="120" len="9"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w17">
+            <token>do</token>
+            <original_position from="130" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w18">
+            <token>Itálie</token>
+            <original_position from="133" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w19">
+            <token>.</token>
+            <original_position from="139" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w20">
+            <token>Bylo</token>
+            <original_position from="142" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w21">
+            <token>tam</token>
+            <original_position from="147" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w22">
+            <token>krásné</token>
+            <original_position from="151" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w23">
+            <token>počasí</token>
+            <original_position from="158" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w24">
+            <token>,</token>
+            <original_position from="164" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w25">
+            <token>a</token>
+            <original_position from="166" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w26">
+            <token>proto</token>
+            <original_position from="168" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w27">
+            <token>každý</token>
+            <original_position from="174" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w28">
+            <token>den</token>
+            <original_position from="180" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w29">
+            <token>chodily</token>
+            <original_position from="184" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w30">
+            <token>na</token>
+            <original_position from="192" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w31">
+            <token>pláž</token>
+            <original_position from="195" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w32">
+            <token>.</token>
+            <original_position from="199" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w33">
+            <token>Jednoho</token>
+            <original_position from="202" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w34">
+            <token>dne</token>
+            <original_position from="210" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w35">
+            <token>,</token>
+            <original_position from="213" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w36">
+            <token>když</token>
+            <original_position from="215" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w37">
+            <token>její</token>
+            <original_position from="220" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w38">
+            <token>kamarádka</token>
+            <original_position from="225" len="9"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w39">
+            <token>opalovala</token>
+            <original_position from="235" len="9"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w40">
+            <token>na</token>
+            <original_position from="245" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w41">
+            <token>pláži</token>
+            <original_position from="248" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w42">
+            <token>,</token>
+            <original_position from="253" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w43">
+            <token>tak</token>
+            <original_position from="255" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w44">
+            <token>Marcela</token>
+            <original_position from="259" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w45">
+            <token>šla</token>
+            <original_position from="267" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w46">
+            <token>plavat</token>
+            <original_position from="271" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w47">
+            <token>.</token>
+            <original_position from="277" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w48">
+            <token>Najednou</token>
+            <original_position from="280" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w49">
+            <token>dostal</token>
+            <original_position from="289" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w50">
+            <token>křeče</token>
+            <original_position from="296" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w51">
+            <token>do</token>
+            <original_position from="302" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w52">
+            <token>nohy</token>
+            <original_position from="305" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w53">
+            <token>a</token>
+            <original_position from="310" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w54">
+            <token>topila</token>
+            <original_position from="312" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w55">
+            <token>se</token>
+            <original_position from="319" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w56">
+            <token>v</token>
+            <original_position from="322" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w57">
+            <token>moři</token>
+            <original_position from="324" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w58">
+            <token>.</token>
+            <original_position from="328" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w59">
+            <token>Bohudík</token>
+            <original_position from="331" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w60">
+            <token>byl</token>
+            <original_position from="339" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w61">
+            <token>tam</token>
+            <original_position from="343" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w62">
+            <token>plavčík</token>
+            <original_position from="347" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w63">
+            <token>Max</token>
+            <original_position from="355" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w64">
+            <token>a</token>
+            <original_position from="359" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w65">
+            <token>ihned</token>
+            <original_position from="361" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w66">
+            <token>za</token>
+            <original_position from="367" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w67">
+            <token>ni</token>
+            <original_position from="370" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w68">
+            <token>skočil</token>
+            <original_position from="373" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w69">
+            <token>do</token>
+            <original_position from="380" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w70">
+            <token>vody</token>
+            <original_position from="383" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w71">
+            <token>.</token>
+            <original_position from="387" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w72">
+            <token>Marcela</token>
+            <original_position from="390" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w73">
+            <token>byla</token>
+            <original_position from="398" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w74">
+            <token>zachráněna</token>
+            <original_position from="403" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w75">
+            <token>.</token>
+            <original_position from="413" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w76">
+            <token>Oslavili</token>
+            <original_position from="416" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w77">
+            <token>šťastný</token>
+            <original_position from="425" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w78">
+            <token>konec</token>
+            <original_position from="433" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w79">
+            <token>v</token>
+            <original_position from="439" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w80">
+            <token>malém</token>
+            <original_position from="441" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w81">
+            <token>baru</token>
+            <original_position from="447" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w82">
+            <token>a</token>
+            <original_position from="452" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w83">
+            <token>prožili</token>
+            <original_position from="454" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w84">
+            <token>společně</token>
+            <original_position from="462" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w85">
+            <token>hezký</token>
+            <original_position from="471" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w86">
+            <token>týden</token>
+            <original_position from="477" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w87">
+            <token>.</token>
+            <original_position from="482" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w88">
+            <token>Zažili</token>
+            <original_position from="485" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w89">
+            <token>spolu</token>
+            <original_position from="492" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w90">
+            <token>hodně</token>
+            <original_position from="498" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w91">
+            <token>legrací</token>
+            <original_position from="504" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w92">
+            <token>,</token>
+            <original_position from="511" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w93">
+            <token>diskoték</token>
+            <original_position from="513" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w94">
+            <token>,</token>
+            <original_position from="521" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w95">
+            <token>výletů</token>
+            <original_position from="523" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w96">
+            <token>,</token>
+            <original_position from="529" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w97">
+            <token>plaveb</token>
+            <original_position from="531" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w98">
+            <token>lodí</token>
+            <original_position from="538" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w99">
+            <token>po</token>
+            <original_position from="543" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w100">
+            <token>moři</token>
+            <original_position from="546" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w101">
+            <token>a</token>
+            <original_position from="551" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w102">
+            <token>i</token>
+            <original_position from="553" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w103">
+            <token>večerních</token>
+            <original_position from="555" len="9"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w104">
+            <token>procházek</token>
+            <original_position from="565" len="9"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w105">
+            <token>po</token>
+            <original_position from="575" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w106">
+            <token>pláži</token>
+            <original_position from="578" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w107">
+            <token>plno</token>
+            <original_position from="584" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w108">
+            <token>romantických</token>
+            <original_position from="589" len="12"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w109">
+            <token>okamžiků</token>
+            <original_position from="602" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w110">
+            <token>.</token>
+            <original_position from="610" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w111">
+            <token>Do</token>
+            <original_position from="613" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w112">
+            <token>sebe</token>
+            <original_position from="616" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w113">
+            <token>se</token>
+            <original_position from="621" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w114">
+            <token>totálně</token>
+            <original_position from="624" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w115">
+            <token>zamilovali</token>
+            <original_position from="632" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w116">
+            <token>.</token>
+            <original_position from="642" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w117">
+            <token>Ale</token>
+            <original_position from="645" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w118">
+            <token>přiblížil</token>
+            <original_position from="649" len="11"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w119">
+            <token>se</token>
+            <original_position from="661" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w120">
+            <token>Marcele</token>
+            <original_position from="664" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w121">
+            <token>návrat</token>
+            <original_position from="676" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w122">
+            <token>do</token>
+            <original_position from="683" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w123">
+            <token>Čech</token>
+            <original_position from="686" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w124">
+            <token>a</token>
+            <original_position from="691" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w125">
+            <token>proto</token>
+            <original_position from="693" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w126">
+            <token>slibovali</token>
+            <original_position from="699" len="9"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w127">
+            <token>emaily</token>
+            <original_position from="709" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w128">
+            <token>a</token>
+            <original_position from="716" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w129">
+            <token>SMS</token>
+            <original_position from="718" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w130">
+            <token>.</token>
+            <original_position from="721" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w131">
+            <token>Max</token>
+            <original_position from="724" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w132">
+            <token>se</token>
+            <original_position from="728" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w133">
+            <token>učí</token>
+            <original_position from="731" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w134">
+            <token>česky</token>
+            <original_position from="735" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w135">
+            <token>a</token>
+            <original_position from="741" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w136">
+            <token>Marcela</token>
+            <original_position from="743" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w137">
+            <token>Italsky</token>
+            <original_position from="751" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w138">
+            <token>.</token>
+            <original_position from="758" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w139">
+            <token>Oba</token>
+            <original_position from="761" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w140">
+            <token>se</token>
+            <original_position from="765" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w141">
+            <token>těší</token>
+            <original_position from="768" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w142">
+            <token>na</token>
+            <original_position from="773" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w143">
+            <token>další</token>
+            <original_position from="776" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w144">
+            <token>setkání</token>
+            <original_position from="782" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p2w145">
+            <token>.</token>
+            <original_position from="789" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_PQ_199_t_1 VIET-d1p3">
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w1">
+            <token>Ahoj</token>
+            <original_position from="793" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w2">
+            <token>.</token>
+            <original_position from="797" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w3">
+            <token>Četl</token>
+            <original_position from="800" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w4">
+            <token>jsem</token>
+            <original_position from="805" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w5">
+            <token>tvůj</token>
+            <original_position from="810" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w6">
+            <token>inzerát</token>
+            <original_position from="815" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w7">
+            <token>na</token>
+            <original_position from="823" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w8">
+            <token>seznamce</token>
+            <original_position from="826" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w9">
+            <token>a</token>
+            <original_position from="835" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w10">
+            <token>musím</token>
+            <original_position from="837" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w11">
+            <token>ti</token>
+            <original_position from="843" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w12">
+            <token>hned</token>
+            <original_position from="846" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w13">
+            <token>napsat</token>
+            <original_position from="851" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w14">
+            <token>.</token>
+            <original_position from="857" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w15">
+            <token>Ale</token>
+            <original_position from="860" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w16">
+            <token>nejdřív</token>
+            <original_position from="864" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w17">
+            <token>bych</token>
+            <original_position from="872" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w18">
+            <token>se</token>
+            <original_position from="877" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w19">
+            <token>chtěl</token>
+            <original_position from="880" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w20">
+            <token>zeptat</token>
+            <original_position from="886" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w21">
+            <token>,</token>
+            <original_position from="892" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w22">
+            <token>jestli</token>
+            <original_position from="894" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w23">
+            <token>je</token>
+            <original_position from="901" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w24">
+            <token>inzerát</token>
+            <original_position from="904" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w25">
+            <token>ještě</token>
+            <original_position from="912" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w26">
+            <token>aktuální</token>
+            <original_position from="918" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w27">
+            <token>a</token>
+            <original_position from="927" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w28">
+            <token>máš</token>
+            <original_position from="929" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w29">
+            <token>ještě</token>
+            <original_position from="933" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w30">
+            <token>zájem</token>
+            <original_position from="939" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w31">
+            <token>o</token>
+            <original_position from="945" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w32">
+            <token>seznámení</token>
+            <original_position from="947" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w33">
+            <token>?</token>
+            <original_position from="956" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w34">
+            <token>Pokud</token>
+            <original_position from="959" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w35">
+            <token>ne</token>
+            <original_position from="965" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w36">
+            <token>,</token>
+            <original_position from="967" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w37">
+            <token>tak</token>
+            <original_position from="969" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w38">
+            <token>promiň</token>
+            <original_position from="973" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w39">
+            <token>za</token>
+            <original_position from="980" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w40">
+            <token>obtěžování</token>
+            <original_position from="983" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w41">
+            <token>.</token>
+            <original_position from="993" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w42">
+            <token>Pokud</token>
+            <original_position from="996" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w43">
+            <token>jo</token>
+            <original_position from="1002" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w44">
+            <token>,</token>
+            <original_position from="1004" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w45">
+            <token>tak</token>
+            <original_position from="1006" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w46">
+            <token>bych</token>
+            <original_position from="1010" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w47">
+            <token>se</token>
+            <original_position from="1015" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w48">
+            <token>ti</token>
+            <original_position from="1018" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w49">
+            <token>rád</token>
+            <original_position from="1021" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w50">
+            <token>představoval</token>
+            <original_position from="1029" len="12"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w51">
+            <token>.</token>
+            <original_position from="1041" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w52">
+            <token>Jsem</token>
+            <original_position from="1044" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w53">
+            <token>24</token>
+            <original_position from="1049" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w54">
+            <token>.</token>
+            <original_position from="1051" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w55">
+            <token>letý</token>
+            <original_position from="1053" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w56">
+            <token>„</token>
+            <original_position from="1058" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w57">
+            <token>budoucí</token>
+            <original_position from="1059" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w58">
+            <token>“</token>
+            <original_position from="1066" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w59">
+            <token>vysokoškolák</token>
+            <original_position from="1068" len="12"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w60">
+            <token>z</token>
+            <original_position from="1081" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w61">
+            <token>Prahy</token>
+            <original_position from="1083" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w62">
+            <token>.</token>
+            <original_position from="1088" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w63">
+            <token>Prý</token>
+            <original_position from="1091" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w64">
+            <token>pohledný</token>
+            <original_position from="1095" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w65">
+            <token>,</token>
+            <original_position from="1103" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w66">
+            <token>rád</token>
+            <original_position from="1105" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w67">
+            <token>sportuji</token>
+            <original_position from="1109" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w68">
+            <token>-</token>
+            <original_position from="1118" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w69">
+            <token>chodím</token>
+            <original_position from="1120" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w70">
+            <token>hrát</token>
+            <original_position from="1127" len="4"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w71">
+            <token>pravidelně</token>
+            <original_position from="1132" len="10"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w72">
+            <token>tenis</token>
+            <original_position from="1143" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w73">
+            <token>,</token>
+            <original_position from="1148" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w74">
+            <token>badminton</token>
+            <original_position from="1150" len="9"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w75">
+            <token>občas</token>
+            <original_position from="1160" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w76">
+            <token>na</token>
+            <original_position from="1166" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w77">
+            <token>squash</token>
+            <original_position from="1169" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w78">
+            <token>a</token>
+            <original_position from="1176" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w79">
+            <token>plavání</token>
+            <original_position from="1178" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w80">
+            <token>.</token>
+            <original_position from="1185" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w81">
+            <token>Milují</token>
+            <original_position from="1188" len="6"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w82">
+            <token>kulturní</token>
+            <original_position from="1195" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w83">
+            <token>aktivity</token>
+            <original_position from="1204" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w84">
+            <token>.</token>
+            <original_position from="1212" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w85">
+            <token>Nepiju</token>
+            <original_position from="1215" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w86">
+            <token>,</token>
+            <original_position from="1221" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w87">
+            <token>nekouřím</token>
+            <original_position from="1223" len="8"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w88">
+            <token>nehraju</token>
+            <original_position from="1232" len="7"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w89">
+            <token>na</token>
+            <original_position from="1240" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w90">
+            <token>automatech</token>
+            <original_position from="1243" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w91">
+            <token>,</token>
+            <original_position from="1253" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w92">
+            <token>ale</token>
+            <original_position from="1255" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w93">
+            <token>občas</token>
+            <original_position from="1259" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w94">
+            <token>kecám</token>
+            <original_position from="1265" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p3w95">
+            <token>.</token>
+            <original_position from="1270" len="1"/>
+         </w>
+      </para>
+      <para id="w-HRD_PQ_199_t_1 VIET-d1p4">
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w1">
+            <token>Tak</token>
+            <original_position from="1274" len="3"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w2">
+            <token>se</token>
+            <original_position from="1278" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w3">
+            <token>hezky</token>
+            <original_position from="1281" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w4">
+            <token>měj</token>
+            <original_position from="1287" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w5">
+            <token>.</token>
+            <original_position from="1290" len="1"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w6">
+            <token>Těším</token>
+            <original_position from="1293" len="5"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w7">
+            <token>se</token>
+            <original_position from="1299" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w8">
+            <token>na</token>
+            <original_position from="1302" len="2"/>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w9">
+            <token>odpověď</token>
+            <original_position from="1305" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_PQ_199_t_1 VIET-d1p4w10">
+            <token>.</token>
+            <original_position from="1312" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <change id="w-HRD_PQ_199_t_1 VIET-cor-change1">
+            <old>přiblížilyi</old>
+            <token>w-HRD_PQ_199_t_1 VIET-d1p2w118</token>
+         </change>
+         <insert id="w-HRD_PQ_199_t_1 VIET-cor-in1">
+            <token>w-HRD_PQ_199_t_1 VIET-d1p2w120</token>
+         </insert>
+         <insert id="w-HRD_PQ_199_t_1 VIET-cor-in2">
+            <token>w-HRD_PQ_199_t_1 VIET-d1p3w49</token>
+         </insert>
+      </corrections>
+   </doc>
+</wdata>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://utkl.cuni.cz/czesl/">
+  <head>
+    <schema href="ldata_schema.xml" />
+  </head>
+</adata>

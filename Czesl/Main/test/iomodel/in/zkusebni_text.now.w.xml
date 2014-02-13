@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="zkusebni_text.now.html"/>
+         <reffile id="i" href="zkusebni_text.now.jpg"/>
+      </references>
+   </head>
+   <doc id="w-zkusebni_text-d1">
+      <para id="w-zkusebni_text-d1p1">
+         <w id="w-zkusebni_text-d1p1w1">
+            <token>Součást</token>
+            <original_position from="9" len="7"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-zkusebni_text-d1p1w2">
+            <token>zkušebního</token>
+            <original_position from="17" len="10"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-zkusebni_text-d1p1w3">
+            <token>textu</token>
+            <original_position from="28" len="5"/>
+            <format name="underline"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p2">
+         <w id="w-zkusebni_text-d1p2w1">
+            <token>Ahoj Jakube, jak se máš a co děláš? Já se mám dobře. Omlouvám se, že jsem ti dlouho nepsal. Neměl jsem vůbec čas na psaní. Ve firmě bylo moc práce a v mém osobním životě se taky hodně změnilo. Seznámil jsem se s krásnou holkou a začali jsme spolu žít. Museli jsme si najít nový byt. A to byl problém...</token>
+            <original_position from="37" len="308"/>
+            <dt>1</dt>
+         </w>
+         <w id="w-zkusebni_text-d1p2w2">
+            <token>nejdřív</token>
+            <original_position from="346" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w3">
+            <token>jsme</token>
+            <original_position from="354" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w4">
+            <token>šli</token>
+            <original_position from="359" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w5">
+            <token>do</token>
+            <original_position from="363" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w6">
+            <token>realítní</token>
+            <original_position from="366" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w7">
+            <token>{velké</token>
+            <original_position from="375" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w8">
+            <token>malé}in</token>
+            <original_position from="382" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w9">
+            <token>kancelaři</token>
+            <original_position from="390" len="9"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p2w10">
+            <token>,</token>
+            <original_position from="399" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w11">
+            <token>abychom</token>
+            <original_position from="401" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w12">
+            <token>tam</token>
+            <original_position from="409" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w13">
+            <token>tady</token>
+            <original_position from="413" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w14">
+            <token>to</token>
+            <original_position from="419" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w15">
+            <token>mábýt</token>
+            <original_position from="423" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p2w16">
+            <token>&lt;bar&gt;</token>
+            <original_position from="428" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p2w17">
+            <token>rozdělené</token>
+            <original_position from="433" len="9"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w18">
+            <token>mohli</token>
+            <original_position from="443" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w19">
+            <token>najit</token>
+            <original_position from="449" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w20">
+            <token>...</token>
+            <original_position from="455" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w21">
+            <token>nějaký</token>
+            <original_position from="459" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w22">
+            <token>byt</token>
+            <original_position from="466" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w23">
+            <token>než&apos;pronajem</token>
+            <original_position from="470" len="12"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p2w24">
+            <token>.</token>
+            <original_position from="482" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w25">
+            <token>Nechtěli</token>
+            <original_position from="484" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w26">
+            <token>jsme</token>
+            <original_position from="493" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w27">
+            <token>b{ý|y}dlet</token>
+            <original_position from="498" len="10"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w28">
+            <token>v</token>
+            <original_position from="513" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w29">
+            <token>paneláku</token>
+            <original_position from="515" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w30">
+            <token>tělo{ }cvičnu</token>
+            <original_position from="524" len="13"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p2w31">
+            <token>,</token>
+            <original_position from="537" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w32">
+            <token>ale</token>
+            <original_position from="539" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w33">
+            <token>neměli</token>
+            <original_position from="543" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w34">
+            <token>jsme</token>
+            <original_position from="550" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w35">
+            <token>žádných</token>
+            <original_position from="555" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w36">
+            <token>sci-fi</token>
+            <original_position from="563" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w37">
+            <token>variáńtů</token>
+            <original_position from="570" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p2w38">
+            <token>.</token>
+            <original_position from="578" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w39">
+            <token>protože</token>
+            <original_position from="580" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w40">
+            <token>ceny</token>
+            <original_position from="588" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w41">
+            <token>jsou</token>
+            <original_position from="593" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w42">
+            <token>moc</token>
+            <original_position from="603" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w43">
+            <token>zařízeny</token>
+            <original_position from="607" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p2w44">
+            <token>strana</token>
+            <original_position from="616" len="14"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p2w45">
+            <token>.</token>
+            <original_position from="630" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p3">
+         <w id="w-zkusebni_text-d1p3w1">
+            <token>Pronájem</token>
+            <original_position from="636" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w2">
+            <token>bytů</token>
+            <original_position from="645" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w3">
+            <token>v</token>
+            <original_position from="650" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w4">
+            <token>paneláku</token>
+            <original_position from="652" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w5">
+            <token>,</token>
+            <original_position from="660" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w6">
+            <token>jak</token>
+            <original_position from="662" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w7">
+            <token>víš</token>
+            <original_position from="666" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w8">
+            <token>,</token>
+            <original_position from="669" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w9">
+            <token>le{v|V}nější</token>
+            <original_position from="671" len="12"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w10">
+            <token>než</token>
+            <original_position from="684" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w11">
+            <token>&apos;pronajem</token>
+            <original_position from="688" len="9"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w12">
+            <token>v</token>
+            <original_position from="698" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w13">
+            <token>nějakém</token>
+            <original_position from="700" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w14">
+            <token>normálnim</token>
+            <original_position from="708" len="9"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w15">
+            <token>bytě</token>
+            <original_position from="718" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w16">
+            <token>3+1</token>
+            <original_position from="723" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w17">
+            <token>.</token>
+            <original_position from="726" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w18">
+            <token>Našli</token>
+            <original_position from="728" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w19">
+            <token>jsme</token>
+            <original_position from="734" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w20">
+            <token>velmý</token>
+            <original_position from="739" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w21">
+            <token>simpaticky</token>
+            <original_position from="745" len="10"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w22">
+            <token>byt</token>
+            <original_position from="756" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w23">
+            <token>,</token>
+            <original_position from="759" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w24">
+            <token>3+1</token>
+            <original_position from="761" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w25">
+            <token>Tam</token>
+            <original_position from="768" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w26">
+            <token>je</token>
+            <original_position from="772" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w27">
+            <token>terasa</token>
+            <original_position from="782" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w28">
+            <token>se</token>
+            <original_position from="789" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w29">
+            <token>kTERou</token>
+            <original_position from="792" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w30">
+            <token>otevirá</token>
+            <original_position from="799" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w31">
+            <token>-</token>
+            <original_position from="807" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w32">
+            <token>krásNÁ</token>
+            <original_position from="809" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w33">
+            <token>PANoráma</token>
+            <original_position from="816" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w34">
+            <token>mě</token>
+            <original_position from="825" len="2"/>
+            <format name="underline"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w35">
+            <token>&lt;bar&gt;</token>
+            <original_position from="827" len="5"/>
+            <format name="underline"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w36">
+            <token>sta</token>
+            <original_position from="832" len="3"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w37">
+            <token>abc</token>
+            <original_position from="836" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w38">
+            <token>mě</token>
+            <original_position from="840" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w39">
+            <token>&lt;bar&gt;</token>
+            <original_position from="842" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w40">
+            <token>def</token>
+            <original_position from="848" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w41">
+            <token>mě</token>
+            <original_position from="852" len="2"/>
+            <format name="underline"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w42">
+            <token>&lt;bar&gt;</token>
+            <original_position from="854" len="5"/>
+            <format name="underline"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w43">
+            <token>.</token>
+            <original_position from="859" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w44">
+            <token>Ale</token>
+            <original_position from="861" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w45">
+            <token>ten</token>
+            <original_position from="865" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w46">
+            <token>musíš</token>
+            <original_position from="869" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w47">
+            <token>byt</token>
+            <original_position from="876" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w48">
+            <token>je</token>
+            <original_position from="880" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w49">
+            <token>dal{a|e}ko</token>
+            <original_position from="883" len="10"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w50">
+            <token>od</token>
+            <original_position from="894" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w51">
+            <token>centra</token>
+            <original_position from="897" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w52">
+            <token>města</token>
+            <original_position from="904" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w53">
+            <token>,</token>
+            <original_position from="913" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w54">
+            <token>a</token>
+            <original_position from="915" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w55">
+            <token>proto</token>
+            <original_position from="917" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w56">
+            <token>bych</token>
+            <original_position from="923" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w57">
+            <token>chtel</token>
+            <original_position from="928" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w58">
+            <token>půjčít</token>
+            <original_position from="934" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w59">
+            <token>tvoje</token>
+            <original_position from="941" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w60">
+            <token>(</token>
+            <original_position from="947" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w61">
+            <token>červené</token>
+            <original_position from="948" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w62">
+            <token>)</token>
+            <original_position from="955" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w63">
+            <token>auto</token>
+            <original_position from="957" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w64">
+            <token>,</token>
+            <original_position from="961" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w65">
+            <token>abychom</token>
+            <original_position from="963" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w66">
+            <token>Vie{ťn|t&apos;n|tn&apos;}amský</token>
+            <original_position from="971" len="20"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w67">
+            <token>se</token>
+            <original_position from="992" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w68">
+            <token>přestěhovali</token>
+            <original_position from="995" len="12"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w69">
+            <token>&lt;</token>
+            <original_position from="1008" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w70">
+            <token>domů</token>
+            <original_position from="1010" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w71">
+            <token>&gt;</token>
+            <original_position from="1014" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w72">
+            <token>tam</token>
+            <original_position from="1017" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w73">
+            <token>nový</token>
+            <original_position from="1021" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w74">
+            <token>byť</token>
+            <original_position from="1026" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w75">
+            <token>.</token>
+            <original_position from="1029" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w76">
+            <token>Nosím</token>
+            <original_position from="1031" len="9"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w77">
+            <token>na</token>
+            <original_position from="1064" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w78">
+            <token>vařit</token>
+            <original_position from="1067" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w79">
+            <token>sobě</token>
+            <original_position from="1074" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w80">
+            <token>většinou</token>
+            <original_position from="1042" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w81">
+            <token>černé</token>
+            <original_position from="1090" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w82">
+            <token>džíny</token>
+            <original_position from="1096" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w83">
+            <token>na</token>
+            <original_position from="1129" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w84">
+            <token>sobě</token>
+            <original_position from="1132" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w85">
+            <token>na</token>
+            <original_position from="1163" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w86">
+            <token>sobě</token>
+            <original_position from="1166" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w87">
+            <token>(</token>
+            <original_position from="1103" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w88">
+            <token>pravidelně</token>
+            <original_position from="1104" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w89">
+            <token>)</token>
+            <original_position from="1114" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w90">
+            <token>každý</token>
+            <original_position from="1182" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w91">
+            <token>večer</token>
+            <original_position from="1188" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w92">
+            <token>rád</token>
+            <original_position from="1138" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p3w93">
+            <token>(</token>
+            <original_position from="1142" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w94">
+            <token>nerad</token>
+            <original_position from="1143" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w95">
+            <token>)</token>
+            <original_position from="1148" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p3w96">
+            <token>.</token>
+            <original_position from="1204" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p4">
+         <w id="w-zkusebni_text-d1p4w1">
+            <token>já</token>
+            <original_position from="1209" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w2">
+            <token>jsem</token>
+            <original_position from="1254" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w3">
+            <token>se</token>
+            <original_position from="1259" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w4">
+            <token>hrozně</token>
+            <original_position from="1223" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w5">
+            <token>moc</token>
+            <original_position from="1230" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w6">
+            <token>těšil</token>
+            <original_position from="1234" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w7">
+            <token>a</token>
+            <original_position from="1277" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w8">
+            <token>„</token>
+            <original_position from="1279" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w9">
+            <token>procházel</token>
+            <original_position from="1280" len="15"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w10">
+            <token>”</token>
+            <original_position from="1295" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w11">
+            <token>jsem</token>
+            <original_position from="1297" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w12">
+            <token>se</token>
+            <original_position from="1302" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w13">
+            <token>.</token>
+            <original_position from="1304" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w14">
+            <token>vsouvá</token>
+            <original_position from="1307" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w15">
+            <token>se</token>
+            <original_position from="1314" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w16">
+            <token>celá</token>
+            <original_position from="1317" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w17">
+            <token>věta</token>
+            <original_position from="1322" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w18">
+            <token>.</token>
+            <original_position from="1326" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w19">
+            <token>Pokračování</token>
+            <original_position from="1333" len="11"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w20">
+            <token>&lt;img :-)&gt;</token>
+            <original_position from="1345" len="9"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w21">
+            <token>textu</token>
+            <original_position from="1355" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w22">
+            <token>XXX</token>
+            <original_position from="1362" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w23">
+            <token>XXX</token>
+            <original_position from="1366" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w24">
+            <token>roku{u|(y)}</token>
+            <original_position from="1375" len="11"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w25">
+            <token>turisty</token>
+            <original_position from="1387" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w26">
+            <token>tu</token>
+            <original_position from="1396" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w27">
+            <token>&lt;bar&gt;</token>
+            <original_position from="1399" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w28">
+            <token>risty</token>
+            <original_position from="1404" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w29">
+            <token>.</token>
+            <original_position from="1413" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w30">
+            <token>Nosím</token>
+            <original_position from="1415" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w31">
+            <token>ḿalou</token>
+            <original_position from="1421" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w32">
+            <token>naj́ednou</token>
+            <original_position from="1430" len="11"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w33">
+            <token>strånou</token>
+            <original_position from="1442" len="10"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w34">
+            <token>nażp{á|a}tek</token>
+            <original_position from="1453" len="15"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w35">
+            <token>dan&apos;</token>
+            <original_position from="1469" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w36">
+            <token>.</token>
+            <original_position from="1473" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w37">
+            <token>,</token>
+            <original_position from="1474" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w38">
+            <token>která(koliv)</token>
+            <original_position from="1476" len="12"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w39">
+            <token>XXX</token>
+            <original_position from="1489" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w40">
+            <token>vsuvka</token>
+            <original_position from="1494" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w41">
+            <token>slova</token>
+            <original_position from="1507" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w42">
+            <token>sobě</token>
+            <original_position from="1518" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w43">
+            <token>slovo1</token>
+            <original_position from="1524" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w44">
+            <token>další</token>
+            <original_position from="1536" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w45">
+            <token>obec</token>
+            <original_position from="1542" len="10"/>
+            <priv>1</priv>
+         </w>
+         <w id="w-zkusebni_text-d1p4w46">
+            <token>slovo</token>
+            <original_position from="1553" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w47">
+            <token>Eva</token>
+            <original_position from="1559" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w48">
+            <token>myslím</token>
+            <original_position from="1563" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w49">
+            <token>ja</token>
+            <original_position from="1570" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w50">
+            <token>(</token>
+            <original_position from="1573" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w51">
+            <token>XXX</token>
+            <original_position from="1574" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w52">
+            <token>XXX</token>
+            <original_position from="1578" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w53">
+            <token>XXX</token>
+            <original_position from="1582" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w54">
+            <token>)</token>
+            <original_position from="1585" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w55">
+            <token>telefonoval</token>
+            <original_position from="1587" len="14"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w56">
+            <token>len</token>
+            <original_position from="1602" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w57">
+            <token>XXX</token>
+            <original_position from="1606" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w58">
+            <token>XXX</token>
+            <original_position from="1610" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w59">
+            <token>podXXX</token>
+            <original_position from="1614" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w60">
+            <token>.</token>
+            <original_position from="1620" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w61">
+            <token>Mám</token>
+            <original_position from="1622" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w62">
+            <token>ráda</token>
+            <original_position from="1626" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w63">
+            <token>chlupaté</token>
+            <original_position from="1631" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w64">
+            <token>knedlíky</token>
+            <original_position from="1640" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w65">
+            <token>&lt;img chlupaté knedlíky&gt;</token>
+            <original_position from="1649" len="23"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w66">
+            <token>se</token>
+            <original_position from="1673" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p4w67">
+            <token>my</token>
+            <original_position from="1677" len="2"/>
+            <comment>přeškrtnutá čárka nad y</comment>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p4w68">
+            <token>!</token>
+            <original_position from="1708" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p5">
+         <w id="w-zkusebni_text-d1p5w1">
+            <token>Seznam</token>
+            <original_position from="1713" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p5w2">
+            <token>:</token>
+            <original_position from="1719" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p6">
+         <w id="w-zkusebni_text-d1p6w1">
+            <token>&lt;li&gt;</token>
+            <original_position from="1724" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p6w2">
+            <token>položka</token>
+            <original_position from="1729" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p6w3">
+            <token>PRVNÍ</token>
+            <original_position from="1737" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p6w4">
+            <token>&lt;img :-z&gt;</token>
+            <original_position from="1743" len="9"/>
+         </w>
+         <w id="w-zkusebni_text-d1p6w5">
+            <token>a</token>
+            <original_position from="1753" len="1"/>
+            <comment>emailová adresa </comment>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p7">
+         <w id="w-zkusebni_text-d1p7w1">
+            <token>&lt;li&gt;</token>
+            <original_position from="1780" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p7w2">
+            <token>položka</token>
+            <original_position from="1785" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p7w3">
+            <token>{</token>
+            <original_position from="1793" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p7w4">
+            <token>závorky</token>
+            <original_position from="1795" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p7w5">
+            <token>}</token>
+            <original_position from="1802" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p7w6">
+            <token>druhá</token>
+            <original_position from="1805" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p7w7">
+            <token>.</token>
+            <original_position from="1810" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p8">
+         <w id="w-zkusebni_text-d1p8w1">
+            <token>&lt;li&gt;</token>
+            <original_position from="1815" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p8w2">
+            <token>položka</token>
+            <original_position from="1819" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p8w3">
+            <token>&lt;</token>
+            <original_position from="1827" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p8w4">
+            <token>závorky</token>
+            <original_position from="1829" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p8w5">
+            <token>&gt;</token>
+            <original_position from="1836" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p8w6">
+            <token>třetí</token>
+            <original_position from="1839" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p8w7">
+            <token>...</token>
+            <original_position from="1845" len="3"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p9">
+         <w id="w-zkusebni_text-d1p9w1">
+            <token>Slovo</token>
+            <original_position from="1852" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w2">
+            <token>podtržené</token>
+            <original_position from="1858" len="9"/>
+            <format name="underline"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w3">
+            <token>v</token>
+            <original_position from="1868" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w4">
+            <token>textu</token>
+            <original_position from="1870" len="5"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w5">
+            <token>.</token>
+            <original_position from="1875" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w6">
+            <token>Ještě</token>
+            <original_position from="1877" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w7">
+            <token>jednou</token>
+            <original_position from="1883" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w8">
+            <token>,</token>
+            <original_position from="1889" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w9">
+            <token>promiň</token>
+            <original_position from="1891" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w10">
+            <token>!!</token>
+            <original_position from="1897" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w11">
+            <token>Za</token>
+            <original_position from="1900" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w12">
+            <token>to|lo</token>
+            <original_position from="1903" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w13">
+            <token>když</token>
+            <original_position from="1909" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w14">
+            <token>se</token>
+            <original_position from="1915" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w15">
+            <token>sejdeme</token>
+            <original_position from="1923" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w16">
+            <token>,</token>
+            <original_position from="1930" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w17">
+            <token>seznamím</token>
+            <original_position from="1932" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w18">
+            <token>ti</token>
+            <original_position from="1941" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w19">
+            <token>Adam</token>
+            <original_position from="1944" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w20">
+            <token>{t|l}o</token>
+            <original_position from="1949" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w21">
+            <token>s</token>
+            <original_position from="1956" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w22">
+            <token>moje</token>
+            <original_position from="1958" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w23">
+            <token>Vieťnamský|Viet&apos;namský|Vietn&apos;amský</token>
+            <original_position from="1963" len="34"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w24">
+            <token>adam</token>
+            <original_position from="2002" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w25">
+            <token>XXX</token>
+            <original_position from="2007" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w26">
+            <token>Sin</token>
+            <original_position from="2015" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w27">
+            <token>novou</token>
+            <original_position from="2019" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w28">
+            <token>přítelkyňe</token>
+            <original_position from="2025" len="10"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w29">
+            <token>Ona</token>
+            <original_position from="2039" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w30">
+            <token>se</token>
+            <original_position from="2043" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w31">
+            <token>t{e}rasa</token>
+            <original_position from="2046" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w32">
+            <token>se</token>
+            <original_position from="2071" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w33">
+            <token>t{e}rasa</token>
+            <original_position from="2074" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w34">
+            <token>jmenuje</token>
+            <original_position from="2084" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w35">
+            <token>Vieťnamský|Viet&apos;namský|Vietn&apos;amský</token>
+            <original_position from="2092" len="34"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w36">
+            <token>Eva</token>
+            <original_position from="2131" len="3"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w37">
+            <token>..</token>
+            <original_position from="2134" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w38">
+            <token>Moc</token>
+            <original_position from="2137" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w39">
+            <token>krásná</token>
+            <original_position from="2141" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w40">
+            <token>tělo{ }cvičnu</token>
+            <original_position from="2148" len="13"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w41">
+            <token>holka</token>
+            <original_position from="2162" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w42">
+            <token>Evičku</token>
+            <original_position from="2168" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w43">
+            <token>?!</token>
+            <original_position from="2174" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w44">
+            <token>ulice</token>
+            <original_position from="2177" len="11"/>
+            <priv>1</priv>
+         </w>
+         <w id="w-zkusebni_text-d1p9w45">
+            <token>není</token>
+            <original_position from="2189" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w46">
+            <token>vůbec</token>
+            <original_position from="2194" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w47">
+            <token>telefonní číslo</token>
+            <original_position from="2200" len="21"/>
+            <priv>1</priv>
+         </w>
+         <w id="w-zkusebni_text-d1p9w48">
+            <token>ḿalou</token>
+            <original_position from="2222" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w49">
+            <token>sestra</token>
+            <original_position from="2231" len="6"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w50">
+            <token>všechno</token>
+            <original_position from="2255" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w51">
+            <token>piše</token>
+            <original_position from="2263" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p9w52">
+            <token>různe</token>
+            <original_position from="2269" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p9w53">
+            <token>.</token>
+            <original_position from="2275" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p10">
+         <w id="w-zkusebni_text-d1p10w1">
+            <token>Tak</token>
+            <original_position from="2280" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p10w2">
+            <token>jo</token>
+            <original_position from="2284" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p10w3">
+            <token>!</token>
+            <original_position from="2286" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p10w4">
+            <token>Čekám</token>
+            <original_position from="2288" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p10w5">
+            <token>na</token>
+            <original_position from="2294" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p10w6">
+            <token>tvou</token>
+            <original_position from="2297" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p10w7">
+            <token>odpověď</token>
+            <original_position from="2302" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p10w8">
+            <token>.</token>
+            <original_position from="2309" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p11">
+         <w id="w-zkusebni_text-d1p11w1">
+            <token>Tvůj</token>
+            <original_position from="2314" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p11w2">
+            <token>kamarád</token>
+            <original_position from="2319" len="7"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p11w3">
+            <token>,</token>
+            <original_position from="2326" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p11w4">
+            <token>Adámek</token>
+            <original_position from="2328" len="6"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p11w5">
+            <token>.</token>
+            <original_position from="2334" len="1"/>
+         </w>
+      </para>
+      <para id="w-zkusebni_text-d1p12">
+         <w id="w-zkusebni_text-d1p12w1">
+            <token>P</token>
+            <original_position from="2339" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w2">
+            <token>.</token>
+            <original_position from="2340" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w3">
+            <token>S</token>
+            <original_position from="2341" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w4">
+            <token>.</token>
+            <original_position from="2342" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w5">
+            <token>Oprávdu</token>
+            <original_position from="2344" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w6">
+            <token>ja</token>
+            <original_position from="2352" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w7">
+            <token>nevím</token>
+            <original_position from="2355" len="5"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w8">
+            <token>nebo</token>
+            <original_position from="2361" len="4"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w9">
+            <token>město</token>
+            <original_position from="2366" len="11"/>
+            <priv>1</priv>
+         </w>
+         <w id="w-zkusebni_text-d1p12w10">
+            <token>zapoměl</token>
+            <original_position from="2378" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w11">
+            <token>jsem</token>
+            <original_position from="2386" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w12">
+            <token>.</token>
+            <original_position from="2390" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w13">
+            <token>co</token>
+            <original_position from="2392" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w14">
+            <token>to</token>
+            <original_position from="2395" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w15">
+            <token>je</token>
+            <original_position from="2398" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w16">
+            <token>stěžovat</token>
+            <original_position from="2401" len="8"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w17">
+            <token>si</token>
+            <original_position from="2410" len="2"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w18">
+            <token>.</token>
+            <original_position from="2412" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w19">
+            <token>Che-che</token>
+            <original_position from="2414" len="7"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w20">
+            <token>&lt;img :)&gt;</token>
+            <original_position from="2422" len="8"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w21">
+            <token>.</token>
+            <original_position from="2430" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w22">
+            <token>To</token>
+            <original_position from="2432" len="2"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w23">
+            <token>číslo popisné</token>
+            <original_position from="2435" len="19"/>
+            <priv>1</priv>
+         </w>
+         <w id="w-zkusebni_text-d1p12w24">
+            <token>žert</token>
+            <original_position from="2455" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w25">
+            <token>.</token>
+            <original_position from="2459" len="1"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w26">
+            <token>Čáu</token>
+            <original_position from="2461" len="3"/>
+         </w>
+         <w id="w-zkusebni_text-d1p12w27">
+            <token>páne</token>
+            <original_position from="2465" len="4"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-zkusebni_text-d1p12w28">
+            <token>!</token>
+            <original_position from="2469" len="1"/>
+         </w>
+      </para>
+      <corrections>
+         <deleted id="w-zkusebni_text-cor-del1">
+            <from>w-zkusebni_text-d1p2w41</from>
+            <orig>byli</orig>
+         </deleted>
+         <deleted id="w-zkusebni_text-cor-del2">
+            <from>w-zkusebni_text-d1p3w26</from>
+            <orig>terasa</orig>
+         </deleted>
+         <moved id="w-zkusebni_text-cor-mv3">
+            <from>w-zkusebni_text-d1p3w76</from>
+            <token>w-zkusebni_text-d1p3w80</token>
+         </moved>
+         <moved id="w-zkusebni_text-cor-mv4">
+            <from>w-zkusebni_text-d1p3w82</from>
+            <token>w-zkusebni_text-d1p3w87</token>
+            <token>w-zkusebni_text-d1p3w88</token>
+            <token>w-zkusebni_text-d1p3w89</token>
+         </moved>
+         <moved id="w-zkusebni_text-cor-mv5">
+            <from>w-zkusebni_text-d1p3w84</from>
+            <token>w-zkusebni_text-d1p3w92</token>
+            <token>w-zkusebni_text-d1p3w93</token>
+            <token>w-zkusebni_text-d1p3w94</token>
+            <token>w-zkusebni_text-d1p3w95</token>
+         </moved>
+         <moved id="w-zkusebni_text-cor-mv6">
+            <from>w-zkusebni_text-d1p4w6</from>
+            <token>w-zkusebni_text-d1p4w2</token>
+            <token>w-zkusebni_text-d1p4w3</token>
+         </moved>
+         <change id="w-zkusebni_text-cor-change1">
+            <old>starna</old>
+            <token>w-zkusebni_text-d1p2w44</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change2">
+            <old>mušsíš</old>
+            <token>w-zkusebni_text-d1p3w46</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change3">
+            <old>JsemNosím</old>
+            <token>w-zkusebni_text-d1p3w76</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change4">
+            <old>vaříit</old>
+            <token>w-zkusebni_text-d1p3w78</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change5">
+            <old>se jsem</old>
+            <token>w-zkusebni_text-d1p4w2</token>
+            <token>w-zkusebni_text-d1p4w3</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change6">
+            <old>touristy</old>
+            <token>w-zkusebni_text-d1p4w25</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change7">
+            <old>tou</old>
+            <token>w-zkusebni_text-d1p4w26</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change8">
+            <old>telefonoXXXval</old>
+            <token>w-zkusebni_text-d1p4w55</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change9">
+            <old>t{e}rasa se</old>
+            <token>w-zkusebni_text-d1p9w32</token>
+            <token>w-zkusebni_text-d1p9w33</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change10">
+            <old>piše všechno</old>
+            <token>w-zkusebni_text-d1p9w50</token>
+            <token>w-zkusebni_text-d1p9w51</token>
+         </change>
+         <change id="w-zkusebni_text-cor-change11">
+            <old>různye</old>
+            <token>w-zkusebni_text-d1p9w52</token>
+         </change>
+         <split id="w-zkusebni_text-cor-split1">
+            <token>w-zkusebni_text-d1p2w13</token>
+            <token>w-zkusebni_text-d1p2w14</token>
+            <token>w-zkusebni_text-d1p2w15</token>
+         </split>
+         <split id="w-zkusebni_text-cor-split2">
+            <token>w-zkusebni_text-d1p4w66</token>
+            <token>w-zkusebni_text-d1p4w67</token>
+         </split>
+         <insert id="w-zkusebni_text-cor-in1">
+            <token>w-zkusebni_text-d1p2w27</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in2">
+            <token>w-zkusebni_text-d1p3w52</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in3">
+            <token>w-zkusebni_text-d1p4w9</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in4">
+            <token>w-zkusebni_text-d1p4w14</token>
+            <token>w-zkusebni_text-d1p4w15</token>
+            <token>w-zkusebni_text-d1p4w16</token>
+            <token>w-zkusebni_text-d1p4w17</token>
+            <token>w-zkusebni_text-d1p4w18</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in5">
+            <token>w-zkusebni_text-d1p4w22</token>
+            <token>w-zkusebni_text-d1p4w23</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in6">
+            <token>w-zkusebni_text-d1p4w28</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in7">
+            <token>w-zkusebni_text-d1p4w40</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in8">
+            <token>w-zkusebni_text-d1p9w14</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in9">
+            <token>w-zkusebni_text-d1p9w23</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in10">
+            <token>w-zkusebni_text-d1p9w25</token>
+         </insert>
+         <insert id="w-zkusebni_text-cor-in11">
+            <token>w-zkusebni_text-d1p9w35</token>
+         </insert>
+      </corrections>
+   </doc>
+</wdata>

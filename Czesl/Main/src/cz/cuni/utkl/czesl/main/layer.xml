@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+ <folder name="Navigator">
+      <folder name="Panels">
+         <folder name="text">
+            <folder name="feat-l+xml">
+               <file name="cz.cuni.utkl.czesl.main.navigator.NavigatorTopComponent.instance"/>
+            </folder>
+            <folder name="feat-a+xml">
+               <file name="cz.cuni.utkl.czesl.main.navigator.NavigatorTopComponent.instance"/>
+            </folder>
+            <folder name="feat-b+xml">
+               <file name="cz.cuni.utkl.czesl.main.navigator.NavigatorTopComponent.instance"/>
+            </folder>
+            <folder name="feat-w+xml">
+               <file name="cz.cuni.utkl.czesl.main.navigator.NavigatorTopComponent.instance"/>
+            </folder>
+         </folder>
+      </folder>
+   </folder>
+    <folder name="Toolbars">
+        <folder name="Build_hidden"/>
+        <folder name="File">
+            <file name="org-netbeans-modules-openfile-OpenFileAction.shadow" url="org-netbeans-modules-openfile-OpenFileAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-netbeans-modules-openfile-OpenFileAction.instance"/>
+                <attr name="position" intvalue="100"/>
+                <!-- does not work:
+                <attr name="iconBase" stringvalue="org/netbeans/modules/openfile/openFile.png"/>
+                <attr name="noIconInMenu" boolvalue="false"/-->
+            </file>
+            <file name="org-netbeans-modules-project-ui-NewFile_hidden"/>
+            <file name="org-netbeans-modules-project-ui-NewProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-NewProject_hidden.shadow">
+                <attr name="originalFile" stringvalue="Actions/Project/org-netbeans-modules-project-ui-NewProject.instance"/>
+                <attr name="position" intvalue="200"/>
+            </file>
+            <file name="org-netbeans-modules-project-ui-OpenProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-OpenProject_hidden.shadow">
+                <attr name="originalFile" stringvalue="Actions/Project/org-netbeans-modules-project-ui-OpenProject.instance"/>
+                <attr name="position" intvalue="300"/>
+            </file>
+            <file name="org-openide-actions-SaveAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-SaveAction.instance"/>
+                <attr name="position" intvalue="444"/>
+            </file>
+        </folder>
+        <folder name="UndoRedo"/>
+    </folder>
+    <folder name="Menu">
+        <folder name="File">
+            <file name="org-netbeans-modules-print-action-PageSetupAction.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-OpenProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-NewProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-NewFile.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-RecentProjects.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-CloseProject.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-groups-GroupsMenu.shadow_hidden"/>
+            <file name="org-netbeans-modules-project-ui-CustomizeProject.shadow_hidden"/>
+
+        </folder>
+        <folder name="Edit_hidden"/>
+        <folder name="View">
+            <file name="org-netbeans-modules-editor-NbCodeFoldingAction.instance_hidden"/>
+            <file name="toggle-toolbar.shadow_hidden"/>
+            <file name="toggle-line-numbers.shadow_hidden"/>
+            <file name="toggle-non-printable-characters.shadow_hidden"/>
+        </folder>
+        <folder name="BuildProject_hidden"/>
+        <folder name="RunProject_hidden"/>
+        <folder name="GoTo_hidden"/>
+        <folder name="Source_hidden"/>
+        <folder name="Tools">
+            <file name="org-netbeans-modules-favorites-templates-TemplatesAction.shadow_hidden"/>
+
+        </folder>
+        <folder name="Window">
+            <file name="Templates.instance_hidden"/>
+            <file name="org-netbeans-core-windows-actions-GlobalPropertiesAction.shadow"/>
+        </folder>
+        <folder name="Help">
+            <file name="netbeans-kb.url_hidden"/>
+            <file name="shortcuts.xml_hidden"/>
+        </folder>
+    </folder>
+    <folder name="Shortcuts">
+        <file name="D-3.shadow">
+            <attr name="originalFile" stringvalue="Actions/Window/org-netbeans-modules-favorites-View.instance"/>
+        </file>
+        <file name="D-O.shadow">
+            <attr name="originalFile" stringvalue="Actions/System/org-netbeans-modules-openfile-OpenFileAction.instance"/>
+        </file>
+        <file name="D-S.shadow">
+            <attr name="originalFile" stringvalue="Actions/System/org-openide-actions-SaveAction.instance"/>
+        </file>
+    </folder>
+</filesystem>
