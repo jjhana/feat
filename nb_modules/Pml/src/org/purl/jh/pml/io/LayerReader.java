@@ -67,29 +67,32 @@ public abstract class LayerReader<L extends Layer<?>> extends DataReader<L> {
             final String href = e.getAttributeValue("href");
 
             if ("tagset".equals(name)) {    // experimental, ugly, redo, do we need it at all?
-                // todo would be nice to have uid instead of href, possibly some desc and versions
-                // href -> (tid,version)
-                String tid = href;
-                String version = "";
-                String desc = "";
-                
-                Tagset<?> tagset = null;
-                try {
-                    tagset = layerLoader.getTagset(this, tid, version, desc);
-                }
-                catch(Throwable ex) {
-                    getErr().warning("Could not load tagset: " + ex.getMessage());       // todo this is ugly
-                }
-                
-                
-                if (tagset != null) {
-                    data.addTagset(id, tagset);
-                }
-                else {
-                    handleUnloadableTagset(tid, version, id, desc);
-                }
+                // todo ignore for now
             }
-			// usual non-tagset layer
+//            else if ("tagset".equals(name)) {    // experimental, ugly, redo, do we need it at all?
+//                // todo would be nice to have uid instead of href, possibly some desc and versions
+//                // href -> (tid,version)
+//                String tid = href;
+//                String version = "";
+//                String desc = "";
+//                
+//                Tagset<?> tagset = null;
+//                try {
+//                    tagset = layerLoader.getTagset(this, tid, version, desc);
+//                }
+//                catch(Throwable ex) {
+//                    getErr().warning("Could not load tagset: " + ex.getMessage());       // todo this is ugly
+//                }
+//                
+//                
+//                if (tagset != null) {
+//                    data.addTagset(id, tagset);
+//                }
+//                else {
+//                    handleUnloadableTagset(tid, version, id, desc);
+//                }
+//            }
+//			// usual non-tagset layer
             else {
                 final Layer<?> referredLayer = layerLoader.getLayer(this, id, name, href);
                 if (referredLayer != null) {

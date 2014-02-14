@@ -1,0 +1,3755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldata xmlns="http://utkl.cuni.cz/czesl/">
+  <head>
+    <schema href="ldata_schema.xml" />
+    <references>
+      <reffile id="a" name="adata" href="AA_AO_001_t_1.a.xml" />
+      <reffile id="http://utkl.cuni.cz/czesl/L2/2" name="tagset" href="http://utkl.cuni.cz/czesl/L2/2" />
+    </references>
+  </head>
+  <doc id="w-AA_AO_001_t_1-d1" lowerdoc.rf="a#w-AA_AO_001_t_1-d1">
+    <para id="b-AA_AO_001_t_1-d1p1" lowerpara.rf="a#a-AA_AO_001_t_1-d1p1">
+      <s id="a-AA_AO_001_t_1-d1p1s1">
+        <w id="b-AA_AO_001_t_1-d1p1w1">
+          <token>Co</token>
+          <edge id="AA_AO_001_t_1.b-e0">
+            <from>a#a-AA_AO_001_t_1-d1p1w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w2">
+          <token>mi</token>
+          <edge id="AA_AO_001_t_1.b-e1">
+            <from>a#a-AA_AO_001_t_1-d1p1w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w3">
+          <token>přinesl</token>
+          <edge id="AA_AO_001_t_1.b-e2">
+            <from>a#a-AA_AO_001_t_1-d1p1w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w4">
+          <token>pobyt</token>
+          <edge id="AA_AO_001_t_1.b-e3">
+            <from>a#a-AA_AO_001_t_1-d1p1w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w5">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e4">
+            <from>a#a-AA_AO_001_t_1-d1p1w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w6">
+          <token>Praze</token>
+          <edge id="AA_AO_001_t_1.b-e5">
+            <from>a#a-AA_AO_001_t_1-d1p1w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w7">
+          <token>/</token>
+          <edge id="AA_AO_001_t_1.b-e6">
+            <from>a#a-AA_AO_001_t_1-d1p1w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w8">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e7">
+            <from>a#a-AA_AO_001_t_1-d1p1w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w9">
+          <token>nějaké</token>
+          <edge id="AA_AO_001_t_1.b-e8">
+            <from>a#a-AA_AO_001_t_1-d1p1w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w10">
+          <token>jiné</token>
+          <edge id="AA_AO_001_t_1.b-e9">
+            <from>a#a-AA_AO_001_t_1-d1p1w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w11">
+          <token>zahraniční</token>
+          <edge id="AA_AO_001_t_1.b-e10">
+            <from>a#a-AA_AO_001_t_1-d1p1w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w12">
+          <token>univerzitě</token>
+          <edge id="AA_AO_001_t_1.b-e11">
+            <from>a#a-AA_AO_001_t_1-d1p1w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p1w13">
+          <token>?</token>
+          <edge id="AA_AO_001_t_1.b-e12">
+            <from>a#a-AA_AO_001_t_1-d1p1w13</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_001_t_1-d1p2" lowerpara.rf="a#a-AA_AO_001_t_1-d1p2">
+      <s id="a-AA_AO_001_t_1-d1p2s1">
+        <w id="b-AA_AO_001_t_1-d1p2w1">
+          <token>Ve</token>
+          <edge id="AA_AO_001_t_1.b-e13">
+            <from>a#a-AA_AO_001_t_1-d1p2w1</from>
+            <error>
+              <tag>use</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w2">
+          <token>svém</token>
+          <edge id="AA_AO_001_t_1.b-e14">
+            <from>a#a-AA_AO_001_t_1-d1p2w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w3">
+          <token>krátkém</token>
+          <edge id="AA_AO_001_t_1.b-e15">
+            <from>a#a-AA_AO_001_t_1-d1p2w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w4">
+          <token>životě</token>
+          <edge id="AA_AO_001_t_1.b-e16">
+            <from>a#a-AA_AO_001_t_1-d1p2w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w5">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e17">
+            <from>a#a-AA_AO_001_t_1-d1p2w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w6">
+          <token>dělala</token>
+          <edge id="AA_AO_001_t_1.b-e18">
+            <from>a#a-AA_AO_001_t_1-d1p2w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w7">
+          <token>už</token>
+          <edge id="AA_AO_001_t_1.b-e19">
+            <from>a#a-AA_AO_001_t_1-d1p2w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w8">
+          <token>několik</token>
+          <edge id="AA_AO_001_t_1.b-e20">
+            <from>a#a-AA_AO_001_t_1-d1p2w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w9">
+          <token>kurzů</token>
+          <edge id="AA_AO_001_t_1.b-e21">
+            <from>a#a-AA_AO_001_t_1-d1p2w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w10">
+          <token>cizích</token>
+          <edge id="AA_AO_001_t_1.b-e22">
+            <from>a#a-AA_AO_001_t_1-d1p2w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w11">
+          <token>jazyků</token>
+          <edge id="AA_AO_001_t_1.b-e23">
+            <from>a#a-AA_AO_001_t_1-d1p2w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w12">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e24">
+            <from>a#a-AA_AO_001_t_1-d1p2w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w13">
+          <token>různých</token>
+          <edge id="AA_AO_001_t_1.b-e25">
+            <from>a#a-AA_AO_001_t_1-d1p2w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w14">
+          <token>univerzitách</token>
+          <edge id="AA_AO_001_t_1.b-e26">
+            <from>a#a-AA_AO_001_t_1-d1p2w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w15">
+          <token>nebo</token>
+          <edge id="AA_AO_001_t_1.b-e27">
+            <from>a#a-AA_AO_001_t_1-d1p2w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w16">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e28">
+            <from>a#a-AA_AO_001_t_1-d1p2w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w17">
+          <token>jazykových</token>
+          <edge id="AA_AO_001_t_1.b-e29">
+            <from>a#a-AA_AO_001_t_1-d1p2w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w18">
+          <token>školách</token>
+          <edge id="AA_AO_001_t_1.b-e30">
+            <from>a#a-AA_AO_001_t_1-d1p2w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w19">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e31">
+            <from>a#a-AA_AO_001_t_1-d1p2w19</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p2s2">
+        <w id="b-AA_AO_001_t_1-d1p2w20">
+          <token>Pobyt</token>
+          <edge id="AA_AO_001_t_1.b-e32">
+            <from>a#a-AA_AO_001_t_1-d1p2w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w21">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e33">
+            <from>a#a-AA_AO_001_t_1-d1p2w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w22">
+          <token>Erasmu</token>
+          <edge id="AA_AO_001_t_1.b-e34">
+            <from>a#a-AA_AO_001_t_1-d1p2w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w23">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e35">
+            <from>a#a-AA_AO_001_t_1-d1p2w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w24">
+          <token>Praze</token>
+          <edge id="AA_AO_001_t_1.b-e36">
+            <from>a#a-AA_AO_001_t_1-d1p2w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w25">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e37">
+            <from>a#a-AA_AO_001_t_1-d1p2w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w26">
+          <token>mi</token>
+          <edge id="AA_AO_001_t_1.b-e38">
+            <from>a#a-AA_AO_001_t_1-d1p2w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w27">
+          <token>moc</token>
+          <edge id="AA_AO_001_t_1.b-e39">
+            <from>a#a-AA_AO_001_t_1-d1p2w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w28">
+          <token>líbí</token>
+          <edge id="AA_AO_001_t_1.b-e40">
+            <from>a#a-AA_AO_001_t_1-d1p2w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w29">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e41">
+            <from>a#a-AA_AO_001_t_1-d1p2w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w30">
+          <token>ale</token>
+          <edge id="AA_AO_001_t_1.b-e42">
+            <from>a#a-AA_AO_001_t_1-d1p2w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w31">
+          <token>teď</token>
+          <edge id="AA_AO_001_t_1.b-e43">
+            <from>a#a-AA_AO_001_t_1-d1p2w31</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w32">
+          <token>bych</token>
+          <edge id="AA_AO_001_t_1.b-e44">
+            <from>a#a-AA_AO_001_t_1-d1p2w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w33">
+          <token>chtěla</token>
+          <edge id="AA_AO_001_t_1.b-e45">
+            <from>a#a-AA_AO_001_t_1-d1p2w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w34">
+          <token>napsat</token>
+          <edge id="AA_AO_001_t_1.b-e46">
+            <from>a#a-AA_AO_001_t_1-d1p2w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w35">
+          <token>o</token>
+          <edge id="AA_AO_001_t_1.b-e47">
+            <from>a#a-AA_AO_001_t_1-d1p2w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w36">
+          <token>kurzu</token>
+          <edge id="AA_AO_001_t_1.b-e48">
+            <from>a#a-AA_AO_001_t_1-d1p2w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w37">
+          <token>arabštiny</token>
+          <edge id="AA_AO_001_t_1.b-e49">
+            <from>a#a-AA_AO_001_t_1-d1p2w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w38">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e50">
+            <from>a#a-AA_AO_001_t_1-d1p2w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w39">
+          <token>který</token>
+          <edge id="AA_AO_001_t_1.b-e51">
+            <from>a#a-AA_AO_001_t_1-d1p2w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w40">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e52">
+            <from>a#a-AA_AO_001_t_1-d1p2w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w41">
+          <token>dělala</token>
+          <edge id="AA_AO_001_t_1.b-e53">
+            <from>a#a-AA_AO_001_t_1-d1p2w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w42">
+          <token>minulý</token>
+          <edge id="AA_AO_001_t_1.b-e54">
+            <from>a#a-AA_AO_001_t_1-d1p2w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w43">
+          <token>rok</token>
+          <edge id="AA_AO_001_t_1.b-e55">
+            <from>a#a-AA_AO_001_t_1-d1p2w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w44">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e56">
+            <from>a#a-AA_AO_001_t_1-d1p2w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w45">
+          <token>Jemenu</token>
+          <edge id="AA_AO_001_t_1.b-e57">
+            <from>a#a-AA_AO_001_t_1-d1p2w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w46">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e58">
+            <from>a#a-AA_AO_001_t_1-d1p2w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w47">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e59">
+            <from>a#a-AA_AO_001_t_1-d1p2w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w48">
+          <token>předpokládám</token>
+          <edge id="AA_AO_001_t_1.b-e60">
+            <from>a#a-AA_AO_001_t_1-d1p2w48</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w49">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e61">
+            <from>a#a-AA_AO_001_t_1-d1p2w49</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w50">
+          <token>že</token>
+          <edge id="AA_AO_001_t_1.b-e62">
+            <from>a#a-AA_AO_001_t_1-d1p2w50</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w52">
+          <token>to</token>
+          <edge id="AA_AO_001_t_1.b-e64">
+            <from>a#a-AA_AO_001_t_1-d1p2w52</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w51">
+          <token>bude</token>
+          <edge id="AA_AO_001_t_1.b-e63">
+            <from>a#a-AA_AO_001_t_1-d1p2w51</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w53">
+          <token>zajímavější</token>
+          <edge id="AA_AO_001_t_1.b-e65">
+            <from>a#a-AA_AO_001_t_1-d1p2w53</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p2w54">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e66">
+            <from>a#a-AA_AO_001_t_1-d1p2w54</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_001_t_1-d1p3" lowerpara.rf="a#a-AA_AO_001_t_1-d1p3">
+      <s id="a-AA_AO_001_t_1-d1p3s1">
+        <w id="b-AA_AO_001_t_1-d1p3w1">
+          <token>Do</token>
+          <edge id="AA_AO_001_t_1.b-e67">
+            <from>a#a-AA_AO_001_t_1-d1p3w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w2">
+          <token>Jemenu</token>
+          <edge id="AA_AO_001_t_1.b-e68">
+            <from>a#a-AA_AO_001_t_1-d1p3w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w3">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e69">
+            <from>a#a-AA_AO_001_t_1-d1p3w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w4">
+          <token>jela</token>
+          <edge id="AA_AO_001_t_1.b-e70">
+            <from>a#a-AA_AO_001_t_1-d1p3w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w5">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e71">
+            <from>a#a-AA_AO_001_t_1-d1p3w5</from>
+            <error>
+              <tag>use</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w6">
+          <token>dvěma</token>
+          <edge id="AA_AO_001_t_1.b-e72">
+            <from>a#a-AA_AO_001_t_1-d1p3w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w7">
+          <token>kamarádkami</token>
+          <edge id="AA_AO_001_t_1.b-e73">
+            <from>a#a-AA_AO_001_t_1-d1p3w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w8">
+          <token>ze</token>
+          <edge id="AA_AO_001_t_1.b-e74">
+            <from>a#a-AA_AO_001_t_1-d1p3w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w9">
+          <token>studií</token>
+          <edge id="AA_AO_001_t_1.b-e75">
+            <from>a#a-AA_AO_001_t_1-d1p3w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w10">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e76">
+            <from>a#a-AA_AO_001_t_1-d1p3w10</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p3s2">
+        <w id="b-AA_AO_001_t_1-d1p3w11">
+          <token>Strávily</token>
+          <edge id="AA_AO_001_t_1.b-e77">
+            <from>a#a-AA_AO_001_t_1-d1p3w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w12">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e78">
+            <from>a#a-AA_AO_001_t_1-d1p3w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w13">
+          <token>měsíc</token>
+          <edge id="AA_AO_001_t_1.b-e79">
+            <from>a#a-AA_AO_001_t_1-d1p3w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w14">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e80">
+            <from>a#a-AA_AO_001_t_1-d1p3w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w15">
+          <token>hlavním</token>
+          <edge id="AA_AO_001_t_1.b-e81">
+            <from>a#a-AA_AO_001_t_1-d1p3w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w16">
+          <token>městě</token>
+          <edge id="AA_AO_001_t_1.b-e82">
+            <from>a#a-AA_AO_001_t_1-d1p3w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w17">
+          <token>Jemenu</token>
+          <edge id="AA_AO_001_t_1.b-e83">
+            <from>a#a-AA_AO_001_t_1-d1p3w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w18">
+          <token>–</token>
+          <edge id="AA_AO_001_t_1.b-e84">
+            <from>a#a-AA_AO_001_t_1-d1p3w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w19">
+          <token>San'á</token>
+          <edge id="AA_AO_001_t_1.b-e85">
+            <from>a#a-AA_AO_001_t_1-d1p3w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w20">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e86">
+            <from>a#a-AA_AO_001_t_1-d1p3w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w21">
+          <token>kde</token>
+          <edge id="AA_AO_001_t_1.b-e87">
+            <from>a#a-AA_AO_001_t_1-d1p3w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w22">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e88">
+            <from>a#a-AA_AO_001_t_1-d1p3w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w23">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e89">
+            <from>a#a-AA_AO_001_t_1-d1p3w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w24">
+          <token>zúčastnily</token>
+          <edge id="AA_AO_001_t_1.b-e90">
+            <from>a#a-AA_AO_001_t_1-d1p3w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w25">
+          <token>kurzu</token>
+          <edge id="AA_AO_001_t_1.b-e91">
+            <from>a#a-AA_AO_001_t_1-d1p3w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w26">
+          <token>arabštiny</token>
+          <edge id="AA_AO_001_t_1.b-e92">
+            <from>a#a-AA_AO_001_t_1-d1p3w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w27">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e93">
+            <from>a#a-AA_AO_001_t_1-d1p3w27</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p3s3">
+        <w id="b-AA_AO_001_t_1-d1p3w28">
+          <token>Nebyla</token>
+          <edge id="AA_AO_001_t_1.b-e94">
+            <from>a#a-AA_AO_001_t_1-d1p3w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w29">
+          <token>to</token>
+          <edge id="AA_AO_001_t_1.b-e95">
+            <from>a#a-AA_AO_001_t_1-d1p3w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w30">
+          <token>moje</token>
+          <edge id="AA_AO_001_t_1.b-e96">
+            <from>a#a-AA_AO_001_t_1-d1p3w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w31">
+          <token>první</token>
+          <edge id="AA_AO_001_t_1.b-e97">
+            <from>a#a-AA_AO_001_t_1-d1p3w31</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w32">
+          <token>zkušenost</token>
+          <edge id="AA_AO_001_t_1.b-e98">
+            <from>a#a-AA_AO_001_t_1-d1p3w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w33">
+          <token>s</token>
+          <edge id="AA_AO_001_t_1.b-e99">
+            <from>a#a-AA_AO_001_t_1-d1p3w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w34">
+          <token>kurzy</token>
+          <edge id="AA_AO_001_t_1.b-e100">
+            <from>a#a-AA_AO_001_t_1-d1p3w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w35">
+          <token>arabštiny</token>
+          <edge id="AA_AO_001_t_1.b-e101">
+            <from>a#a-AA_AO_001_t_1-d1p3w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w36">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e102">
+            <from>a#a-AA_AO_001_t_1-d1p3w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w37">
+          <token>arabských</token>
+          <edge id="AA_AO_001_t_1.b-e103">
+            <from>a#a-AA_AO_001_t_1-d1p3w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w38">
+          <token>zemích</token>
+          <edge id="AA_AO_001_t_1.b-e104">
+            <from>a#a-AA_AO_001_t_1-d1p3w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w39">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e105">
+            <from>a#a-AA_AO_001_t_1-d1p3w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w40">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e106">
+            <from>a#a-AA_AO_001_t_1-d1p3w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w41">
+          <token>o</token>
+          <edge id="AA_AO_001_t_1.b-e107">
+            <from>a#a-AA_AO_001_t_1-d1p3w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w42">
+          <token>rok</token>
+          <edge id="AA_AO_001_t_1.b-e108">
+            <from>a#a-AA_AO_001_t_1-d1p3w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w43">
+          <token>dřív</token>
+          <edge id="AA_AO_001_t_1.b-e109">
+            <from>a#a-AA_AO_001_t_1-d1p3w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w44">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e110">
+            <from>a#a-AA_AO_001_t_1-d1p3w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w45">
+          <token>byla</token>
+          <edge id="AA_AO_001_t_1.b-e111">
+            <from>a#a-AA_AO_001_t_1-d1p3w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w46">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e112">
+            <from>a#a-AA_AO_001_t_1-d1p3w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w47">
+          <token>podobném</token>
+          <edge id="AA_AO_001_t_1.b-e113">
+            <from>a#a-AA_AO_001_t_1-d1p3w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w48">
+          <token>kurzu</token>
+          <edge id="AA_AO_001_t_1.b-e114">
+            <from>a#a-AA_AO_001_t_1-d1p3w48</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w49">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e115">
+            <from>a#a-AA_AO_001_t_1-d1p3w49</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w50">
+          <token>Damašku</token>
+          <edge id="AA_AO_001_t_1.b-e116">
+            <from>a#a-AA_AO_001_t_1-d1p3w50</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w51">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e117">
+            <from>a#a-AA_AO_001_t_1-d1p3w51</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p3s4">
+        <w id="b-AA_AO_001_t_1-d1p3w52">
+          <token>Z</token>
+          <edge id="AA_AO_001_t_1.b-e118">
+            <from>a#a-AA_AO_001_t_1-d1p3w52</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w53">
+          <token>toho</token>
+          <edge id="AA_AO_001_t_1.b-e119">
+            <from>a#a-AA_AO_001_t_1-d1p3w53</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w54">
+          <token>důvodu</token>
+          <edge id="AA_AO_001_t_1.b-e120">
+            <from>a#a-AA_AO_001_t_1-d1p3w54</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w55">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e121">
+            <from>a#a-AA_AO_001_t_1-d1p3w55</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w56">
+          <token>očekávala</token>
+          <edge id="AA_AO_001_t_1.b-e122">
+            <from>a#a-AA_AO_001_t_1-d1p3w56</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w57">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e123">
+            <from>a#a-AA_AO_001_t_1-d1p3w57</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w58">
+          <token>že</token>
+          <edge id="AA_AO_001_t_1.b-e124">
+            <from>a#a-AA_AO_001_t_1-d1p3w58</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w59">
+          <token>budeme</token>
+          <edge id="AA_AO_001_t_1.b-e125">
+            <from>a#a-AA_AO_001_t_1-d1p3w59</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w60">
+          <token>o</token>
+          <edge id="AA_AO_001_t_1.b-e126">
+            <from>a#a-AA_AO_001_t_1-d1p3w60</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w61">
+          <token>víkendech</token>
+          <edge id="AA_AO_001_t_1.b-e127">
+            <from>a#a-AA_AO_001_t_1-d1p3w61</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w62">
+          <token>hodně</token>
+          <edge id="AA_AO_001_t_1.b-e128">
+            <from>a#a-AA_AO_001_t_1-d1p3w62</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w63">
+          <token>cestovat</token>
+          <edge id="AA_AO_001_t_1.b-e129">
+            <from>a#a-AA_AO_001_t_1-d1p3w63</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w64">
+          <token>po</token>
+          <edge id="AA_AO_001_t_1.b-e130">
+            <from>a#a-AA_AO_001_t_1-d1p3w64</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w65">
+          <token>Jemenu</token>
+          <edge id="AA_AO_001_t_1.b-e131">
+            <from>a#a-AA_AO_001_t_1-d1p3w65</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w66">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e132">
+            <from>a#a-AA_AO_001_t_1-d1p3w66</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w67">
+          <token>navštívíme</token>
+          <edge id="AA_AO_001_t_1.b-e133">
+            <from>a#a-AA_AO_001_t_1-d1p3w67</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w68">
+          <token>několik</token>
+          <edge id="AA_AO_001_t_1.b-e134">
+            <from>a#a-AA_AO_001_t_1-d1p3w68</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w69">
+          <token>míst</token>
+          <edge id="AA_AO_001_t_1.b-e135">
+            <from>a#a-AA_AO_001_t_1-d1p3w69</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w70">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e136">
+            <from>a#a-AA_AO_001_t_1-d1p3w70</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w71">
+          <token>která</token>
+          <edge id="AA_AO_001_t_1.b-e137">
+            <from>a#a-AA_AO_001_t_1-d1p3w71</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w72">
+          <token>by</token>
+          <edge id="AA_AO_001_t_1.b-e138">
+            <from>a#a-AA_AO_001_t_1-d1p3w72</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w73">
+          <token>mě</token>
+          <edge id="AA_AO_001_t_1.b-e139">
+            <from>a#a-AA_AO_001_t_1-d1p3w73</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w74">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e140">
+            <from>a#a-AA_AO_001_t_1-d1p3w74</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w75">
+          <token>té</token>
+          <edge id="AA_AO_001_t_1.b-e141">
+            <from>a#a-AA_AO_001_t_1-d1p3w75</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w76">
+          <token>zemi</token>
+          <edge id="AA_AO_001_t_1.b-e142">
+            <from>a#a-AA_AO_001_t_1-d1p3w76</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w77">
+          <token>zajímala</token>
+          <edge id="AA_AO_001_t_1.b-e143">
+            <from>a#a-AA_AO_001_t_1-d1p3w77</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w78">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e144">
+            <from>a#a-AA_AO_001_t_1-d1p3w78</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p3s5">
+        <w id="b-AA_AO_001_t_1-d1p3w79">
+          <token>Bohužel</token>
+          <edge id="AA_AO_001_t_1.b-e145">
+            <from>a#a-AA_AO_001_t_1-d1p3w79</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w80">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e146">
+            <from>a#a-AA_AO_001_t_1-d1p3w80</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w81">
+          <token>když</token>
+          <edge id="AA_AO_001_t_1.b-e147">
+            <from>a#a-AA_AO_001_t_1-d1p3w81</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w82">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e148">
+            <from>a#a-AA_AO_001_t_1-d1p3w82</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w83">
+          <token>přijely</token>
+          <edge id="AA_AO_001_t_1.b-e149">
+            <from>a#a-AA_AO_001_t_1-d1p3w83</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w84">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e150">
+            <from>a#a-AA_AO_001_t_1-d1p3w84</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w85">
+          <token>místo</token>
+          <edge id="AA_AO_001_t_1.b-e151">
+            <from>a#a-AA_AO_001_t_1-d1p3w85</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w86">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e152">
+            <from>a#a-AA_AO_001_t_1-d1p3w86</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w87">
+          <token>dozvěděly</token>
+          <edge id="AA_AO_001_t_1.b-e153">
+            <from>a#a-AA_AO_001_t_1-d1p3w87</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w88">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e154">
+            <from>a#a-AA_AO_001_t_1-d1p3w88</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w89">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e155">
+            <from>a#a-AA_AO_001_t_1-d1p3w89</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w90">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e156">
+            <from>a#a-AA_AO_001_t_1-d1p3w90</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w91">
+          <token>že</token>
+          <edge id="AA_AO_001_t_1.b-e157">
+            <from>a#a-AA_AO_001_t_1-d1p3w91</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w92">
+          <token>když</token>
+          <edge id="AA_AO_001_t_1.b-e158">
+            <from>a#a-AA_AO_001_t_1-d1p3w92</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w93">
+          <token>chce</token>
+          <edge id="AA_AO_001_t_1.b-e159">
+            <from>a#a-AA_AO_001_t_1-d1p3w93</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w94">
+          <token>člověk</token>
+          <edge id="AA_AO_001_t_1.b-e160">
+            <from>a#a-AA_AO_001_t_1-d1p3w94</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w95">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e161">
+            <from>a#a-AA_AO_001_t_1-d1p3w95</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w96">
+          <token>Jemenu</token>
+          <edge id="AA_AO_001_t_1.b-e162">
+            <from>a#a-AA_AO_001_t_1-d1p3w96</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w97">
+          <token>cestovat</token>
+          <edge id="AA_AO_001_t_1.b-e163">
+            <from>a#a-AA_AO_001_t_1-d1p3w97</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w98">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e164">
+            <from>a#a-AA_AO_001_t_1-d1p3w98</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w99">
+          <token>potřebuje</token>
+          <edge id="AA_AO_001_t_1.b-e165">
+            <from>a#a-AA_AO_001_t_1-d1p3w99</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w100">
+          <token>povolení</token>
+          <edge id="AA_AO_001_t_1.b-e166">
+            <from>a#a-AA_AO_001_t_1-d1p3w100</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w101">
+          <token>od</token>
+          <edge id="AA_AO_001_t_1.b-e167">
+            <from>a#a-AA_AO_001_t_1-d1p3w101</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w102">
+          <token>policie</token>
+          <edge id="AA_AO_001_t_1.b-e168">
+            <from>a#a-AA_AO_001_t_1-d1p3w102</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w103">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e169">
+            <from>a#a-AA_AO_001_t_1-d1p3w103</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w104">
+          <token>což</token>
+          <edge id="AA_AO_001_t_1.b-e170">
+            <from>a#a-AA_AO_001_t_1-d1p3w104</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w105">
+          <token>pro</token>
+          <edge id="AA_AO_001_t_1.b-e171">
+            <from>a#a-AA_AO_001_t_1-d1p3w105</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w106">
+          <token>normálního</token>
+          <edge id="AA_AO_001_t_1.b-e172">
+            <from>a#a-AA_AO_001_t_1-d1p3w106</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w107">
+          <token>turistu</token>
+          <edge id="AA_AO_001_t_1.b-e173">
+            <from>a#a-AA_AO_001_t_1-d1p3w107</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w108">
+          <token>není</token>
+          <edge id="AA_AO_001_t_1.b-e174">
+            <from>a#a-AA_AO_001_t_1-d1p3w108</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w109">
+          <token>problém</token>
+          <edge id="AA_AO_001_t_1.b-e175">
+            <from>a#a-AA_AO_001_t_1-d1p3w109</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w110">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e176">
+            <from>a#a-AA_AO_001_t_1-d1p3w110</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w111">
+          <token>ale</token>
+          <edge id="AA_AO_001_t_1.b-e177">
+            <from>a#a-AA_AO_001_t_1-d1p3w111</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w112">
+          <token>my</token>
+          <edge id="AA_AO_001_t_1.b-e178">
+            <from>a#a-AA_AO_001_t_1-d1p3w112</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w113">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e179">
+            <from>a#a-AA_AO_001_t_1-d1p3w113</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w114">
+          <token>z</token>
+          <edge id="AA_AO_001_t_1.b-e180">
+            <from>a#a-AA_AO_001_t_1-d1p3w114</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w115">
+          <token>důvodu</token>
+          <edge id="AA_AO_001_t_1.b-e181">
+            <from>a#a-AA_AO_001_t_1-d1p3w115</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w116">
+          <token>účasti</token>
+          <edge id="AA_AO_001_t_1.b-e182">
+            <from>a#a-AA_AO_001_t_1-d1p3w116</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w117">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e183">
+            <from>a#a-AA_AO_001_t_1-d1p3w117</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w118">
+          <token>kurzu</token>
+          <edge id="AA_AO_001_t_1.b-e184">
+            <from>a#a-AA_AO_001_t_1-d1p3w118</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w119">
+          <token>potřebovaly</token>
+          <edge id="AA_AO_001_t_1.b-e185">
+            <from>a#a-AA_AO_001_t_1-d1p3w119</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w120">
+          <token>dát</token>
+          <edge id="AA_AO_001_t_1.b-e186">
+            <from>a#a-AA_AO_001_t_1-d1p3w120</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w121">
+          <token>policii</token>
+          <edge id="AA_AO_001_t_1.b-e187">
+            <from>a#a-AA_AO_001_t_1-d1p3w121</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w122">
+          <token>povolení</token>
+          <edge id="AA_AO_001_t_1.b-e188">
+            <from>a#a-AA_AO_001_t_1-d1p3w122</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w123">
+          <token>z</token>
+          <edge id="AA_AO_001_t_1.b-e189">
+            <from>a#a-AA_AO_001_t_1-d1p3w123</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w124">
+          <token>naší</token>
+          <edge id="AA_AO_001_t_1.b-e190">
+            <from>a#a-AA_AO_001_t_1-d1p3w124</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w125">
+          <token>školy</token>
+          <edge id="AA_AO_001_t_1.b-e191">
+            <from>a#a-AA_AO_001_t_1-d1p3w125</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w126">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e192">
+            <from>a#a-AA_AO_001_t_1-d1p3w126</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w127">
+          <token>které</token>
+          <edge id="AA_AO_001_t_1.b-e193">
+            <from>a#a-AA_AO_001_t_1-d1p3w127</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w128">
+          <token>nám</token>
+          <edge id="AA_AO_001_t_1.b-e194">
+            <from>a#a-AA_AO_001_t_1-d1p3w128</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w129">
+          <token>nikdo</token>
+          <edge id="AA_AO_001_t_1.b-e195">
+            <from>a#a-AA_AO_001_t_1-d1p3w129</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w130">
+          <token>nechtěl</token>
+          <edge id="AA_AO_001_t_1.b-e196">
+            <from>a#a-AA_AO_001_t_1-d1p3w130</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w131">
+          <token>dát</token>
+          <edge id="AA_AO_001_t_1.b-e197">
+            <from>a#a-AA_AO_001_t_1-d1p3w131</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w132">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e198">
+            <from>a#a-AA_AO_001_t_1-d1p3w132</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w133">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e199">
+            <from>a#a-AA_AO_001_t_1-d1p3w133</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w134">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e200">
+            <from>a#a-AA_AO_001_t_1-d1p3w134</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w135">
+          <token>kurzu</token>
+          <edge id="AA_AO_001_t_1.b-e201">
+            <from>a#a-AA_AO_001_t_1-d1p3w135</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w136">
+          <token>byla</token>
+          <edge id="AA_AO_001_t_1.b-e202">
+            <from>a#a-AA_AO_001_t_1-d1p3w136</from>
+            <error>
+              <tag>agr</tag>
+              <link>AA_AO_001_t_1.b-e203</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w137">
+          <token>spousta</token>
+          <edge id="AA_AO_001_t_1.b-e203">
+            <from>a#a-AA_AO_001_t_1-d1p3w137</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w138">
+          <token>Američanů</token>
+          <edge id="AA_AO_001_t_1.b-e204">
+            <from>a#a-AA_AO_001_t_1-d1p3w138</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w139">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e205">
+            <from>a#a-AA_AO_001_t_1-d1p3w139</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w140">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e206">
+            <from>a#a-AA_AO_001_t_1-d1p3w140</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w141">
+          <token>ředitel</token>
+          <edge id="AA_AO_001_t_1.b-e207">
+            <from>a#a-AA_AO_001_t_1-d1p3w141</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w142">
+          <token>školy</token>
+          <edge id="AA_AO_001_t_1.b-e208">
+            <from>a#a-AA_AO_001_t_1-d1p3w142</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w143">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e209">
+            <from>a#a-AA_AO_001_t_1-d1p3w143</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w144">
+          <token>bál</token>
+          <edge id="AA_AO_001_t_1.b-e210">
+            <from>a#a-AA_AO_001_t_1-d1p3w144</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w145">
+          <token>únosu</token>
+          <edge id="AA_AO_001_t_1.b-e211">
+            <from>a#a-AA_AO_001_t_1-d1p3w145</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w146">
+          <token>někoho</token>
+          <edge id="AA_AO_001_t_1.b-e212">
+            <from>a#a-AA_AO_001_t_1-d1p3w146</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w147">
+          <token>ze</token>
+          <edge id="AA_AO_001_t_1.b-e213">
+            <from>a#a-AA_AO_001_t_1-d1p3w147</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w148">
+          <token>studentů</token>
+          <edge id="AA_AO_001_t_1.b-e214">
+            <from>a#a-AA_AO_001_t_1-d1p3w148</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w149">
+          <token>během</token>
+          <edge id="AA_AO_001_t_1.b-e215">
+            <from>a#a-AA_AO_001_t_1-d1p3w149</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w150">
+          <token>soukromého</token>
+          <edge id="AA_AO_001_t_1.b-e216">
+            <from>a#a-AA_AO_001_t_1-d1p3w150</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w151">
+          <token>výletu</token>
+          <edge id="AA_AO_001_t_1.b-e217">
+            <from>a#a-AA_AO_001_t_1-d1p3w151</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w152">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e218">
+            <from>a#a-AA_AO_001_t_1-d1p3w152</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w153">
+          <token>což</token>
+          <edge id="AA_AO_001_t_1.b-e219">
+            <from>a#a-AA_AO_001_t_1-d1p3w153</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w154">
+          <token>by</token>
+          <edge id="AA_AO_001_t_1.b-e220">
+            <from>a#a-AA_AO_001_t_1-d1p3w154</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w155">
+          <token>mohlo</token>
+          <edge id="AA_AO_001_t_1.b-e221">
+            <from>a#a-AA_AO_001_t_1-d1p3w155</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w156">
+          <token>udělat</token>
+          <edge id="AA_AO_001_t_1.b-e222">
+            <from>a#a-AA_AO_001_t_1-d1p3w156</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w157">
+          <token>škole</token>
+          <edge id="AA_AO_001_t_1.b-e223">
+            <from>a#a-AA_AO_001_t_1-d1p3w157</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w158">
+          <token>špatnou</token>
+          <edge id="AA_AO_001_t_1.b-e224">
+            <from>a#a-AA_AO_001_t_1-d1p3w158</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w159">
+          <token>reklamu</token>
+          <edge id="AA_AO_001_t_1.b-e225">
+            <from>a#a-AA_AO_001_t_1-d1p3w159</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w160">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e226">
+            <from>a#a-AA_AO_001_t_1-d1p3w160</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p3s6">
+        <w id="b-AA_AO_001_t_1-d1p3w161">
+          <token>Tím</token>
+          <edge id="AA_AO_001_t_1.b-e227">
+            <from>a#a-AA_AO_001_t_1-d1p3w161</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w162">
+          <token>pádem</token>
+          <edge id="AA_AO_001_t_1.b-e228">
+            <from>a#a-AA_AO_001_t_1-d1p3w162</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w163">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e229">
+            <from>a#a-AA_AO_001_t_1-d1p3w163</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w164">
+          <token>musely</token>
+          <edge id="AA_AO_001_t_1.b-e230">
+            <from>a#a-AA_AO_001_t_1-d1p3w164</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w165">
+          <token>být</token>
+          <edge id="AA_AO_001_t_1.b-e231">
+            <from>a#a-AA_AO_001_t_1-d1p3w165</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w166">
+          <token>celou</token>
+          <edge id="AA_AO_001_t_1.b-e232">
+            <from>a#a-AA_AO_001_t_1-d1p3w166</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w167">
+          <token>dobu</token>
+          <edge id="AA_AO_001_t_1.b-e233">
+            <from>a#a-AA_AO_001_t_1-d1p3w167</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w168">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e234">
+            <from>a#a-AA_AO_001_t_1-d1p3w168</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w169">
+          <token>San'á</token>
+          <edge id="AA_AO_001_t_1.b-e235">
+            <from>a#a-AA_AO_001_t_1-d1p3w169</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w171">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e237">
+            <from>a#a-AA_AO_001_t_1-d1p3w171</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w172">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e238">
+            <from>a#a-AA_AO_001_t_1-d1p3w172</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w173">
+          <token>výlety</token>
+          <edge id="AA_AO_001_t_1.b-e239">
+            <from>a#a-AA_AO_001_t_1-d1p3w173</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w174">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e240">
+            <from>a#a-AA_AO_001_t_1-d1p3w174</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w175">
+          <token>jezdily</token>
+          <edge id="AA_AO_001_t_1.b-e241">
+            <from>a#a-AA_AO_001_t_1-d1p3w175</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w176">
+          <token>jenom</token>
+          <edge id="AA_AO_001_t_1.b-e242">
+            <from>a#a-AA_AO_001_t_1-d1p3w176</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w177">
+          <token>s</token>
+          <edge id="AA_AO_001_t_1.b-e243">
+            <from>a#a-AA_AO_001_t_1-d1p3w177</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w178">
+          <token>jinými</token>
+          <edge id="AA_AO_001_t_1.b-e244">
+            <from>a#a-AA_AO_001_t_1-d1p3w178</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w179">
+          <token>studenty</token>
+          <edge id="AA_AO_001_t_1.b-e245">
+            <from>a#a-AA_AO_001_t_1-d1p3w179</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w180">
+          <token>k</token>
+          <edge id="AA_AO_001_t_1.b-e246">
+            <from>a#a-AA_AO_001_t_1-d1p3w180</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w181">
+          <token>Rudému</token>
+          <edge id="AA_AO_001_t_1.b-e247">
+            <from>a#a-AA_AO_001_t_1-d1p3w181</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w182">
+          <token>moři</token>
+          <edge id="AA_AO_001_t_1.b-e248">
+            <from>a#a-AA_AO_001_t_1-d1p3w182</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p3w183">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e249">
+            <from>a#a-AA_AO_001_t_1-d1p3w183</from>
+          </edge>
+        </w>
+      </s>
+      <edge id="AA_AO_001_t_1.b-e236">
+        <from>a#a-AA_AO_001_t_1-d1p3w170</from>
+      </edge>
+    </para>
+    <para id="b-AA_AO_001_t_1-d1p4" lowerpara.rf="a#a-AA_AO_001_t_1-d1p4">
+      <s id="a-AA_AO_001_t_1-d1p4s1">
+        <w id="b-AA_AO_001_t_1-d1p4w1">
+          <token>Navzdory</token>
+          <edge id="AA_AO_001_t_1.b-e391">
+            <from>a#a-AA_AO_001_t_1-d1p4w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w2">
+          <token>tomu</token>
+          <edge id="AA_AO_001_t_1.b-e392">
+            <from>a#a-AA_AO_001_t_1-d1p4w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w3">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e393">
+            <from>a#a-AA_AO_001_t_1-d1p4w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w4">
+          <token>mi</token>
+          <edge id="AA_AO_001_t_1.b-e394">
+            <from>a#a-AA_AO_001_t_1-d1p4w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w5">
+          <token>San'á</token>
+          <edge id="AA_AO_001_t_1.b-e395">
+            <from>a#a-AA_AO_001_t_1-d1p4w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w6">
+          <token>moc</token>
+          <edge id="AA_AO_001_t_1.b-e396">
+            <from>a#a-AA_AO_001_t_1-d1p4w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w7">
+          <token>líbila</token>
+          <edge id="AA_AO_001_t_1.b-e397">
+            <from>a#a-AA_AO_001_t_1-d1p4w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w8">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e398">
+            <from>a#a-AA_AO_001_t_1-d1p4w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w9">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e399">
+            <from>a#a-AA_AO_001_t_1-d1p4w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w10">
+          <token>má</token>
+          <edge id="AA_AO_001_t_1.b-e400">
+            <from>a#a-AA_AO_001_t_1-d1p4w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w11">
+          <token>krásné</token>
+          <edge id="AA_AO_001_t_1.b-e401">
+            <from>a#a-AA_AO_001_t_1-d1p4w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w12">
+          <token>Staré</token>
+          <edge id="AA_AO_001_t_1.b-e402">
+            <from>a#a-AA_AO_001_t_1-d1p4w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w13">
+          <token>Město</token>
+          <edge id="AA_AO_001_t_1.b-e403">
+            <from>a#a-AA_AO_001_t_1-d1p4w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w14">
+          <token>s</token>
+          <edge id="AA_AO_001_t_1.b-e404">
+            <from>a#a-AA_AO_001_t_1-d1p4w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w15">
+          <token>výjimečnou</token>
+          <edge id="AA_AO_001_t_1.b-e405">
+            <from>a#a-AA_AO_001_t_1-d1p4w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w16">
+          <token>architekturou</token>
+          <edge id="AA_AO_001_t_1.b-e406">
+            <from>a#a-AA_AO_001_t_1-d1p4w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w17">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e407">
+            <from>a#a-AA_AO_001_t_1-d1p4w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w18">
+          <token>jakou</token>
+          <edge id="AA_AO_001_t_1.b-e408">
+            <from>a#a-AA_AO_001_t_1-d1p4w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w19">
+          <token>nikde</token>
+          <edge id="AA_AO_001_t_1.b-e409">
+            <from>a#a-AA_AO_001_t_1-d1p4w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w20">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e410">
+            <from>a#a-AA_AO_001_t_1-d1p4w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w21">
+          <token>Evropě</token>
+          <edge id="AA_AO_001_t_1.b-e411">
+            <from>a#a-AA_AO_001_t_1-d1p4w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w22">
+          <token>nenajdeme</token>
+          <edge id="AA_AO_001_t_1.b-e412">
+            <from>a#a-AA_AO_001_t_1-d1p4w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w23">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e413">
+            <from>a#a-AA_AO_001_t_1-d1p4w23</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p4s2">
+        <w id="b-AA_AO_001_t_1-d1p4w24">
+          <token>Kromě</token>
+          <edge id="AA_AO_001_t_1.b-e414">
+            <from>a#a-AA_AO_001_t_1-d1p4w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w25">
+          <token>toho</token>
+          <edge id="AA_AO_001_t_1.b-e415">
+            <from>a#a-AA_AO_001_t_1-d1p4w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w26">
+          <token>má</token>
+          <edge id="AA_AO_001_t_1.b-e416">
+            <from>a#a-AA_AO_001_t_1-d1p4w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w27">
+          <token>San'á</token>
+          <edge id="AA_AO_001_t_1.b-e417">
+            <from>a#a-AA_AO_001_t_1-d1p4w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w28">
+          <token>úžasné</token>
+          <edge id="AA_AO_001_t_1.b-e418">
+            <from>a#a-AA_AO_001_t_1-d1p4w28</from>
+            <error>
+              <tag>agr</tag>
+              <link>AA_AO_001_t_1.b-e419</link>
+            </error>
+            <error>
+              <tag>sec</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w29">
+          <token>klima</token>
+          <edge id="AA_AO_001_t_1.b-e419">
+            <from>a#a-AA_AO_001_t_1-d1p4w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w30">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e420">
+            <from>a#a-AA_AO_001_t_1-d1p4w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w31">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e421">
+            <from>a#a-AA_AO_001_t_1-d1p4w31</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w32">
+          <token>leží</token>
+          <edge id="AA_AO_001_t_1.b-e422">
+            <from>a#a-AA_AO_001_t_1-d1p4w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w33">
+          <token>ve</token>
+          <edge id="AA_AO_001_t_1.b-e423">
+            <from>a#a-AA_AO_001_t_1-d1p4w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w34">
+          <token>výšce</token>
+          <edge id="AA_AO_001_t_1.b-e424">
+            <from>a#a-AA_AO_001_t_1-d1p4w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w35">
+          <token>2 200</token>
+          <edge id="AA_AO_001_t_1.b-e425">
+            <from>a#a-AA_AO_001_t_1-d1p4w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w36">
+          <token>m</token>
+          <edge id="AA_AO_001_t_1.b-e426">
+            <from>a#a-AA_AO_001_t_1-d1p4w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w37">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e427">
+            <from>a#a-AA_AO_001_t_1-d1p4w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w38">
+          <token>n</token>
+          <edge id="AA_AO_001_t_1.b-e428">
+            <from>a#a-AA_AO_001_t_1-d1p4w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w39">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e429">
+            <from>a#a-AA_AO_001_t_1-d1p4w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w40">
+          <token>m</token>
+          <edge id="AA_AO_001_t_1.b-e430">
+            <from>a#a-AA_AO_001_t_1-d1p4w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w41">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e431">
+            <from>a#a-AA_AO_001_t_1-d1p4w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w42">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e432">
+            <from>a#a-AA_AO_001_t_1-d1p4w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w43">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e433">
+            <from>a#a-AA_AO_001_t_1-d1p4w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w44">
+          <token>proto</token>
+          <edge id="AA_AO_001_t_1.b-e434">
+            <from>a#a-AA_AO_001_t_1-d1p4w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w46">
+          <token>tam</token>
+          <edge id="AA_AO_001_t_1.b-e436">
+            <from>a#a-AA_AO_001_t_1-d1p4w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w45">
+          <token>není</token>
+          <edge id="AA_AO_001_t_1.b-e435">
+            <from>a#a-AA_AO_001_t_1-d1p4w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w47">
+          <token>moc</token>
+          <edge id="AA_AO_001_t_1.b-e437">
+            <from>a#a-AA_AO_001_t_1-d1p4w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w48">
+          <token>horko</token>
+          <edge id="AA_AO_001_t_1.b-e438">
+            <from>a#a-AA_AO_001_t_1-d1p4w48</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w49">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e439">
+            <from>a#a-AA_AO_001_t_1-d1p4w49</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w50">
+          <token>což</token>
+          <edge id="AA_AO_001_t_1.b-e440">
+            <from>a#a-AA_AO_001_t_1-d1p4w50</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w51">
+          <token>je</token>
+          <edge id="AA_AO_001_t_1.b-e441">
+            <from>a#a-AA_AO_001_t_1-d1p4w51</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w52">
+          <token>důležité</token>
+          <edge id="AA_AO_001_t_1.b-e442">
+            <from>a#a-AA_AO_001_t_1-d1p4w52</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w53">
+          <token>pro</token>
+          <edge id="AA_AO_001_t_1.b-e443">
+            <from>a#a-AA_AO_001_t_1-d1p4w53</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w54">
+          <token>turistky</token>
+          <edge id="AA_AO_001_t_1.b-e444">
+            <from>a#a-AA_AO_001_t_1-d1p4w54</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w55">
+          <token>Evropanky</token>
+          <edge id="AA_AO_001_t_1.b-e445">
+            <from>a#a-AA_AO_001_t_1-d1p4w55</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w56">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e446">
+            <from>a#a-AA_AO_001_t_1-d1p4w56</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w57">
+          <token>které</token>
+          <edge id="AA_AO_001_t_1.b-e447">
+            <from>a#a-AA_AO_001_t_1-d1p4w57</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w58">
+          <token>musejí</token>
+          <edge id="AA_AO_001_t_1.b-e448">
+            <from>a#a-AA_AO_001_t_1-d1p4w58</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w59">
+          <token>nosit</token>
+          <edge id="AA_AO_001_t_1.b-e449">
+            <from>a#a-AA_AO_001_t_1-d1p4w59</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w60">
+          <token>dlouhé</token>
+          <edge id="AA_AO_001_t_1.b-e450">
+            <from>a#a-AA_AO_001_t_1-d1p4w60</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w61">
+          <token>rukávy</token>
+          <edge id="AA_AO_001_t_1.b-e451">
+            <from>a#a-AA_AO_001_t_1-d1p4w61</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w62">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e452">
+            <from>a#a-AA_AO_001_t_1-d1p4w62</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w63">
+          <token>dlouhé</token>
+          <edge id="AA_AO_001_t_1.b-e453">
+            <from>a#a-AA_AO_001_t_1-d1p4w63</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w64">
+          <token>kalhoty</token>
+          <edge id="AA_AO_001_t_1.b-e454">
+            <from>a#a-AA_AO_001_t_1-d1p4w64</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w65">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e455">
+            <from>a#a-AA_AO_001_t_1-d1p4w65</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p4s3">
+        <w id="b-AA_AO_001_t_1-d1p4w66">
+          <token>Lidé</token>
+          <edge id="AA_AO_001_t_1.b-e456">
+            <from>a#a-AA_AO_001_t_1-d1p4w66</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+            <error>
+              <tag>stylColl</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w67">
+          <token>jsou</token>
+          <edge id="AA_AO_001_t_1.b-e457">
+            <from>a#a-AA_AO_001_t_1-d1p4w67</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w68">
+          <token>tam</token>
+          <edge id="AA_AO_001_t_1.b-e458">
+            <from>a#a-AA_AO_001_t_1-d1p4w68</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w69">
+          <token>taky</token>
+          <edge id="AA_AO_001_t_1.b-e459">
+            <from>a#a-AA_AO_001_t_1-d1p4w69</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w70">
+          <token>hodní</token>
+          <edge id="AA_AO_001_t_1.b-e460">
+            <from>a#a-AA_AO_001_t_1-d1p4w70</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w71">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e461">
+            <from>a#a-AA_AO_001_t_1-d1p4w71</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w72">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e462">
+            <from>a#a-AA_AO_001_t_1-d1p4w72</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w73">
+          <token>hlavně</token>
+          <edge id="AA_AO_001_t_1.b-e463">
+            <from>a#a-AA_AO_001_t_1-d1p4w73</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w74">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e464">
+            <from>a#a-AA_AO_001_t_1-d1p4w74</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w75">
+          <token>mi</token>
+          <edge id="AA_AO_001_t_1.b-e465">
+            <from>a#a-AA_AO_001_t_1-d1p4w75</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w76">
+          <token>líbilo</token>
+          <edge id="AA_AO_001_t_1.b-e466">
+            <from>a#a-AA_AO_001_t_1-d1p4w76</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w77">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e467">
+            <from>a#a-AA_AO_001_t_1-d1p4w77</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w78">
+          <token>že</token>
+          <edge id="AA_AO_001_t_1.b-e468">
+            <from>a#a-AA_AO_001_t_1-d1p4w78</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w108">
+          <token>nejsou</token>
+          <edge id="AA_AO_001_t_1.b-e469">
+            <from>a#a-AA_AO_001_t_1-d1p4w79</from>
+            <to>b-AA_AO_001_t_1-d1p4w79</to>
+            <error>
+              <tag>vbx</tag>
+            </error>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w80">
+          <token>moc</token>
+          <edge id="AA_AO_001_t_1.b-e470">
+            <from>a#a-AA_AO_001_t_1-d1p4w80</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w79">
+          <token>zvyklí</token>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w81">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e471">
+            <from>a#a-AA_AO_001_t_1-d1p4w81</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w82">
+          <token>turisty</token>
+          <edge id="AA_AO_001_t_1.b-e472">
+            <from>a#a-AA_AO_001_t_1-d1p4w82</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w83">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e473">
+            <from>a#a-AA_AO_001_t_1-d1p4w83</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w84">
+          <token>mohly</token>
+          <edge id="AA_AO_001_t_1.b-e474">
+            <from>a#a-AA_AO_001_t_1-d1p4w84</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w85">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e475">
+            <from>a#a-AA_AO_001_t_1-d1p4w85</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w86">
+          <token>klidně</token>
+          <edge id="AA_AO_001_t_1.b-e476">
+            <from>a#a-AA_AO_001_t_1-d1p4w86</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w87">
+          <token>projít</token>
+          <edge id="AA_AO_001_t_1.b-e477">
+            <from>a#a-AA_AO_001_t_1-d1p4w87</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w88">
+          <token>ulicí</token>
+          <edge id="AA_AO_001_t_1.b-e478">
+            <from>a#a-AA_AO_001_t_1-d1p4w88</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e477</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w89">
+          <token>bez</token>
+          <edge id="AA_AO_001_t_1.b-e479">
+            <from>a#a-AA_AO_001_t_1-d1p4w89</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w90">
+          <token>toho</token>
+          <edge id="AA_AO_001_t_1.b-e480">
+            <from>a#a-AA_AO_001_t_1-d1p4w90</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w91">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e481">
+            <from>a#a-AA_AO_001_t_1-d1p4w91</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w92">
+          <token>aby</token>
+          <edge id="AA_AO_001_t_1.b-e482">
+            <from>a#a-AA_AO_001_t_1-d1p4w92</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w93">
+          <token>nám</token>
+          <edge id="AA_AO_001_t_1.b-e483">
+            <from>a#a-AA_AO_001_t_1-d1p4w93</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w94">
+          <token>všichni</token>
+          <edge id="AA_AO_001_t_1.b-e484">
+            <from>a#a-AA_AO_001_t_1-d1p4w94</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w95">
+          <token>chtěli</token>
+          <edge id="AA_AO_001_t_1.b-e485">
+            <from>a#a-AA_AO_001_t_1-d1p4w95</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w96">
+          <token>něco</token>
+          <edge id="AA_AO_001_t_1.b-e486">
+            <from>a#a-AA_AO_001_t_1-d1p4w96</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w97">
+          <token>prodat</token>
+          <edge id="AA_AO_001_t_1.b-e487">
+            <from>a#a-AA_AO_001_t_1-d1p4w97</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w98">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e488">
+            <from>a#a-AA_AO_001_t_1-d1p4w98</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w99">
+          <token>což</token>
+          <edge id="AA_AO_001_t_1.b-e489">
+            <from>a#a-AA_AO_001_t_1-d1p4w99</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w100">
+          <token>je</token>
+          <edge id="AA_AO_001_t_1.b-e490">
+            <from>a#a-AA_AO_001_t_1-d1p4w100</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w101">
+          <token>hrozně</token>
+          <edge id="AA_AO_001_t_1.b-e491">
+            <from>a#a-AA_AO_001_t_1-d1p4w101</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w102">
+          <token>otravné</token>
+          <edge id="AA_AO_001_t_1.b-e492">
+            <from>a#a-AA_AO_001_t_1-d1p4w102</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w103">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e493">
+            <from>a#a-AA_AO_001_t_1-d1p4w103</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w104">
+          <token>dalších</token>
+          <edge id="AA_AO_001_t_1.b-e494">
+            <from>a#a-AA_AO_001_t_1-d1p4w104</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w105">
+          <token>arabských</token>
+          <edge id="AA_AO_001_t_1.b-e495">
+            <from>a#a-AA_AO_001_t_1-d1p4w105</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w106">
+          <token>zemích</token>
+          <edge id="AA_AO_001_t_1.b-e496">
+            <from>a#a-AA_AO_001_t_1-d1p4w106</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p4w107">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e497">
+            <from>a#a-AA_AO_001_t_1-d1p4w107</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_001_t_1-d1p5" lowerpara.rf="a#a-AA_AO_001_t_1-d1p5">
+      <s id="a-AA_AO_001_t_1-d1p5s1">
+        <w id="b-AA_AO_001_t_1-d1p5w1">
+          <token>Taky</token>
+          <edge id="AA_AO_001_t_1.b-e499">
+            <from>a#a-AA_AO_001_t_1-d1p5w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w2">
+          <token>škola</token>
+          <edge id="AA_AO_001_t_1.b-e500">
+            <from>a#a-AA_AO_001_t_1-d1p5w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w3">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e501">
+            <from>a#a-AA_AO_001_t_1-d1p5w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w4">
+          <token>kde</token>
+          <edge id="AA_AO_001_t_1.b-e502">
+            <from>a#a-AA_AO_001_t_1-d1p5w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w5">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e503">
+            <from>a#a-AA_AO_001_t_1-d1p5w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w6">
+          <token>dělaly</token>
+          <edge id="AA_AO_001_t_1.b-e504">
+            <from>a#a-AA_AO_001_t_1-d1p5w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w7">
+          <token>kurz</token>
+          <edge id="AA_AO_001_t_1.b-e505">
+            <from>a#a-AA_AO_001_t_1-d1p5w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w8">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e506">
+            <from>a#a-AA_AO_001_t_1-d1p5w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w9">
+          <token>nabízela</token>
+          <edge id="AA_AO_001_t_1.b-e507">
+            <from>a#a-AA_AO_001_t_1-d1p5w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w10">
+          <token>moc</token>
+          <edge id="AA_AO_001_t_1.b-e508">
+            <from>a#a-AA_AO_001_t_1-d1p5w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w11">
+          <token>dobrou</token>
+          <edge id="AA_AO_001_t_1.b-e509">
+            <from>a#a-AA_AO_001_t_1-d1p5w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w12">
+          <token>úroveň</token>
+          <edge id="AA_AO_001_t_1.b-e510">
+            <from>a#a-AA_AO_001_t_1-d1p5w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w13">
+          <token>vyučování</token>
+          <edge id="AA_AO_001_t_1.b-e511">
+            <from>a#a-AA_AO_001_t_1-d1p5w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w14">
+          <token>spisovné</token>
+          <edge id="AA_AO_001_t_1.b-e512">
+            <from>a#a-AA_AO_001_t_1-d1p5w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w15">
+          <token>arabštiny</token>
+          <edge id="AA_AO_001_t_1.b-e513">
+            <from>a#a-AA_AO_001_t_1-d1p5w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w16">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e514">
+            <from>a#a-AA_AO_001_t_1-d1p5w16</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p5s2">
+        <w id="b-AA_AO_001_t_1-d1p5w17">
+          <token>Měly</token>
+          <edge id="AA_AO_001_t_1.b-e515">
+            <from>a#a-AA_AO_001_t_1-d1p5w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w18">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e516">
+            <from>a#a-AA_AO_001_t_1-d1p5w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w19">
+          <token>lekce</token>
+          <edge id="AA_AO_001_t_1.b-e517">
+            <from>a#a-AA_AO_001_t_1-d1p5w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w20">
+          <token>od</token>
+          <edge id="AA_AO_001_t_1.b-e518">
+            <from>a#a-AA_AO_001_t_1-d1p5w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w21">
+          <token>8</token>
+          <edge id="AA_AO_001_t_1.b-e519">
+            <from>a#a-AA_AO_001_t_1-d1p5w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w22">
+          <token>do</token>
+          <edge id="AA_AO_001_t_1.b-e520">
+            <from>a#a-AA_AO_001_t_1-d1p5w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w23">
+          <token>12</token>
+          <edge id="AA_AO_001_t_1.b-e521">
+            <from>a#a-AA_AO_001_t_1-d1p5w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w24">
+          <token>každý</token>
+          <edge id="AA_AO_001_t_1.b-e522">
+            <from>a#a-AA_AO_001_t_1-d1p5w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w25">
+          <token>den</token>
+          <edge id="AA_AO_001_t_1.b-e523">
+            <from>a#a-AA_AO_001_t_1-d1p5w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w26">
+          <token>kromě</token>
+          <edge id="AA_AO_001_t_1.b-e524">
+            <from>a#a-AA_AO_001_t_1-d1p5w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w27">
+          <token>soboty</token>
+          <edge id="AA_AO_001_t_1.b-e525">
+            <from>a#a-AA_AO_001_t_1-d1p5w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w28">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e526">
+            <from>a#a-AA_AO_001_t_1-d1p5w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w29">
+          <token>neděle</token>
+          <edge id="AA_AO_001_t_1.b-e527">
+            <from>a#a-AA_AO_001_t_1-d1p5w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w30">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e528">
+            <from>a#a-AA_AO_001_t_1-d1p5w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w31">
+          <token>což</token>
+          <edge id="AA_AO_001_t_1.b-e529">
+            <from>a#a-AA_AO_001_t_1-d1p5w31</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w32">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e530">
+            <from>a#a-AA_AO_001_t_1-d1p5w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w33">
+          <token>nám</token>
+          <edge id="AA_AO_001_t_1.b-e531">
+            <from>a#a-AA_AO_001_t_1-d1p5w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w34">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e532">
+            <from>a#a-AA_AO_001_t_1-d1p5w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w35">
+          <token>začátku</token>
+          <edge id="AA_AO_001_t_1.b-e533">
+            <from>a#a-AA_AO_001_t_1-d1p5w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w36">
+          <token>líbilo</token>
+          <edge id="AA_AO_001_t_1.b-e534">
+            <from>a#a-AA_AO_001_t_1-d1p5w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w37">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e535">
+            <from>a#a-AA_AO_001_t_1-d1p5w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w38">
+          <token>ale</token>
+          <edge id="AA_AO_001_t_1.b-e536">
+            <from>a#a-AA_AO_001_t_1-d1p5w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w39">
+          <token>rychle</token>
+          <edge id="AA_AO_001_t_1.b-e537">
+            <from>a#a-AA_AO_001_t_1-d1p5w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w99">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e598" />
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w100">
+          <token>líbit</token>
+          <edge id="AA_AO_001_t_1.b-e599" />
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w40">
+          <token>přestalo</token>
+          <edge id="AA_AO_001_t_1.b-e538">
+            <from>a#a-AA_AO_001_t_1-d1p5w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w41">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e539">
+            <from>a#a-AA_AO_001_t_1-d1p5w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w42">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e540">
+            <from>a#a-AA_AO_001_t_1-d1p5w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w43">
+          <token>snídaně</token>
+          <edge id="AA_AO_001_t_1.b-e541">
+            <from>a#a-AA_AO_001_t_1-d1p5w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w44">
+          <token>byla</token>
+          <edge id="AA_AO_001_t_1.b-e542">
+            <from>a#a-AA_AO_001_t_1-d1p5w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w45">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e543">
+            <from>a#a-AA_AO_001_t_1-d1p5w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w46">
+          <token>7</token>
+          <edge id="AA_AO_001_t_1.b-e544">
+            <from>a#a-AA_AO_001_t_1-d1p5w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w47">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e545">
+            <from>a#a-AA_AO_001_t_1-d1p5w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w48">
+          <token>my</token>
+          <edge id="AA_AO_001_t_1.b-e546">
+            <from>a#a-AA_AO_001_t_1-d1p5w48</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w49">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e547">
+            <from>a#a-AA_AO_001_t_1-d1p5w49</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w51">
+          <token>nerady</token>
+          <edge id="AA_AO_001_t_1.b-e549">
+            <from>a#a-AA_AO_001_t_1-d1p5w50</from>
+            <from>a#a-AA_AO_001_t_1-d1p5w51</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w52">
+          <token>vstávaly</token>
+          <edge id="AA_AO_001_t_1.b-e550">
+            <from>a#a-AA_AO_001_t_1-d1p5w52</from>
+            <error>
+              <tag>vbx</tag>
+            </error>
+            <error>
+              <tag>sec</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w53">
+          <token>tak</token>
+          <edge id="AA_AO_001_t_1.b-e551">
+            <from>a#a-AA_AO_001_t_1-d1p5w53</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w54">
+          <token>brzo</token>
+          <edge id="AA_AO_001_t_1.b-e552">
+            <from>a#a-AA_AO_001_t_1-d1p5w54</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w55">
+          <token>o</token>
+          <edge id="AA_AO_001_t_1.b-e553">
+            <from>a#a-AA_AO_001_t_1-d1p5w55</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w56">
+          <token>prázdninách</token>
+          <edge id="AA_AO_001_t_1.b-e554">
+            <from>a#a-AA_AO_001_t_1-d1p5w56</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w57">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e555">
+            <from>a#a-AA_AO_001_t_1-d1p5w57</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p5s3">
+        <w id="b-AA_AO_001_t_1-d1p5w50">
+          <token>Bohudík</token>
+          <edge id="AA_AO_001_t_1.b-e556">
+            <from>a#a-AA_AO_001_t_1-d1p5w58</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w58">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e557">
+            <from>a#a-AA_AO_001_t_1-d1p5w59</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w59">
+          <token>měly</token>
+          <edge id="AA_AO_001_t_1.b-e558">
+            <from>a#a-AA_AO_001_t_1-d1p5w60</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w60">
+          <token>lekce</token>
+          <edge id="AA_AO_001_t_1.b-e559">
+            <from>a#a-AA_AO_001_t_1-d1p5w61</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w61">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e560">
+            <from>a#a-AA_AO_001_t_1-d1p5w62</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w62">
+          <token>malých</token>
+          <edge id="AA_AO_001_t_1.b-e561">
+            <from>a#a-AA_AO_001_t_1-d1p5w63</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w63">
+          <token>skupinách</token>
+          <edge id="AA_AO_001_t_1.b-e562">
+            <from>a#a-AA_AO_001_t_1-d1p5w64</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w64">
+          <token>pro</token>
+          <edge id="AA_AO_001_t_1.b-e563">
+            <from>a#a-AA_AO_001_t_1-d1p5w65</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w65">
+          <token>6</token>
+          <edge id="AA_AO_001_t_1.b-e564">
+            <from>a#a-AA_AO_001_t_1-d1p5w66</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w66">
+          <token>lidí</token>
+          <edge id="AA_AO_001_t_1.b-e565">
+            <from>a#a-AA_AO_001_t_1-d1p5w67</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e564</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w67">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e566">
+            <from>a#a-AA_AO_001_t_1-d1p5w68</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w68">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e567">
+            <from>a#a-AA_AO_001_t_1-d1p5w69</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w69">
+          <token>proto</token>
+          <edge id="AA_AO_001_t_1.b-e568">
+            <from>a#a-AA_AO_001_t_1-d1p5w70</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w70">
+          <token>všichni</token>
+          <edge id="AA_AO_001_t_1.b-e569">
+            <from>a#a-AA_AO_001_t_1-d1p5w71</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w71">
+          <token>museli</token>
+          <edge id="AA_AO_001_t_1.b-e570">
+            <from>a#a-AA_AO_001_t_1-d1p5w72</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w72">
+          <token>hodně</token>
+          <edge id="AA_AO_001_t_1.b-e571">
+            <from>a#a-AA_AO_001_t_1-d1p5w73</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w73">
+          <token>mluvit</token>
+          <edge id="AA_AO_001_t_1.b-e572">
+            <from>a#a-AA_AO_001_t_1-d1p5w74</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w74">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e573">
+            <from>a#a-AA_AO_001_t_1-d1p5w75</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w75">
+          <token>což</token>
+          <edge id="AA_AO_001_t_1.b-e574">
+            <from>a#a-AA_AO_001_t_1-d1p5w76</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w76">
+          <token>bylo</token>
+          <edge id="AA_AO_001_t_1.b-e575">
+            <from>a#a-AA_AO_001_t_1-d1p5w77</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w77">
+          <token>pro</token>
+          <edge id="AA_AO_001_t_1.b-e576">
+            <from>a#a-AA_AO_001_t_1-d1p5w78</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w78">
+          <token>mě</token>
+          <edge id="AA_AO_001_t_1.b-e577">
+            <from>a#a-AA_AO_001_t_1-d1p5w79</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w79">
+          <token>dobré</token>
+          <edge id="AA_AO_001_t_1.b-e578">
+            <from>a#a-AA_AO_001_t_1-d1p5w80</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w80">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e579">
+            <from>a#a-AA_AO_001_t_1-d1p5w81</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w81">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e580">
+            <from>a#a-AA_AO_001_t_1-d1p5w82</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w82">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e581">
+            <from>a#a-AA_AO_001_t_1-d1p5w83</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w83">
+          <token>lekcích</token>
+          <edge id="AA_AO_001_t_1.b-e582">
+            <from>a#a-AA_AO_001_t_1-d1p5w84</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w84">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e583">
+            <from>a#a-AA_AO_001_t_1-d1p5w85</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w85">
+          <token>Polsku</token>
+          <edge id="AA_AO_001_t_1.b-e584">
+            <from>a#a-AA_AO_001_t_1-d1p5w86</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w86">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e585">
+            <from>a#a-AA_AO_001_t_1-d1p5w87</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w87">
+          <token>moc</token>
+          <edge id="AA_AO_001_t_1.b-e586">
+            <from>a#a-AA_AO_001_t_1-d1p5w88</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w88">
+          <token>arabsky</token>
+          <edge id="AA_AO_001_t_1.b-e587">
+            <from>a#a-AA_AO_001_t_1-d1p5w89</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w89">
+          <token>nemluvili</token>
+          <edge id="AA_AO_001_t_1.b-e588">
+            <from>a#a-AA_AO_001_t_1-d1p5w90</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w90">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e589">
+            <from>a#a-AA_AO_001_t_1-d1p5w91</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w91">
+          <token>ale</token>
+          <edge id="AA_AO_001_t_1.b-e590">
+            <from>a#a-AA_AO_001_t_1-d1p5w92</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w92">
+          <token>jenom</token>
+          <edge id="AA_AO_001_t_1.b-e591">
+            <from>a#a-AA_AO_001_t_1-d1p5w93</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w93">
+          <token>jsme</token>
+          <edge id="AA_AO_001_t_1.b-e592">
+            <from>a#a-AA_AO_001_t_1-d1p5w94</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w94">
+          <token>četli</token>
+          <edge id="AA_AO_001_t_1.b-e593">
+            <from>a#a-AA_AO_001_t_1-d1p5w95</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w95">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e594">
+            <from>a#a-AA_AO_001_t_1-d1p5w96</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w96">
+          <token>překládali</token>
+          <edge id="AA_AO_001_t_1.b-e595">
+            <from>a#a-AA_AO_001_t_1-d1p5w97</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w97">
+          <token>texty</token>
+          <edge id="AA_AO_001_t_1.b-e596">
+            <from>a#a-AA_AO_001_t_1-d1p5w98</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p5w98">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e597">
+            <from>a#a-AA_AO_001_t_1-d1p5w99</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_001_t_1-d1p6" lowerpara.rf="a#a-AA_AO_001_t_1-d1p6">
+      <s id="a-AA_AO_001_t_1-d1p6s1">
+        <w id="b-AA_AO_001_t_1-d1p6w1">
+          <token>Pobyt</token>
+          <edge id="AA_AO_001_t_1.b-e299">
+            <from>a#a-AA_AO_001_t_1-d1p6w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w2">
+          <token>v</token>
+          <edge id="AA_AO_001_t_1.b-e300">
+            <from>a#a-AA_AO_001_t_1-d1p6w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w3">
+          <token>Jemenu</token>
+          <edge id="AA_AO_001_t_1.b-e301">
+            <from>a#a-AA_AO_001_t_1-d1p6w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w4">
+          <token>mi</token>
+          <edge id="AA_AO_001_t_1.b-e302">
+            <from>a#a-AA_AO_001_t_1-d1p6w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w5">
+          <token>přinesl</token>
+          <edge id="AA_AO_001_t_1.b-e303">
+            <from>a#a-AA_AO_001_t_1-d1p6w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w6">
+          <token>hodně</token>
+          <edge id="AA_AO_001_t_1.b-e304">
+            <from>a#a-AA_AO_001_t_1-d1p6w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w7">
+          <token>nových</token>
+          <edge id="AA_AO_001_t_1.b-e305">
+            <from>a#a-AA_AO_001_t_1-d1p6w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w8">
+          <token>zkušeností</token>
+          <edge id="AA_AO_001_t_1.b-e306">
+            <from>a#a-AA_AO_001_t_1-d1p6w8</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e304</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w9">
+          <token>spojených</token>
+          <edge id="AA_AO_001_t_1.b-e307">
+            <from>a#a-AA_AO_001_t_1-d1p6w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w10">
+          <token>s</token>
+          <edge id="AA_AO_001_t_1.b-e308">
+            <from>a#a-AA_AO_001_t_1-d1p6w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w11">
+          <token>mým</token>
+          <edge id="AA_AO_001_t_1.b-e309">
+            <from>a#a-AA_AO_001_t_1-d1p6w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w12">
+          <token>oborem</token>
+          <edge id="AA_AO_001_t_1.b-e310">
+            <from>a#a-AA_AO_001_t_1-d1p6w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w13">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e311">
+            <from>a#a-AA_AO_001_t_1-d1p6w13</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p6s2">
+        <w id="b-AA_AO_001_t_1-d1p6w14">
+          <token>Líbí</token>
+          <edge id="AA_AO_001_t_1.b-e312">
+            <from>a#a-AA_AO_001_t_1-d1p6w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w15">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e313">
+            <from>a#a-AA_AO_001_t_1-d1p6w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w16">
+          <token>mi</token>
+          <edge id="AA_AO_001_t_1.b-e314">
+            <from>a#a-AA_AO_001_t_1-d1p6w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w17">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e315">
+            <from>a#a-AA_AO_001_t_1-d1p6w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w18">
+          <token>že</token>
+          <edge id="AA_AO_001_t_1.b-e316">
+            <from>a#a-AA_AO_001_t_1-d1p6w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w19">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e317">
+            <from>a#a-AA_AO_001_t_1-d1p6w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w20">
+          <token>měla</token>
+          <edge id="AA_AO_001_t_1.b-e318">
+            <from>a#a-AA_AO_001_t_1-d1p6w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w21">
+          <token>šanci</token>
+          <edge id="AA_AO_001_t_1.b-e319">
+            <from>a#a-AA_AO_001_t_1-d1p6w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w22">
+          <token>podívat</token>
+          <edge id="AA_AO_001_t_1.b-e320">
+            <from>a#a-AA_AO_001_t_1-d1p6w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w23">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e321">
+            <from>a#a-AA_AO_001_t_1-d1p6w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w24">
+          <token>do</token>
+          <edge id="AA_AO_001_t_1.b-e322">
+            <from>a#a-AA_AO_001_t_1-d1p6w24</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e320</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w25">
+          <token>muslimské</token>
+          <edge id="AA_AO_001_t_1.b-e323">
+            <from>a#a-AA_AO_001_t_1-d1p6w25</from>
+            <error>
+              <tag>sec</tag>
+            </error>
+            <error>
+              <tag>agr</tag>
+              <link>AA_AO_001_t_1.b-e324</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w26">
+          <token>země</token>
+          <edge id="AA_AO_001_t_1.b-e324">
+            <from>a#a-AA_AO_001_t_1-d1p6w26</from>
+            <error>
+              <tag>sec</tag>
+            </error>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e322</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w27">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e325">
+            <from>a#a-AA_AO_001_t_1-d1p6w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w28">
+          <token>která</token>
+          <edge id="AA_AO_001_t_1.b-e326">
+            <from>a#a-AA_AO_001_t_1-d1p6w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w29">
+          <token>je</token>
+          <edge id="AA_AO_001_t_1.b-e327">
+            <from>a#a-AA_AO_001_t_1-d1p6w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w30">
+          <token>jednou</token>
+          <edge id="AA_AO_001_t_1.b-e328">
+            <from>a#a-AA_AO_001_t_1-d1p6w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w31">
+          <token>z</token>
+          <edge id="AA_AO_001_t_1.b-e329">
+            <from>a#a-AA_AO_001_t_1-d1p6w31</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e328</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w32">
+          <token>nejkonzervativnějších</token>
+          <edge id="AA_AO_001_t_1.b-e330">
+            <from>a#a-AA_AO_001_t_1-d1p6w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w33">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e331">
+            <from>a#a-AA_AO_001_t_1-d1p6w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w34">
+          <token>protože</token>
+          <edge id="AA_AO_001_t_1.b-e332">
+            <from>a#a-AA_AO_001_t_1-d1p6w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w35">
+          <token>je</token>
+          <edge id="AA_AO_001_t_1.b-e333">
+            <from>a#a-AA_AO_001_t_1-d1p6w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w36">
+          <token>to</token>
+          <edge id="AA_AO_001_t_1.b-e334">
+            <from>a#a-AA_AO_001_t_1-d1p6w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w37">
+          <token>zajímavé</token>
+          <edge id="AA_AO_001_t_1.b-e335">
+            <from>a#a-AA_AO_001_t_1-d1p6w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w38">
+          <token>pro</token>
+          <edge id="AA_AO_001_t_1.b-e336">
+            <from>a#a-AA_AO_001_t_1-d1p6w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w39">
+          <token>mě</token>
+          <edge id="AA_AO_001_t_1.b-e337">
+            <from>a#a-AA_AO_001_t_1-d1p6w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w40">
+          <token>jako</token>
+          <edge id="AA_AO_001_t_1.b-e338">
+            <from>a#a-AA_AO_001_t_1-d1p6w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w41">
+          <token>arabistku</token>
+          <edge id="AA_AO_001_t_1.b-e339">
+            <from>a#a-AA_AO_001_t_1-d1p6w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w42">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e340">
+            <from>a#a-AA_AO_001_t_1-d1p6w42</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p6s3">
+        <w id="b-AA_AO_001_t_1-d1p6w43">
+          <token>Zadruhé</token>
+          <edge id="AA_AO_001_t_1.b-e341">
+            <from>a#a-AA_AO_001_t_1-d1p6w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w44">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e342">
+            <from>a#a-AA_AO_001_t_1-d1p6w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w45">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e343">
+            <from>a#a-AA_AO_001_t_1-d1p6w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w46">
+          <token>naučila</token>
+          <edge id="AA_AO_001_t_1.b-e344">
+            <from>a#a-AA_AO_001_t_1-d1p6w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w47">
+          <token>hodně</token>
+          <edge id="AA_AO_001_t_1.b-e345">
+            <from>a#a-AA_AO_001_t_1-d1p6w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w48">
+          <token>arabštiny</token>
+          <edge id="AA_AO_001_t_1.b-e346">
+            <from>a#a-AA_AO_001_t_1-d1p6w48</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w49">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e347">
+            <from>a#a-AA_AO_001_t_1-d1p6w49</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w50">
+          <token>kterou</token>
+          <edge id="AA_AO_001_t_1.b-e348">
+            <from>a#a-AA_AO_001_t_1-d1p6w50</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w51">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e349">
+            <from>a#a-AA_AO_001_t_1-d1p6w51</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w52">
+          <token>měla</token>
+          <edge id="AA_AO_001_t_1.b-e350">
+            <from>a#a-AA_AO_001_t_1-d1p6w52</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w53">
+          <token>šanci</token>
+          <edge id="AA_AO_001_t_1.b-e351">
+            <from>a#a-AA_AO_001_t_1-d1p6w53</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w54">
+          <token>používat</token>
+          <edge id="AA_AO_001_t_1.b-e352">
+            <from>a#a-AA_AO_001_t_1-d1p6w54</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w55">
+          <token>s</token>
+          <edge id="AA_AO_001_t_1.b-e353">
+            <from>a#a-AA_AO_001_t_1-d1p6w55</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w56">
+          <token>Araby</token>
+          <edge id="AA_AO_001_t_1.b-e354">
+            <from>a#a-AA_AO_001_t_1-d1p6w56</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w57">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e355">
+            <from>a#a-AA_AO_001_t_1-d1p6w57</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p6s4">
+        <w id="b-AA_AO_001_t_1-d1p6w58">
+          <token>Kromě</token>
+          <edge id="AA_AO_001_t_1.b-e356">
+            <from>a#a-AA_AO_001_t_1-d1p6w58</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w59">
+          <token>toho</token>
+          <edge id="AA_AO_001_t_1.b-e357">
+            <from>a#a-AA_AO_001_t_1-d1p6w59</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w60">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e358">
+            <from>a#a-AA_AO_001_t_1-d1p6w60</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w61">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e359">
+            <from>a#a-AA_AO_001_t_1-d1p6w61</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w62">
+          <token>seznámila</token>
+          <edge id="AA_AO_001_t_1.b-e360">
+            <from>a#a-AA_AO_001_t_1-d1p6w62</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w63">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e361">
+            <from>a#a-AA_AO_001_t_1-d1p6w63</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w64">
+          <token>spoustou</token>
+          <edge id="AA_AO_001_t_1.b-e362">
+            <from>a#a-AA_AO_001_t_1-d1p6w64</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e361</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w65">
+          <token>lidí</token>
+          <edge id="AA_AO_001_t_1.b-e363">
+            <from>a#a-AA_AO_001_t_1-d1p6w65</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e362</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w66">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e364">
+            <from>a#a-AA_AO_001_t_1-d1p6w66</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w67">
+          <token>kteří</token>
+          <edge id="AA_AO_001_t_1.b-e365">
+            <from>a#a-AA_AO_001_t_1-d1p6w67</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w68">
+          <token>studují</token>
+          <edge id="AA_AO_001_t_1.b-e366">
+            <from>a#a-AA_AO_001_t_1-d1p6w68</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w69">
+          <token>něco</token>
+          <edge id="AA_AO_001_t_1.b-e367">
+            <from>a#a-AA_AO_001_t_1-d1p6w69</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w70">
+          <token>podobného</token>
+          <edge id="AA_AO_001_t_1.b-e368">
+            <from>a#a-AA_AO_001_t_1-d1p6w70</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w71">
+          <token>jako</token>
+          <edge id="AA_AO_001_t_1.b-e369">
+            <from>a#a-AA_AO_001_t_1-d1p6w71</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w72">
+          <token>já</token>
+          <edge id="AA_AO_001_t_1.b-e370">
+            <from>a#a-AA_AO_001_t_1-d1p6w72</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w73">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e371">
+            <from>a#a-AA_AO_001_t_1-d1p6w73</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w74">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e372">
+            <from>a#a-AA_AO_001_t_1-d1p6w74</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w75">
+          <token>bohužel</token>
+          <edge id="AA_AO_001_t_1.b-e373">
+            <from>a#a-AA_AO_001_t_1-d1p6w75</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w76">
+          <token>jsou</token>
+          <edge id="AA_AO_001_t_1.b-e374">
+            <from>a#a-AA_AO_001_t_1-d1p6w76</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w77">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e375">
+            <from>a#a-AA_AO_001_t_1-d1p6w77</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w78">
+          <token>světě</token>
+          <edge id="AA_AO_001_t_1.b-e376">
+            <from>a#a-AA_AO_001_t_1-d1p6w78</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w79">
+          <token>věci</token>
+          <edge id="AA_AO_001_t_1.b-e377">
+            <from>a#a-AA_AO_001_t_1-d1p6w79</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w80">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e378">
+            <from>a#a-AA_AO_001_t_1-d1p6w80</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w81">
+          <token>které</token>
+          <edge id="AA_AO_001_t_1.b-e379">
+            <from>a#a-AA_AO_001_t_1-d1p6w81</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w82">
+          <token>mohou</token>
+          <edge id="AA_AO_001_t_1.b-e380">
+            <from>a#a-AA_AO_001_t_1-d1p6w82</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w83">
+          <token>pochopit</token>
+          <edge id="AA_AO_001_t_1.b-e381">
+            <from>a#a-AA_AO_001_t_1-d1p6w83</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w84">
+          <token>jenom</token>
+          <edge id="AA_AO_001_t_1.b-e382">
+            <from>a#a-AA_AO_001_t_1-d1p6w84</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w85">
+          <token>arabisti</token>
+          <edge id="AA_AO_001_t_1.b-e383">
+            <from>a#a-AA_AO_001_t_1-d1p6w85</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w86">
+          <token>mezi</token>
+          <edge id="AA_AO_001_t_1.b-e384">
+            <from>a#a-AA_AO_001_t_1-d1p6w86</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w87">
+          <token>sebou</token>
+          <edge id="AA_AO_001_t_1.b-e385">
+            <from>a#a-AA_AO_001_t_1-d1p6w87</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w88">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e386">
+            <from>a#a-AA_AO_001_t_1-d1p6w88</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w89">
+          <token>když</token>
+          <edge id="AA_AO_001_t_1.b-e387">
+            <from>a#a-AA_AO_001_t_1-d1p6w89</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w90">
+          <token>spolu</token>
+          <edge id="AA_AO_001_t_1.b-e388">
+            <from>a#a-AA_AO_001_t_1-d1p6w90</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w91">
+          <token>hovoří</token>
+          <edge id="AA_AO_001_t_1.b-e389">
+            <from>a#a-AA_AO_001_t_1-d1p6w91</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p6w92">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e390">
+            <from>a#a-AA_AO_001_t_1-d1p6w92</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_001_t_1-d1p7" lowerpara.rf="a#a-AA_AO_001_t_1-d1p7">
+      <s id="a-AA_AO_001_t_1-d1p7s1">
+        <w id="b-AA_AO_001_t_1-d1p7w1">
+          <token>Jsem</token>
+          <edge id="AA_AO_001_t_1.b-e250">
+            <from>a#a-AA_AO_001_t_1-d1p7w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w2">
+          <token>moc</token>
+          <edge id="AA_AO_001_t_1.b-e251">
+            <from>a#a-AA_AO_001_t_1-d1p7w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w3">
+          <token>šťastná</token>
+          <edge id="AA_AO_001_t_1.b-e252">
+            <from>a#a-AA_AO_001_t_1-d1p7w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w4">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e253">
+            <from>a#a-AA_AO_001_t_1-d1p7w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w5">
+          <token>že</token>
+          <edge id="AA_AO_001_t_1.b-e254">
+            <from>a#a-AA_AO_001_t_1-d1p7w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w6">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e255">
+            <from>a#a-AA_AO_001_t_1-d1p7w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w7">
+          <token>se</token>
+          <edge id="AA_AO_001_t_1.b-e256">
+            <from>a#a-AA_AO_001_t_1-d1p7w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w8">
+          <token>mohla</token>
+          <edge id="AA_AO_001_t_1.b-e257">
+            <from>a#a-AA_AO_001_t_1-d1p7w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w9">
+          <token>zúčastnit</token>
+          <edge id="AA_AO_001_t_1.b-e258">
+            <from>a#a-AA_AO_001_t_1-d1p7w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w10">
+          <token>tohoto</token>
+          <edge id="AA_AO_001_t_1.b-e259">
+            <from>a#a-AA_AO_001_t_1-d1p7w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w11">
+          <token>kurzu</token>
+          <edge id="AA_AO_001_t_1.b-e260">
+            <from>a#a-AA_AO_001_t_1-d1p7w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w12">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e261">
+            <from>a#a-AA_AO_001_t_1-d1p7w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w13">
+          <token>díky</token>
+          <edge id="AA_AO_001_t_1.b-e262">
+            <from>a#a-AA_AO_001_t_1-d1p7w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w14">
+          <token>kterému</token>
+          <edge id="AA_AO_001_t_1.b-e263">
+            <from>a#a-AA_AO_001_t_1-d1p7w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w16">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e265">
+            <from>a#a-AA_AO_001_t_1-d1p7w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w15">
+          <token>byla</token>
+          <edge id="AA_AO_001_t_1.b-e264">
+            <from>a#a-AA_AO_001_t_1-d1p7w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w17">
+          <token>na</token>
+          <edge id="AA_AO_001_t_1.b-e266">
+            <from>a#a-AA_AO_001_t_1-d1p7w17</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e264</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w18">
+          <token>místě</token>
+          <edge id="AA_AO_001_t_1.b-e267">
+            <from>a#a-AA_AO_001_t_1-d1p7w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w19">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e268">
+            <from>a#a-AA_AO_001_t_1-d1p7w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w20">
+          <token>kam</token>
+          <edge id="AA_AO_001_t_1.b-e269">
+            <from>a#a-AA_AO_001_t_1-d1p7w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w21">
+          <token>je</token>
+          <edge id="AA_AO_001_t_1.b-e270">
+            <from>a#a-AA_AO_001_t_1-d1p7w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w22">
+          <token>docela</token>
+          <edge id="AA_AO_001_t_1.b-e271">
+            <from>a#a-AA_AO_001_t_1-d1p7w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w23">
+          <token>těžké</token>
+          <edge id="AA_AO_001_t_1.b-e272">
+            <from>a#a-AA_AO_001_t_1-d1p7w23</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w24">
+          <token>jet</token>
+          <edge id="AA_AO_001_t_1.b-e273">
+            <from>a#a-AA_AO_001_t_1-d1p7w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w25">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e274">
+            <from>a#a-AA_AO_001_t_1-d1p7w25</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_001_t_1-d1p7s2">
+        <w id="b-AA_AO_001_t_1-d1p7w26">
+          <token>Doufám</token>
+          <edge id="AA_AO_001_t_1.b-e275">
+            <from>a#a-AA_AO_001_t_1-d1p7w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w27">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e276">
+            <from>a#a-AA_AO_001_t_1-d1p7w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w28">
+          <token>že</token>
+          <edge id="AA_AO_001_t_1.b-e277">
+            <from>a#a-AA_AO_001_t_1-d1p7w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w29">
+          <token>budu</token>
+          <edge id="AA_AO_001_t_1.b-e278">
+            <from>a#a-AA_AO_001_t_1-d1p7w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w30">
+          <token>mít</token>
+          <edge id="AA_AO_001_t_1.b-e279">
+            <from>a#a-AA_AO_001_t_1-d1p7w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w31">
+          <token>šanci</token>
+          <edge id="AA_AO_001_t_1.b-e280">
+            <from>a#a-AA_AO_001_t_1-d1p7w31</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w32">
+          <token>ještě</token>
+          <edge id="AA_AO_001_t_1.b-e281">
+            <from>a#a-AA_AO_001_t_1-d1p7w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w33">
+          <token>někdy</token>
+          <edge id="AA_AO_001_t_1.b-e282">
+            <from>a#a-AA_AO_001_t_1-d1p7w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w34">
+          <token>tam</token>
+          <edge id="AA_AO_001_t_1.b-e283">
+            <from>a#a-AA_AO_001_t_1-d1p7w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w35">
+          <token>letět</token>
+          <edge id="AA_AO_001_t_1.b-e284">
+            <from>a#a-AA_AO_001_t_1-d1p7w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w36">
+          <token>a</token>
+          <edge id="AA_AO_001_t_1.b-e285">
+            <from>a#a-AA_AO_001_t_1-d1p7w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w37">
+          <token>cestovat</token>
+          <edge id="AA_AO_001_t_1.b-e286">
+            <from>a#a-AA_AO_001_t_1-d1p7w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w38">
+          <token>do</token>
+          <edge id="AA_AO_001_t_1.b-e287">
+            <from>a#a-AA_AO_001_t_1-d1p7w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w39">
+          <token>míst</token>
+          <edge id="AA_AO_001_t_1.b-e288">
+            <from>a#a-AA_AO_001_t_1-d1p7w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w40">
+          <token>,</token>
+          <edge id="AA_AO_001_t_1.b-e289">
+            <from>a#a-AA_AO_001_t_1-d1p7w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w41">
+          <token>kam</token>
+          <edge id="AA_AO_001_t_1.b-e290">
+            <from>a#a-AA_AO_001_t_1-d1p7w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w42">
+          <token>jsem</token>
+          <edge id="AA_AO_001_t_1.b-e291">
+            <from>a#a-AA_AO_001_t_1-d1p7w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w43">
+          <token>nejela</token>
+          <edge id="AA_AO_001_t_1.b-e292">
+            <from>a#a-AA_AO_001_t_1-d1p7w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w44">
+          <token>kvůli</token>
+          <edge id="AA_AO_001_t_1.b-e293">
+            <from>a#a-AA_AO_001_t_1-d1p7w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w45">
+          <token>blbé</token>
+          <edge id="AA_AO_001_t_1.b-e294">
+            <from>a#a-AA_AO_001_t_1-d1p7w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w46">
+          <token>politice</token>
+          <edge id="AA_AO_001_t_1.b-e295">
+            <from>a#a-AA_AO_001_t_1-d1p7w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w47">
+          <token>jemenské</token>
+          <edge id="AA_AO_001_t_1.b-e296">
+            <from>a#a-AA_AO_001_t_1-d1p7w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w48">
+          <token>policie</token>
+          <edge id="AA_AO_001_t_1.b-e297">
+            <from>a#a-AA_AO_001_t_1-d1p7w48</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_001_t_1.b-e295</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_001_t_1-d1p7w49">
+          <token>.</token>
+          <edge id="AA_AO_001_t_1.b-e298">
+            <from>a#a-AA_AO_001_t_1-d1p7w49</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+  </doc>
+</ldata>
+

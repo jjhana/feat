@@ -2,7 +2,7 @@ package org.purl.jh.feat.layered.actions;
 
 import org.purl.jh.feat.util0.visual.WidgetActionEvent;
 import org.purl.jh.feat.layered.LayeredGraph;
-import org.purl.jh.feat.ea.data.layerx.Position;
+import cz.cuni.utkl.czesl.data.layerx.Position;
 import java.awt.Point;
 import java.awt.event.ActionEvent;
 import org.netbeans.api.visual.widget.Widget;

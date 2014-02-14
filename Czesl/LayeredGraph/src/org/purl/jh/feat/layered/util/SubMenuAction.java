@@ -1,6 +1,6 @@
 package org.purl.jh.feat.layered.util;
 
-import org.purl.jh.feat.ea.data.layerx.Position;
+import cz.cuni.utkl.czesl.data.layerx.Position;
 import java.awt.Point;
 import java.util.List;
 import javax.swing.Action;

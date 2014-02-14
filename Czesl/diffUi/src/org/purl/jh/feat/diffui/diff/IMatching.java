@@ -1,7 +1,7 @@
 package org.purl.jh.feat.diffui.diff;
 
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
 import java.util.Set;
 import org.purl.jh.pml.Element;
 import org.purl.jh.pml.location.Location;

@@ -1,11 +1,11 @@
 package org.purl.jh.feat.layered.relation;
 
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerl.Errorr;
-import org.purl.jh.feat.ea.data.layerl.LLayer;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerl.Errorr;
+import cz.cuni.utkl.czesl.data.layerl.LLayer;
 import org.purl.jh.feat.layered.util.SubMenuAction;
 import org.purl.jh.feat.layered.LayeredGraph;
-import org.purl.jh.feat.ea.data.layerx.Position;
+import cz.cuni.utkl.czesl.data.layerx.Position;
 import java.awt.Point;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;

@@ -21,7 +21,7 @@ public class ErrorTagsetDataObject extends TagsetDataObject<ErrorTagset> {
         CookieSet cookies = getCookieSet();
         System.out.println("ABCD!!!!! in ErrorTagsetDataObject");
         //cookies.add((Node.Cookie) DataEditorSupport.create(this, getPrimaryEntry(), cookies));
-        cookies.add((Node.Cookie) new ErrorTagsetOpenSupport(getPrimaryEntry()));  // todo
+        //cookies.add((Node.Cookie) new ErrorTagsetOpenSupport(getPrimaryEntry()));  // todo
     }
 
     @Override

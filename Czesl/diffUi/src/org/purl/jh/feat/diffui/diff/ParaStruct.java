@@ -1,8 +1,8 @@
 package org.purl.jh.feat.diffui.diff;
 
-import org.purl.jh.feat.ea.data.layerl.LPara;
-import org.purl.jh.feat.ea.data.layerw.WPara;
-import org.purl.jh.feat.ea.data.layerx.Para;
+import cz.cuni.utkl.czesl.data.layerl.LPara;
+import cz.cuni.utkl.czesl.data.layerw.WPara;
+import cz.cuni.utkl.czesl.data.layerx.Para;
 import java.util.ArrayList;
 import java.util.List;
 

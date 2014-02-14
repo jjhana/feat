@@ -1,10 +1,10 @@
 package org.purl.jh.feat.layered.relation;
 
 import org.purl.jh.feat.layered.LayeredGraph;
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerl.Errorr;
-import org.purl.jh.feat.ea.data.layerx.FForm;
-import org.purl.jh.feat.ea.data.layerx.FormsLayer;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerl.Errorr;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerx.FormsLayer;
 import org.purl.jh.feat.layered.relation.ErrorTagWidget;
 import java.awt.Point;
 import java.awt.event.ActionEvent;

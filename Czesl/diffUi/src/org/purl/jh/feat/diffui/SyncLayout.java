@@ -1,8 +1,8 @@
 package org.purl.jh.feat.diffui;
 
 
-import org.purl.jh.feat.ea.data.layerw.WForm;
-import org.purl.jh.feat.ea.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerw.WForm;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
 import java.util.List;
 import org.purl.jh.feat.layered.GraphLayout2;
 import org.purl.jh.feat.layered.NodeLayout;

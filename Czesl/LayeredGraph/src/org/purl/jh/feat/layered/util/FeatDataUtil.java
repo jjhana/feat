@@ -1,8 +1,8 @@
 package org.purl.jh.feat.layered.util;
 
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerw.WForm;
-import org.purl.jh.feat.ea.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerw.WForm;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;

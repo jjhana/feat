@@ -239,7 +239,7 @@ public class Project2W  {
                         if (false) { // todo !!
                             for (FForm form : wforms) { // todo horrible, but usually these is just one iteration in each cycle
                                 for (Errorr err : edge.getErrors()) {
-                                    wform2tags.add((WForm)form, err.getTag().getTagId());
+                                    wform2tags.add((WForm)form, err.getTag());
                                 }
                                 wform2emend.addAll( (WForm)form, edge.getHigher() );
                             }
@@ -252,7 +252,7 @@ public class Project2W  {
                             }
                             else {
                                 for (Errorr err : edge.getErrors()) {
-                                    wform2tags.add((WForm)wforms.get(0), err.getTag().getTagId());
+                                    wform2tags.add((WForm)wforms.get(0), err.getTag());
                                 }
                                 wform2emend.addAll( (WForm)wforms.get(0), edge.getHigher() );
                                 

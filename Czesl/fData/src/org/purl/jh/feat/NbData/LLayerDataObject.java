@@ -1,8 +1,8 @@
 package org.purl.jh.feat.NbData;
 
-import org.purl.jh.feat.ea.data.io.LLayerReader;
-import org.purl.jh.feat.ea.data.io.LLayerWriter;
-import org.purl.jh.feat.ea.data.layerl.LLayer;
+import cz.cuni.utkl.czesl.data.io.LLayerReader;
+import cz.cuni.utkl.czesl.data.io.LLayerWriter;
+import cz.cuni.utkl.czesl.data.layerl.LLayer;
 import java.io.IOException;
 import org.openide.filesystems.FileObject;
 import org.openide.loaders.DataObjectExistsException;

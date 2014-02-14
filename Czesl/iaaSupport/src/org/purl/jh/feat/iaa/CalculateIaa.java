@@ -123,7 +123,7 @@ public class CalculateIaa  {
                             
                             lstruct.lforms.addAll(edge.getHigher());
                             for (Errorr err : edge.getErrors()) {
-                                lstruct.errorTags.add(err.getTag().getId());
+                                lstruct.errorTags.add(err.getTag());
                             }
                         }
                     }

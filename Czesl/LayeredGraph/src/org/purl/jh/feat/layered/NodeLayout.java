@@ -4,7 +4,7 @@
  */
 package org.purl.jh.feat.layered;
 
-import org.purl.jh.feat.ea.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
 import org.purl.jh.util.col.List2D;
 
 /**

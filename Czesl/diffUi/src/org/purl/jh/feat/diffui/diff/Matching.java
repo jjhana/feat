@@ -2,9 +2,9 @@ package org.purl.jh.feat.diffui.diff;
 
 import com.google.common.base.Preconditions;
 import org.purl.jh.pml.location.Location;
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerx.FForm;
-import org.purl.jh.feat.ea.data.layerx.FormsLayer;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerx.FormsLayer;
 import java.util.*;
 import org.purl.jh.pml.Element;
 import org.purl.jh.pml.IdedElement;

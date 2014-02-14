@@ -180,7 +180,7 @@ public class CentralNode extends Widget {
     final Mapper<Errorr, String> mapper = new Mapper<Errorr, String>() {
 
         public String map(Errorr aOrigItem) {
-            return aOrigItem.getTag().getTagId();
+            return aOrigItem.getTag();
         }
     };
 

@@ -1,13 +1,13 @@
 package org.purl.jh.feat.layered;
 
 
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerl.LPara;
-import org.purl.jh.feat.ea.data.layerw.WForm;
-import org.purl.jh.feat.ea.data.layerw.WPara;
-import org.purl.jh.feat.ea.data.layerx.FForm;
-import org.purl.jh.feat.ea.data.layerx.FormsLayer;
-import org.purl.jh.feat.ea.data.layerx.Para;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerl.LPara;
+import cz.cuni.utkl.czesl.data.layerw.WForm;
+import cz.cuni.utkl.czesl.data.layerw.WPara;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerx.FormsLayer;
+import cz.cuni.utkl.czesl.data.layerx.Para;
 import org.purl.jh.feat.util0.gui.pager.CurListener;
 import java.awt.event.FocusEvent;
 import javax.swing.event.ChangeEvent;

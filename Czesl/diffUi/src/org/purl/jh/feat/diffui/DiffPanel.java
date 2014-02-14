@@ -1040,7 +1040,7 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
             for (Edge linkE2 : err2.getLinks()) {
                 Edge linkE1 = matching.getAMatching(linkE2);
                 if (linkE1 != null) {
-                    Errorr err1 = DataCols.find(edge1, err2.getTag().getId());       
+                    Errorr err1 = DataCols.find(edge1, err2.getTag());       
                     layer1.errorLinkAdd(err1, linkE1, graph1, null);
                 }
                 else {

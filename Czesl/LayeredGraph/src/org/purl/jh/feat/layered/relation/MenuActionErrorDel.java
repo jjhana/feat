@@ -46,7 +46,7 @@ public class MenuActionErrorDel extends AbstractAction implements SubMenuAction 
         for (Errorr error : errors) {
             final Errorr ferror = error;
 
-            actions.add( new AbstractAction(String.format(labelTemplate, ferror.getTag().getTagId())) {
+            actions.add( new AbstractAction(String.format(labelTemplate, ferror.getTag())) {
                 public void actionPerformed(ActionEvent e) {
                     final Edge edge = (Edge)view.findObject( aWidget );
                     NbUtil.getOut().println("Deleting error to edge " + edge);

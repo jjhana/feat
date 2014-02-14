@@ -1,10 +1,10 @@
 package org.purl.jh.feat.diffui.diff;
 
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerl.Errorr;
-import org.purl.jh.feat.ea.data.layerl.LForm;
-import org.purl.jh.feat.ea.data.layerl.Sentence;
-import org.purl.jh.feat.ea.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerl.Errorr;
+import cz.cuni.utkl.czesl.data.layerl.LForm;
+import cz.cuni.utkl.czesl.data.layerl.Sentence;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;

@@ -1,8 +1,8 @@
 package org.purl.jh.feat.layered.relation;
 import org.purl.jh.feat.layered.LayeredGraph;
 
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerl.Errorr;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerl.Errorr;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.io.PrintWriter;

@@ -1,7 +1,7 @@
 package org.purl.jh.feat.layered.actions;
 
-import org.purl.jh.feat.ea.data.layerl.LForm;
-import org.purl.jh.feat.ea.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerl.LForm;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
 import org.purl.jh.feat.util0.visual.WidgetActionEvent;
 import org.purl.jh.feat.layered.LayeredGraph;
 import java.awt.event.ActionEvent;

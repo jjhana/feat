@@ -235,7 +235,7 @@ public class LLayerWriter extends LayerWriter<LLayer> {
     private org.jdom.Element createErrorE(Errorr aError) {
         final org.jdom.Element errorE = el("error");
 
-        addContent(errorE, "tag", aError.getTag().getId());
+        addContent(errorE, "tag", aError.getTag());
         addComment(errorE, aError);
         errorE.addContent(rfEsx("link", aError.getLinks()));
 

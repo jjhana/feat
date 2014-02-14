@@ -1,10 +1,8 @@
 package org.purl.jh.feat.layered.relation;
 
-import org.purl.jh.feat.ea.data.layerl.Errorr;
+import cz.cuni.utkl.czesl.data.layerl.Errorr;
 import org.purl.jh.feat.layered.util.ElementUtils;
 import org.purl.jh.feat.layered.Css;
-import java.awt.Color;
-import java.awt.Font;
 import org.netbeans.api.visual.laf.LookFeel;
 import org.netbeans.api.visual.widget.LabelWidget;
 import org.netbeans.api.visual.widget.Scene;

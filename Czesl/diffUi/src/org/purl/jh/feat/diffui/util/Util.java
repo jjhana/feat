@@ -1,8 +1,8 @@
 package org.purl.jh.feat.diffui.util;
 
 import com.google.common.base.Predicate;
-import org.purl.jh.feat.ea.data.layerx.FForm;
-import org.purl.jh.feat.ea.data.layerx.FormsLayer;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerx.FormsLayer;
 import java.io.File;
 import java.util.List;
 import org.openide.DialogDisplayer;

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AnotaceInfoFile>
+  <MetaData>
+    <LangGroup value="slovani" />
+  </MetaData>
+  <SpeedInfo anotProcDtaId="15764" >
+    <task id="16203" />
+    <supervisor id="7" loginName="simek" name="Jaroslav Šimek" />
+    <anotator id="8" loginName="hajkova" name="Veronika H&#225;jkov&#225;" />
+  </SpeedInfo>
+</AnotaceInfoFile>

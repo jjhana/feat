@@ -1,8 +1,8 @@
 package org.purl.jh.feat.NbData;
 
-import org.purl.jh.feat.ea.data.io.WLayerReader;
-import org.purl.jh.feat.ea.data.io.WLayerWriter;
-import org.purl.jh.feat.ea.data.layerw.WLayer;
+import cz.cuni.utkl.czesl.data.io.WLayerReader;
+import cz.cuni.utkl.czesl.data.io.WLayerWriter;
+import cz.cuni.utkl.czesl.data.layerw.WLayer;
 import java.io.IOException;
 import org.openide.filesystems.FileObject;
 import org.openide.filesystems.MIMEResolver;

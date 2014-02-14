@@ -151,7 +151,7 @@ public class WidgetNode extends AbstractNode implements DataListener {
             props.setShortDescription(i + "th Error associated with this edge");
 
 
-            props.put(new TagProp(error));
+            props.put(new RoStrProp("tag", error.getTag()));
             props.put(new ErrorCommentProp(error));
 
             sheet.put(props);
@@ -181,47 +181,47 @@ public class WidgetNode extends AbstractNode implements DataListener {
     }
 
 
-    class TagProp extends PropertySupport<Integer> {
-        private final Errorr error;
-        private final ErrorTagset tagset;
-        //private final List<String> tags;
-        private Integer value;
-
-        // todo better names tags::String, error.getTag()::ErrorSpec
-        public TagProp(Errorr aError) {
-            super("tag", Integer.class, "tag", "Tag (name) of the error type", true, !aError.getLayer().isReadOnly());
-
-            error = aError;
-
-            LLayer layer = (LLayer)error.getLayer();
-            tagset = layer.getTagset(); // ErrorSpecs.INSTANCE.getErrorSpecs(layer);
-
-            value =  tagset.getTags().indexOf( error.getTag() );
-//            out.println("tag #1: " + tags.get(0) + " @ " + tags.get(0).hashCode());
-//            out.println("tag #2: " + tags.get(1) + " @ " + tags.get(1).hashCode());
-//            out.printf("tag=%s @ %s, val=%d\n", error.getTag(),  error.getTag().hashCode(), value);
-            if (value == -1) value = 0;
-
-            setValue("intValues", Cols.range(0, tagset.getTags().size()) );
-            setValue("stringKeys", tagset.getStrTags().toArray(new String[0]) );
-        }
-
-        @Override
-        public Integer getValue() throws IllegalAccessException, InvocationTargetException {
-            return value;
-        }
-
-        @Override
-        public void setValue(Integer val) throws IllegalAccessException, IllegalArgumentException, InvocationTargetException {
-            value = val;
-
-            ErrorTag tag = tagset.getTags().get(val);
-            out.printf("setValue: val=%d => tag=%s @ %s\n", val, tag, tag.hashCode());
-            //error.setTag(tag);
-
-            ((LLayer)getLayer()).errorTagChange(error, tag, WidgetNode.this, null);
-        }
-    }
+//    class TagProp extends PropertySupport<Integer> {
+//        private final Errorr error;
+//        private final ErrorTagset tagset;
+//        //private final List<String> tags;
+//        private Integer value;
+//
+//        // todo better names tags::String, error.getTag()::ErrorSpec
+//        public TagProp(Errorr aError) {
+//            super("tag", Integer.class, "tag", "Tag (name) of the error type", true, !aError.getLayer().isReadOnly());
+//
+//            error = aError;
+//
+//            LLayer layer = (LLayer)error.getLayer();
+//            tagset = layer.getTagset(); // ErrorSpecs.INSTANCE.getErrorSpecs(layer);
+//
+//            value =  tagset.getTags().indexOf( error.getTag() );
+////            out.println("tag #1: " + tags.get(0) + " @ " + tags.get(0).hashCode());
+////            out.println("tag #2: " + tags.get(1) + " @ " + tags.get(1).hashCode());
+////            out.printf("tag=%s @ %s, val=%d\n", error.getTag(),  error.getTag().hashCode(), value);
+//            if (value == -1) value = 0;
+//
+//            setValue("intValues", Cols.range(0, tagset.getTags().size()) );
+//            setValue("stringKeys", tagset.getStrTags().toArray(new String[0]) );
+//        }
+//
+//        @Override
+//        public Integer getValue() throws IllegalAccessException, InvocationTargetException {
+//            return value;
+//        }
+//
+//        @Override
+//        public void setValue(Integer val) throws IllegalAccessException, IllegalArgumentException, InvocationTargetException {
+//            value = val;
+//
+//            ErrorTag tag = tagset.getTags().get(val);
+//            out.printf("setValue: val=%d => tag=%s @ %s\n", val, tag, tag.hashCode());
+//            //error.setTag(tag);
+//
+//            ((LLayer)getLayer()).errorTagChange(error, tag, WidgetNode.this, null);
+//        }
+//    }
 
 
     public static class RoStrProp extends PropertySupport.ReadOnly<String> {

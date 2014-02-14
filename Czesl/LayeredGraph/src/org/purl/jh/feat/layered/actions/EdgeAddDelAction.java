@@ -1,7 +1,7 @@
 package org.purl.jh.feat.layered.actions;
 
-import org.purl.jh.feat.ea.data.layerl.LLayer;
-import org.purl.jh.feat.ea.data.layerw.WForm;
+import cz.cuni.utkl.czesl.data.layerl.LLayer;
+import cz.cuni.utkl.czesl.data.layerw.WForm;
 import org.purl.jh.feat.layered.LayeredGraph;
 import org.netbeans.api.visual.widget.Widget;
 

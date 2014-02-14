@@ -1,8 +1,8 @@
 package org.purl.jh.feat.layered.relation;
 
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerl.LLayer;
-import org.purl.jh.feat.ea.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerl.LLayer;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
 import org.purl.jh.feat.layered.LayeredGraph;
 import java.awt.Point;
 import org.netbeans.api.visual.action.ConnectorState;

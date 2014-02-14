@@ -1,13 +1,13 @@
 package org.purl.jh.feat.navigator;
 
-import org.purl.jh.feat.ea.data.layerl.LDoc;
-import org.purl.jh.feat.ea.data.layerl.LPara;
-import org.purl.jh.feat.ea.data.layerl.Errorr;
-import org.purl.jh.feat.ea.data.layerl.LForm;
-import org.purl.jh.feat.ea.data.layerl.LLayer;
-import org.purl.jh.feat.ea.data.layerl.Edge;
-import org.purl.jh.feat.ea.data.layerx.FForm;
-import org.purl.jh.feat.ea.data.layerx.FormsLayer;
+import cz.cuni.utkl.czesl.data.layerl.LDoc;
+import cz.cuni.utkl.czesl.data.layerl.LPara;
+import cz.cuni.utkl.czesl.data.layerl.Errorr;
+import cz.cuni.utkl.czesl.data.layerl.LForm;
+import cz.cuni.utkl.czesl.data.layerl.LLayer;
+import cz.cuni.utkl.czesl.data.layerl.Edge;
+import cz.cuni.utkl.czesl.data.layerx.FForm;
+import cz.cuni.utkl.czesl.data.layerx.FormsLayer;
 import org.purl.jh.pml.Layer;
 import java.util.List;
 import java.util.regex.Pattern;
