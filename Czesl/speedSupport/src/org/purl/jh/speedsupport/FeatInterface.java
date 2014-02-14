@@ -62,7 +62,7 @@ public class FeatInterface implements IFeatInterface {
             main.userOutput.severe("Specified speed server is not known. Check the url and your internet connection.");  // todo report url
         }
         else if (Throwables.getCause(aEx, MalformedURLException.class) != null) {
-            main.userOutput.severe("The speed url todo has a wrong format.");
+            main.userOutput.severe("The speed url has a wrong format.");
         }
         else {
             // todo hack, but how else to distinguish 'expected' user errrors from the rest, when the SynchronizeFactory etc does not provide any support for it?
@@ -82,14 +82,14 @@ public class FeatInterface implements IFeatInterface {
         StatusDisplayer.getDefault().setStatusText("Speed Sync Error: " + aEx);
     }
     
-    @Override
-    public void showErrorMessage(String aMsg) {
-        main.userOutput.severe("Speed Sync Error: " + aMsg);
-        if (aMsg == null) {
-            main.userOutput.severe(new Throwable("Dummy Throwable"), "Null Speed sync error message!");
-        }
-        StatusDisplayer.getDefault().setStatusText("Speed Sync Error: " + aMsg);
-    }
+//    @Override
+//    public void showErrorMessage(Throwable ex) {
+//        main.userOutput.severe(ex, "Speed Sync Error");
+//        if (ex == null) {
+//            main.userOutput.severe(new Throwable("Dummy Throwable"), "Null Speed sync error message!");
+//        }
+//        StatusDisplayer.getDefault().setStatusText("Speed Sync Error: " + ex.getMessage());
+//    }
 
     @Override
     public void addWarning(String aMsg) {

@@ -85,7 +85,7 @@ public class SynchronizeFactory implements ISynchronizeFactory
          }
         finally { closeSession (); }
        }
-      catch (Exception e) { feat.showErrorMessage (e.getMessage ()); }
+      catch (Exception e) { feat.showErrorMessage (e); }
       finally { doneSOAP (); }
      }
 
@@ -102,7 +102,7 @@ public class SynchronizeFactory implements ISynchronizeFactory
         try { peekFile (speedId); fileRead (speedId); }
         finally { closeSession(); }
        }
-      catch (Exception e) { feat.showErrorMessage (e.getMessage ()); }
+      catch (Exception e) { feat.showErrorMessage (e); }
       finally { doneSOAP (); }
      }
 
@@ -119,7 +119,7 @@ public class SynchronizeFactory implements ISynchronizeFactory
         try { return (getUserInboxHeader (feat.isReadAnySpeedFileEnabled ())); }
         finally { closeSession (); }
        }
-      catch (Exception e) { feat.showErrorMessage (e.getMessage ()); }
+      catch (Exception e) { feat.showErrorMessage(e); }
       finally { doneSOAP (); }
 
       return (null);

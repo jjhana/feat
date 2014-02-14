@@ -51,7 +51,7 @@ public interface IFeatInterface
   boolean isOutboxSyncEnabled ();
 
   /* shows synchronization error message on user interface */
-  void showErrorMessage (String msg);
+  void showErrorMessage (Throwable ex);
 
   /* adds synchronization warning message on user interface */
   void addWarning (String msg);
