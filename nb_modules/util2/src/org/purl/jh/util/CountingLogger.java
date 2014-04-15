@@ -5,7 +5,6 @@ import org.purl.jh.util.err.ErrorHandler;
 
 /**
  *
- * @author jirka
  */
 public class CountingLogger extends Logger implements ErrorHandler {
     private int errorCount = 0;
@@ -33,6 +32,7 @@ public class CountingLogger extends Logger implements ErrorHandler {
      * Call between running independent jobs. However, if possible create a new
      * CountingLogger for each job.
      */
+    @Override
     public void resetCounts() {
         errorCount = 0;
         warningCount = 0;
@@ -93,10 +93,12 @@ public class CountingLogger extends Logger implements ErrorHandler {
     }
 
 
+    @Override
     public int getErrorCount() {
         return errorCount;
     }
 
+    @Override
     public int getWarningCount() {
         return warningCount;
     }

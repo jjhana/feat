@@ -38,6 +38,7 @@ public abstract class LayerModelSupport {
             Preconditions.checkNotNull(dobj.getCookie(SaveCookie.class)).save();
         }
         
+        // todo shouldn we use their dobj's to save them
         if (aData instanceof Layer) {
             log.info("--- Saving referenced layers ---");
             for (Layer<?> l : ((Layer<?>)aData).getReferencedLayers()) {

@@ -1,14 +1,18 @@
 package org.purl.jh.util.err;
 
 import java.io.PrintWriter;
+import lombok.Getter;
 
 /**
  * todo Experimental, very rough handling/reporting of errors in file loading, etc.
  * 
  * @author jirka
  */
+@Getter
 public class UserOut implements ErrorHandler {
     protected final PrintWriter w;
+    protected int errorCount = 0;
+    protected int warningCount = 0;
     
     public UserOut(PrintWriter w) {
         this.w = w;
@@ -17,6 +21,9 @@ public class UserOut implements ErrorHandler {
     public UserOut() {
         this(new PrintWriter(System.err, true));
     }
+
+    /** Override to show the information to the user */
+    public void show() {}
     
     @Override
     public void severe(String aFormat, Object... aParams) {
@@ -30,6 +37,7 @@ public class UserOut implements ErrorHandler {
 
     @Override
     public void fatalError(String aFormat, Object... aParams) {
+        errorCount++;
         String msg = "ERROR: " + String.format(aFormat, aParams);
         w.println(msg);
         throw new FormatError(msg);
@@ -49,7 +57,20 @@ public class UserOut implements ErrorHandler {
 
     @Override
     public void warning(String aFormat, Object... aParams) {
+        warningCount++;
         w.println("Warning: " + String.format(aFormat, aParams));
     }
+
+    /**
+     * Sets error and warning counts to zero.
+     * Call between running independent jobs. However, if possible create a new
+     * CountingLogger for each job.
+     */
+    @Override
+    public void resetCounts() {
+        errorCount = 0;
+        warningCount = 0;
+    }
+
     
 }

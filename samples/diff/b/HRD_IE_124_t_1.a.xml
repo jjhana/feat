@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldata xmlns="http://utkl.cuni.cz/czesl/">
+  <head>
+    <schema href="ldata_schema.xml" />
+    <references>
+      <reffile id="w" name="wdata" href="HRD_IE_124_t_1.w.xml" />
+      <reffile id="http://utkl.cuni.cz/czesl/L1/2" name="tagset" href="http://utkl.cuni.cz/czesl/L1/2" />
+    </references>
+  </head>
+  <doc id="w-HRD_IE_124_t_1-d1" lowerdoc.rf="w#w-HRD_IE_124_t_1-d1">
+    <para id="a-HRD_IE_124_t_1-d1p1" lowerpara.rf="w#w-HRD_IE_124_t_1-d1p1">
+      <s id="a-HRD_IE_124_t_1-d1p1s0">
+        <w id="a-HRD_IE_124_t_1-d1p1w1">
+          <token>1</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e0">
+            <from>w#w-HRD_IE_124_t_1-d1p1w1</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w2">
+          <token>.</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e1">
+            <from>w#w-HRD_IE_124_t_1-d1p1w2</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_124_t_1-d1p1s6">
+        <w id="a-HRD_IE_124_t_1-d1p1w3">
+          <token>d</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e2">
+            <from>w#w-HRD_IE_124_t_1-d1p1w3</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w4">
+          <token>jsem</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e3">
+            <from>w#w-HRD_IE_124_t_1-d1p1w4</from>
+            <to>a-HRD_IE_124_t_1-d1p1w81</to>
+            <to>a-HRD_IE_124_t_1-d1p1w5</to>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w81">
+          <token>?</token>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w5">
+          <token>volno</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e4">
+            <from>w#w-HRD_IE_124_t_1-d1p1w5</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w6">
+          <token>z</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e5">
+            <from>w#w-HRD_IE_124_t_1-d1p1w6</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w7">
+          <token>chtěla</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e6">
+            <from>w#w-HRD_IE_124_t_1-d1p1w7</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w8">
+          <token>jsem</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e7">
+            <from>w#w-HRD_IE_124_t_1-d1p1w8</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p1w9">
+          <token>jít</token>
+          <edge id="a-HRD_IE_124_t_1-d1p1e8">
+            <from>w#w-HRD_IE_124_t_1-d1p1w9</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="a-HRD_IE_124_t_1-d1p2" lowerpara.rf="w#w-HRD_IE_124_t_1-d1p2">
+      <s id="a-HRD_IE_124_t_1-d1p2s0">
+        <w id="a-HRD_IE_124_t_1-d1p2w1">
+          <token>2</token>
+          <edge id="a-HRD_IE_124_t_1-d1p2e0">
+            <from>w#w-HRD_IE_124_t_1-d1p2w1</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p2w2">
+          <token>.</token>
+          <edge id="a-HRD_IE_124_t_1-d1p2e1">
+            <from>w#w-HRD_IE_124_t_1-d1p2w2</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p2w3">
+          <token>Viděl</token>
+          <edge id="a-HRD_IE_124_t_1-d1p2e2">
+            <from>w#w-HRD_IE_124_t_1-d1p2w3</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p2w4">
+          <token>jsem</token>
+          <edge id="a-HRD_IE_124_t_1-d1p2e3">
+            <from>w#w-HRD_IE_124_t_1-d1p2w4</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p2w5">
+          <token>hezkou</token>
+          <edge id="a-HRD_IE_124_t_1-d1p2e4">
+            <from>w#w-HRD_IE_124_t_1-d1p2w5</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p2w6">
+          <token>krásnou</token>
+          <edge id="a-HRD_IE_124_t_1-d1p2e5">
+            <from>w#w-HRD_IE_124_t_1-d1p2w6</from>
+          </edge>
+        </w>
+        <w id="a-HRD_IE_124_t_1-d1p2w7">
+          <token>holku</token>
+          <edge id="a-HRD_IE_124_t_1-d1p2e6">
+            <from>w#w-HRD_IE_124_t_1-d1p2w7</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+  </doc>
+</ldata>
+

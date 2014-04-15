@@ -23,6 +23,7 @@ public class Api {
     } 
     
     public static void openDiff(LayerDataObject<?> dobj1, LayerDataObject<?> dobj2) {
+        // todo check compatibility? 
         String name = dobj1.getName() + " / " + dobj2.getName();
         DiffPanel panel = new DiffPanel(dobj1,dobj2); // todo use lookup instead of casting
         TopComponent tc = new DiffTopComponent(name,panel);

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wdata xmlns="http://utkl.cuni.cz/czesl/">
+   <head>
+      <schema href="wdata_schema.xml"/>
+      <references>
+         <reffile id="d" href="HRD_IE_124_t_1.html"/>
+         <reffile id="i" href="HRD_IE_124_t_1.jpg"/>
+      </references>
+   </head>
+   <doc id="w-HRD_IE_124_t_1-d1">
+      <para id="w-HRD_IE_124_t_1-d1p1">
+         <w id="w-HRD_IE_124_t_1-d1p1w1">
+            <token>1</token>
+            <original_position from="5" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w2">
+            <token>.</token>
+            <original_position from="6" len="1"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w3">
+            <token>dostala</token>
+            <original_position from="8" len="7"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w4">
+            <token>jsem</token>
+            <original_position from="16" len="4"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w5">
+            <token>volno</token>
+            <original_position from="21" len="5"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w6">
+            <token>a</token>
+            <original_position from="27" len="1"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w7">
+            <token>chtěla</token>
+            <original_position from="29" len="6"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w8">
+            <token>jsem</token>
+            <original_position from="36" len="4"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p1w9">
+            <token>jít</token>
+            <original_position from="41" len="3"/>
+         </w>
+      </para>
+      <para id="w-HRD_IE_124_t_1-d1p2">
+         <w id="w-HRD_IE_124_t_1-d1p2w1">
+            <token>2</token>
+            <original_position from="395" len="1"/>
+            <no_space_after>1</no_space_after>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p2w2">
+            <token>.</token>
+            <original_position from="396" len="1"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p2w3">
+            <token>Viděl</token>
+            <original_position from="398" len="5"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p2w4">
+            <token>jsem</token>
+            <original_position from="404" len="4"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p2w5">
+            <token>hezkou</token>
+            <original_position from="409" len="6"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p2w6">
+            <token>krásnou</token>
+            <original_position from="416" len="7"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p2w7">
+            <token>holku</token>
+            <original_position from="424" len="5"/>
+         </w>
+         <w id="w-HRD_IE_124_t_1-d1p2w8">
+            <token>sedí</token>
+            <original_position from="430" len="4"/>
+         </w>
+      </para>
+      <corrections>
+         <change id="w-HRD_IE_124_t_1-cor-change1">
+            <old>mojmé</old>
+            <token>w-HRD_IE_124_t_1-d1p1w59</token>
+         </change>
+      </corrections>
+   </doc>
+</wdata>

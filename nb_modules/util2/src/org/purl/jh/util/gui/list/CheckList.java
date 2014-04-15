@@ -1,5 +1,6 @@
 package org.purl.jh.util.gui.list;
 
+import com.google.common.base.Preconditions;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.Font;
@@ -39,8 +40,10 @@ public abstract class CheckList<T,F extends Filter<T>> extends FilterList<T,F> {
     
     public CheckList(FilterListModel<T,F> aDataModel) {
         super(aDataModel);
+        
         addMouseListener(new MouseButtonListener()); 
         registerKeyboardAction(new SpaceList(), KeyStroke.getKeyStroke(KeyEvent.VK_SPACE, 0), JComponent.WHEN_FOCUSED); 
+        registerKeyboardAction(new CtrlSpaceList(), KeyStroke.getKeyStroke(KeyEvent.VK_SPACE, KeyEvent.CTRL_MASK), JComponent.WHEN_FOCUSED); 
     }
 
     /**
@@ -71,8 +74,10 @@ public abstract class CheckList<T,F extends Filter<T>> extends FilterList<T,F> {
      * A convenience method for toggling the selection of an item.
      */
     public void toggleSelection(int aIdx) {
+        Preconditions.checkArgument(aIdx >= 0);
         repaint(getCellBounds(aIdx, aIdx));
         setSelection(aIdx, !isSelected(aIdx));
+        setCur(aIdx);  // return visual selection 
     }
 
     /**
@@ -116,6 +121,18 @@ public abstract class CheckList<T,F extends Filter<T>> extends FilterList<T,F> {
 	}   
     }
     
+    protected void onClick(boolean shiftDown, boolean controlDown, boolean altDown, boolean altGraphDown, boolean metaDown) {
+        if (getCurIdx() == -1) return;
+        
+        toggleSelection(getCurIdx()); 
+        
+    }
+
+    protected void onSpace(boolean shiftDown, boolean controlDown, boolean altDown, boolean altGraphDown, boolean metaDown) {
+        if (getCurIdx() == -1) return;
+
+        toggleSelection(getCurIdx()); 
+    }
     
 // -----------------------------------------------------------------------------
 // Listeners
@@ -134,19 +151,29 @@ public abstract class CheckList<T,F extends Filter<T>> extends FilterList<T,F> {
             Rectangle cellBounds = getCellBounds(index,index);
             if (!cellBounds.contains(me.getPoint()) || me.getX() > getCellBounds(index, index).x + cHotspot) return; 
 
-            toggleSelection(index); 
+            onClick(me.isShiftDown(), me.isControlDown(), me.isAltDown(), me.isAltGraphDown(), me.isMetaDown());
         } 
+
     }
+
     
     /**
      * Toggles item's selection as a response to pressing space
      */
     class SpaceList implements ActionListener {
+        @Override
         public void actionPerformed(ActionEvent e){ 
-            toggleSelection(getCurIdx()); 
+            onSpace(false, false, false, false, false);
         } 
     }
 
+    class CtrlSpaceList implements ActionListener {
+        @Override
+        public void actionPerformed(ActionEvent e){ 
+            onSpace(false, true, false, false, false);
+        } 
+    }
+    
 // -----------------------------------------------------------------------------
 // Renderer
 // -----------------------------------------------------------------------------

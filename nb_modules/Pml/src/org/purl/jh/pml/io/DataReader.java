@@ -12,7 +12,7 @@ import org.purl.jh.util.err.ErrorHandler;
  * @author jirka
  * @param <L>
  */
-public abstract class DataReader<L extends Data<?>> extends JDomReader {
+public abstract class DataReader<L extends Data<?>> extends JDomReader implements XReader<L> {
     private final static org.purl.jh.util.Logger log = org.purl.jh.util.Logger.getLogger(DataReader.class);
 
     /**

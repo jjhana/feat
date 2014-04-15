@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldata xmlns="http://utkl.cuni.cz/czesl/">
+  <head>
+    <schema href="ldata_schema.xml" />
+    <references>
+      <reffile id="a" name="adata" href="HRD_IE_109_t_1.a.xml" />
+      <reffile id="todo" name="tagset" href="http://utkl.cuni.cz/czesl/L2/2" />
+    </references>
+  </head>
+  <doc id="w-HRD_IE_109_t_1-d1" lowerdoc.rf="a#w-HRD_IE_109_t_1-d1">
+    <para id="b-HRD_IE_109_t_1-d1p1" lowerpara.rf="a#a-HRD_IE_109_t_1-d1p1">
+      <s id="a-HRD_IE_109_t_1-d1p1s1">
+        <w id="b-HRD_IE_109_t_1-d1p1w1">
+          <token>Výborná</token>
+          <edge id="HRD_IE_109_t_1.b-e0">
+            <from>a#a-HRD_IE_109_t_1-d1p1w1</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p1w2">
+          <token>dovolená</token>
+          <edge id="HRD_IE_109_t_1.b-e1">
+            <from>a#a-HRD_IE_109_t_1-d1p1w2</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-HRD_IE_109_t_1-d1p2" lowerpara.rf="a#a-HRD_IE_109_t_1-d1p2">
+      <s id="a-HRD_IE_109_t_1-d1p2s1">
+        <w id="b-HRD_IE_109_t_1-d1p2w1">
+          <token>Podle</token>
+          <edge id="HRD_IE_109_t_1.b-e2">
+            <from>a#a-HRD_IE_109_t_1-d1p2w1</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w2">
+          <token>mě</token>
+          <edge id="HRD_IE_109_t_1.b-e3">
+            <from>a#a-HRD_IE_109_t_1-d1p2w2</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w3">
+          <token>je</token>
+          <edge id="HRD_IE_109_t_1.b-e161">
+            <error>
+              <tag>agr</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w4">
+          <token>nejlepší</token>
+          <edge id="HRD_IE_109_t_1.b-e5">
+            <from>a#a-HRD_IE_109_t_1-d1p2w4</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w5">
+          <token>dovolená</token>
+          <edge id="HRD_IE_109_t_1.b-e6">
+            <from>a#a-HRD_IE_109_t_1-d1p2w5</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w6">
+          <token>s</token>
+          <edge id="HRD_IE_109_t_1.b-e7">
+            <from>a#a-HRD_IE_109_t_1-d1p2w6</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w7">
+          <token>kamarády</token>
+          <edge id="HRD_IE_109_t_1.b-e8">
+            <from>a#a-HRD_IE_109_t_1-d1p2w7</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w8">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e9">
+            <from>a#a-HRD_IE_109_t_1-d1p2w8</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s2">
+        <w id="b-HRD_IE_109_t_1-d1p2w9">
+          <token>Vzpomínám</token>
+          <edge id="HRD_IE_109_t_1.b-e10">
+            <from>a#a-HRD_IE_109_t_1-d1p2w9</from>
+            <error>
+              <tag>dep</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w20">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e21" />
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w10">
+          <token>když</token>
+          <edge id="HRD_IE_109_t_1.b-e11">
+            <from>a#a-HRD_IE_109_t_1-d1p2w10</from>
+            <error>
+              <tag>lex</tag>
+              <link>HRD_IE_109_t_1.b-e10</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w11">
+          <token>jsem</token>
+          <edge id="HRD_IE_109_t_1.b-e12">
+            <from>a#a-HRD_IE_109_t_1-d1p2w11</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w12">
+          <token>jel</token>
+          <edge id="HRD_IE_109_t_1.b-e13">
+            <from>a#a-HRD_IE_109_t_1-d1p2w12</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w13">
+          <token>na</token>
+          <edge id="HRD_IE_109_t_1.b-e14">
+            <from>a#a-HRD_IE_109_t_1-d1p2w13</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w14">
+          <token>dovolenou</token>
+          <edge id="HRD_IE_109_t_1.b-e15">
+            <from>a#a-HRD_IE_109_t_1-d1p2w14</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w15">
+          <token>s</token>
+          <edge id="HRD_IE_109_t_1.b-e16">
+            <from>a#a-HRD_IE_109_t_1-d1p2w15</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w16">
+          <token>kamarády</token>
+          <edge id="HRD_IE_109_t_1.b-e17">
+            <from>a#a-HRD_IE_109_t_1-d1p2w16</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w17">
+          <token>do</token>
+          <edge id="HRD_IE_109_t_1.b-e18">
+            <from>a#a-HRD_IE_109_t_1-d1p2w17</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w18">
+          <token>Alexandrie</token>
+          <edge id="HRD_IE_109_t_1.b-e19">
+            <from>a#a-HRD_IE_109_t_1-d1p2w18</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w19">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e20">
+            <from>a#a-HRD_IE_109_t_1-d1p2w19</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s3">
+        <w id="b-HRD_IE_109_t_1-d1p2w21">
+          <token>Bylo</token>
+          <edge id="HRD_IE_109_t_1.b-e22">
+            <from>a#a-HRD_IE_109_t_1-d1p2w20</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w22">
+          <token>nás</token>
+          <edge id="HRD_IE_109_t_1.b-e23">
+            <from>a#a-HRD_IE_109_t_1-d1p2w21</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w23">
+          <token>pět</token>
+          <edge id="HRD_IE_109_t_1.b-e24">
+            <from>a#a-HRD_IE_109_t_1-d1p2w22</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w24">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e25">
+            <from>a#a-HRD_IE_109_t_1-d1p2w23</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w25">
+          <token>sešli</token>
+          <edge id="HRD_IE_109_t_1.b-e26">
+            <from>a#a-HRD_IE_109_t_1-d1p2w24</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w26">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e27">
+            <from>a#a-HRD_IE_109_t_1-d1p2w25</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w27">
+          <token>se</token>
+          <edge id="HRD_IE_109_t_1.b-e28">
+            <from>a#a-HRD_IE_109_t_1-d1p2w26</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w28">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e29">
+            <from>a#a-HRD_IE_109_t_1-d1p2w27</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w29">
+          <token>a</token>
+          <edge id="HRD_IE_109_t_1.b-e30">
+            <from>a#a-HRD_IE_109_t_1-d1p2w28</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w30">
+          <token>pak</token>
+          <edge id="HRD_IE_109_t_1.b-e31">
+            <from>a#a-HRD_IE_109_t_1-d1p2w29</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w31">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e32">
+            <from>a#a-HRD_IE_109_t_1-d1p2w30</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w32">
+          <token>započali</token>
+          <edge id="HRD_IE_109_t_1.b-e33">
+            <from>a#a-HRD_IE_109_t_1-d1p2w31</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w33">
+          <token>cestu</token>
+          <edge id="HRD_IE_109_t_1.b-e34">
+            <from>a#a-HRD_IE_109_t_1-d1p2w32</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w34">
+          <token>do</token>
+          <edge id="HRD_IE_109_t_1.b-e35">
+            <from>a#a-HRD_IE_109_t_1-d1p2w33</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w35">
+          <token>Alexandrie</token>
+          <edge id="HRD_IE_109_t_1.b-e36">
+            <from>a#a-HRD_IE_109_t_1-d1p2w34</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w36">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e37">
+            <from>a#a-HRD_IE_109_t_1-d1p2w35</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s4">
+        <w id="b-HRD_IE_109_t_1-d1p2w37">
+          <token>Cesta</token>
+          <edge id="HRD_IE_109_t_1.b-e38">
+            <from>a#a-HRD_IE_109_t_1-d1p2w36</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w38">
+          <token>trvala</token>
+          <edge id="HRD_IE_109_t_1.b-e39">
+            <from>a#a-HRD_IE_109_t_1-d1p2w37</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w39">
+          <token>asi</token>
+          <edge id="HRD_IE_109_t_1.b-e40">
+            <from>a#a-HRD_IE_109_t_1-d1p2w38</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w40">
+          <token>dvě</token>
+          <edge id="HRD_IE_109_t_1.b-e41">
+            <from>a#a-HRD_IE_109_t_1-d1p2w39</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w41">
+          <token>a</token>
+          <edge id="HRD_IE_109_t_1.b-e42">
+            <from>a#a-HRD_IE_109_t_1-d1p2w40</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w42">
+          <token>půl</token>
+          <edge id="HRD_IE_109_t_1.b-e43">
+            <from>a#a-HRD_IE_109_t_1-d1p2w41</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w43">
+          <token>hodiny</token>
+          <edge id="HRD_IE_109_t_1.b-e44">
+            <from>a#a-HRD_IE_109_t_1-d1p2w42</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w44">
+          <token>autem</token>
+          <edge id="HRD_IE_109_t_1.b-e45">
+            <from>a#a-HRD_IE_109_t_1-d1p2w43</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w45">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e46">
+            <from>a#a-HRD_IE_109_t_1-d1p2w44</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s5">
+        <w id="b-HRD_IE_109_t_1-d1p2w46">
+          <token>Celou</token>
+          <edge id="HRD_IE_109_t_1.b-e47">
+            <from>a#a-HRD_IE_109_t_1-d1p2w45</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w47">
+          <token>cestu</token>
+          <edge id="HRD_IE_109_t_1.b-e48">
+            <from>a#a-HRD_IE_109_t_1-d1p2w46</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w48">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e49">
+            <from>a#a-HRD_IE_109_t_1-d1p2w47</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w49">
+          <token>poslouchali</token>
+          <edge id="HRD_IE_109_t_1.b-e50">
+            <from>a#a-HRD_IE_109_t_1-d1p2w48</from>
+            <error>
+              <tag>lex</tag>
+              <link>HRD_IE_109_t_1.b-e51</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w50">
+          <token>hudbu</token>
+          <edge id="HRD_IE_109_t_1.b-e51">
+            <from>a#a-HRD_IE_109_t_1-d1p2w49</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w51">
+          <token>až</token>
+          <edge id="HRD_IE_109_t_1.b-e52">
+            <from>a#a-HRD_IE_109_t_1-d1p2w50</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w52">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e53">
+            <from>a#a-HRD_IE_109_t_1-d1p2w51</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w53">
+          <token>se</token>
+          <edge id="HRD_IE_109_t_1.b-e54">
+            <from>a#a-HRD_IE_109_t_1-d1p2w52</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w54">
+          <token>dostali</token>
+          <edge id="HRD_IE_109_t_1.b-e55">
+            <from>a#a-HRD_IE_109_t_1-d1p2w53</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w55">
+          <token>do</token>
+          <edge id="HRD_IE_109_t_1.b-e56">
+            <from>a#a-HRD_IE_109_t_1-d1p2w54</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w56">
+          <token>Alexandrie</token>
+          <edge id="HRD_IE_109_t_1.b-e57">
+            <from>a#a-HRD_IE_109_t_1-d1p2w55</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w57">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e58">
+            <from>a#a-HRD_IE_109_t_1-d1p2w56</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s6">
+        <w id="b-HRD_IE_109_t_1-d1p2w58">
+          <token>Dali</token>
+          <edge id="HRD_IE_109_t_1.b-e59">
+            <from>a#a-HRD_IE_109_t_1-d1p2w57</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w59">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e60">
+            <from>a#a-HRD_IE_109_t_1-d1p2w58</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w60">
+          <token>naše</token>
+          <edge id="HRD_IE_109_t_1.b-e61">
+            <from>a#a-HRD_IE_109_t_1-d1p2w59</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w61">
+          <token>zavazadla</token>
+          <edge id="HRD_IE_109_t_1.b-e62">
+            <from>a#a-HRD_IE_109_t_1-d1p2w60</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w62">
+          <token>do</token>
+          <edge id="HRD_IE_109_t_1.b-e63">
+            <from>a#a-HRD_IE_109_t_1-d1p2w61</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w63">
+          <token>bytu</token>
+          <edge id="HRD_IE_109_t_1.b-e64">
+            <from>a#a-HRD_IE_109_t_1-d1p2w62</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w64">
+          <token>a</token>
+          <edge id="HRD_IE_109_t_1.b-e65">
+            <from>a#a-HRD_IE_109_t_1-d1p2w63</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w65">
+          <token>šli</token>
+          <edge id="HRD_IE_109_t_1.b-e66">
+            <from>a#a-HRD_IE_109_t_1-d1p2w64</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w66">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e67">
+            <from>a#a-HRD_IE_109_t_1-d1p2w65</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w69">
+          <token>se</token>
+          <edge id="HRD_IE_109_t_1.b-e70">
+            <error>
+              <tag>agr</tag>
+            </error>
+            <error>
+              <tag>rflx</tag>
+              <link>HRD_IE_109_t_1.b-e68</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w67">
+          <token>sprchovat</token>
+          <edge id="HRD_IE_109_t_1.b-e68">
+            <from>a#a-HRD_IE_109_t_1-d1p2w66</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w68">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e69">
+            <from>a#a-HRD_IE_109_t_1-d1p2w67</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s7">
+        <w id="b-HRD_IE_109_t_1-d1p2w70">
+          <token>A</token>
+          <edge id="HRD_IE_109_t_1.b-e71">
+            <from>a#a-HRD_IE_109_t_1-d1p2w68</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w71">
+          <token>pak</token>
+          <edge id="HRD_IE_109_t_1.b-e72">
+            <from>a#a-HRD_IE_109_t_1-d1p2w69</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w72">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e73">
+            <from>a#a-HRD_IE_109_t_1-d1p2w70</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w73">
+          <token>šli</token>
+          <edge id="HRD_IE_109_t_1.b-e74">
+            <from>a#a-HRD_IE_109_t_1-d1p2w71</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w74">
+          <token>na</token>
+          <edge id="HRD_IE_109_t_1.b-e75">
+            <from>a#a-HRD_IE_109_t_1-d1p2w72</from>
+            <error>
+              <tag>dep</tag>
+              <link>HRD_IE_109_t_1.b-e74</link>
+              <link>HRD_IE_109_t_1.b-e76</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w75">
+          <token>pláž</token>
+          <edge id="HRD_IE_109_t_1.b-e76">
+            <from>a#a-HRD_IE_109_t_1-d1p2w73</from>
+            <error>
+              <tag>dep</tag>
+              <link>HRD_IE_109_t_1.b-e75</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w76">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e77">
+            <from>a#a-HRD_IE_109_t_1-d1p2w74</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w78">
+          <token>plavali</token>
+          <edge id="HRD_IE_109_t_1.b-e79">
+            <from>a#a-HRD_IE_109_t_1-d1p2w76</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w79">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e80">
+            <from>a#a-HRD_IE_109_t_1-d1p2w77</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w80">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e81">
+            <from>a#a-HRD_IE_109_t_1-d1p2w78</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w81">
+          <token>opalovali</token>
+          <edge id="HRD_IE_109_t_1.b-e82">
+            <from>a#a-HRD_IE_109_t_1-d1p2w79</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w82">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e83">
+            <from>a#a-HRD_IE_109_t_1-d1p2w80</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w83">
+          <token>se</token>
+          <edge id="HRD_IE_109_t_1.b-e84">
+            <from>a#a-HRD_IE_109_t_1-d1p2w81</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w84">
+          <token>a</token>
+          <edge id="HRD_IE_109_t_1.b-e85">
+            <from>a#a-HRD_IE_109_t_1-d1p2w82</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w85">
+          <token>hráli</token>
+          <edge id="HRD_IE_109_t_1.b-e86">
+            <from>a#a-HRD_IE_109_t_1-d1p2w83</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w86">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e87">
+            <from>a#a-HRD_IE_109_t_1-d1p2w84</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w87">
+          <token>fotbal</token>
+          <edge id="HRD_IE_109_t_1.b-e88">
+            <from>a#a-HRD_IE_109_t_1-d1p2w85</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w88">
+          <token>na</token>
+          <edge id="HRD_IE_109_t_1.b-e89">
+            <from>a#a-HRD_IE_109_t_1-d1p2w86</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w89">
+          <token>písku</token>
+          <edge id="HRD_IE_109_t_1.b-e90">
+            <from>a#a-HRD_IE_109_t_1-d1p2w87</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w90">
+          <token>pláže</token>
+          <edge id="HRD_IE_109_t_1.b-e91">
+            <from>a#a-HRD_IE_109_t_1-d1p2w88</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w91">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e92">
+            <from>a#a-HRD_IE_109_t_1-d1p2w89</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s8">
+        <w id="b-HRD_IE_109_t_1-d1p2w77">
+          <token>Zase</token>
+          <edge id="HRD_IE_109_t_1.b-e93">
+            <from>a#a-HRD_IE_109_t_1-d1p2w90</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w92">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e94">
+            <from>a#a-HRD_IE_109_t_1-d1p2w91</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w93">
+          <token>šli</token>
+          <edge id="HRD_IE_109_t_1.b-e95">
+            <from>a#a-HRD_IE_109_t_1-d1p2w92</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w94">
+          <token>do</token>
+          <edge id="HRD_IE_109_t_1.b-e96">
+            <from>a#a-HRD_IE_109_t_1-d1p2w93</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w95">
+          <token>bytu</token>
+          <edge id="HRD_IE_109_t_1.b-e97">
+            <from>a#a-HRD_IE_109_t_1-d1p2w94</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w96">
+          <token>sprchovat</token>
+          <edge id="HRD_IE_109_t_1.b-e98">
+            <from>a#a-HRD_IE_109_t_1-d1p2w95</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w106">
+          <token>se</token>
+          <edge id="HRD_IE_109_t_1.b-e108">
+            <error>
+              <tag>agr</tag>
+            </error>
+            <error>
+              <tag>rflx</tag>
+              <link>HRD_IE_109_t_1.b-e98</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w97">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e99">
+            <from>a#a-HRD_IE_109_t_1-d1p2w96</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w98">
+          <token>pak</token>
+          <edge id="HRD_IE_109_t_1.b-e100">
+            <from>a#a-HRD_IE_109_t_1-d1p2w97</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w100">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e102">
+            <from>a#a-HRD_IE_109_t_1-d1p2w99</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w99">
+          <token>šli</token>
+          <edge id="HRD_IE_109_t_1.b-e101">
+            <from>a#a-HRD_IE_109_t_1-d1p2w98</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w101">
+          <token>do</token>
+          <edge id="HRD_IE_109_t_1.b-e103">
+            <from>a#a-HRD_IE_109_t_1-d1p2w100</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w102">
+          <token>restaurace</token>
+          <edge id="HRD_IE_109_t_1.b-e104">
+            <from>a#a-HRD_IE_109_t_1-d1p2w101</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w103">
+          <token>na</token>
+          <edge id="HRD_IE_109_t_1.b-e105">
+            <from>a#a-HRD_IE_109_t_1-d1p2w102</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w104">
+          <token>oběd</token>
+          <edge id="HRD_IE_109_t_1.b-e106">
+            <from>a#a-HRD_IE_109_t_1-d1p2w103</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w105">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e107">
+            <from>a#a-HRD_IE_109_t_1-d1p2w104</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s9">
+        <w id="b-HRD_IE_109_t_1-d1p2w107">
+          <token>Večer</token>
+          <edge id="HRD_IE_109_t_1.b-e109">
+            <from>a#a-HRD_IE_109_t_1-d1p2w105</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w108">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e110">
+            <from>a#a-HRD_IE_109_t_1-d1p2w106</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w109">
+          <token>chodili</token>
+          <edge id="HRD_IE_109_t_1.b-e111">
+            <from>a#a-HRD_IE_109_t_1-d1p2w107</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w110">
+          <token>na</token>
+          <edge id="HRD_IE_109_t_1.b-e112">
+            <from>a#a-HRD_IE_109_t_1-d1p2w108</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w111">
+          <token>procházku</token>
+          <edge id="HRD_IE_109_t_1.b-e113">
+            <from>a#a-HRD_IE_109_t_1-d1p2w109</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w112">
+          <token>až</token>
+          <edge id="HRD_IE_109_t_1.b-e114">
+            <from>a#a-HRD_IE_109_t_1-d1p2w110</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w113">
+          <token>do</token>
+          <edge id="HRD_IE_109_t_1.b-e115">
+            <from>a#a-HRD_IE_109_t_1-d1p2w111</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w114">
+          <token>půlnoci</token>
+          <edge id="HRD_IE_109_t_1.b-e116">
+            <from>a#a-HRD_IE_109_t_1-d1p2w112</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w116">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e118">
+            <from>a#a-HRD_IE_109_t_1-d1p2w114</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s10">
+        <w id="b-HRD_IE_109_t_1-d1p2w115">
+          <token>Pak</token>
+          <edge id="HRD_IE_109_t_1.b-e119">
+            <from>a#a-HRD_IE_109_t_1-d1p2w115</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w117">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e120">
+            <from>a#a-HRD_IE_109_t_1-d1p2w116</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w118">
+          <token>šli</token>
+          <edge id="HRD_IE_109_t_1.b-e121">
+            <from>a#a-HRD_IE_109_t_1-d1p2w117</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w119">
+          <token>spát</token>
+          <edge id="HRD_IE_109_t_1.b-e122">
+            <from>a#a-HRD_IE_109_t_1-d1p2w118</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w120">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e123">
+            <from>a#a-HRD_IE_109_t_1-d1p2w119</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s11">
+        <w id="b-HRD_IE_109_t_1-d1p2w121">
+          <token>Druhý</token>
+          <edge id="HRD_IE_109_t_1.b-e124">
+            <from>a#a-HRD_IE_109_t_1-d1p2w120</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w122">
+          <token>den</token>
+          <edge id="HRD_IE_109_t_1.b-e125">
+            <from>a#a-HRD_IE_109_t_1-d1p2w121</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w123">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e126">
+            <from>a#a-HRD_IE_109_t_1-d1p2w122</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w124">
+          <token>zůstali</token>
+          <edge id="HRD_IE_109_t_1.b-e127">
+            <from>a#a-HRD_IE_109_t_1-d1p2w123</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w125">
+          <token>doma</token>
+          <edge id="HRD_IE_109_t_1.b-e128">
+            <from>a#a-HRD_IE_109_t_1-d1p2w124</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w126">
+          <token>hrát</token>
+          <edge id="HRD_IE_109_t_1.b-e129">
+            <from>a#a-HRD_IE_109_t_1-d1p2w125</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w127">
+          <token>karty</token>
+          <edge id="HRD_IE_109_t_1.b-e130">
+            <from>a#a-HRD_IE_109_t_1-d1p2w126</from>
+            <error>
+              <tag>use</tag>
+              <link>HRD_IE_109_t_1.b-e129</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w128">
+          <token>a</token>
+          <edge id="HRD_IE_109_t_1.b-e131">
+            <from>a#a-HRD_IE_109_t_1-d1p2w127</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w129">
+          <token>šachy</token>
+          <edge id="HRD_IE_109_t_1.b-e132">
+            <from>a#a-HRD_IE_109_t_1-d1p2w128</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w130">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e133">
+            <from>a#a-HRD_IE_109_t_1-d1p2w129</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w131">
+          <token>občas</token>
+          <edge id="HRD_IE_109_t_1.b-e134">
+            <from>a#a-HRD_IE_109_t_1-d1p2w130</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w132">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e135">
+            <from>a#a-HRD_IE_109_t_1-d1p2w131</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w133">
+          <token>chodili</token>
+          <edge id="HRD_IE_109_t_1.b-e136">
+            <from>a#a-HRD_IE_109_t_1-d1p2w132</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w134">
+          <token>chytat</token>
+          <edge id="HRD_IE_109_t_1.b-e137">
+            <from>a#a-HRD_IE_109_t_1-d1p2w133</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w135">
+          <token>ryby</token>
+          <edge id="HRD_IE_109_t_1.b-e138">
+            <from>a#a-HRD_IE_109_t_1-d1p2w134</from>
+            <error>
+              <tag>use</tag>
+              <link>HRD_IE_109_t_1.b-e137</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w136">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e139">
+            <from>a#a-HRD_IE_109_t_1-d1p2w135</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s12">
+        <w id="b-HRD_IE_109_t_1-d1p2w137">
+          <token>Navštívili</token>
+          <edge id="HRD_IE_109_t_1.b-e140">
+            <from>a#a-HRD_IE_109_t_1-d1p2w136</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w138">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e141">
+            <from>a#a-HRD_IE_109_t_1-d1p2w137</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w139">
+          <token>nejstarší</token>
+          <edge id="HRD_IE_109_t_1.b-e142">
+            <from>a#a-HRD_IE_109_t_1-d1p2w138</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w140">
+          <token>památky</token>
+          <edge id="HRD_IE_109_t_1.b-e143">
+            <from>a#a-HRD_IE_109_t_1-d1p2w139</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w141">
+          <token>v</token>
+          <edge id="HRD_IE_109_t_1.b-e144">
+            <from>a#a-HRD_IE_109_t_1-d1p2w140</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w142">
+          <token>Alexandrii</token>
+          <edge id="HRD_IE_109_t_1.b-e145">
+            <from>a#a-HRD_IE_109_t_1-d1p2w141</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w143">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e146">
+            <from>a#a-HRD_IE_109_t_1-d1p2w142</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s13">
+        <w id="b-HRD_IE_109_t_1-d1p2w144">
+          <token>Opravdu</token>
+          <edge id="HRD_IE_109_t_1.b-e147">
+            <from>a#a-HRD_IE_109_t_1-d1p2w143</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w145">
+          <token>jsme</token>
+          <edge id="HRD_IE_109_t_1.b-e148">
+            <from>a#a-HRD_IE_109_t_1-d1p2w144</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w146">
+          <token>strávili</token>
+          <edge id="HRD_IE_109_t_1.b-e149">
+            <from>a#a-HRD_IE_109_t_1-d1p2w145</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w147">
+          <token>hezkou</token>
+          <edge id="HRD_IE_109_t_1.b-e150">
+            <from>a#a-HRD_IE_109_t_1-d1p2w146</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w148">
+          <token>dovolenou</token>
+          <edge id="HRD_IE_109_t_1.b-e151">
+            <from>a#a-HRD_IE_109_t_1-d1p2w147</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w149">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e152">
+            <from>a#a-HRD_IE_109_t_1-d1p2w148</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-HRD_IE_109_t_1-d1p2s14">
+        <w id="b-HRD_IE_109_t_1-d1p2w150">
+          <token>Myslím</token>
+          <edge id="HRD_IE_109_t_1.b-e153">
+            <from>a#a-HRD_IE_109_t_1-d1p2w149</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w152">
+          <token>,</token>
+          <edge id="HRD_IE_109_t_1.b-e155">
+            <from>a#a-HRD_IE_109_t_1-d1p2w151</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w151">
+          <token>že</token>
+          <edge id="HRD_IE_109_t_1.b-e154">
+            <from>a#a-HRD_IE_109_t_1-d1p2w150</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w153">
+          <token>to</token>
+          <edge id="HRD_IE_109_t_1.b-e156">
+            <from>a#a-HRD_IE_109_t_1-d1p2w152</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w154">
+          <token>byla</token>
+          <edge id="HRD_IE_109_t_1.b-e157">
+            <from>a#a-HRD_IE_109_t_1-d1p2w153</from>
+            <error>
+              <tag>use</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w155">
+          <token>výborná</token>
+          <edge id="HRD_IE_109_t_1.b-e158">
+            <from>a#a-HRD_IE_109_t_1-d1p2w154</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w156">
+          <token>dovolená</token>
+          <edge id="HRD_IE_109_t_1.b-e159">
+            <from>a#a-HRD_IE_109_t_1-d1p2w155</from>
+          </edge>
+        </w>
+        <w id="b-HRD_IE_109_t_1-d1p2w157">
+          <token>.</token>
+          <edge id="HRD_IE_109_t_1.b-e160">
+            <from>a#a-HRD_IE_109_t_1-d1p2w156</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+  </doc>
+</ldata>
+

@@ -2,18 +2,57 @@
 <!-- You may freely edit this file. See harness/README in the NetBeans platform -->
 <!-- for some information on what you could do (e.g. targets to override). -->
 <!-- If you delete this file and reopen the project it will be recreated. -->
+<!--Put your hg.username/hg.password into your nbproject/private/platform-private.properties file -->
 <project name="Czesl" basedir=".">
-    <description>Builds the module suite Czesl.</description>
+    <description>Builds Feat.</description>
     <import file="nbproject/build-impl.xml"/>
 
     <target name="echox" depends="-init">
         <echoproperties prefix="nbm"/>
     </target>
 
-    <target name="bdeploy" depends="-init,clean,prepare-updates,nbms,build-zips "  description="Deploy the app">
+    <target name="update-build-nrs">
+        <tstamp>
+            <format property="TODAY_ISO" pattern="yyyy-MM-dd"/>
+        </tstamp>        
+        <propertyfile file="branding/core/core.jar/org/netbeans/core/startup/Bundle.properties">
+            <entry  key="currentVersion" value="Feat Build ${TODAY_ISO}"/>
+        </propertyfile>       
+        <propertyfile file="branding/modules/org-netbeans-core-windows.jar/org/netbeans/core/windows/view/ui/Bundle.properties">
+            <entry  key="CTL_MainWindow_Title" value="Feat Build ${TODAY_ISO}"/>
+            <entry  key="CTL_MainWindow_Title_No_Project" value="Feat Build ${TODAY_ISO}"/>
+        </propertyfile>       
+    </target>
+
+    <target name="bdeploy-full-test" depends="bdeploy,-deploy-archive,-deploy-test-uc"  description="Fully Deploy the app (to test UC)">
+        <!-- todo produce dist with jre, usb dist -->
+    </target>
+
+    <target name="bdeploy" depends="-init,clean,update-build-nrs,prepare-updates,nbms,build-zips "  description="Build and deploy the app">
         
         <!-- todo produce dist with jre, usb dist -->
     </target>
+
+   <target name="-deploy-archive" depends="-init">
+        <property name="build.updates.dir" location="${suite.build.dir}/updates"/>
+        <tstamp>
+            <format property="TODAY_ISO" pattern="yyyy-MM-dd-HH-mm"/>
+        </tstamp>        
+        <copy todir="dist.archive/${TODAY_ISO}/updates">
+            <fileset dir="${build.updates.dir}"/>
+        </copy>
+        <copy todir="dist.archive/${TODAY_ISO}">
+            <fileset dir="${dist.dir}"/>
+        </copy>
+        <copy todir="dist.archive/latest">
+            <fileset dir="dist.archive/${TODAY_ISO}"/>
+        </copy>
+    </target>
+
+   <target name="-deploy-test-uc" depends="-init">
+   </target>
+
+
 
     <target name="build-zips" depends="build-zip,prepare-for-zips,build-usb-zip,build-jre-zip,build-usb-jre-zip"  description="Create zip distributions">
     </target>
@@ -44,14 +83,14 @@
 
     <target name="build-usb-jre-zip" depends="-init,prepare-for-zips" description="todo">
     </target>
-                
 
+                
     <target name="prepare-updates" depends="-init,prepare-nb_modules">
         <property name="build.updates.dir" location="${suite.build.dir}/updates"/>
         <copy todir="${build.updates.dir}">
             <fileset dir="../nb_modules/build/updates"/>
             <!-- empty modules, that are no longer used (to disable them on computers that were not updated for a long time) -->
-            <fileset dir="dist.prep/old_nbms"/> 
+            <!--fileset dir="dist.prep/old_nbms"/--> 
             <!-- platform modules -->
             <fileset dir="nb_uc/_uc"/>
         </copy>

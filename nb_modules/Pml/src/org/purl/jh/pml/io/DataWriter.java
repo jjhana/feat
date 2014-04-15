@@ -14,8 +14,9 @@ import org.purl.jh.util.io.IO;
 /**
  *
  * @author jirka
+ * @param <L> data type this writer saves (layer or tagset)
  */
-public abstract class DataWriter<L extends Data<?>> extends JDomWriter {
+public abstract class DataWriter<L extends Data<?>> extends JDomWriter implements XWriter<L> {
     /**
      * The layer being saved in.
      */

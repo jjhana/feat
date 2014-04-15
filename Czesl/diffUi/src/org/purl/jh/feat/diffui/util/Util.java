@@ -5,6 +5,7 @@ import cz.cuni.utkl.czesl.data.layerx.FForm;
 import cz.cuni.utkl.czesl.data.layerx.FormsLayer;
 import java.io.File;
 import java.util.List;
+import javax.swing.JButton;
 import org.openide.DialogDisplayer;
 import org.openide.NotifyDescriptor;
 import org.openide.filesystems.FileObject;
@@ -12,7 +13,9 @@ import org.openide.filesystems.FileUtil;
 import org.openide.loaders.DataObject;
 import org.openide.loaders.DataObjectNotFoundException;
 import org.purl.jh.feat.NbData.LLayerDataObject;
+import org.purl.jh.feat.diffui.OpenPanel;
 import org.purl.jh.feat.layered.ParaModel;
+import org.purl.jh.util.Pair;
 import org.purl.jh.util.err.XException;
 
 /**
@@ -50,6 +53,34 @@ public class Util {
         return dobj;
     }
 
+//    public Pair<DataObject,DataObject> getTwoDObjs(List<DataObject> context) {
+//        if (context.size() != 2) {
+//            for (;;) {
+//                final JButton ok = new JButton(bundle.getString("OpenDiffAction.OK"));
+//                final JButton cancel = new JButton(bundle.getString("OpenDiffAction.Cancel"));
+//                final OpenPanel p = new OpenPanel(ok);
+//
+//                NotifyDescriptor nd = new NotifyDescriptor.Confirmation(p, bundle.getString("OpenDiffAction.title"));
+//                nd.setOptions(new Object[]{ok, cancel});
+//                Object o = DialogDisplayer.getDefault().notify(nd);
+//
+//                if (o != ok) return null;
+//                try {
+//                    DataObject dobj1 = Util.dobj(p.getFile1());
+//                    DataObject dobj2 = Util.dobj(p.getFile2());
+//                    return new Pair<>(dobj1, dobj2);
+//                }
+//                catch(XException ex) {
+//                    Util.message(ex, "Cannot open the documents (%s)", ex.getMessage());
+//                }
+//            }
+//        }
+//        else {
+//            return new Pair<>(context.get(0), context.get(1));
+//        }
+//    }
+    
+    
     public static void message(XException ex, String aTemplate, Object ... aParams) {
         NotifyDescriptor nd = new NotifyDescriptor.Message(String.format(aTemplate, aParams));
         DialogDisplayer.getDefault().notify(nd);

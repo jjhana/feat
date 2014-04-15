@@ -8,7 +8,9 @@ import org.purl.jh.util.col.pred.Filter;
 import org.purl.jh.util.col.pred.Filters;
 
 /**
- *
+ * 
+ * @param <T> type of the items
+ * @param <F> type of the filter on items
  * @todo encapsulate nonfiltered model
  * @author Jirka
  */
@@ -68,7 +70,7 @@ public class FilterListModel<T, F extends Filter<T>> extends AbstractListModel {
             mFilteredItems = mAllItems; 
         else {
             // HO: filter(mAllItems, \i . mFilter.formOk(i));
-            mFilteredItems = new ArrayList<T>(mAllItems.size());
+            mFilteredItems = new ArrayList<>(mAllItems.size());
             for(T i : mAllItems) {
                 if  ( mFilter.isOk(i) ) {
                     mFilteredItems.add(i);

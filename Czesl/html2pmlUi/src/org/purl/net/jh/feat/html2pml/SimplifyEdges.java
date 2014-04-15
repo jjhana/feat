@@ -32,7 +32,7 @@ import org.purl.jh.util.err.XException;
  * @author j
  */
 @ActionID(category = "Tools",
-id = "org.purl.jh.feat.diffui.SimplifyEdges")
+id = "org.purl.net.jh.feat.html2pml.SimplifyEdges")
 @ActionRegistration(displayName = "#CTL_SimplifyEdges")
 @ActionReferences({
     @ActionReference(path = "Menu/Tools", position = 128),

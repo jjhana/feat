@@ -53,11 +53,15 @@ public class AbstractListElement<C extends Element>
      * Adds an element as a child to this element.
      *
      * Sets child's parent to this element.
+     * When overriding this method, most likely the add(int,C) and addAll(Collection<C>)
+     * should be overriden too. Another possibility is to override addExtra which is 
+     * called by all three methods after adding the elements. 
      */
     @Override
-    public void add(C aEl) {
-        col.add(aEl);
-        ((Element)aEl).setParent(this);       
+    public void add(C element) {
+        col.add(element);
+        ((Element)element).setParent(this);       
+        addExtra(element);
     }
 
     /**
@@ -65,9 +69,10 @@ public class AbstractListElement<C extends Element>
      *
      * Sets child's parent to this element.
      */
-    public void add(int aIdx, C aEl) {
-        col.add(aIdx, aEl);
-        ((Element)aEl).setParent(this);       
+    public void add(int idx, C element) {
+        col.add(idx, element);
+        ((Element)element).setParent(this);       
+        addExtra(element);
     }
     
     /**
@@ -76,13 +81,24 @@ public class AbstractListElement<C extends Element>
      * Sets children's parent to this element.
      */
     @Override
-    public void addAll(Collection<C> aCol) {
-        col.addAll(aCol);
-        for(C e : aCol) { 
-            ((Element)e).setParent(this);       
+    public void addAll(Collection<C> elements) {
+        col.addAll(elements);
+        for(C e : elements) { 
+            ((Element)e).setParent(this);   
+            addExtra(e);
         }
     }
 
+    /**
+     * Override to perform additional operation after adding an element to the children. 
+     * Called by add(C), add(C,int), addAll(Collection<C>).
+     * @param element
+     */
+    protected void addExtra(C element) {
+        
+    }
+    
+    
     /**
      * Returns iterator over children.
      */
