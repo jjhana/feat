@@ -31,7 +31,7 @@
     <target name="_bbuild-test-publish" depends="_bbuild,-publish-archive,-publish-test-uc"  description="Completely build the app, archive and publish it to the test UC">
     </target>
     
-    <target name="_publish-ofic" depends="-init"  description="Publish the app (requires _bbuild first)">
+    <target name="_publish-ofic" depends="-init,-publish-ofic-uc"  description="Publish the app (requires _bbuild first)">
     </target>
 
     <target name="-publish-archive" depends="-init">
