@@ -45,6 +45,8 @@ import javax.swing.JScrollPane;
 import javax.swing.JViewport;
 import javax.swing.KeyStroke;
 import javax.swing.undo.CannotUndoException;
+import lombok.Getter;
+import lombok.Setter;
 import org.netbeans.api.visual.action.ActionFactory;
 import org.netbeans.api.visual.action.MoveProvider;
 import org.netbeans.api.visual.action.MoveStrategy;
@@ -57,9 +59,9 @@ import org.netbeans.api.visual.widget.EventProcessingType;
 import org.netbeans.api.visual.widget.LabelWidget;
 import org.netbeans.api.visual.widget.LayerWidget;
 import org.netbeans.api.visual.widget.Widget;
-import org.netbeans.modules.spellchecker.spi.dictionary.Dictionary;
 import org.openide.nodes.Node;
 import org.openide.nodes.NodeOperation;
+import org.purl.jh.feat.profiles.Profile;
 import org.purl.jh.pml.Element;
 import org.purl.jh.pml.event.DataEvent;
 import org.purl.jh.pml.event.DataListener;
@@ -107,8 +109,8 @@ public class LayeredGraph extends XObjectScene implements DataListener {
     // --- visual options ---
     private final int cXStart = 50;
     private final int cYStart = 50;
-    private int ySpace = 200;
-    private int xSpace = 100;
+    @Getter @Setter private int ySpace = 200;
+    @Getter @Setter private int xSpace = 100;
     private boolean doLayout = true;
 
     // todo under development
@@ -116,7 +118,7 @@ public class LayeredGraph extends XObjectScene implements DataListener {
 
     // --- X ---
     private final Map<Edge,RelationWidget> edge2widget = new HashMap<>();
-    private final Map<ConnectionWidget,Pair<Edge,FForm>> leg2objs   = XCols.newHashMap();
+    @Getter private final Map<ConnectionWidget,Pair<Edge,FForm>> leg2objs   = XCols.newHashMap();
 
     /** edge -> all error links pointing to it */
     private final MultiMap<Edge,ErrorLinkWidget> edge2errorLinkEnds = XCols.newMultiHashHashMap();
@@ -150,7 +152,7 @@ public class LayeredGraph extends XObjectScene implements DataListener {
     private WidgetAction legPopupAction;
     private WidgetAction errorLinkPopupAction;
 
-    private Dictionary spellchecker;
+    @Getter @Setter private Profile profile;
 
     public LayeredGraph(final ParaModel aParaModel, final WidgetNode aWidgetNode, LookAndFeel aLookAndFeel) {
         this(aParaModel, aWidgetNode, aLookAndFeel, false);
@@ -316,36 +318,7 @@ public class LayeredGraph extends XObjectScene implements DataListener {
         restorePos(pos);
     }
 
-// =============================================================================
-// Visual options
-// =============================================================================
 
-    public int getxSpace() {
-        return xSpace;
-    }
-
-
-    public void setXSpace(int xSpace) {
-        this.xSpace = xSpace;
-        //if (getView() != null) getView().repaint();
-    }
-
-    public int getySpace() {
-        return ySpace;
-    }
-
-    public void setYSpace(int ySpace) {
-        this.ySpace = ySpace;
-        //if (getView() != null) getView().repaint();
-    }
-
-    public Dictionary getSpellChecker() {
-        return spellchecker;
-    }
-
-    public void setSpellChecker(Dictionary spellchecker) {
-        this.spellchecker = spellchecker;
-    }
 
 // =============================================================================
 // objects <-> widgets
@@ -361,10 +334,6 @@ public class LayeredGraph extends XObjectScene implements DataListener {
 
     public FForm findForm(Widget aWidget) {
         return (FForm) findObject(aWidget);
-    }
-
-    public Map<ConnectionWidget, Pair<Edge, FForm>> getLeg2objs() {
-        return leg2objs;
     }
 
 // =============================================================================    

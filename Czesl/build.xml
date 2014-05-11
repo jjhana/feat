@@ -33,6 +33,28 @@
         <!-- todo produce dist with jre, usb dist -->
     </target>
 
+    <target name="bdeploy-ofic-uc" depends=""  description="Deploy the updates to the official UC (requires running bdeploy before)">
+        <copy todir="../../bitbucket/uc/feat">
+            <fileset dir="../../bitbucket/uc/feat-test"/>
+        </copy>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="add"/>
+          </exec>
+          <echo message="added"/>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="commit"/>
+            <arg value="-m"/>
+            <arg value="Pushing updates to the official feat uc"/>
+          </exec>
+          <echo message="committed"/>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="push"/>
+            <arg value="https://${hg.username}:${hg.password}@bitbucket.org/jhana/jhana.bitbucket.org"/>
+          </exec>
+          <echo message="pushed"/>
+    </target>
+
+
    <target name="-deploy-archive" depends="-init">
         <property name="build.updates.dir" location="${suite.build.dir}/updates"/>
         <tstamp>
@@ -50,6 +72,24 @@
     </target>
 
    <target name="-deploy-test-uc" depends="-init">
+       <copy todir="../../bitbucket/uc/feat-test">
+            <fileset dir="dist.archive/latest/updates"/>
+        </copy>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="add"/>
+          </exec>
+          <echo message="added"/>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="commit"/>
+            <arg value="-m"/>
+            <arg value="Pushing updates to test feat-test uc"/>
+          </exec>
+          <echo message="committed"/>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="push"/>
+            <arg value="https://${hg.username}:${hg.password}@bitbucket.org/jhana/jhana.bitbucket.org"/>
+          </exec>
+          <echo message="pushed"/>
    </target>
 
 

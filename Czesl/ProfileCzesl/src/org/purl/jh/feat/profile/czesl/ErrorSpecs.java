@@ -1,5 +1,7 @@
-package org.purl.jh.feat.sconfig;
+package org.purl.jh.feat.profile.czesl;
 
+import org.purl.jh.feat.profiles.ErrorTagset;
+import org.purl.jh.feat.profiles.ErrorTag;
 import com.google.common.base.Preconditions;
 import java.util.Arrays;
 import java.util.List;
@@ -11,27 +13,15 @@ import java.util.List;
  *
  * @author Jirka dot Hana at gmail dot com
  */
-public enum ErrorSpecs {
+enum ErrorSpecs {
     INSTANCE;
 
-    private final ErrorTagset aTagset = new ErrorTagset("http://utkl.cuni.cz/czesl/L1/2", "L1 Error Tags V2");
-    private final ErrorTagset bTagset = new ErrorTagset("http://utkl.cuni.cz/czesl/L2/2", "L2 Error Tags V2");;
+    public final ErrorTagset aTagset = new ErrorTagset("http://utkl.cuni.cz/czesl/L1/2", "L1 Error Tags V2");
+    public final ErrorTagset bTagset = new ErrorTagset("http://utkl.cuni.cz/czesl/L2/2", "L2 Error Tags V2");;
     private final static int lineLen = 13;
 
     private ErrorSpecs() {
         readData();
-    }
-
-    public Iterable<ErrorTagset> getErrorSpecs() {
-        return Arrays.asList(aTagset, bTagset);
-    }
-
-    public ErrorTagset getErrorSpecs(int layerIdx) {
-        switch (layerIdx) {
-            case 1: return aTagset;
-            case 2: return bTagset;
-        }
-        return null;
     }
 
     private void readData() {
@@ -43,27 +33,27 @@ public enum ErrorSpecs {
             process(oneTag);
         }
 
-        // todo incorproate into the file
-        aTagset.old2new.put("incorStem", "incorBase");
-        aTagset.old2new.put("incor:incorInfl", "incorInfl");
-        aTagset.old2new.put("incor:incorStem", "incorBase");
-        aTagset.old2new.put("incor:incorBase", "incorBase");
-        aTagset.old2new.put("fw:fwFab", "fwFab");
-        aTagset.old2new.put("fw:fwNc", "fwNc");
-        aTagset.old2new.put("wbd:wbdComp", "wbdComp");
-        aTagset.old2new.put("wbd:wbdPre", "wbdPre");
-        aTagset.old2new.put("wbd:wbdOther", "wbdOther");
-        aTagset.old2new.put("styl:stylColl", "stylColl");
-        bTagset.old2new.put("styl:stylColl", "stylColl");
-        aTagset.old2new.put("styl:stylMark", "stylMark");
-        bTagset.old2new.put("styl:stylMark", "stylMark");
-        aTagset.old2new.put("styl:stylOther", "stylOther");
-        bTagset.old2new.put("styl:stylOther", "stylOther");
-
-        //?
-        aTagset.old2new.put("odd:oddObj", "oddObj");        //?
-        aTagset.old2new.put("miss:missObj", "missObj");
-        aTagset.old2new.put("miss:missPred", "missPred");
+//        // todo incorproate into the file
+//        aTagset.old2new.put("incorStem", "incorBase");
+//        aTagset.old2new.put("incor:incorInfl", "incorInfl");
+//        aTagset.old2new.put("incor:incorStem", "incorBase");
+//        aTagset.old2new.put("incor:incorBase", "incorBase");
+//        aTagset.old2new.put("fw:fwFab", "fwFab");
+//        aTagset.old2new.put("fw:fwNc", "fwNc");
+//        aTagset.old2new.put("wbd:wbdComp", "wbdComp");
+//        aTagset.old2new.put("wbd:wbdPre", "wbdPre");
+//        aTagset.old2new.put("wbd:wbdOther", "wbdOther");
+//        aTagset.old2new.put("styl:stylColl", "stylColl");
+//        bTagset.old2new.put("styl:stylColl", "stylColl");
+//        aTagset.old2new.put("styl:stylMark", "stylMark");
+//        bTagset.old2new.put("styl:stylMark", "stylMark");
+//        aTagset.old2new.put("styl:stylOther", "stylOther");
+//        bTagset.old2new.put("styl:stylOther", "stylOther");
+//
+//        //?
+//        aTagset.old2new.put("odd:oddObj", "oddObj");        //?
+//        aTagset.old2new.put("miss:missObj", "missObj");
+//        aTagset.old2new.put("miss:missPred", "missPred");
                 
     }
 

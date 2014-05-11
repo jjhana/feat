@@ -1,13 +1,13 @@
 package org.purl.jh.feat.layered;
 
 import cz.cuni.utkl.czesl.data.layerl.LForm;
-import cz.cuni.utkl.czesl.data.layerw.WForm;
 import cz.cuni.utkl.czesl.data.layerx.FForm;
 import java.awt.Font;
 import java.awt.Rectangle;
 import org.netbeans.api.visual.laf.LookFeel;
 import org.netbeans.api.visual.model.ObjectState;
 import org.netbeans.api.visual.widget.LabelWidget;
+import org.netbeans.modules.spellchecker.spi.dictionary.Dictionary;
 import org.netbeans.modules.spellchecker.spi.dictionary.ValidityType;
 import org.purl.jh.feat.layered.util.ElementUtils;
 import org.purl.jh.util.str.Strings;
@@ -96,8 +96,9 @@ public class WordWidget extends LabelWidget {
             flagCommented = true;
         }
 
-        if ( ((LayeredGraph)getScene()).getSpellChecker() != null && node.getToken() != null) {
-            ValidityType validity = ((LayeredGraph)getScene()).getSpellChecker().validateWord(node.getToken());
+        Dictionary spellchecker = ((LayeredGraph)getScene()).getProfile().getSpellchecker();
+        if ( spellchecker != null && node.getToken() != null) {
+            ValidityType validity = spellchecker.validateWord(node.getToken());
             if (validity != ValidityType.VALID) {
                 flagIncorrect = true;
             }

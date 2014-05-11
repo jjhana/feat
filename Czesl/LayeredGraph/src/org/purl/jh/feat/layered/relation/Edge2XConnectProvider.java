@@ -20,8 +20,7 @@ import javax.swing.Action;
 import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 import org.netbeans.api.visual.widget.LabelWidget;
-import org.purl.jh.feat.sconfig.ErrorSpecs;
-import org.purl.jh.feat.sconfig.ErrorTagset;
+import org.purl.jh.feat.profiles.ErrorTagset;
 
 /**
  * Connection drawn from an edge to a form or to another edge (error link)
@@ -120,7 +119,7 @@ public class Edge2XConnectProvider extends AbstractConnectProvider implements Co
     protected void addErrorLink(Widget targetWidget) {
         log.info("Creating error link srcEdge=%s, target=%s", srcEdge, targetWidget);
 
-        final ErrorTagset tagset = ErrorSpecs.INSTANCE.getErrorSpecs( srcEdge.getLayer().getLayerIdx() );
+        final ErrorTagset tagset = scene.getProfile().getTagset(srcEdge.getLayer());
         
                 
         // --- Determine the possible sources ---

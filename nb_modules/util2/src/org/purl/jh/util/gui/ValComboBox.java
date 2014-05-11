@@ -24,7 +24,7 @@ public class ValComboBox<I, D> extends JComboBox {
     }
 
     public ValComboBox(final List<I> aIds, final List<D> aDisplayVals) {
-        super( new Vector<D>(aDisplayVals) );
+        super( new Vector<>(aDisplayVals) );
         ids = aIds;
     }
 

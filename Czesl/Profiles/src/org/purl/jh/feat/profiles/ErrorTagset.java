@@ -1,7 +1,5 @@
-package org.purl.jh.feat.sconfig;
+package org.purl.jh.feat.profiles;
 
-import java.util.HashMap;
-import java.util.Map;
 import org.purl.jh.pml.ts.AtomicTagset;
 
 /**
@@ -10,7 +8,6 @@ import org.purl.jh.pml.ts.AtomicTagset;
  * @author jirka
  */
 public class ErrorTagset extends AtomicTagset<ErrorTag> {
-    final Map<String,String> old2new = new HashMap<>();
 
     public ErrorTagset() {
     }
@@ -28,16 +25,4 @@ public class ErrorTagset extends AtomicTagset<ErrorTag> {
     public ErrorTag createTagI(String tag, String comment, boolean deprecated, boolean auto, String menu, int minLowerLegs, int maxLowerLegs, int minUpperLegs, int maxUpperLegs, int minLinks, int maxLinks) {
         return new ErrorTag(this, tag, comment, deprecated, auto, menu, minLowerLegs, maxLowerLegs, minUpperLegs, maxUpperLegs, minLinks, maxLinks);
     }
-
-    // todo temporary
-    /**
-     * 
-     * @param aTagId
-     * @return null means the tag cannot be uniquely updated
-     */
-    public String update(String aTagId) {
-        final String newId = old2new.get(aTagId);
-        return newId != null ? newId : aTagId;
-    }
-
 }

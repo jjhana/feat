@@ -1,6 +1,9 @@
 package org.purl.jh.feat.layered;
 
 
+import org.purl.jh.feat.profiles.ProfileRegistry;
+import org.purl.jh.feat.profiles.Profile;
+import com.google.common.base.Preconditions;
 import cz.cuni.utkl.czesl.data.layerl.Edge;
 import cz.cuni.utkl.czesl.data.layerl.LPara;
 import cz.cuni.utkl.czesl.data.layerw.WForm;
@@ -22,6 +25,7 @@ import java.awt.event.MouseWheelListener;
 import java.beans.PropertyVetoException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.Set;
@@ -42,7 +46,6 @@ import javax.swing.text.Highlighter;
 import org.netbeans.api.visual.model.ObjectSceneEvent;
 import org.netbeans.api.visual.model.ObjectSceneEventType;
 import org.netbeans.api.visual.model.ObjectSceneListener;
-import org.netbeans.api.visual.model.ObjectState;
 import org.netbeans.api.visual.print.ScenePrinter;
 import org.netbeans.spi.navigator.NavigatorLookupHint;
 import org.openide.awt.UndoRedo;
@@ -82,30 +85,28 @@ import org.purl.net.jh.nbutil.NbUtil;
 import org.purl.net.jh.nbutil.ZoomModel;
 import org.purl.net.jh.nbutil.ZoomUtil;
 import org.purl.jh.util.col.Cols;
-import org.purl.jh.util.err.Err;
+import org.purl.jh.util.gui.list.Combos;
 import org.purl.net.jh.nb.html.JHtmlPane;
 import org.purl.net.jh.nbutil.visual.SceneSupport;
 
 
 /**
- * Top component which displays something.
- *
- * Assumptions:
- * <ul>
- * <li>number of documents and paragraphs is fixed fixxed
- * <li>
- * </ul>
- *
+ * Top component displaying the layered error annotation graph
  */
-//@ConvertAsProperties(dtd = "-//cz.cuni.utkl.czesl.views.layered//LayeredView//EN",
-//autostore = false)
 public final class LayeredViewTopComponent extends CloneableTopComponent implements ExplorerManager.Provider, AcceptingLocation {
     private final static org.purl.jh.util.Logger log = org.purl.jh.util.Logger.getLogger(LayeredViewTopComponent.class);
 
+    // Keys used to store preferences
+    private final static String PREF_TWO_VIEWS = "twoViews";
+    private final static String PREF_XSPACING = "xSpacing";
+    private final static String PREF_YSPACING = "ySpacing";
+    private final static String PREF_PROFILE = "profile";
+    private final static String PREF_ZOOM_FACTOR = "zoomFactor";
 
 
     //@ServiceProvider(service=LLayerView.class)
     public static class LLayerViewSupport implements LLayerView {
+        @Override
         public CloneableTopComponent getTopComponent(DataObject aDObj) {
             return (aDObj == null || !(aDObj instanceof LLayerDataObject)) ?
                 null : new org.purl.jh.feat.layered.LayeredViewTopComponent( (LayerDataObject<?>)aDObj );
@@ -114,6 +115,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
     @ServiceProvider(service=WLayerView.class)
     public static class WLayerViewSupport implements WLayerView {
+        @Override
         public CloneableTopComponent getTopComponent(DataObject aDObj) {
             return (aDObj == null || !(aDObj instanceof WLayerDataObject)) ?
                 null : new org.purl.jh.feat.layered.LayeredViewTopComponent( (LayerDataObject<?>)aDObj );
@@ -132,6 +134,8 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
     /** Stack of current paragraphs */
     private ParaModel curParaModel;
 
+    private Profile profile;
+    
     //private LayeredXGraph xgraph;
     private LayeredGraph graph, graph2;
     private JScrollPane graphScrollPane;
@@ -154,6 +158,8 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         gotoControl1.setOpaque(false);
         gotoControl1.setBorder(new SoftBevelBorder(BevelBorder.RAISED));        
 
+        profileCombo.setModel( Combos.getModel(new ArrayList<>(ProfileRegistry.ids())) );    // todo sort (streams)
+        
         //associateLookup(new ProxyLookup(getLookup(),new AbstractLookup(lookupContent)));  // cannot do this as getLookup creates the lookup and then it cannot be changed :)
 
         // todo tmp trying nodeselection
@@ -162,10 +168,12 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
         //gotoControl1.sizeChanged(WIDTH);
         gotoControl1.addListener(new CurListener() {
+            @Override
             public void curChanged(int aIdx) {
                 requestPara(aIdx);
             }
 
+            @Override
             public void sizeChanged(int aNewSize) {
                 log.warning("unhandled size change");
             }
@@ -173,6 +181,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
         graphZoomControl.init();
         graphZoomControl.getModel().addChangeListener(new ChangeListener() {
+            @Override
             public void stateChanged(ChangeEvent e) {
                 updateZoom();
             }
@@ -201,6 +210,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         lookupContent.add(pseudoModel.getwLayer());
         lookupContent.add(
                 new NavigatorLookupHint() {
+                    @Override
                     public String getContentType() {
                         return "text/feat-model";
                     }
@@ -209,13 +219,17 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
         addSaveSupport(aDObj);
 
+        final String profileId = getPrefs().get(PREF_PROFILE, null);
+        final Profile tmp = ProfileRegistry.get(profileId);
+        setProfile(tmp == null ? ProfileRegistry.get(ProfileRegistry.EMPTY_PROFILE_ID) : tmp);
+        
         displaySubViews();
 
         // initialize controls with saved values (must be the same as in showParaGraph below)
-        xSpacingControl.setValue( getPrefs().getInt("xSpacing", 100) );
-        ySpacingControl.setValue( getPrefs().getInt("ySpacing", 100) );
-        graphZoomControl.getModel().setVal( getPrefs().getDouble("zoomFactor", 1.0) );
-        splitToggle.setSelected(  getPrefs().getBoolean("twoViews", false) );
+        xSpacingControl.setValue( getPrefs().getInt(PREF_XSPACING, 100) );
+        ySpacingControl.setValue( getPrefs().getInt(PREF_YSPACING, 100) );
+        graphZoomControl.getModel().setVal( getPrefs().getDouble(PREF_ZOOM_FACTOR, 1.0) );
+        splitToggle.setSelected(  getPrefs().getBoolean(PREF_TWO_VIEWS, false) );
 
         pseudoModel.addChangeListener(widgetNode);
         
@@ -229,6 +243,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         if (pseudoModel.getTextLayer() != null) {
             textView = new JHtmlPane();
             ((JHtmlPane)textView).addCursorListener(new JHtmlPane.CursorListener() {
+                @Override
                 public void cursorChanged(int aPos) {
                     moveToFormWithChar(aPos);
                 }
@@ -298,12 +313,15 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
     protected void componentActivated() {
     }
 
+    
+
 
 // =============================================================================
 // Saving associated dataobjets
 // =============================================================================
     /** Saves all layers that need saving (todo should probably work with databoject not w/ layers)*/
     private SaveCookie combinedSaveCookie = new SaveCookie() {
+        @Override
         public void save() throws IOException {
             LayerModelSupport.save(pseudoModel.getTopLayer());
         }
@@ -391,6 +409,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
                 lookupContent.remove(combinedSaveCookie);
             } else {
                 combinedSaveCookie = new SaveCookie() {
+                    @Override
                     public void save() throws IOException {
                         for (Layer<?> l : pseudoModel.getLayers()) {
                             try {
@@ -438,7 +457,6 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         jSeparator4 = new javax.swing.JToolBar.Separator();
         splitToggle = new javax.swing.JToggleButton();
         refreshViewButton = new javax.swing.JButton();
-        jSeparator1 = new javax.swing.JToolBar.Separator();
         exportButton = new javax.swing.JButton();
         printButton = new javax.swing.JButton();
         jSeparator3 = new javax.swing.JToolBar.Separator();
@@ -447,6 +465,9 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         jLabel3 = new javax.swing.JLabel();
         ySpacingControl = new javax.swing.JSpinner();
         graphZoomControl = new org.purl.net.jh.nbutil.ZoomControl();
+        jSeparator1 = new javax.swing.JToolBar.Separator();
+        profileLabel = new javax.swing.JLabel();
+        profileCombo = new javax.swing.JComboBox();
         jSplitPane1 = new javax.swing.JSplitPane();
         jSplitPane2 = new javax.swing.JSplitPane();
         jPanel2 = new javax.swing.JPanel();
@@ -457,15 +478,15 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
         setLayout(new java.awt.BorderLayout());
 
+        jToolBar1.setFloatable(false);
         jToolBar1.setRollover(true);
 
         gotoControl1.setFloatable(false);
-        gotoControl1.setMaximumSize(new java.awt.Dimension(164, 25));
         jToolBar1.add(gotoControl1);
         jToolBar1.add(jSeparator4);
 
         splitToggle.setIcon(new javax.swing.ImageIcon(getClass().getResource("/org/purl/jh/feat/layered/icons/application_split.png"))); // NOI18N
-        org.openide.awt.Mnemonics.setLocalizedText(splitToggle, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.splitToggle.text")); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(splitToggle, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.splitToggle.text_1")); // NOI18N
         splitToggle.setToolTipText(org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.splitToggle.toolTipText")); // NOI18N
         splitToggle.setFocusable(false);
         splitToggle.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -478,7 +499,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         jToolBar1.add(splitToggle);
 
         refreshViewButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/org/purl/jh/feat/layered/icons/arrow_refresh.png"))); // NOI18N
-        org.openide.awt.Mnemonics.setLocalizedText(refreshViewButton, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.refreshViewButton.text")); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(refreshViewButton, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.refreshViewButton.text_1")); // NOI18N
         refreshViewButton.setToolTipText(org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.refreshViewButton.toolTipText")); // NOI18N
         refreshViewButton.setFocusable(false);
         refreshViewButton.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -489,10 +510,9 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
             }
         });
         jToolBar1.add(refreshViewButton);
-        jToolBar1.add(jSeparator1);
 
         exportButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/org/purl/jh/feat/layered/icons/picture_save.png"))); // NOI18N
-        org.openide.awt.Mnemonics.setLocalizedText(exportButton, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.exportButton.text")); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(exportButton, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.exportButton.text_1")); // NOI18N
         exportButton.setToolTipText(org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.exportButton.toolTipText")); // NOI18N
         exportButton.setFocusable(false);
         exportButton.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -505,7 +525,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         jToolBar1.add(exportButton);
 
         printButton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/org/purl/jh/feat/layered/icons/document-print.png"))); // NOI18N
-        org.openide.awt.Mnemonics.setLocalizedText(printButton, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.printButton.text")); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(printButton, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.printButton.text_1")); // NOI18N
         printButton.setToolTipText(org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.printButton.toolTipText")); // NOI18N
         printButton.setFocusable(false);
         printButton.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
@@ -518,7 +538,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         jToolBar1.add(printButton);
         jToolBar1.add(jSeparator3);
 
-        org.openide.awt.Mnemonics.setLocalizedText(jLabel1, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.jLabel1.text")); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(jLabel1, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.jLabel1.text_1")); // NOI18N
         jToolBar1.add(jLabel1);
 
         xSpacingControl.setToolTipText(org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.xSpacingControl.toolTipText")); // NOI18N
@@ -531,7 +551,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         });
         jToolBar1.add(xSpacingControl);
 
-        org.openide.awt.Mnemonics.setLocalizedText(jLabel3, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.jLabel3.text")); // NOI18N
+        org.openide.awt.Mnemonics.setLocalizedText(jLabel3, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.jLabel3.text_1")); // NOI18N
         jToolBar1.add(jLabel3);
 
         ySpacingControl.setToolTipText(org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.ySpacingControl.toolTipText")); // NOI18N
@@ -547,6 +567,21 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         graphZoomControl.setFloatable(false);
         graphZoomControl.setRollover(true);
         jToolBar1.add(graphZoomControl);
+        jToolBar1.add(jSeparator1);
+
+        org.openide.awt.Mnemonics.setLocalizedText(profileLabel, org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.profileLabel.text")); // NOI18N
+        jToolBar1.add(profileLabel);
+
+        profileCombo.setToolTipText(org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.toolTipText")); // NOI18N
+        profileCombo.setMaximumSize(new java.awt.Dimension(40, 20));
+        profileCombo.setMinimumSize(new java.awt.Dimension(40, 20));
+        profileCombo.setName(""); // NOI18N
+        profileCombo.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                profileComboActionPerformed(evt);
+            }
+        });
+        jToolBar1.add(profileCombo);
 
         add(jToolBar1, java.awt.BorderLayout.PAGE_START);
 
@@ -583,13 +618,13 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
     private void xSpacingControlStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_xSpacingControlStateChanged
         final Point p = rememberPos();
-        final int oldXSpace = (graph == null) ? 0 : graph.getxSpace();
+        final int oldXSpace = (graph == null) ? 0 : graph.getXSpace();
 
         Integer val = (Integer) xSpacingControl.getValue();
 
 
         if (graph != null && val != null) {
-            getPrefs().putInt("xSpacing", val);
+            getPrefs().putInt(PREF_XSPACING, val);
             graph.setXSpace(val);
             showParaGraph();
 
@@ -620,11 +655,11 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
     private void ySpacingControlStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_ySpacingControlStateChanged
         final Point p = rememberPos();
-        final int oldYSpace = (graph == null) ? 0 : graph.getySpace();
+        final int oldYSpace = (graph == null) ? 0 : graph.getYSpace();
 
         Integer val = (Integer) ySpacingControl.getValue();
         if (graph != null && val != null) {
-            getPrefs().putInt("ySpacing", val);
+            getPrefs().putInt(PREF_YSPACING, val);
             graph.setYSpace(val);
             showParaGraph();
 
@@ -634,10 +669,28 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
     }//GEN-LAST:event_ySpacingControlStateChanged
 
     private void splitToggleActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_splitToggleActionPerformed
-        getPrefs().putBoolean("twoViews", splitToggle.isSelected());
+        getPrefs().putBoolean(PREF_TWO_VIEWS, splitToggle.isSelected());
         showParaGraph(); // refresh
     }//GEN-LAST:event_splitToggleActionPerformed
 
+    
+
+    private void profileComboActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_profileComboActionPerformed
+        String id = profileCombo.getSelectedItem().toString();
+        Profile tmp = ProfileRegistry.get(id);
+        Preconditions.checkNotNull(tmp, "Unknown profile %s", id);  // todo or just warn and tmp = ProfileRegistry.EMPTY_PROFILE
+        setProfile(tmp);
+        fullRefresh();
+    }//GEN-LAST:event_profileComboActionPerformed
+
+    private void setProfile(Profile profile) {
+        if (this.profile == profile ) return;
+        
+        this.profile = profile;
+        profileCombo.setSelectedItem(profile.getId());
+        getPrefs().put(PREF_PROFILE, profile.getId());
+    }
+    
     /** todo under contruction */
     int curForm = 0;
 
@@ -659,7 +712,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         log.finer("updateZoom: model = %s", zoomModel);
 
         Rectangle r = graph.getBounds();
-        Err.iAssert(r != null, "graph bounds are null");
+        Preconditions.checkNotNull(r, "graph bounds are null");
 
         double zoomFactor = ZoomUtil.zoomFactor(
                 r.width, r.height,
@@ -668,7 +721,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         log.finer("zoom-stateChanged: parent:  %s, w=%d, h=%d",  graphScrollPane.getViewport().getClass(),
                 graphScrollPane.getViewport().getWidth(), graphScrollPane.getViewport().getHeight());
 
-        getPrefs().putDouble("zoomFactor", zoomFactor);
+        getPrefs().putDouble(PREF_ZOOM_FACTOR, zoomFactor);
         graph.setZoomFactor(zoomFactor);
         log.fine("zoom-stateChanged: zoomFactor: %f", zoomFactor );
     }
@@ -726,7 +779,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         //final String tooltip = org.openide.util.NbBundle.getMessage(LayeredViewTopComponent.class, "LayeredViewTopComponent.zoomSlider.toolTipText");
         // todo zoom ZoomModel.initZoom(zoomSlider, 50, 10, tooltip, getPrefs(), "graphZoom", cSliderMax );
 
-        if (getPrefs().getBoolean("twoViews", false)) {
+        if (getPrefs().getBoolean(PREF_TWO_VIEWS, false)) {
             graph2 = createView();
             JScrollPane graphScrollPane2 = new JScrollPane(graph2.getView());
 
@@ -759,10 +812,10 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         pseudoModel.addChangeListener(view);
 
         // --- initialize graph values according to saved preferences (pre drawing/component); must be the same as above ---
-        view.setXSpace(getPrefs().getInt("xSpacing", 100));
-        view.setYSpace(getPrefs().getInt("ySpacing", 100));
-        view.setZoomFactor(getPrefs().getDouble("zoomFactor", 1.0));
-        view.setSpellChecker(Spellchecker.init("cs"));       // todo make lg configurable
+        view.setXSpace(getPrefs().getInt(PREF_XSPACING, 100));
+        view.setYSpace(getPrefs().getInt(PREF_YSPACING, 100));
+        view.setZoomFactor(getPrefs().getDouble(PREF_ZOOM_FACTOR, 1.0));
+        view.setProfile(profile);
 
         view.initLayout();
         view.draw();
@@ -782,6 +835,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
 //        WindowManager.getDefault().getMainWindow().addKeyListener((KeyListener)component);  // needed for some reason, otherwise teh scene does not get keyboard events
         component.addFocusListener(new FocusListener() {
+            @Override
             public void focusGained(FocusEvent e) {
                 log.info("Focus gained");
                 component.setBorder(BorderFactory.createLineBorder(Color.black, 3));
@@ -793,6 +847,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
                 //WindowManager.getDefault().getMainWindow().addKeyListener((KeyListener)component);  // needed for some reason, otherwise teh scene does not get keyboard events
             }
 
+            @Override
             public void focusLost(FocusEvent e) {
                 log.info("Focus lost");
                 component.setBorder(BorderFactory.createLineBorder(Color.black, 0));
@@ -820,6 +875,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
     /** Mouse wheel -> horizontal scroll */
     private final MouseWheelListener mouseWheelListener = new MouseWheelListener() {
+        @Override
         public void mouseWheelMoved(MouseWheelEvent e) {
             final int notches = e.getWheelRotation();
             final JScrollBar scrollbar = graphScrollPane.getHorizontalScrollBar();
@@ -888,7 +944,7 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
             WPara wpara = (para instanceof WPara) ? ((WPara)para) : ((LPara)para).getWPara();
             int paraPos = pseudoModel.getWparas().indexOf(wpara);
             requestPara(paraPos);
-            Err.iAssert(paraPos == curPara, "Current para mismatch");
+            Preconditions.checkState(paraPos == curPara, "Current para mismatch");
             log.info("Switched paragraph");
         }
 
@@ -897,11 +953,13 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
 
 
     private final ObjectSceneListener objListener = new ObjectSceneListenerAdapter() {
+        @Override
         public void focusChanged(ObjectSceneEvent event, Object previousFocusedObject, Object newFocusedObject) {
             log.fine("objListener focusChanged %s", newFocusedObject);
             cursorChanged(newFocusedObject);
         }
 
+        @Override
         public void selectionChanged(ObjectSceneEvent event, Set<Object> previousSelection, Set<Object> newSelection) {
             log.fine("objListener selectionChanged %s", newSelection);
             Object obj = (newSelection.size() == 1) ? Cols.getFirstElement(newSelection) : null;
@@ -1054,6 +1112,8 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
     private javax.swing.JSplitPane jSplitPane2;
     private javax.swing.JToolBar jToolBar1;
     private javax.swing.JButton printButton;
+    private javax.swing.JComboBox profileCombo;
+    private javax.swing.JLabel profileLabel;
     private javax.swing.JButton refreshViewButton;
     private javax.swing.JToggleButton splitToggle;
     private javax.swing.JSpinner xSpacingControl;
@@ -1073,21 +1133,11 @@ public final class LayeredViewTopComponent extends CloneableTopComponent impleme
         // http://wiki.apidesign.org/wiki/PropertyFiles
         p.setProperty("version", "1.0");
         // TODO store your settings
-
-
-    } //    Object readProperties(java.util.Properties p) {
-    //        if (instance == null) {
-    //            instance = this;
-    //        }
-    //        instance.readPropertiesImpl(p);
-    //        return instance;
-    //    }
-
+    } 
+    
     private void readPropertiesImpl(java.util.Properties p) {
         String version = p.getProperty("version");
         // TODO read your settings according to their version
-
-
     }
 
     @Override

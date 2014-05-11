@@ -347,9 +347,6 @@
     </folder>
     <folder name="Services">
         <folder name="MIMEResolver">
-            <file name="ErrorTagsetResolver.xml" url="ErrorTagsetResolver.xml">
-                <attr name="displayName" bundlevalue="org.purl.jh.feat.NbData.Bundle#Services/MIMEResolver/ErrorTagsetResolver.xml"/>
-            </file>
             <file name="LLayerResolver.xml" url="LLayerResolver.xml">
                 <attr name="displayName" bundlevalue="org.purl.jh.feat.NbData.Bundle#Services/MIMEResolver/LLayerResolver.xml"/>
             </file>

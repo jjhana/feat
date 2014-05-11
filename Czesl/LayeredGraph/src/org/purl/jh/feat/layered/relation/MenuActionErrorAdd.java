@@ -13,8 +13,8 @@ import java.util.List;
 import javax.swing.AbstractAction;
 import javax.swing.Action;
 import org.netbeans.api.visual.widget.Widget;
-import org.purl.jh.feat.sconfig.ErrorSpecs;
-import org.purl.jh.feat.sconfig.ErrorTag;
+import org.purl.jh.feat.profiles.ErrorTag;
+import org.purl.jh.feat.profiles.ErrorTagset;
 
 /**
  * todo org/openide/awt/Mnemonics.java
@@ -32,6 +32,7 @@ public class MenuActionErrorAdd extends AbstractAction implements SubMenuAction 
         rel = aEdge;
     }
 
+    @Override
     public int inline() {
         return 0;
     }
@@ -45,35 +46,39 @@ public class MenuActionErrorAdd extends AbstractAction implements SubMenuAction 
     public List<Action> getActions(final Widget aWidget, final Point aPoint, Position anchor) {
         log.fine("MenuActionErrorAdd.getActions");
         final LLayer layer = rel.getLayer();
+        final ErrorTagset tagset = view.getProfile().getTagset(layer);
+
         final List<Action> actions = new ArrayList<>();
         
-        for ( ErrorTag tag : ErrorSpecs.INSTANCE.getErrorSpecs(layer.getLayerIdx()).getTags() ) {
-            if (hasError(rel, tag.getId()) || tag.isDeprecated() || tag.isAuto()) {
-                continue;
-            }
-
-            final ErrorTag ftag = tag;
-
-            final Action act = new AbstractAction() {
-                @Override
-                public void actionPerformed(ActionEvent e) {
-                    log.fine("MenuActionErrorAdd...actionPerformed etag=%s, rel=%s", ftag, rel);
-                    layer.errorAdd(ftag.getId(), rel, view, null);
+        if (tagset != null) {
+            for ( ErrorTag tag : tagset.getTags() ) {
+                if (hasError(rel, tag.getId()) || tag.isDeprecated() || tag.isAuto()) {
+                    continue;
                 }
-            };
 
-            setLabel(act, ftag.getMenuLabel());
+                final ErrorTag ftag = tag;
 
-            actions.add(act);
+                final Action act = new AbstractAction() {
+                    @Override
+                    public void actionPerformed(ActionEvent e) {
+                        log.fine("MenuActionErrorAdd...actionPerformed etag=%s, rel=%s", ftag, rel);
+                        layer.errorAdd(ftag.getId(), rel, view, null);
+                    }
+                };
+
+                setLabel(act, ftag.getMenuLabel());
+
+                actions.add(act);
+            }
         }
-
+        
         return actions;
     }
 
     // todo do via mapping and contains
     private static boolean hasError(final Edge aEdge, final String errorTag) {
         for (Errorr error : aEdge.getErrors()) {
-            if (error.getTag() == errorTag) {
+            if (error.getTag().equals(errorTag)) {
                 return true;
             }
         }
@@ -96,7 +101,7 @@ public class MenuActionErrorAdd extends AbstractAction implements SubMenuAction 
             }
 
             if ((('A' <= ch) && (ch <= 'Z')) || (('0' <= ch) && (ch <= '9'))) {
-                action.putValue(MNEMONIC_KEY, (int)ch); ;
+                action.putValue(MNEMONIC_KEY, (int)ch);
             }
             else if (('a' <= ch) && (ch <= 'z')) {
                 action.putValue(MNEMONIC_KEY, (int) (ch + ('A' - 'a')) );

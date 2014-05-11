@@ -4,7 +4,7 @@
     <schema href="ldata_schema.xml" />
     <references>
       <reffile id="w" name="wdata" href="AA_AO_002_t_1.w.xml" />
-      <reffile id="http://utkl.cuni.cz/czesl/L1/2" name="tagset" href="http://utkl.cuni.cz/czesl/L1/2" />
+      <reffile id="t" name="tagset" href="http://utkl.cuni.cz/czesl/L1/2" />
     </references>
   </head>
   <doc id="w-AA_AO_002_t_1-d1" lowerdoc.rf="w#w-AA_AO_002_t_1-d1">
@@ -51,7 +51,7 @@
     <para id="a-AA_AO_002_t_1-d1p2" lowerpara.rf="w#w-AA_AO_002_t_1-d1p2">
       <s id="a-AA_AO_002_t_1-d1p2s0">
         <w id="a-AA_AO_002_t_1-d1p2w1">
-          <token>Vždycky</token>
+          <token>vvvv</token>
           <edge id="a-AA_AO_002_t_1-d1p2e0">
             <from>w#w-AA_AO_002_t_1-d1p2w1</from>
           </edge>

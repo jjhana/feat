@@ -5,14 +5,12 @@ import cz.cuni.utkl.czesl.data.layerl.Edge;
 import cz.cuni.utkl.czesl.data.layerl.Errorr;
 import cz.cuni.utkl.czesl.data.layerx.FForm;
 import cz.cuni.utkl.czesl.data.layerx.FormsLayer;
-import org.purl.jh.feat.layered.relation.ErrorTagWidget;
 import java.awt.Point;
 import java.awt.event.ActionEvent;
 import org.netbeans.api.visual.action.ConnectProvider;
 import org.netbeans.api.visual.action.ConnectorState;
 import org.netbeans.api.visual.widget.Scene;
 import org.netbeans.api.visual.widget.Widget;
-
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
@@ -21,8 +19,7 @@ import javax.swing.Action;
 import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 import org.netbeans.api.visual.widget.LabelWidget;
-import org.purl.jh.feat.sconfig.ErrorSpecs;
-import org.purl.jh.feat.sconfig.ErrorTagset;
+import org.purl.jh.feat.profiles.ErrorTagset;
 
 /**
  * Connection drawn from an error label/central node to a form or to another central node (error link)
@@ -124,8 +121,9 @@ public class Rel2XConnectProvider extends AbstractConnectProvider implements Con
 
     protected void addErrorLink(Widget targetWidget) {
         log.info("Creating error link srcEdge=%s, target=%s", srcEdge, targetWidget);
-        final ErrorTagset tagset = ErrorSpecs.INSTANCE.getErrorSpecs( srcEdge.getLayer().getLayerIdx() );
-
+        final ErrorTagset tagset = scene.getProfile().getTagset(srcEdge.getLayer());
+        if (tagset == null) return;
+        
         // --- Determine the possible sources ---
         final Set<Errorr> errors = new HashSet<>(srcEdge.getErrors());
         // Remove sources that are not possible ---
@@ -142,11 +140,10 @@ public class Rel2XConnectProvider extends AbstractConnectProvider implements Con
             }
         }
 
-        if (errors.isEmpty()) {
-            return;     // no revalidation needed, but it does not hurt
-        } else if (errors.size() == 1) {
+        if (errors.size() == 1) {
             scene.addErrorLink(errors.iterator().next(), targetEdge);
-        } else {
+        } 
+        else if (errors.size() > 1) {
             // display menu with errors to choose from
             final JPopupMenu menu = new JPopupMenu("Menu");
 
@@ -154,6 +151,7 @@ public class Rel2XConnectProvider extends AbstractConnectProvider implements Con
                 final Errorr errorf = error;
 
                 final Action a = new AbstractAction(error.getTag()) {
+                    @Override
                     public void actionPerformed(ActionEvent x) {
                         scene.addErrorLink(errorf, targetEdge);
                     }
