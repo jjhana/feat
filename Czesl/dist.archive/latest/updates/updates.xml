@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
+<module_updates timestamp="46/51/19/11/05/2014">
+
+
+
+<module codenamebase="org.purl.jh.feat.filesaction" distribution="org-purl-jh-feat-filesaction.nbm" downloadsize="7067" homepage="" license="D92C336" moduleauthor="Jiri Hana" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.filesaction" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.netbeans.api.progress/1 &gt; 1.26.1, org.openide.dialogs &gt; 7.23.1, org.openide.execution &gt; 1.24.1, org.openide.filesystems &gt; 7.53.2, org.openide.io &gt; 1.29.1, org.openide.loaders &gt; 7.32.1, org.openide.nodes &gt; 7.25.1, org.openide.util &gt; 8.19.2, org.openide.util.lookup &gt; 8.11.1, org.openide.windows &gt; 6.48.1, org.purl.jh.lib.org.apache.commons.io &gt; 2.1.0, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="filesAction" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.1.0"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.lib.glazedlists" distribution="org-purl-jh-lib-glazedlists.nbm" downloadsize="212355" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.lib.glazedlists" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.5" OpenIDE-Module-Name="lib-glazedlists" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.9.0"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.lib.groovy" distribution="org-purl-lib-groovy.nbm" downloadsize="1162993" homepage="" license="1C6BE266" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.lib.groovy" OpenIDE-Module-Implementation-Version="6" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="lib-groovy" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.8.6"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.lib.h2" distribution="org-purl-jh-lib-h2.nbm" downloadsize="455705" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.lib.h2" OpenIDE-Module-Implementation-Version="164" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="lib-h2" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.3.164"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.lib.jdom" distribution="org-purl-jh-lib-jdom.nbm" downloadsize="539282" homepage="" license="C81C288" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.lib.jdom" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="lib-jdom" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="2.0.0"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.libs.lombok" distribution="org-purl-jh-libs-lombok.nbm" downloadsize="1103808" homepage="" license="EB807BDD" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.libs.lombok" OpenIDE-Module-Implementation-Version="2" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Name="lib-lombok" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.12.2.2"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.lib.xstream" distribution="org-purl-jh-lib-xstream.nbm" downloadsize="106789" homepage="" license="FCAE5AFA" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.lib.xstream" OpenIDE-Module-Implementation-Version="2" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="lib-xstream" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.4.2"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.profile.czesl" distribution="org-purl-jh-feat-profile-czesl.nbm" downloadsize="6182" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.profile.czesl" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.spellchecker.apimodule &gt; 1.20.1, org.openide.util.lookup &gt; 8.24.1, org.purl.jh.feat.profiles &gt; 1.0, org.purl.jh.lib.guava &gt; 16.0, org.purl.jh.pml/1 &gt; 1.8" OpenIDE-Module-Name="ProfileCzesl" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.profile.hr" distribution="org-purl-jh-feat-profile-hr.nbm" downloadsize="3820" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.profile.hr" OpenIDE-Module-Implementation-Version="140511" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.spellchecker.apimodule &gt; 1.20.1, org.openide.util.lookup &gt; 8.24.1, org.purl.jh.feat.profiles &gt; 1.0, org.purl.jh.pml/1 &gt; 1.8" OpenIDE-Module-Name="ProfileHr" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.profiles" distribution="org-purl-jh-feat-profiles.nbm" downloadsize="6928" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.profiles" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.netbeans.modules.spellchecker.apimodule &gt; 1.20.1, org.openide.util.lookup &gt; 8.24.1, org.purl.jh.libs.lombok &gt; 1.12.2, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.9" OpenIDE-Module-Name="Profiles" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.profilesui" distribution="org-purl-jh-feat-profilesui.nbm" downloadsize="3157" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.profilesui" OpenIDE-Module-Implementation-Version="140511" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Name="ProfilesUI" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
+<module_group name="fea">
+
+<module codenamebase="org.purl.jh.feat.navigator" distribution="org-purl-jh-feat-navigator.nbm" downloadsize="27350" homepage="" license="D92C336" moduleauthor="Jiri Hana" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.navigator" OpenIDE-Module-Display-Category="fea" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.netbeans.spi.navigator/1 &gt; 1.20.1, org.openide.awt &gt; 7.39.1, org.openide.dialogs &gt; 7.23.1, org.openide.explorer &gt; 6.40.1, org.openide.filesystems &gt; 7.53.2, org.openide.loaders &gt; 7.32.1, org.openide.nodes &gt; 7.25.1, org.openide.text &gt; 6.43.1, org.openide.util &gt; 8.19.1, org.openide.util.lookup &gt; 8.11.1, org.openide.windows &gt; 6.48.1, org.purl.jh.feat.NbData &gt; 1.8, org.purl.jh.feat.layered &gt; 1.7, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.lib.glazedlists &gt; 1.8, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.lib.xstream &gt; 1.4, org.purl.jh.libs.lombok &gt; 0.11, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="Navigator" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.1.0"/>
+    
+</module>
+
+</module_group>
+
+<module_group name="feat">
+
+<module codenamebase="org.purl.net.jh.feat.brand" distribution="org-purl-net-jh-feat-brand.nbm" downloadsize="218188" global="true" homepage="http://ufal.mff.cuni.cz/~hana/feat.html" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.net.jh.feat.brand" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="26" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Long-Description="Feat's branding." OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.20.1" OpenIDE-Module-Name="Brand" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Feat's branding." OpenIDE-Module-Specification-Version="1.4.26"/>
+    
+</module>
+
+<module codenamebase="cz.cuni.utkl.czesl.data" distribution="cz-cuni-utkl-czesl-data.nbm" downloadsize="29948" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="cz.cuni.utkl.czesl.data/2" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Module providing objects encoding PML data specific to feat." OpenIDE-Module-Module-Dependencies="org.jdom/1 &gt; 1.1.30, org.netbeans.api.annotations.common/1 &gt; 1.3.1, org.openide.filesystems &gt; 7.32.1.1.1, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.libs.commons.lang &gt; 3.0.0, org.purl.jh.libs.lombok &gt; 1.12, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.7" OpenIDE-Module-Name="Data" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Module providing objects encoding PML data specific to feat." OpenIDE-Module-Specification-Version="2.13.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.diffui" distribution="org-purl-jh-feat-diffui.nbm" downloadsize="38656" homepage="http://ufal.mff.cuni.cz/~hana/feat.html" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.diffui" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.netbeans.api.visual &gt; 2.28.1, org.netbeans.modules.settings/1 &gt; 1.30.1, org.netbeans.spi.navigator/1 &gt; 1.23.1, org.openide.awt &gt; 7.30.1, org.openide.dialogs &gt; 7.18.1, org.openide.explorer &gt; 6.45.1, org.openide.filesystems &gt; 7.46.1, org.openide.io &gt; 1.26.1, org.openide.loaders &gt; 7.20.1, org.openide.nodes &gt; 7.20.1, org.openide.util &gt; 8.14.1, org.openide.util.lookup &gt; 8.6.1, org.openide.windows &gt; 6.39.1, org.purl.jh.feat.NbData &gt; 1.8, org.purl.jh.feat.filesaction &gt; 1.1, org.purl.jh.feat.layered &gt; 1.7, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8, org.purl.lib.groovy &gt; 1.8, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="diffUi" OpenIDE-Module-Requires="org.openide.windows.WindowManager, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Module for comparing and merging two parallel annotations" OpenIDE-Module-Specification-Version="1.5.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.NbData" distribution="org-purl-jh-feat-NbData.nbm" downloadsize="11195" homepage="http://ufal.mff.cuni.cz/~hana/feat.html" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.NbData" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Layer over feat's Data module providing Netbeans RCP specifics." OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.openide.awt &gt; 7.23.1, org.openide.dialogs &gt; 7.20.1, org.openide.filesystems &gt; 7.38.2, org.openide.loaders &gt; 7.16.1, org.openide.modules &gt; 7.23.1, org.openide.nodes &gt; 7.16.1, org.openide.text &gt; 6.36.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nb.html/1 &gt; 1.3, org.purl.net.jh.nb.img/1 &gt; 1.4, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="fNbData" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Layer over feat's Data module providing Netbeans RCP specifics." OpenIDE-Module-Specification-Version="1.8.0"/>
+    
+</module>
+
+<module codenamebase="cz.cuni.utkl.czesl.html2pml" distribution="cz-cuni-utkl-czesl-html2pml.nbm" downloadsize="60746" homepage="http://ufal.mff.cuni.cz/~hana/feat.html" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="cz.cuni.utkl.czesl.html2pml" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Html to pml conversion" OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.lib.jdom &gt; 2.0, org.purl.jh.libs.commons.lang &gt; 3.0.0, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8" OpenIDE-Module-Name="html2pml" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Html to pml conversion." OpenIDE-Module-Specification-Version="1.8.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.net.jh.feat.html2pml" distribution="org-purl-net-jh-feat-html2pml.nbm" downloadsize="11883" homepage="http://ufal.mff.cuni.cz/~hana/feat.html" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.net.jh.feat.html2pml" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="User interface of html to pml conversion. Paralel to the Import module. Relies on html2pml module for the actual conversion." OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, cz.cuni.utkl.czesl.html2pml &gt; 1.8, org.netbeans.api.progress/1 &gt; 1.23.1, org.openide.awt &gt; 7.30.1, org.openide.dialogs &gt; 7.20.1, org.openide.execution &gt; 1.21.1, org.openide.filesystems &gt; 7.38.2, org.openide.io &gt; 1.23.1, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.purl.jh.feat.NbData &gt; 1.8, org.purl.jh.feat.filesaction &gt; 1.1, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="html2pmlUi" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="User interface of html to pml conversion" OpenIDE-Module-Specification-Version="1.7.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.importx" distribution="org-purl-jh-feat-importx.nbm" downloadsize="14007" homepage="" license="D92C336" moduleauthor="Jiri Hana" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.importx" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Import into Czesl pml (feat's format). Dialog and dispatching code. The actual conversion is in other modules. Currently only the html2pml module is supported. Paralel to the html2pmlUi module." OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.html2pml &gt; 1.8, org.openide.awt &gt; 7.23.1, org.openide.dialogs &gt; 7.15.1, org.openide.filesystems &gt; 7.38.2, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="Import" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Import into Czesl pml (feat's format)." OpenIDE-Module-Specification-Version="1.2.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.layered" distribution="org-purl-jh-feat-layered.nbm" downloadsize="57439" eager="true" homepage="" license="D92C336" moduleauthor="Jiri Hana" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.feat.layered" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.netbeans.api.annotations.common/1 &gt; 1.11.1, org.netbeans.api.visual &gt; 2.30.1, org.netbeans.modules.spellchecker.apimodule &gt; 1.10.1, org.netbeans.spi.navigator/1 &gt; 1.20.1, org.openide.awt &gt; 7.39.1, org.openide.explorer &gt; 6.40.1, org.openide.filesystems &gt; 7.53.2, org.openide.io &gt; 1.29.1, org.openide.loaders &gt; 7.32.1, org.openide.nodes &gt; 7.25.1, org.openide.util &gt; 8.19.1, org.openide.util.lookup &gt; 8.11.1, org.openide.windows &gt; 6.48.1, org.purl.jh.feat.NbData &gt; 1.8, org.purl.jh.feat.profiles &gt; 1.0, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.libs.lombok &gt; 1.12.2, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nb.html/1 &gt; 1.3, org.purl.net.jh.nb.img/1 &gt; 1.4, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="LayeredGraph" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic module displaying feat error-annotation layers" OpenIDE-Module-Specification-Version="1.7.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.views.layertext" distribution="org-purl-jh-feat-views-layertext.nbm" downloadsize="13035" homepage="" license="D92C336" moduleauthor="Jiri Hana" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.views.layertext" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.netbeans.modules.settings/1 &gt; 1.33.1, org.openide.awt &gt; 7.39.1, org.openide.nodes &gt; 7.25.1, org.openide.util &gt; 8.19.1, org.openide.util.lookup &gt; 8.11.1, org.openide.windows &gt; 6.48.1, org.purl.jh.feat.layered &gt; 1.7, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8" OpenIDE-Module-Name="LayerTextView" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="View displaying tokens on the current layer as continuous text" OpenIDE-Module-Specification-Version="1.1.0"/>
+    
+</module>
+
+<module codenamebase="cz.cuni.utkl.czesl.main" distribution="cz-cuni-utkl-czesl-main.nbm" downloadsize="13012" homepage="purl.org/net/feat" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="cz.cuni.utkl.czesl.main/1" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.8" OpenIDE-Module-Long-Description="Main feat module" OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.netbeans.api.annotations.common/1 &gt; 1.3.1, org.netbeans.modules.autoupdate.services &gt; 1.16.1, org.netbeans.modules.options.api/1 &gt; 1.18.1, org.netbeans.modules.settings/1 &gt; 1.22.1.1, org.netbeans.modules.spellchecker.apimodule &gt; 1.8.1, org.netbeans.spi.navigator/1 &gt; 1.16.1, org.openide.awt &gt; 7.19.1.1, org.openide.dialogs &gt; 7.13.1, org.openide.explorer &gt; 6.22.2.1, org.openide.filesystems &gt; 7.32.1.1.1, org.openide.io &gt; 1.20.1, org.openide.loaders &gt; 7.10.1, org.openide.modules &gt; 7.13.1, org.openide.nodes &gt; 7.12.1.1, org.openide.util &gt; 8.0, org.openide.util.lookup &gt; 8.3, org.openide.windows &gt; 6.30.1, org.purl.jh.feat.NbData &gt; 1.8, org.purl.jh.feat.diffui &gt; 1.5, org.purl.jh.feat.importx &gt; 1.2, org.purl.jh.feat.layered &gt; 1.7, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.spellcs &gt; 1.1, org.purl.net.jh.feat.brand &gt; 1.4, org.purl.net.jh.nb.html/1 &gt; 1.3, org.purl.net.jh.nb.img/1 &gt; 1.4" OpenIDE-Module-Name="Main" OpenIDE-Module-Requires="org.openide.windows.WindowManager, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Main feat module" OpenIDE-Module-Specification-Version="1.26.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.speedsupport" distribution="org-purl-jh-speedsupport.nbm" downloadsize="40712" homepage="" license="2D7AE4F2" moduleauthor="Jirka Hana and Petr Jäger" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.speedsupport" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Provides support for the speed server. Adds speed panel with an inbox, outbox. Allows their synchronization with the speed server." OpenIDE-Module-Module-Dependencies="org.jdom/1 &gt; 1.1.30, org.netbeans.api.progress/1 &gt; 1.24.1, org.netbeans.core.multiview/1 &gt; 1.29.1, org.netbeans.modules.settings/1 &gt; 1.31.1, org.netbeans.swing.outline &gt; 1.14.1, org.openide.actions &gt; 6.22.1, org.openide.awt &gt; 7.31.1, org.openide.dialogs &gt; 7.20.1, org.openide.execution &gt; 1.22.1, org.openide.explorer &gt; 6.35.1, org.openide.filesystems &gt; 7.47.1, org.openide.io &gt; 1.27.1, org.openide.loaders &gt; 7.21.1, org.openide.modules &gt; 7.23.1, org.openide.nodes &gt; 7.21.1, org.openide.text &gt; 6.37.1, org.openide.util &gt; 8.15.1, org.openide.util.lookup &gt; 8.8.1, org.openide.windows &gt; 6.40.1, org.purl.jh.feat.diffui &gt; 1.5, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.lib.org.apache.commons.io &gt; 2.1.0, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="speedSupport" OpenIDE-Module-Requires="org.openide.windows.WindowManager, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Provides support for the speed server" OpenIDE-Module-Specification-Version="1.1.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.spellcs" distribution="org-purl-jh-spellcs.nbm" downloadsize="1880248" homepage="" license="D92C336" moduleauthor="Tomas Jelinek, Jirka Hana" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.spellcs" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Czech dictionary for the spellchecker module." OpenIDE-Module-Module-Dependencies="org.netbeans.modules.spellchecker.apimodule &gt; 1.8.1, org.netbeans.modules.spellchecker.kit &gt; 1.9.1" OpenIDE-Module-Name="SpellCs" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Czech dictionary for the spellchecker" OpenIDE-Module-Specification-Version="1.1.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.feat.util0" distribution="org-purl-jh-feat-util0.nbm" downloadsize="15415" homepage="" license="D92C336" moduleauthor="Jiri Hana" needsrestart="false" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.util0" OpenIDE-Module-Display-Category="feat" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Module-Dependencies="org.netbeans.api.visual &gt; 2.30.1, org.openide.nodes &gt; 7.25.1, org.openide.util &gt; 8.19.1, org.openide.util.lookup &gt; 8.11.1, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8" OpenIDE-Module-Name="util0" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Common feat utilities" OpenIDE-Module-Specification-Version="1.3.0"/>
+    
+</module>
+
+</module_group>
+
+<module_group name="feat extras">
+
+<module codenamebase="org.purl.jh.feat.iaa" distribution="org-purl-jh-feat-iaa.nbm" downloadsize="23796" homepage="http://ufal.mff.cuni.cz/~hana/feat.html" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11" targetcluster="feat">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.feat.iaa" OpenIDE-Module-Display-Category="feat extras" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Produces data needed to calculate inter-annotator agreement." OpenIDE-Module-Module-Dependencies="cz.cuni.utkl.czesl.data/2 &gt; 2.13, org.netbeans.api.progress/1 &gt; 1.28.1, org.openide.awt &gt; 7.31.1, org.openide.dialogs &gt; 7.25.1, org.openide.execution &gt; 1.27.1, org.openide.filesystems &gt; 7.38.2, org.openide.io &gt; 1.27.1, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.21.1, org.openide.util &gt; 8.15.1, org.openide.util.lookup &gt; 8.8.1, org.purl.jh.feat.NbData &gt; 1.8, org.purl.jh.feat.filesaction &gt; 1.1, org.purl.jh.feat.util0 &gt; 1.3, org.purl.jh.lib.guava &gt; 11.0.2, org.purl.jh.lib.h2 &gt; 1.3, org.purl.jh.nbpml/1 &gt; 1.7, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.8, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="iaaSupport" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Produces data needed to calculate iaa." OpenIDE-Module-Specification-Version="1.3.0"/>
+    
+</module>
+
+</module_group>
+
+<module_group name="Library">
+
+<module autoload="true" codenamebase="org.jdom" distribution="org-jdom.nbm" downloadsize="54496" homepage="" license="1D607AF3" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.jdom/1" OpenIDE-Module-Display-Category="Library" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Long-Description="Wrapped Jdom 1.1.1 library for manipulating xml dom." OpenIDE-Module-Name="jdom" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="JDom library" OpenIDE-Module-Specification-Version="1.1.30.0"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.lib.org.apache.commons.io" distribution="org-purl-jh-lib-org-apache-commons-io.nbm" downloadsize="63198" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.lib.org.apache.commons.io" OpenIDE-Module-Display-Category="Library" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="lib-commons-io" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Apache Commons I/O Library" OpenIDE-Module-Specification-Version="2.1.0.0"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.libs.commons.lang" distribution="org-purl-jh-libs-commons-lang.nbm" downloadsize="113338" homepage="" license="B2B74E56" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.libs.commons.lang" OpenIDE-Module-Display-Category="Library" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.5" OpenIDE-Module-Name="lib-commons-lang3-3.0-beta" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Apache Commons Lang Library" OpenIDE-Module-Specification-Version="3.0.0.0"/>
+    
+</module>
+
+<module autoload="true" codenamebase="org.purl.jh.lib.guava" distribution="org-purl-jh-lib-guava.nbm" downloadsize="439242" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.purl.jh.lib.guava" OpenIDE-Module-Display-Category="Library" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.4" OpenIDE-Module-Name="lib-guava" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Google Guava Library" OpenIDE-Module-Specification-Version="16.0.0.0"/>
+    
+</module>
+
+</module_group>
+
+<module_group name="nb-modules">
+
+<module codenamebase="org.purl.net.jh.nb.html" distribution="org-purl-net-jh-nb-html.nbm" downloadsize="10443" homepage="" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.net.jh.nb.html/1" OpenIDE-Module-Display-Category="nb-modules" OpenIDE-Module-Implementation-Version="2" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Basic support for html files" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.settings/1 &gt; 1.26.1, org.openide.awt &gt; 7.23.1, org.openide.filesystems &gt; 7.38.2, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.text &gt; 6.30.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1, org.purl.jh.util &gt; 1.9, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="HtmlSupport" OpenIDE-Module-Requires="org.openide.windows.WindowManager, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic support for html files" OpenIDE-Module-Specification-Version="1.3.2"/>
+    
+</module>
+
+<module codenamebase="org.purl.net.jh.nb.img" distribution="org-purl-net-jh-nb-img.nbm" downloadsize="8392" homepage="" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.net.jh.nb.img/1" OpenIDE-Module-Display-Category="nb-modules" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Basic support for image files" OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.23.1, org.openide.filesystems &gt; 7.38.2, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1, org.purl.jh.util &gt; 1.9, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="ImgSupport" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic support for image files" OpenIDE-Module-Specification-Version="1.4.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.nbpml" distribution="org-purl-jh-nbpml.nbm" downloadsize="10406" homepage="" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.nbpml/1" OpenIDE-Module-Display-Category="nb-modules" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Layer over the PML module (provides basic PML corpus format support) providing Netbeans RCP specifics." OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.55.1, org.openide.dialogs &gt; 7.15.1, org.openide.filesystems &gt; 7.38.2, org.openide.io &gt; 1.27.1, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.60.1, org.purl.jh.lib.guava &gt; 16.0.0, org.purl.jh.pml/1 &gt; 1.8, org.purl.jh.util &gt; 1.9, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="NbPml" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Layer over the PML module (provides basic PML corpus format support) providing Netbeans RCP specifics." OpenIDE-Module-Specification-Version="1.7.0"/>
+    
+</module>
+
+<module codenamebase="org.purl.net.jh.nbutil" distribution="org-purl-net-jh-nbutil.nbm" downloadsize="19819" homepage="" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.net.jh.nbutil/1" OpenIDE-Module-Display-Category="nb-modules" OpenIDE-Module-Implementation-Version="3" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Basic utilities specific to the Netbeans platform" OpenIDE-Module-Module-Dependencies="org.netbeans.api.visual &gt; 2.23.1, org.netbeans.modules.autoupdate.services &gt; 1.20.2, org.openide.awt &gt; 7.23.1, org.openide.dialogs &gt; 7.15.1, org.openide.filesystems &gt; 7.38.2, org.openide.io &gt; 1.23.1, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.purl.jh.util &gt; 1.9" OpenIDE-Module-Name="nbutil" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic utilities specific to the Netbeans platform" OpenIDE-Module-Specification-Version="1.5.3"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.pml" distribution="org-purl-jh-pml.nbm" downloadsize="22476" homepage="" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.pml/1" OpenIDE-Module-Display-Category="nb-modules" OpenIDE-Module-Implementation-Version="1" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Basic PML data support - structures, events and I/O." OpenIDE-Module-Module-Dependencies="org.jdom/1 &gt; 1.1.30, org.openide.filesystems &gt; 7.38.2, org.openide.util.lookup &gt; 8.19.1, org.purl.jh.lib.guava &gt; 16.0.0, org.purl.jh.libs.commons.lang &gt; 3.0.0, org.purl.jh.libs.lombok &gt; 1.12.2, org.purl.jh.util &gt; 1.9" OpenIDE-Module-Name="Pml" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic PML support" OpenIDE-Module-Specification-Version="1.8.1"/>
+    
+</module>
+
+<module codenamebase="org.purl.net.jh.nb.rtf" distribution="org-purl-net-jh-nb-rtf.nbm" downloadsize="7624" homepage="" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.net.jh.nb.rtf/1" OpenIDE-Module-Display-Category="nb-modules" OpenIDE-Module-Implementation-Version="3" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Basic support for Rtf files" OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.23.1, org.openide.filesystems &gt; 7.38.2, org.openide.loaders &gt; 7.16.1, org.openide.nodes &gt; 7.16.1, org.openide.text &gt; 6.30.1, org.openide.util &gt; 8.6.2, org.openide.util.lookup &gt; 8.3.1, org.openide.windows &gt; 6.33.1, org.purl.jh.util &gt; 1.9, org.purl.net.jh.nbutil/1 &gt; 1.5" OpenIDE-Module-Name="RtfSupport" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic support for Rtf files" OpenIDE-Module-Specification-Version="1.2.3"/>
+    
+</module>
+
+<module codenamebase="org.purl.jh.util" distribution="org-purl-jh-util.nbm" downloadsize="80186" homepage="" license="D92C336" moduleauthor="Jirka Hana" needsrestart="true" releasedate="2014/05/11">
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="org.purl.jh.util" OpenIDE-Module-Display-Category="nb-modules" OpenIDE-Module-Implementation-Version="0" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Long-Description="Basic utilities" OpenIDE-Module-Module-Dependencies="org.purl.jh.lib.guava &gt; 16.0.0, org.purl.jh.libs.commons.lang &gt; 3.0.0, org.purl.jh.libs.lombok &gt; 1.12.2" OpenIDE-Module-Name="util2" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Basic utilities" OpenIDE-Module-Specification-Version="1.9.0"/>
+    
+</module>
+
+</module_group>
+
+<license name="1D607AF3" url="licenses/1D607AF3.license"/>
+<license name="B2B74E56" url="licenses/B2B74E56.license"/>
+<license name="2D7AE4F2" url="licenses/2D7AE4F2.license"/>
+<license name="AD9FBBC9" url="licenses/AD9FBBC9.license"/>
+<license name="1C6BE266" url="licenses/1C6BE266.license"/>
+<license name="C81C288" url="licenses/C81C288.license"/>
+<license name="EB807BDD" url="licenses/EB807BDD.license"/>
+<license name="D92C336" url="licenses/D92C336.license"/>
+<license name="FCAE5AFA" url="licenses/FCAE5AFA.license"/>
+</module_updates>
+

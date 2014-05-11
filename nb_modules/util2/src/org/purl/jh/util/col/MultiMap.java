@@ -55,7 +55,7 @@ public interface MultiMap<K, V> extends Map<K,Set<V>> {
      * Removes the specified value from a specified key.
      * Removes the key if its last value was removed.???
      */
-    boolean remove(K aKey, V aValue);
+    boolean remove(Object aKey, Object aValue);
 
     /**
      * Removes all values satisfying the specified predicate.

@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 OpenIDE-Module: cz.cuni.utkl.czesl.main/1
-OpenIDE-Module-Implementation-Version: 5
+OpenIDE-Module-Implementation-Version: 0
 OpenIDE-Module-Install: cz/cuni/utkl/czesl/main/Installer.class
 OpenIDE-Module-Layer: cz/cuni/utkl/czesl/main/layer.xml
 OpenIDE-Module-Localizing-Bundle: cz/cuni/utkl/czesl/main/Bundle.properties

@@ -125,7 +125,7 @@ public class MultiHashHashMap<K,V> extends HashMap<K,Set<V>> implements MultiMap
      * Removes the key if its last value was removed.???
      */
     @Override
-    public boolean remove(K aKey, V aValue) {
+    public boolean remove(Object aKey, Object aValue) {
         Set<V> set = get(aKey);
         return (set == null) ? false : set.remove(aValue);
     }

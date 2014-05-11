@@ -1,0 +1,40 @@
+- commit all code changes (there will be another commit once the versions are set)
+
+- make sure all module versions are set correctly 
+ (Run svn diff against the last release, note that to see the external changes, svn must be run against the top directory. 
+  If running log in TortoiseSVN, "Show only affected paths" must be unchecked to see changes in externals)
+
+- run dependency update: UpdateNbVersions.jar
+  go to <project folder>\apps and run
+  java -jar c:/bin/UpdateNbVersions/UpdateNbVersions.jar .
+
+- set the date as the build in branding
+   Czesl\branding\modules\org-netbeans-core-windows.jar\org\netbeans\core\windows\view\ui\Bundle.properties
+      CTL_MainWindow_Title=Feat Build 2012-04-16
+      CTL_MainWindow_Title_No_Project=Feat Build 2012-04-16
+   Czesl\branding\core\core.jar\org\netbeans\core\startup\Bundle.properties
+      currentVersion=Feat Build 2012-04-16
+ 
+- commit the whole application (including externals) with comment indicating the version ("Release 2012-02-22")
+  - commit the apps directory from Favorites (add it if it is not there), this way all components are commited in one commit
+- tag the commit with a "Release 2012-02-22" tag 
+
+- update the platform modules
+  - go to apps\czesl\nb_uc
+  - check if the used modules changed: compare the previous list of disabled modules, stored in apps\czesl\nb_uc\platform.properties with the current one in czesl\apps\Czesl\nbproject\platform.properties
+  - if yes, update the remove section in update.sh
+  - run update.sh
+- run the bdeploy target on feat (feat > important files > build script > run target > bdeploy)
+
+- try the update
+  - copy all nbms from czesl\apps\Czesl\build\updates to the test uc (\ufal\home\hana\public_html\uc\feat-test)
+  - download feat from the web
+  - update from the test uc (enabling it first)
+
+- deploy to beta uc
+  - rename the beta uc folder (to prevent users updating from it when it is in an inconsistent state)
+  - copy there all nbms from the test uc
+  - rename the folder back
+  - ask selected users to test
+  
+- deploy to the official uc

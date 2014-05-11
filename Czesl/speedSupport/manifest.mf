@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.purl.jh.speedsupport
-OpenIDE-Module-Implementation-Version: 14
+OpenIDE-Module-Implementation-Version: 0
 OpenIDE-Module-Layer: org/purl/jh/speedsupport/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/purl/jh/speedsupport/Bundle.properties
 OpenIDE-Module-Requires: org.openide.windows.WindowManager

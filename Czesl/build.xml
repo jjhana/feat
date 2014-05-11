@@ -24,16 +24,55 @@
         </propertyfile>       
     </target>
 
-    <target name="bdeploy-full-test" depends="bdeploy,-deploy-archive,-deploy-test-uc"  description="Fully Deploy the app (to test UC)">
+    <target name="_bbuild" depends="-init,clean,update-build-nrs,prepare-updates,nbms,build-zips "  description="Completely build the app">
         <!-- todo produce dist with jre, usb dist -->
     </target>
 
-    <target name="bdeploy" depends="-init,clean,update-build-nrs,prepare-updates,nbms,build-zips "  description="Build and deploy the app">
-        
-        <!-- todo produce dist with jre, usb dist -->
+    <target name="_bbuild-test-publish" depends="_bbuild,-publish-archive,-publish-test-uc"  description="Completely build the app, archive and publish it to the test UC">
+    </target>
+    
+    <target name="_publish-ofic" depends="-init"  description="Publish the app (requires _bbuild first)">
     </target>
 
-    <target name="bdeploy-ofic-uc" depends=""  description="Deploy the updates to the official UC (requires running bdeploy before)">
+    <target name="-publish-archive" depends="-init">
+        <property name="build.updates.dir" location="${suite.build.dir}/updates"/>
+        <tstamp>
+            <format property="TODAY_ISO" pattern="yyyy-MM-dd-HH-mm"/>
+        </tstamp>        
+        <copy todir="dist.archive/${TODAY_ISO}/updates">
+            <fileset dir="${build.updates.dir}"/>
+        </copy>
+        <copy todir="dist.archive/${TODAY_ISO}">
+            <fileset dir="${dist.dir}"/>
+        </copy>
+        <copy todir="dist.archive/latest">
+            <fileset dir="dist.archive/${TODAY_ISO}"/>
+        </copy>
+    </target>
+
+    <!--Put your hg.username/hg.password into your nbproject/private/platform-private.properties file -->
+   <target name="-publish-test-uc" depends="-init">
+       <copy todir="../../bitbucket/uc/feat-test">
+            <fileset dir="dist.archive/latest/updates"/>
+        </copy>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="add"/>
+          </exec>
+          <echo message="added"/>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="commit"/>
+            <arg value="-m"/>
+            <arg value="Pushing updates to test feat-test uc"/>
+          </exec>
+          <echo message="committed"/>
+          <exec executable="hg" dir="../../bitbucket">
+            <arg value="push"/>
+            <arg value="https://${hg.username}:${hg.password}@bitbucket.org/jhana/jhana.bitbucket.org"/>
+          </exec>
+          <echo message="pushed"/>
+   </target>
+
+    <target name="-publish-ofic-uc" depends="-init"  description="Publish the updates to the official UC (requires running _bbuild first)">
         <copy todir="../../bitbucket/uc/feat">
             <fileset dir="../../bitbucket/uc/feat-test"/>
         </copy>
@@ -55,45 +94,6 @@
     </target>
 
 
-   <target name="-deploy-archive" depends="-init">
-        <property name="build.updates.dir" location="${suite.build.dir}/updates"/>
-        <tstamp>
-            <format property="TODAY_ISO" pattern="yyyy-MM-dd-HH-mm"/>
-        </tstamp>        
-        <copy todir="dist.archive/${TODAY_ISO}/updates">
-            <fileset dir="${build.updates.dir}"/>
-        </copy>
-        <copy todir="dist.archive/${TODAY_ISO}">
-            <fileset dir="${dist.dir}"/>
-        </copy>
-        <copy todir="dist.archive/latest">
-            <fileset dir="dist.archive/${TODAY_ISO}"/>
-        </copy>
-    </target>
-
-   <target name="-deploy-test-uc" depends="-init">
-       <copy todir="../../bitbucket/uc/feat-test">
-            <fileset dir="dist.archive/latest/updates"/>
-        </copy>
-          <exec executable="hg" dir="../../bitbucket">
-            <arg value="add"/>
-          </exec>
-          <echo message="added"/>
-          <exec executable="hg" dir="../../bitbucket">
-            <arg value="commit"/>
-            <arg value="-m"/>
-            <arg value="Pushing updates to test feat-test uc"/>
-          </exec>
-          <echo message="committed"/>
-          <exec executable="hg" dir="../../bitbucket">
-            <arg value="push"/>
-            <arg value="https://${hg.username}:${hg.password}@bitbucket.org/jhana/jhana.bitbucket.org"/>
-          </exec>
-          <echo message="pushed"/>
-   </target>
-
-
-
     <target name="build-zips" depends="build-zip,prepare-for-zips,build-usb-zip,build-jre-zip,build-usb-jre-zip"  description="Create zip distributions">
     </target>
 
@@ -101,21 +101,26 @@
         <delete failonerror="false">
             <fileset dir="${suite.build.dir}/for-zips"/>
         </delete>
-        <mkdir dir="${suite.build.dir}/for-zips/feat"/>
-
-        <copy todir="${suite.build.dir}/for-zips/feat">
-            <fileset dir="dist.prep/for_usb/feat"/>
-        </copy>
-  
-        <unzip src="${dist.dir}/${app.name}.zip" dest="${suite.build.dir}/for-zips/feat"/>
-        <copy file="dist.prep/for_usb/feat.conf" todir="${suite.build.dir}/for-zips/feat/feat/etc"/>
     </target>
 
     <target name="build-usb-zip" depends="-init,prepare-for-zips">
+        <mkdir dir="${suite.build.dir}/for-zips/usb/feat"/>
+        <delete failonerror="false">
+            <fileset dir="${suite.build.dir}/for-zips"/>
+        </delete>
+        <mkdir dir="${suite.build.dir}/for-zips/usb/feat"/>
+
+        <copy todir="${suite.build.dir}/for-zips/usb/feat">
+            <fileset dir="dist.prep/for_usb/feat"/>
+        </copy>
+  
+        <unzip src="${dist.dir}/${app.name}.zip" dest="${suite.build.dir}/for-zips/usb/feat"/>
+        <!-- we want to overwrite the newer configuration file from the build by our own configuration -->
+        <copy file="dist.prep/for_usb/feat.conf" todir="${suite.build.dir}/for-zips/usb/feat/feat/etc" overwrite="true"  />
+
         <zip destfile="${dist.dir}/${app.name}-usb.zip" >
-            <zipfileset dir="${suite.build.dir}/for-zips/feat" prefix="feat"/>
-        </zip>
-        
+            <zipfileset dir="${suite.build.dir}/for-zips/usb/feat" prefix="feat"/>
+        </zip>     
     </target>
         
     <target name="build-jre-zip" depends="-init,prepare-for-zips" description="todo" >
