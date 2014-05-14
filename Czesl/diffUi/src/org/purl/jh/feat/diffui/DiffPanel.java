@@ -26,6 +26,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Set;
+import java.util.prefs.Preferences;
 import javax.swing.AbstractAction;
 import javax.swing.Action;
 import javax.swing.JScrollPane;
@@ -37,6 +38,7 @@ import org.netbeans.api.visual.model.ObjectSceneListener;
 import org.netbeans.api.visual.widget.Widget;
 import org.openide.awt.UndoRedo;
 import org.openide.util.Lookup;
+import org.openide.util.NbPreferences;
 import org.openide.util.lookup.AbstractLookup;
 import org.openide.util.lookup.InstanceContent;
 import org.openide.windows.WindowManager;
@@ -49,6 +51,8 @@ import org.purl.jh.feat.layered.NodeLayout;
 import org.purl.jh.feat.layered.ParaModel;
 import org.purl.jh.feat.layered.VModel;
 import org.purl.jh.feat.layered.util.ObjectSceneListenerAdapter;
+import org.purl.jh.feat.profiles.Profile;
+import org.purl.jh.feat.profiles.ProfileRegistry;
 import org.purl.jh.feat.util0.gui.pager.CurListener;
 import org.purl.jh.nbpml.LayerDataObject;
 import org.purl.jh.nbpml.LayerProvider;
@@ -59,6 +63,7 @@ import org.purl.jh.pml.location.Location;
 import org.purl.jh.util.Pair;
 import org.purl.jh.util.col.Cols;
 import org.purl.jh.util.err.Err;
+import org.purl.jh.util.gui.list.Combos;
 
 /**
  * 1 (sometimes A) refers to the result (a copy of the first annotator's annotation), 
@@ -77,9 +82,12 @@ import org.purl.jh.util.err.Err;
 public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, AcceptingLocation {
     private final static org.purl.jh.util.Logger log = org.purl.jh.util.Logger.getLogger(DiffPanel.class);
 
+    private final static String PREF_PROFILE = "profile";
+    
     // options
     private boolean optCompareComments;
     
+    private Profile profile;
     
     private VModel pseudoModel1 = null;
     //private LLayer layer1;
@@ -128,6 +136,8 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
     public DiffPanel() {
         lookup = new AbstractLookup(nodesLookupContent);
         initComponents();
+
+        profileCombo.setModel( Combos.getModel(new ArrayList<>(ProfileRegistry.ids())) );    // todo sort (streams)
     }
 
     public DiffPanel(final LayerDataObject<?> aDObj1, final LayerDataObject<?> aDObj2) {
@@ -160,6 +170,13 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
         });
 
         gotoControl1.sizeChanged(pseudoModel1.getParas().size()); // could/should be done via listening
+        
+        final String profileId = NbPreferences.forModule(LayeredGraph.class).get(PREF_PROFILE, null);
+        final Profile tmp = ProfileRegistry.get(profileId);
+        setProfile(tmp == null ? ProfileRegistry.get(ProfileRegistry.EMPTY_PROFILE_ID) : tmp);
+
+        
+        
         requestPara(0);     // todo after constructor
     }
 
@@ -191,6 +208,9 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
         pullChangeButton = new javax.swing.JButton();
         pushChangeButton = new javax.swing.JButton();
         testButton = new javax.swing.JButton();
+        jSeparator1 = new javax.swing.JToolBar.Separator();
+        profileLabel = new javax.swing.JLabel();
+        profileCombo = new javax.swing.JComboBox();
 
         jButton3.setText(org.openide.util.NbBundle.getMessage(DiffPanel.class, "DiffPanel.jButton3.text")); // NOI18N
 
@@ -266,6 +286,18 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
             }
         });
         jToolBar1.add(testButton);
+        jToolBar1.add(jSeparator1);
+
+        profileLabel.setText(org.openide.util.NbBundle.getMessage(DiffPanel.class, "DiffPanel.profileLabel.text")); // NOI18N
+        jToolBar1.add(profileLabel);
+
+        profileCombo.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+        profileCombo.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                profileComboActionPerformed(evt);
+            }
+        });
+        jToolBar1.add(profileCombo);
 
         add(jToolBar1, java.awt.BorderLayout.NORTH);
     }// </editor-fold>//GEN-END:initComponents
@@ -291,6 +323,22 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
         refreshDiff();
     }//GEN-LAST:event_jCheckBox1ActionPerformed
 
+    private void profileComboActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_profileComboActionPerformed
+        String id = profileCombo.getSelectedItem().toString();
+        Profile tmp = ProfileRegistry.get(id);
+        Preconditions.checkNotNull(tmp, "Unknown profile %s", id);  // todo or just warn and tmp = ProfileRegistry.EMPTY_PROFILE
+        setProfile(tmp);
+        showParaGraph();  //refresh
+    }//GEN-LAST:event_profileComboActionPerformed
+
+    private void setProfile(Profile profile) {
+        if (this.profile == profile ) return;
+        
+        this.profile = profile;
+        profileCombo.setSelectedItem(profile.getId());
+        NbPreferences.forModule(LayeredGraph.class).put(PREF_PROFILE, profile.getId());
+    }
+    
     private void refreshDiff() {
         //layer2matching = null;
         matching = null;
@@ -460,9 +508,12 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
     private javax.swing.JButton jButton3;
     private javax.swing.JCheckBox jCheckBox1;
     private javax.swing.JLabel jLabel1;
+    private javax.swing.JToolBar.Separator jSeparator1;
     private javax.swing.JToolBar jToolBar1;
     private javax.swing.JSplitPane layersViewSplit;
     private org.purl.jh.feat.diffui.MarkStripe markStripe1;
+    private javax.swing.JComboBox profileCombo;
+    private javax.swing.JLabel profileLabel;
     private javax.swing.JButton pullChangeButton;
     private javax.swing.JButton pushChangeButton;
     private javax.swing.JButton refreshDiffButton;
@@ -608,7 +659,7 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
         view.setXSpace(100);
         view.setYSpace(100);
         view.setZoomFactor(1.0);
-        //view.setSpellChecker(Spellchecker.init("cs"));       // todo make lg configurable
+        view.setProfile(profile);
 
 //        view.initLayout();
 //        view.draw();
@@ -1068,5 +1119,9 @@ public class DiffPanel extends javax.swing.JPanel implements Lookup.Provider, Ac
             layer1.legAdd(edge1, form, graph1, null);
         }
     }
+
+//    private Preferences getPrefs() {
+//        return NbPreferences.forModule(getClass());
+//    }
     
 }
