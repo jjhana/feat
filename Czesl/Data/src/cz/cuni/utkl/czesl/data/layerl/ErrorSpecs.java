@@ -45,7 +45,7 @@ public enum ErrorSpecs {
         bTagset.old2new.put("styl:stylOther", "stylOther");
 
         //?
-        aTagset.old2new.put("odd:oddObj", "oddObj");        //?
+        aTagset.old2new.put("odd:oddObj", "odd");        //?
         aTagset.old2new.put("miss:missObj", "missObj");
         aTagset.old2new.put("miss:missPred", "missPred");
                 
@@ -155,8 +155,8 @@ public enum ErrorSpecs {
 "",	"vnp",	"",	"A",	"vnp",	"chyba ve sponově-jmenném přísudku (vč pas a rez)",	"1",	"-1",	"1",	"-1",	"0",	"1",	"R2",
 "rflx",	"",	"",	"M",	"rflx",	"chyba v reflexivním výrazu",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R2",
 "neg",	"",	"",	"M",	"neg",	"chyba v negaci",	"1",	"-1",	"1",	"-1",	"0",	"1",	"R2",
-"odd",	"",	"",	"A",	"odd",	"nadbytečné slovo",	"1",	"1",	"0",	"0",	"0",	"0",	"R2",
-"miss",	"",	"",	"A",	"miss",	"chybějící slovo",	"0",	"0",	"1",	"1",	"0",	"0",	"R2",
+"odd",	"",	"",	"A",	"odd",	"nadbytečné slovo",	"1",	"1",	"0",	"0",	"0",	"0",	"R1,R2",    // present on A & B
+"miss",	"",	"",	"A",	"miss",	"chybějící slovo",	"0",	"0",	"1",	"1",	"0",	"0",	"R1,R2",    // only on B
 "wo",	"",	"",	"A",	"wo",	"chybný slovosled",	"1",	"-1",	"1",	"-1",	"0",	"0",	"R2",
 "lex",	"",	"",	"M",	"lex",	"chyba v lexiku a frazeologii",	"0",	"-1",	"0",	"-1",	"0",	"1",	"R2",
 "use",	"",	"",	"M",	"use",	"chyba v užití gramatické kategorie",	"1",	"-1",	"1",	"-1",	"0",	"1",	"R2",
@@ -166,8 +166,69 @@ public enum ErrorSpecs {
 "",	"stylMark",	"",	"M",	"stylMark",	"výplňkové slovo",	"1",	"-1",	"0",	"0",	"0",	"0",	"R2",
 "",	"stylOther",	"",	"M",	"stylOther",	"knižní,	nářeční,	slangový ap tvar/výraz",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1,R2",
 "disr",	"",	"",	"M",	"disr",	"rozvrácená konstrukce",	"-1",	"-1",	"0",	"-1",	"0",	"0",	"R2",
-"problem",	"",	"",	"M",	"problem",	"problémová chyba",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1,R2"
-                );
+"problem",	"",	"",	"M",	"problem",	"problémová chyba",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1,R2",
+// automatic tags 
+"formCK0",	"",	"",	"A",	"formCK0",	"formCK0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formCK1",	"",	"",	"A",	"formCK1",	"formCK1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formCap0",	"",	"",	"A",	"formCap0",	"formCap0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formCap1",	"",	"",	"A",	"formCap1",	"formCap1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formCaron0",	"",	"",	"A",	"formCaron0",	"formCaron0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formCaron1",	"",	"",	"A",	"formCaron1",	"formCaron1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formDiaE",	"",	"",	"A",	"formDiaE",	"formDiaE",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formDiaU",	"",	"",	"A",	"formDiaU",	"formDiaU",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formDtn",	"",	"",	"A",	"formDtn",	"formDtn",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formEpentE0",	"",	"",	"A",	"formEpentE0",	"formEpentE0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formEpentE1",	"",	"",	"A",	"formEpentE1",	"formEpentE1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formEpentJ0",	"",	"",	"A",	"formEpentJ0",	"formEpentJ0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formEpentJ1",	"",	"",	"A",	"formEpentJ1",	"formEpentJ1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formGH0",	"",	"",	"A",	"formGH0",	"formGH0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formGH1",	"",	"",	"A",	"formGH1",	"formGH1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formGemin0",	"",	"",	"A",	"formGemin0",	"formGemin0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formGemin1",	"",	"",	"A",	"formGemin1",	"formGemin1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formHead0",	"",	"",	"A",	"formHead0",	"formHead0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formHead1",	"",	"",	"A",	"formHead1",	"formHead1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formHead",	"",	"",	"A",	"formHead",	"formHead",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formJe0",	"",	"",	"A",	"formJe0",	"formJe0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formJe1",	"",	"",	"A",	"formJe1",	"formJe1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formLen0",	"",	"",	"A",	"formLen0",	"formLen0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formLen1",	"",	"",	"A",	"formLen1",	"formLen1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formMeta",	"",	"",	"A",	"formMeta",	"formMeta",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formMissChar",	"",	"",	"A",	"formMissChar",	"formMissChar",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formMne0",	"",	"",	"A",	"formMne0",	"formMne0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formMne1",	"",	"",	"A",	"formMne1",	"formMne1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formPalat0",	"",	"",	"A",	"formPalat0",	"formPalat0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formPalat1",	"",	"",	"A",	"formPalat1",	"formPalat1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formPre0",	"",	"",	"A",	"formPre0",	"formPre0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formPre1",	"",	"",	"A",	"formPre1",	"formPre1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formProtJ0",	"",	"",	"A",	"formProtJ0",	"formProtJ0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formProtJ1",	"",	"",	"A",	"formProtJ1",	"formProtJ1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formProtV0",	"",	"",	"A",	"formProtV0",	"formProtV0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formQuant0",	"",	"",	"A",	"formQuant0",	"formQuant0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formQuant1",	"",	"",	"A",	"formQuant1",	"formQuant1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formRedunChar",	"",	"",	"A",	"formRedunChar",	"formRedunChar",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formSingCh",	"",	"",	"A",	"formSingCh",	"formSingCh",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formTail0",	"",	"",	"A",	"formTail0",	"formTail0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formTail1",	"",	"",	"A",	"formTail1",	"formTail1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formTail",	"",	"",	"A",	"formTail",	"formTail",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formUnspec",	"",	"",	"A",	"formUnspec",	"formUnspec",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formVar",	"",	"",	"A",	"formVar",	"formVar",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formVoiced0",	"",	"",	"A",	"formVoiced0",	"formVoiced0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formVoiced1",	"",	"",	"A",	"formVoiced1",	"formVoiced1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formVoiced",	"",	"",	"A",	"formVoiced",	"formVoiced",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formVoicedFin0",	"",	"",	"A",	"formVoicedFin0",	"formVoicedFin0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formVoicedFin1",	"",	"",	"A",	"formVoicedFin1",	"formVoicedFin1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formY0",	"",	"",	"A",	"formY0",	"formY0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formY1",	"",	"",	"A",	"formY1",	"formY1",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"formYJ0",	"",	"",	"A",	"formYJ0",	"formYJ0",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+
+"wbdCompJoined",	"",	"",	"A",	"wbdCompJoined",	"wbdCompJoined",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"wbdCompSplit",	"",	"",	"A",	"wbdCompSplit",	"wbdCompSplit",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"wbdOtherJoined",	"",	"",	"A",	"wbdOtherJoined",	"wbdOtherJoined",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"wbdOtherSplit",	"",	"",	"A",	"wbdOtherSplit",	"wbdOtherSplit",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"wbdPreJoined",	"",	"",	"A",	"wbdPreJoined",	"wbdPreJoined",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1",
+"wbdPreSplit",	"",	"",	"A",	"wbdPreSplit",	"wbdPreSplit",	"0",	"-1",	"0",	"-1",	"0",	"-1",	"R1"
+       
+        );
     }
 
 }
