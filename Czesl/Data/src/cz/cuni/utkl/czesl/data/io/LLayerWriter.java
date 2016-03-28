@@ -54,8 +54,8 @@ public class LLayerWriter extends LayerWriter<LLayer> {
     }
 
     private org.jdom.Element createDocE(final LDoc aDoc) {
-        final org.jdom.Element docE = el("doc", aDoc);
-        docE.getAttributes().add( new Attribute("lowerdoc.rf", data.getRef(aDoc.getLowerDoc())) );
+        final org.jdom.Element docE = el(Xml.DOC, aDoc);
+        docE.getAttributes().add( new Attribute(Xml.LOWERDOC_RF, data.getRef(aDoc.getLowerDoc())) );
 
         for (LPara para : aDoc.col()) {
             docE.addContent( createParaE(para) );
@@ -65,10 +65,10 @@ public class LLayerWriter extends LayerWriter<LLayer> {
     }
 
     private org.jdom.Element createParaE(final LPara aPara) {
-        final org.jdom.Element paraE = el("para", aPara);
-        paraE.getAttributes().add( new Attribute("lowerpara.rf", data.getRef(aPara.getLowerPara())) );
+        final org.jdom.Element paraE = el(Xml.PARA, aPara);
+        paraE.getAttributes().add( new Attribute(Xml.LOWERPARA_RF, data.getRef(aPara.getLowerPara())) );
 
-        JDomUtil.setAttribute(paraE, "li", aPara.isLi(), false);
+        JDomUtil.setAttribute(paraE, Xml.LI, aPara.isLi(), false);
         
         final EdgesInfo edgesInfo = prepareEdges(aPara);
 
@@ -86,7 +86,7 @@ public class LLayerWriter extends LayerWriter<LLayer> {
 
 
     private org.jdom.Element createSentenceE(final Sentence aS, final EdgesInfo aEdgesInfo) {
-        final org.jdom.Element sE = el("s", aS);
+        final org.jdom.Element sE = el(Xml.S, aS);
 
         for (LForm form : aS.col()) {
             sE.addContent( createFormE(form, aEdgesInfo) );
@@ -96,14 +96,20 @@ public class LLayerWriter extends LayerWriter<LLayer> {
     }
 
     private org.jdom.Element createFormE(final LForm aForm, final EdgesInfo aEdgesInfo) {
-        final org.jdom.Element wE = el("w", aForm);
+        final org.jdom.Element wE = el(Xml.W, aForm);
         if (!aForm.getType().normal()) {
-            addContent(wE, "type", aForm.getType().name());
+            addContent(wE, Xml.TYPE, aForm.getType().name());
         }
 
-        addContent(wE, "token", aForm.getToken());
+        addContent(wE, Xml.TOKEN, aForm.getToken());
         addComment(wE, aForm);
 
+        if (!aForm.getOther().isEmpty()) {
+            for (org.jdom.Element element : aForm.getOther()) {
+                wE.addContent(element);
+            }
+        }
+        
         final Set<Edge> edges = aEdgesInfo.getEdges(aForm);  //
         for (Edge e : edges) {
             wE.addContent(createEdgeE(e, aForm, aEdgesInfo));
@@ -204,15 +210,15 @@ public class LLayerWriter extends LayerWriter<LLayer> {
 
     // todo sort forms by word-order
     private org.jdom.Element createEdgeE(Edge aEdge, LForm aParentForm, EdgesInfo aEdgesInfo) {
-        final org.jdom.Element edgeE = el("edge", aEdge);
+        final org.jdom.Element edgeE = el(Xml.EDGE, aEdge);
 
         final List<LForm> higherForms = aEdgesInfo.sortHiByWo(aEdge.getHigher());
         higherForms.remove(aParentForm);
 
         final List<FForm> lowerForms = aEdgesInfo.sortLoByWo(aEdge.getLower());
 
-        edgeE.addContent(rfEsx("from", lowerForms));
-        edgeE.addContent(rfEsx("to", higherForms));
+        edgeE.addContent(rfEsx(Xml.FROM, lowerForms));
+        edgeE.addContent(rfEsx(Xml.TO, higherForms));
         addComment(edgeE, aEdge);
         edgeE.addContent(createErrorEs(aEdge));
 
@@ -233,11 +239,11 @@ public class LLayerWriter extends LayerWriter<LLayer> {
     }
 
     private org.jdom.Element createErrorE(Errorr aError) {
-        final org.jdom.Element errorE = el("error");
+        final org.jdom.Element errorE = el(Xml.ERROR);
 
-        addContent(errorE, "tag", aError.getTag());
+        addContent(errorE, Xml.TAG, aError.getTag());
         addComment(errorE, aError);
-        errorE.addContent(rfEsx("link", aError.getLinks()));
+        errorE.addContent(rfEsx(Xml.LINK, aError.getLinks()));
 
         return errorE;
     }

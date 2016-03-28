@@ -36,7 +36,7 @@ public class WLayerWriter extends LayerWriter<WLayer> {
     }
 
     private org.jdom.Element createDocE(final WDoc aDoc) {
-        final org.jdom.Element docE = el("doc", aDoc);
+        final org.jdom.Element docE = el(Xml.DOC, aDoc);
 
         for (WPara para : aDoc.col()) {
             docE.addContent( createParaE(para) );
@@ -49,7 +49,7 @@ public class WLayerWriter extends LayerWriter<WLayer> {
     }
 
     private org.jdom.Element createParaE(final WPara aPara) {
-        final org.jdom.Element paraE = el("para", aPara);
+        final org.jdom.Element paraE = el(Xml.PARA, aPara);
         JDomUtil.setAttribute(paraE, "li", aPara.isLi(), false);
 
         for (WForm w : aPara.getForms()) {
@@ -62,13 +62,13 @@ public class WLayerWriter extends LayerWriter<WLayer> {
     }
 
     private org.jdom.Element createFormE(final WForm aForm) {
-        final org.jdom.Element wE = el("w", aForm);
+        final org.jdom.Element wE = el(Xml.W, aForm);
 
         if (!aForm.getType().normal()) {
-            addContent(wE, "type", aForm.getType().name());
+            addContent(wE, Xml.TYPE, aForm.getType().name());
         }
 
-        addContent(wE, "token", aForm.getToken());
+        addContent(wE, Xml.TOKEN, aForm.getToken());
         
         for (String altToken : aForm.getAltTokens()) {
             addContent(wE, "alt", altToken);

@@ -1,8 +1,10 @@
 package cz.cuni.utkl.czesl.data.layerx;
 
+import com.google.common.collect.ImmutableList;
 import cz.cuni.utkl.czesl.data.layerl.Edge;
 import cz.cuni.utkl.czesl.data.layerl.LForm;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 import lombok.Getter;
 import lombok.Setter;
@@ -78,6 +80,8 @@ public class FForm extends AbstractIdedElement  implements Commented, org.purl.j
      */
     protected String comment;
 
+    protected List<org.jdom.Element> other;
+    
 // =============================================================================
 //
 // =============================================================================
@@ -85,13 +89,15 @@ public class FForm extends AbstractIdedElement  implements Commented, org.purl.j
      *
      * @param layer
      * @param id
+     * @param type
      * @param token
+     * @param other
      */
-    public FForm(Layer<?> layer, String id, Type type, String token) {
+    public FForm(Layer<?> layer, String id, Type type, String token, ImmutableList<org.jdom.Element> other) {
         super(layer, id);
         this.type = type;
         this.token = token;
-        
+        this.other = other;
     }
 
 
@@ -253,4 +259,3 @@ public class FForm extends AbstractIdedElement  implements Commented, org.purl.j
         return aA.equals(aB);
     }
 }
-

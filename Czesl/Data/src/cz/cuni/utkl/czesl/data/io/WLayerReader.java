@@ -1,5 +1,6 @@
 package cz.cuni.utkl.czesl.data.io;
 
+import com.google.common.collect.ImmutableList;
 import cz.cuni.utkl.czesl.data.layerw.WDoc;
 import cz.cuni.utkl.czesl.data.layerw.WForm;
 import cz.cuni.utkl.czesl.data.layerw.WPara;
@@ -107,7 +108,7 @@ public class WLayerReader extends LayerReader<WLayer> {
 
         FForm.Type type = FeatLayerIo.getTokenType(this, aFormE);
         
-        final WForm form = new WForm(data, id, token, altTokens, oldToken, type, no_space, from, len);
+        final WForm form = new WForm(data, id, token, altTokens, oldToken, type, ImmutableList.<org.jdom.Element>of(), no_space, from, len);
         form.setForeignScript(foreignScript);
         readComment(aFormE, form);
 

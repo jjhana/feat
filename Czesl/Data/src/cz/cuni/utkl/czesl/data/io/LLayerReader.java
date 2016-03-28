@@ -1,6 +1,7 @@
 
 package cz.cuni.utkl.czesl.data.io;
 
+import com.google.common.collect.ImmutableList;
 import cz.cuni.utkl.czesl.data.layerl.Edge;
 import cz.cuni.utkl.czesl.data.layerl.Errorr;
 import cz.cuni.utkl.czesl.data.layerl.ErrorSpecs;
@@ -14,10 +15,10 @@ import cz.cuni.utkl.czesl.data.layerx.Doc;
 import cz.cuni.utkl.czesl.data.layerx.FForm;
 import cz.cuni.utkl.czesl.data.layerx.Para;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import org.purl.jh.pml.IdedElement;
 import org.purl.jh.pml.AbstractListElement;
-import org.purl.jh.pml.Id;
 import org.purl.jh.pml.io.JDomUtil;
 import org.purl.jh.pml.io.LayerReader;
 import org.purl.jh.util.col.MultiMap;
@@ -40,6 +41,9 @@ import org.purl.jh.util.col.XCols;
 public class LLayerReader extends LayerReader<LLayer> {
     private final static org.purl.jh.util.Logger log = org.purl.jh.util.Logger.getLogger(LLayerReader.class);
 
+    
+    
+    
     public LLayerReader() {
         super("http://utkl.cuni.cz/czesl/");
     }
@@ -60,13 +64,13 @@ public class LLayerReader extends LayerReader<LLayer> {
             data.addTagset("t", ErrorSpecs.INSTANCE.getErrorSpecs(data));
         }
 
-        for (org.jdom.Element docE : getChildren(aRoot, "doc")) {
+        for (org.jdom.Element docE : getChildren(aRoot, Xml.DOC)) {
             processDoc(docE);
         }
     }
 
     private void processDoc(final org.jdom.Element aDocE) {
-        final String lowerDocId = aDocE.getAttributeValue("lowerdoc.rf");
+        final String lowerDocId = aDocE.getAttributeValue(Xml.LOWERDOC_RF);
         final Doc lowerDoc = (Doc) data.getElement(lowerDocId);
         final LDoc doc = new LDoc(data, JDomUtil.getId(aDocE), lowerDoc);
         data.addIdedElement(doc);
@@ -74,13 +78,13 @@ public class LLayerReader extends LayerReader<LLayer> {
 
         doc.setParent(data);
 
-        for (org.jdom.Element paraE : getChildren(aDocE, "para") ) {
+        for (org.jdom.Element paraE : getChildren(aDocE, Xml.PARA) ) {
             processPara(doc, paraE);
         }
     }
 
     private void processPara(final LDoc aDoc, final org.jdom.Element aParaE) {
-        final String lowerParaId = aParaE.getAttributeValue("lowerpara.rf");
+        final String lowerParaId = aParaE.getAttributeValue(Xml.LOWERPARA_RF);
         final Para lowerPara = (Para) data.getElement(lowerParaId);
         if (lowerPara == null) {
             err.severe("Cannot find paragraph in the lower level id=%s linked from paragraph %s", lowerParaId, JDomUtil.getId(aParaE));
@@ -93,26 +97,26 @@ public class LLayerReader extends LayerReader<LLayer> {
         aDoc.add(para);
         para.setParent(aDoc);
 
-        boolean li = JDomUtil.getBoolAttribute(aParaE, "li", false);
+        boolean li = JDomUtil.getBoolAttribute(aParaE, Xml.LI, false);
         para.setLi(li);
         
-        for (org.jdom.Element sE : getChildren(aParaE, "s")) {
+        for (org.jdom.Element sE : getChildren(aParaE, Xml.S)) {
             processSentence(para, sE);
         }
 
         // --- read all edges (all form-ids are resolvable) --- todo use xpath
-        for (org.jdom.Element sE : getChildren(aParaE, "s")) {
-            for (org.jdom.Element formE : getChildren(sE, "w") ) {
+        for (org.jdom.Element sE : getChildren(aParaE, Xml.S)) {
+            for (org.jdom.Element formE : getChildren(sE, Xml.W) ) {
                 final String formId = JDomUtil.getId(formE);
                 final LForm form = data.<LForm>getElement(formId);
-                for (org.jdom.Element simpleEdge : getChildren(formE, "edge")) {
+                for (org.jdom.Element simpleEdge : getChildren(formE, Xml.EDGE)) {
                     processEdge(form, simpleEdge);
                 }
             }
         }
 
         // deletion edges, and edges in the old format
-        for (org.jdom.Element edgeE : getChildren(aParaE, "edge")) {
+        for (org.jdom.Element edgeE : getChildren(aParaE, Xml.EDGE)) {
             processSeparateEdge(para, edgeE);
         }
 
@@ -139,19 +143,20 @@ public class LLayerReader extends LayerReader<LLayer> {
         aPara.add(sentence);
         sentence.setParent(aPara);
 
-        for (org.jdom.Element formE : getChildren(aSentenceE, "w") ) {
+        for (org.jdom.Element formE : getChildren(aSentenceE, Xml.W) ) {
             processForm(sentence, formE);
         }
     }
 
     private void processForm(final Sentence aSentence, final org.jdom.Element aFormE) {
-        final String token = getText(aFormE, "token");
+        final String token = getText(aFormE, Xml.TOKEN);
         final String id = JDomUtil.getId(aFormE);
         final FForm.Type type = FeatLayerIo.getTokenType(this, aFormE);
+        final ImmutableList<org.jdom.Element> other = otherChildren(aFormE, 
+                ImmutableList.of(Xml.TOKEN, Xml.TYPE, Xml.COMMENT, Xml.EDGE));
+        
+        LForm form = new LForm(data, id, type, token, other);
 
-        LForm form = new LForm(data, id, type, token);
-
-        //this.<Sentence>addIdedElement(aSentence, form);
         data.addIdedElement(form);
         form.setParent(aSentence);
         aSentence.add(form);
@@ -160,7 +165,7 @@ public class LLayerReader extends LayerReader<LLayer> {
 
         readComment(aFormE, form);
 
-        // do not read edges (not all form-ids can be resolved)
+        // edges are read-in later (not all form-ids are resolved now)
     }
 
     /** todo For some weir reason does not work, once it does, push to LayerReader */
@@ -224,7 +229,7 @@ public class LLayerReader extends LayerReader<LLayer> {
             fatalError(e, "Error reading edge %s", edge.getId().getIdStr());
         }
 
-        for (org.jdom.Element errorE : getChildren(aEdgeE, "error")) {
+        for (org.jdom.Element errorE : getChildren(aEdgeE, Xml.ERROR)) {
             processError(edge, errorE);
         }
     }
@@ -252,8 +257,8 @@ public class LLayerReader extends LayerReader<LLayer> {
 
         readComment(errorE, error);
 
-        error2edgeIds.addAll(error, getRfs (errorE, "link"));   // compatibility (some are saved with rf some without)
-        error2edgeIds.addAll(error, getRfsx(errorE, "link"));
+        error2edgeIds.addAll(error, getRfs (errorE, Xml.LINK));   // compatibility (some are saved with rf some without)
+        error2edgeIds.addAll(error, getRfsx(errorE, Xml.LINK));
    }
 
 
@@ -265,4 +270,17 @@ public class LLayerReader extends LayerReader<LLayer> {
 
 // </editor-fold>
 
+    /** Namespaces are ignored. todo Move to utils*/
+    private static ImmutableList<org.jdom.Element> otherChildren(final org.jdom.Element element, Collection<String> exclude) {
+        ImmutableList.Builder<org.jdom.Element> builder = ImmutableList.builder();
+        
+        for (org.jdom.Element child : JDomUtil.getChildren(element)) {
+            if (!exclude.contains(child.getName())) {
+                builder.add( (org.jdom.Element) child.clone());
+            }
+        }
+        
+        return builder.build();
+    }
+     
 }

@@ -1,5 +1,6 @@
 package cz.cuni.utkl.czesl.data.layerl;
 
+import com.google.common.collect.ImmutableList;
 import cz.cuni.utkl.czesl.data.layerx.*;
 import org.netbeans.api.annotations.common.NonNull;
 
@@ -9,7 +10,11 @@ import org.netbeans.api.annotations.common.NonNull;
 public class LForm extends FForm  {
 
     public LForm(@NonNull LLayer aLayer, @NonNull String aLocId, @NonNull Type type, String aToken) {
-        super(aLayer, aLocId, type, aToken);
+        this(aLayer, aLocId, type, aToken, ImmutableList.<org.jdom.Element>of());
+    }
+    
+    public LForm(@NonNull LLayer aLayer, @NonNull String aLocId, @NonNull Type type, String aToken, ImmutableList<org.jdom.Element> other) {
+        super(aLayer, aLocId, type, aToken, other);
     }
 
     @Override

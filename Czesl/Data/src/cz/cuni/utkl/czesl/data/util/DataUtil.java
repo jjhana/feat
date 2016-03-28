@@ -84,5 +84,6 @@ public final class DataUtil {
 
         return new IntInt(seqStart,seqEnd);
     }
+
     
 }

@@ -1,5 +1,6 @@
 package cz.cuni.utkl.czesl.data.layerw;
 
+import com.google.common.collect.ImmutableList;
 import cz.cuni.utkl.czesl.data.layerx.*;
 import java.util.List;
 import lombok.Getter;
@@ -38,8 +39,8 @@ public class WForm extends FForm  {
     private boolean foreignScript = false;
 // =============================================================================
 
-    public WForm(@NonNull WLayer layer, @NonNull String locId, String token, List<String> altTokens, String oldToken, Type type, boolean spaceAfter, int from, int len) {
-        super(layer, locId, type, token);
+    public WForm(@NonNull WLayer layer, @NonNull String locId, String token, List<String> altTokens, String oldToken, Type type, ImmutableList<org.jdom.Element> other, boolean spaceAfter, int from, int len) {
+        super(layer, locId, type, token, other);
 
         this.altTokens = altTokens;
         this.oldToken = oldToken;
