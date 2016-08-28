@@ -215,7 +215,7 @@ public class LLayerWriter extends LayerWriter<LLayer> {
         final List<LForm> higherForms = aEdgesInfo.sortHiByWo(aEdge.getHigher());
         higherForms.remove(aParentForm);
 
-        final List<FForm> lowerForms = aEdgesInfo.sortLoByWo(aEdge.getLower());
+        final List<? extends FForm> lowerForms = aEdgesInfo.sortLoByWo(aEdge.getLower());
 
         edgeE.addContent(rfEsx(Xml.FROM, lowerForms));
         edgeE.addContent(rfEsx(Xml.TO, higherForms));

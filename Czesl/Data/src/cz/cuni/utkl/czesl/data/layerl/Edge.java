@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.Set;
 import org.purl.jh.pml.AbstractIdedElement;
 import org.purl.jh.pml.Commented;
-import org.purl.jh.pml.Layer;
 import org.purl.jh.pml.location.Location;
 import org.purl.jh.util.col.Cols;
 
@@ -21,6 +20,16 @@ import org.purl.jh.util.col.Cols;
  * @author Jirka
  */
 public class Edge extends AbstractIdedElement implements Commented {
+    public enum Type {
+        SIMPLE,
+        SPLIT,
+        MERGE,
+        INSERT,
+        DELETE,
+        OTHER,
+        ILLEGAL // like insert/delete but with multiple legs
+    }
+    
     /** Forms on the lower layer. Can be empty. */
     private final Set<FForm> lower = new HashSet<>();      // todo use small set
 
@@ -160,7 +169,31 @@ public class Edge extends AbstractIdedElement implements Commented {
     public boolean isSimple() {
         return getLower().size() == 1 && getHigher().size() == 1;
     }
+    
+    
+    public Type getType() {
+        if (getLower().isEmpty()) {
+            return getHigher().size() == 1 ? Type.INSERT : Type.ILLEGAL;
+        }
+        if (getHigher().isEmpty()) {
+            return getLower().size() == 1 ? Type.DELETE : Type.ILLEGAL;
+        }
 
+        if (getLower().size() == 1 && getHigher().size() == 1) {
+            return Type.SIMPLE;
+        }
+
+        if (getLower().size() == 1 && getHigher().size() > 1) {
+            return Type.SPLIT;
+        }
+
+        if (getLower().size() > 1 && getHigher().size() == 1) {
+            return Type.MERGE;
+        }
+        
+        return Type.OTHER;
+    }
+    
     /**
      * Location object identifying a leg within a layer.
      * @return 

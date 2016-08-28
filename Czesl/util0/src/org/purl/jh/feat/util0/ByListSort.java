@@ -24,7 +24,7 @@ public class ByListSort<T> {
         }
     };
 
-    public ByListSort(final List<T> aOrder) {
+    public ByListSort(final List<? extends T> aOrder) {
         obj2idx = new HashMap<>();
         idx2obj = new ArrayList<>(aOrder.size());
         for (int i = 0; i < aOrder.size(); i++) {
@@ -47,7 +47,7 @@ public class ByListSort<T> {
      * @param aCol
      * @return minimum in aCol; null if the collection is empty
      */
-    public T min(Iterable<T> aCol) {
+    public T min(Iterable<? extends T> aCol) {
         T tmp = null;
         for (T obj : aCol) {
             if (tmp == null) {

@@ -1,0 +1,3645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ldata xmlns="http://utkl.cuni.cz/czesl/">
+  <head>
+    <schema href="ldata_schema.xml" />
+    <references>
+      <reffile id="a" name="adata" href="AA_AO_002.a.xml" />
+      <reffile id="t" name="tagset" href="http://utkl.cuni.cz/czesl/L2/2" />
+    </references>
+  </head>
+  <doc id="w-AA_AO_002-d1" lowerdoc.rf="a#w-AA_AO_002-d1">
+    <para id="b-AA_AO_002-d1p1" lowerpara.rf="a#a-AA_AO_002-d1p1">
+      <s id="a-AA_AO_002-d1p1s1">
+        <w id="b-AA_AO_002-d1p1w1">
+          <token>CO</token>
+          <lex id="b-AA_AO_002-d1p1w1l1">
+            <lemma>co</lemma>
+            <mtag id="b-AA_AO_002-d1p1w1l1t1">PQ--1-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e0">
+            <from>a#a-AA_AO_002-d1p1w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p1w2">
+          <token>JE</token>
+          <lex id="b-AA_AO_002-d1p1w2l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p1w2l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e1">
+            <from>a#a-AA_AO_002-d1p1w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p1w3">
+          <token>PRO</token>
+          <lex id="b-AA_AO_002-d1p1w3l1">
+            <lemma>pro</lemma>
+            <mtag id="b-AA_AO_002-d1p1w3l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e2">
+            <from>a#a-AA_AO_002-d1p1w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p1w4">
+          <token>MĚ</token>
+          <lex id="b-AA_AO_002-d1p1w4l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p1w4l1t1">PH-S4--1----O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e3">
+            <from>a#a-AA_AO_002-d1p1w4</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e2</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p1w5">
+          <token>NEJDŮLEŽITĚJŠÍ</token>
+          <lex id="b-AA_AO_002-d1p1w5l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p1w5l1t1">AAMS1----3A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e4">
+            <from>a#a-AA_AO_002-d1p1w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p1w6">
+          <token>?</token>
+          <lex id="b-AA_AO_002-d1p1w6l1">
+            <lemma>?</lemma>
+            <mtag id="b-AA_AO_002-d1p1w6l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e5">
+            <from>a#a-AA_AO_002-d1p1w6</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_002-d1p2" lowerpara.rf="a#a-AA_AO_002-d1p2">
+      <s id="a-AA_AO_002-d1p2s1">
+        <w id="b-AA_AO_002-d1p2w1">
+          <token>Vždycky</token>
+          <lex id="b-AA_AO_002-d1p2w1l1">
+            <lemma>vždycky</lemma>
+            <mtag id="b-AA_AO_002-d1p2w1l1t1">Db--------A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e6">
+            <from>a#a-AA_AO_002-d1p2w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w2">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w2l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w2l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e7">
+            <from>a#a-AA_AO_002-d1p2w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w3">
+          <token>když</token>
+          <lex id="b-AA_AO_002-d1p2w3l1">
+            <lemma>když</lemma>
+            <mtag id="b-AA_AO_002-d1p2w3l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e8">
+            <from>a#a-AA_AO_002-d1p2w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w4">
+          <token>se</token>
+          <lex id="b-AA_AO_002-d1p2w4l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p2w4l1t1">P7-S4-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e9">
+            <from>a#a-AA_AO_002-d1p2w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w5">
+          <token>mě</token>
+          <lex id="b-AA_AO_002-d1p2w5l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p2w5l1t1">PH-S2--1----N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e10">
+            <from>a#a-AA_AO_002-d1p2w5</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e12</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w6">
+          <token>někdo</token>
+          <lex id="b-AA_AO_002-d1p2w6l1">
+            <lemma>někdo</lemma>
+            <mtag id="b-AA_AO_002-d1p2w6l1t1">PZM-1-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e11">
+            <from>a#a-AA_AO_002-d1p2w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w7">
+          <token>zeptá</token>
+          <lex id="b-AA_AO_002-d1p2w7l1">
+            <lemma>zeptat</lemma>
+            <mtag id="b-AA_AO_002-d1p2w7l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e12">
+            <from>a#a-AA_AO_002-d1p2w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w8">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w8l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w8l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e13">
+            <from>a#a-AA_AO_002-d1p2w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w9">
+          <token>co</token>
+          <lex id="b-AA_AO_002-d1p2w9l1">
+            <lemma>co</lemma>
+            <mtag id="b-AA_AO_002-d1p2w9l1t1">PQ--1-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e14">
+            <from>a#a-AA_AO_002-d1p2w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w10">
+          <token>je</token>
+          <lex id="b-AA_AO_002-d1p2w10l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p2w10l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e15">
+            <from>a#a-AA_AO_002-d1p2w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w11">
+          <token>pro</token>
+          <lex id="b-AA_AO_002-d1p2w11l1">
+            <lemma>pro</lemma>
+            <mtag id="b-AA_AO_002-d1p2w11l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e16">
+            <from>a#a-AA_AO_002-d1p2w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w12">
+          <token>mě</token>
+          <lex id="b-AA_AO_002-d1p2w12l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p2w12l1t1">PH-S4--1----O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e17">
+            <from>a#a-AA_AO_002-d1p2w12</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e16</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w13">
+          <token>nejdůležitější</token>
+          <lex id="b-AA_AO_002-d1p2w13l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p2w13l1t1">AAMS1----3A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e18">
+            <from>a#a-AA_AO_002-d1p2w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w14">
+          <token>v</token>
+          <lex id="b-AA_AO_002-d1p2w14l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p2w14l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e19">
+            <from>a#a-AA_AO_002-d1p2w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w15">
+          <token>životě</token>
+          <lex id="b-AA_AO_002-d1p2w15l1">
+            <lemma>život</lemma>
+            <mtag id="b-AA_AO_002-d1p2w15l1t1">NNIS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e20">
+            <from>a#a-AA_AO_002-d1p2w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w16">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w16l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w16l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e21">
+            <from>a#a-AA_AO_002-d1p2w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w17">
+          <token>vzpomenu</token>
+          <lex id="b-AA_AO_002-d1p2w17l1">
+            <lemma>vzpomenout</lemma>
+            <mtag id="b-AA_AO_002-d1p2w17l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e22">
+            <from>a#a-AA_AO_002-d1p2w17</from>
+            <error>
+              <tag>use</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w18">
+          <token>si</token>
+          <lex id="b-AA_AO_002-d1p2w18l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p2w18l1t1">P7-S3-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e23">
+            <from>a#a-AA_AO_002-d1p2w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w19">
+          <token>na</token>
+          <lex id="b-AA_AO_002-d1p2w19l1">
+            <lemma>na</lemma>
+            <mtag id="b-AA_AO_002-d1p2w19l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e24">
+            <from>a#a-AA_AO_002-d1p2w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w20">
+          <token>rozhovor</token>
+          <lex id="b-AA_AO_002-d1p2w20l1">
+            <lemma>rozhovor</lemma>
+            <mtag id="b-AA_AO_002-d1p2w20l1t1">NNIS4-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e25">
+            <from>a#a-AA_AO_002-d1p2w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w21">
+          <token>se</token>
+          <lex id="b-AA_AO_002-d1p2w21l1">
+            <lemma>s</lemma>
+            <mtag id="b-AA_AO_002-d1p2w21l1t1">RV--7-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e26">
+            <from>a#a-AA_AO_002-d1p2w21</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e25</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w22">
+          <token>známým</token>
+          <lex id="b-AA_AO_002-d1p2w22l1">
+            <lemma>známý</lemma>
+            <mtag id="b-AA_AO_002-d1p2w22l1t1">AAMS7----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e27">
+            <from>a#a-AA_AO_002-d1p2w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w23">
+          <token>polským</token>
+          <lex id="b-AA_AO_002-d1p2w23l1">
+            <lemma>polský</lemma>
+            <mtag id="b-AA_AO_002-d1p2w23l1t1">AAMS7----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e28">
+            <from>a#a-AA_AO_002-d1p2w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w24">
+          <token>filozofem</token>
+          <lex id="b-AA_AO_002-d1p2w24l1">
+            <lemma>filozof</lemma>
+            <mtag id="b-AA_AO_002-d1p2w24l1t1">NNMS7-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e29">
+            <from>a#a-AA_AO_002-d1p2w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w25">
+          <token>Leszkem</token>
+          <lex id="b-AA_AO_002-d1p2w25l1">
+            <lemma>Leszek</lemma>
+            <mtag id="b-AA_AO_002-d1p2w25l1t1">NNMS7-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e30">
+            <from>a#a-AA_AO_002-d1p2w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w26">
+          <token>Kotakowskim</token>
+          <lex id="b-AA_AO_002-d1p2w26l1">
+            <lemma>Kotakowskim</lemma>
+            <mtag id="b-AA_AO_002-d1p2w26l1t1">X@----------X--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e31">
+            <from>a#a-AA_AO_002-d1p2w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w27">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w27l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w27l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e32">
+            <from>a#a-AA_AO_002-d1p2w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w28">
+          <token>který</token>
+          <lex id="b-AA_AO_002-d1p2w28l1">
+            <lemma>který</lemma>
+            <mtag id="b-AA_AO_002-d1p2w28l1t1">P4IS4-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e33">
+            <from>a#a-AA_AO_002-d1p2w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w29">
+          <token>jsem</token>
+          <lex id="b-AA_AO_002-d1p2w29l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p2w29l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e34">
+            <from>a#a-AA_AO_002-d1p2w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w30">
+          <token>četla</token>
+          <lex id="b-AA_AO_002-d1p2w30l1">
+            <lemma>číst</lemma>
+            <mtag id="b-AA_AO_002-d1p2w30l1t1">VpFS---1R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e35">
+            <from>a#a-AA_AO_002-d1p2w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w31">
+          <token>asi</token>
+          <lex id="b-AA_AO_002-d1p2w31l1">
+            <lemma>asi</lemma>
+            <mtag id="b-AA_AO_002-d1p2w31l1t1">TT----------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e36">
+            <from>a#a-AA_AO_002-d1p2w31</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w32">
+          <token>před</token>
+          <lex id="b-AA_AO_002-d1p2w32l1">
+            <lemma>před</lemma>
+            <mtag id="b-AA_AO_002-d1p2w32l1t1">RR--7-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e37">
+            <from>a#a-AA_AO_002-d1p2w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w33">
+          <token>dvěma</token>
+          <lex id="b-AA_AO_002-d1p2w33l1">
+            <lemma>dva</lemma>
+            <mtag id="b-AA_AO_002-d1p2w33l1t1">ClNP7-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e38">
+            <from>a#a-AA_AO_002-d1p2w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w34">
+          <token>lety</token>
+          <lex id="b-AA_AO_002-d1p2w34l1">
+            <lemma>rok</lemma>
+            <mtag id="b-AA_AO_002-d1p2w34l1t1">NNNP7-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e39">
+            <from>a#a-AA_AO_002-d1p2w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w35">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p2w35l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p2w35l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e40">
+            <from>a#a-AA_AO_002-d1p2w35</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p2s2">
+        <w id="b-AA_AO_002-d1p2w36">
+          <token>Kotakowski</token>
+          <lex id="b-AA_AO_002-d1p2w36l1">
+            <lemma>Kotakowski</lemma>
+            <mtag id="b-AA_AO_002-d1p2w36l1t1">X@----------X--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e41">
+            <from>a#a-AA_AO_002-d1p2w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w37">
+          <token>v</token>
+          <lex id="b-AA_AO_002-d1p2w37l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p2w37l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e42">
+            <from>a#a-AA_AO_002-d1p2w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w38">
+          <token>něm</token>
+          <lex id="b-AA_AO_002-d1p2w38l1">
+            <lemma>on</lemma>
+            <mtag id="b-AA_AO_002-d1p2w38l1t1">P5MS6--3----O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e43">
+            <from>a#a-AA_AO_002-d1p2w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w39">
+          <token>vyprávěl</token>
+          <lex id="b-AA_AO_002-d1p2w39l1">
+            <lemma>vyprávět</lemma>
+            <mtag id="b-AA_AO_002-d1p2w39l1t1">VpIS---3R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e44">
+            <from>a#a-AA_AO_002-d1p2w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w40">
+          <token>o</token>
+          <lex id="b-AA_AO_002-d1p2w40l1">
+            <lemma>o</lemma>
+            <mtag id="b-AA_AO_002-d1p2w40l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e45">
+            <from>a#a-AA_AO_002-d1p2w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w41">
+          <token>životě</token>
+          <lex id="b-AA_AO_002-d1p2w41l1">
+            <lemma>život</lemma>
+            <mtag id="b-AA_AO_002-d1p2w41l1t1">NNIS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e46">
+            <from>a#a-AA_AO_002-d1p2w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w42">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w42l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w42l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e47">
+            <from>a#a-AA_AO_002-d1p2w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w43">
+          <token>světě</token>
+          <lex id="b-AA_AO_002-d1p2w43l1">
+            <lemma>svět</lemma>
+            <mtag id="b-AA_AO_002-d1p2w43l1t1">NNIS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e48">
+            <from>a#a-AA_AO_002-d1p2w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w44">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p2w44l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p2w44l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e49">
+            <from>a#a-AA_AO_002-d1p2w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w45">
+          <token>několika</token>
+          <lex id="b-AA_AO_002-d1p2w45l1">
+            <lemma>několik</lemma>
+            <mtag id="b-AA_AO_002-d1p2w45l1t1">Ca--6-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e50">
+            <from>a#a-AA_AO_002-d1p2w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w46">
+          <token>dalších</token>
+          <lex id="b-AA_AO_002-d1p2w46l1">
+            <lemma>další</lemma>
+            <mtag id="b-AA_AO_002-d1p2w46l1t1">AAFP6----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e51">
+            <from>a#a-AA_AO_002-d1p2w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w47">
+          <token>věcech</token>
+          <lex id="b-AA_AO_002-d1p2w47l1">
+            <lemma>věc</lemma>
+            <mtag id="b-AA_AO_002-d1p2w47l1t1">NNFP6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e52">
+            <from>a#a-AA_AO_002-d1p2w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w48">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p2w48l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p2w48l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e53">
+            <from>a#a-AA_AO_002-d1p2w48</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w49">
+          <token>potom</token>
+          <lex id="b-AA_AO_002-d1p2w49l1">
+            <lemma>potom</lemma>
+            <mtag id="b-AA_AO_002-d1p2w49l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e54">
+            <from>a#a-AA_AO_002-d1p2w49</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w50">
+          <token>konečně</token>
+          <lex id="b-AA_AO_002-d1p2w50l1">
+            <lemma>konečně</lemma>
+            <mtag id="b-AA_AO_002-d1p2w50l1t1">Dg-------1A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e55">
+            <from>a#a-AA_AO_002-d1p2w50</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w51">
+          <token>řekl</token>
+          <lex id="b-AA_AO_002-d1p2w51l1">
+            <lemma>říci</lemma>
+            <mtag id="b-AA_AO_002-d1p2w51l1t1">VpMS---3R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e56">
+            <from>a#a-AA_AO_002-d1p2w51</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w52">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w52l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w52l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e57">
+            <from>a#a-AA_AO_002-d1p2w52</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w53">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p2w53l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p2w53l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e58">
+            <from>a#a-AA_AO_002-d1p2w53</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w54">
+          <token>nejdůležitější</token>
+          <lex id="b-AA_AO_002-d1p2w54l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p2w54l1t1">AAIS1----3A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e59">
+            <from>a#a-AA_AO_002-d1p2w54</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w55">
+          <token>pro</token>
+          <lex id="b-AA_AO_002-d1p2w55l1">
+            <lemma>pro</lemma>
+            <mtag id="b-AA_AO_002-d1p2w55l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e60">
+            <from>a#a-AA_AO_002-d1p2w55</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w56">
+          <token>něho</token>
+          <lex id="b-AA_AO_002-d1p2w56l1">
+            <lemma>on</lemma>
+            <mtag id="b-AA_AO_002-d1p2w56l1t1">P5MS4--3----O-1</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e61">
+            <from>a#a-AA_AO_002-d1p2w56</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w57">
+          <token>jsou</token>
+          <lex id="b-AA_AO_002-d1p2w57l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p2w57l1t1">VB-P---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e62">
+            <from>a#a-AA_AO_002-d1p2w57</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w58">
+          <token>(</token>
+          <lex id="b-AA_AO_002-d1p2w58l1">
+            <lemma>(</lemma>
+            <mtag id="b-AA_AO_002-d1p2w58l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e63">
+            <from>a#a-AA_AO_002-d1p2w58</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w59">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p2w59l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p2w59l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e64">
+            <from>a#a-AA_AO_002-d1p2w59</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w60">
+          <token>vždycky</token>
+          <lex id="b-AA_AO_002-d1p2w60l1">
+            <lemma>vždycky</lemma>
+            <mtag id="b-AA_AO_002-d1p2w60l1t1">Db--------A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e65">
+            <from>a#a-AA_AO_002-d1p2w60</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w61">
+          <token>byli</token>
+          <lex id="b-AA_AO_002-d1p2w61l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p2w61l1t1">VpMP---3R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e66">
+            <from>a#a-AA_AO_002-d1p2w61</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w62">
+          <token>)</token>
+          <lex id="b-AA_AO_002-d1p2w62l1">
+            <lemma>)</lemma>
+            <mtag id="b-AA_AO_002-d1p2w62l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e67">
+            <from>a#a-AA_AO_002-d1p2w62</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w63">
+          <token>jeho</token>
+          <lex id="b-AA_AO_002-d1p2w63l1">
+            <lemma>jeho</lemma>
+            <mtag id="b-AA_AO_002-d1p2w63l1t1">PSMP1NS3----A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e68">
+            <from>a#a-AA_AO_002-d1p2w63</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w64">
+          <token>přátelé</token>
+          <lex id="b-AA_AO_002-d1p2w64l1">
+            <lemma>přítel</lemma>
+            <mtag id="b-AA_AO_002-d1p2w64l1t1">NNMP1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e69">
+            <from>a#a-AA_AO_002-d1p2w64</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e62</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w65">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p2w65l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p2w65l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e70">
+            <from>a#a-AA_AO_002-d1p2w65</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p2s3">
+        <w id="b-AA_AO_002-d1p2w66">
+          <token>Určitě</token>
+          <lex id="b-AA_AO_002-d1p2w66l1">
+            <lemma>určitě</lemma>
+            <mtag id="b-AA_AO_002-d1p2w66l1t1">TT----------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e71">
+            <from>a#a-AA_AO_002-d1p2w66</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w67">
+          <token>souhlasím</token>
+          <lex id="b-AA_AO_002-d1p2w67l1">
+            <lemma>souhlasit</lemma>
+            <mtag id="b-AA_AO_002-d1p2w67l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e72">
+            <from>a#a-AA_AO_002-d1p2w67</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w68">
+          <token>s</token>
+          <lex id="b-AA_AO_002-d1p2w68l1">
+            <lemma>s</lemma>
+            <mtag id="b-AA_AO_002-d1p2w68l1t1">RR--7-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e73">
+            <from>a#a-AA_AO_002-d1p2w68</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w69">
+          <token>tou</token>
+          <lex id="b-AA_AO_002-d1p2w69l1">
+            <lemma>ten</lemma>
+            <mtag id="b-AA_AO_002-d1p2w69l1t1">PDFS7-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e74">
+            <from>a#a-AA_AO_002-d1p2w69</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w70">
+          <token>myšlenkou</token>
+          <lex id="b-AA_AO_002-d1p2w70l1">
+            <lemma>myšlenka</lemma>
+            <mtag id="b-AA_AO_002-d1p2w70l1t1">NNFS7-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e75">
+            <from>a#a-AA_AO_002-d1p2w70</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w71">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p2w71l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p2w71l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e76">
+            <from>a#a-AA_AO_002-d1p2w71</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p2s4">
+        <w id="b-AA_AO_002-d1p2w72">
+          <token>Pro</token>
+          <lex id="b-AA_AO_002-d1p2w72l1">
+            <lemma>pro</lemma>
+            <mtag id="b-AA_AO_002-d1p2w72l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e77">
+            <from>a#a-AA_AO_002-d1p2w72</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w73">
+          <token>mě</token>
+          <lex id="b-AA_AO_002-d1p2w73l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p2w73l1t1">PH-S4--1----O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e78">
+            <from>a#a-AA_AO_002-d1p2w73</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e77</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w74">
+          <token>je</token>
+          <lex id="b-AA_AO_002-d1p2w74l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p2w74l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e79">
+            <from>a#a-AA_AO_002-d1p2w74</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w75">
+          <token>taky</token>
+          <lex id="b-AA_AO_002-d1p2w75l1">
+            <lemma>taky</lemma>
+            <mtag id="b-AA_AO_002-d1p2w75l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e80">
+            <from>a#a-AA_AO_002-d1p2w75</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w76">
+          <token>nejdůležitější</token>
+          <lex id="b-AA_AO_002-d1p2w76l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p2w76l1t1">AAIS1----3A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e81">
+            <from>a#a-AA_AO_002-d1p2w76</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w77">
+          <token>na</token>
+          <lex id="b-AA_AO_002-d1p2w77l1">
+            <lemma>na</lemma>
+            <mtag id="b-AA_AO_002-d1p2w77l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e82">
+            <from>a#a-AA_AO_002-d1p2w77</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w78">
+          <token>světě</token>
+          <lex id="b-AA_AO_002-d1p2w78l1">
+            <lemma>svět</lemma>
+            <mtag id="b-AA_AO_002-d1p2w78l1t1">NNIS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e83">
+            <from>a#a-AA_AO_002-d1p2w78</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w79">
+          <token>přátelství</token>
+          <lex id="b-AA_AO_002-d1p2w79l1">
+            <lemma>přátelství</lemma>
+            <mtag id="b-AA_AO_002-d1p2w79l1t1">NNNP2-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e84">
+            <from>a#a-AA_AO_002-d1p2w79</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w80">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p2w80l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p2w80l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e85">
+            <from>a#a-AA_AO_002-d1p2w80</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p2s5">
+        <w id="b-AA_AO_002-d1p2w81">
+          <token>Cítím</token>
+          <lex id="b-AA_AO_002-d1p2w81l1">
+            <lemma>cítit</lemma>
+            <mtag id="b-AA_AO_002-d1p2w81l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e86">
+            <from>a#a-AA_AO_002-d1p2w81</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w82">
+          <token>to</token>
+          <lex id="b-AA_AO_002-d1p2w82l1">
+            <lemma>ten</lemma>
+            <mtag id="b-AA_AO_002-d1p2w82l1t1">PDNS4-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e87">
+            <from>a#a-AA_AO_002-d1p2w82</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w83">
+          <token>hodně</token>
+          <lex id="b-AA_AO_002-d1p2w83l1">
+            <lemma>hodně</lemma>
+            <mtag id="b-AA_AO_002-d1p2w83l1t1">Dg-------1A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e88">
+            <from>a#a-AA_AO_002-d1p2w83</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w84">
+          <token>v</token>
+          <lex id="b-AA_AO_002-d1p2w84l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p2w84l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e89">
+            <from>a#a-AA_AO_002-d1p2w84</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w85">
+          <token>Praze</token>
+          <lex id="b-AA_AO_002-d1p2w85l1">
+            <lemma>Praha</lemma>
+            <mtag id="b-AA_AO_002-d1p2w85l1t1">NNFS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e90">
+            <from>a#a-AA_AO_002-d1p2w85</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w86">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w86l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w86l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e91">
+            <from>a#a-AA_AO_002-d1p2w86</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w87">
+          <token>protože</token>
+          <lex id="b-AA_AO_002-d1p2w87l1">
+            <lemma>protože</lemma>
+            <mtag id="b-AA_AO_002-d1p2w87l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e92">
+            <from>a#a-AA_AO_002-d1p2w87</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w88">
+          <token>všichni</token>
+          <lex id="b-AA_AO_002-d1p2w88l1">
+            <lemma>všechen</lemma>
+            <mtag id="b-AA_AO_002-d1p2w88l1t1">PLMP1-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e93">
+            <from>a#a-AA_AO_002-d1p2w88</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w89">
+          <token>moji</token>
+          <lex id="b-AA_AO_002-d1p2w89l1">
+            <lemma>můj</lemma>
+            <mtag id="b-AA_AO_002-d1p2w89l1t1">PSMP1-S1----A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e94">
+            <from>a#a-AA_AO_002-d1p2w89</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w90">
+          <token>přátelé</token>
+          <lex id="b-AA_AO_002-d1p2w90l1">
+            <lemma>přítel</lemma>
+            <mtag id="b-AA_AO_002-d1p2w90l1t1">NNMP1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e95">
+            <from>a#a-AA_AO_002-d1p2w90</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e96</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w91">
+          <token>zůstali</token>
+          <lex id="b-AA_AO_002-d1p2w91l1">
+            <lemma>zůstat</lemma>
+            <mtag id="b-AA_AO_002-d1p2w91l1t1">VpMP---3R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e96">
+            <from>a#a-AA_AO_002-d1p2w91</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w92">
+          <token>v</token>
+          <lex id="b-AA_AO_002-d1p2w92l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p2w92l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e97">
+            <from>a#a-AA_AO_002-d1p2w92</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w93">
+          <token>Krakově</token>
+          <lex id="b-AA_AO_002-d1p2w93l1">
+            <lemma>Krakov</lemma>
+            <mtag id="b-AA_AO_002-d1p2w93l1t1">NNIS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e98">
+            <from>a#a-AA_AO_002-d1p2w93</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w103">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w103l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w103l1t1">Z:----------ZA-</mtag>
+          </lex>
+        </w>
+        <w id="b-AA_AO_002-d1p2w94">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p2w94l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p2w94l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e99">
+            <from>a#a-AA_AO_002-d1p2w94</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w95">
+          <token>proto</token>
+          <lex id="b-AA_AO_002-d1p2w95l1">
+            <lemma>proto</lemma>
+            <mtag id="b-AA_AO_002-d1p2w95l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e100">
+            <from>a#a-AA_AO_002-d1p2w95</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w96">
+          <token>se</token>
+          <lex id="b-AA_AO_002-d1p2w96l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p2w96l1t1">P7-S4-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e101">
+            <from>a#a-AA_AO_002-d1p2w96</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w97">
+          <token>mi</token>
+          <lex id="b-AA_AO_002-d1p2w97l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p2w97l1t1">PH-S3--1----N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e102">
+            <from>a#a-AA_AO_002-d1p2w97</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w98">
+          <token>po</token>
+          <lex id="b-AA_AO_002-d1p2w98l1">
+            <lemma>po</lemma>
+            <mtag id="b-AA_AO_002-d1p2w98l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e103">
+            <from>a#a-AA_AO_002-d1p2w98</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w99">
+          <token>nich</token>
+          <lex id="b-AA_AO_002-d1p2w99l1">
+            <lemma>on</lemma>
+            <mtag id="b-AA_AO_002-d1p2w99l1t1">P5MP6--3----O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e104">
+            <from>a#a-AA_AO_002-d1p2w99</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w100">
+          <token>moc</token>
+          <lex id="b-AA_AO_002-d1p2w100l1">
+            <lemma>moc</lemma>
+            <mtag id="b-AA_AO_002-d1p2w100l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e105">
+            <from>a#a-AA_AO_002-d1p2w100</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w101">
+          <token>stýská</token>
+          <lex id="b-AA_AO_002-d1p2w101l1">
+            <lemma>stýskat</lemma>
+            <mtag id="b-AA_AO_002-d1p2w101l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e106">
+            <from>a#a-AA_AO_002-d1p2w101</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w102">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p2w102l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p2w102l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e107">
+            <from>a#a-AA_AO_002-d1p2w102</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p2s6">
+        <w id="b-AA_AO_002-d1p2w104">
+          <token>Píšeme</token>
+          <lex id="b-AA_AO_002-d1p2w104l1">
+            <lemma>psát</lemma>
+            <mtag id="b-AA_AO_002-d1p2w104l1t1">VB-P---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e108">
+            <from>a#a-AA_AO_002-d1p2w103</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w105">
+          <token>si</token>
+          <lex id="b-AA_AO_002-d1p2w105l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p2w105l1t1">P7-P3-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e109">
+            <from>a#a-AA_AO_002-d1p2w104</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e108</link>
+            </error>
+            <error>
+              <tag>rflx</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w106">
+          <token>často</token>
+          <lex id="b-AA_AO_002-d1p2w106l1">
+            <lemma>často</lemma>
+            <mtag id="b-AA_AO_002-d1p2w106l1t1">Dg-------1A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e110">
+            <from>a#a-AA_AO_002-d1p2w105</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w107">
+          <token>e-maily</token>
+          <lex id="b-AA_AO_002-d1p2w107l1">
+            <lemma>e-mail</lemma>
+            <mtag id="b-AA_AO_002-d1p2w107l1t1">NNIP7-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e111">
+            <from>a#a-AA_AO_002-d1p2w107</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w108">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w108l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w108l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e112">
+            <from>a#a-AA_AO_002-d1p2w108</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w109">
+          <token>ale</token>
+          <lex id="b-AA_AO_002-d1p2w109l1">
+            <lemma>ale</lemma>
+            <mtag id="b-AA_AO_002-d1p2w109l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e113">
+            <from>a#a-AA_AO_002-d1p2w109</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w110">
+          <token>myslím</token>
+          <lex id="b-AA_AO_002-d1p2w110l1">
+            <lemma>myslet</lemma>
+            <mtag id="b-AA_AO_002-d1p2w110l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e114">
+            <from>a#a-AA_AO_002-d1p2w110</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w111">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w111l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w111l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e115">
+            <from>a#a-AA_AO_002-d1p2w111</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w112">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p2w112l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p2w112l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e116">
+            <from>a#a-AA_AO_002-d1p2w112</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w113">
+          <token>to</token>
+          <lex id="b-AA_AO_002-d1p2w113l1">
+            <lemma>ten</lemma>
+            <mtag id="b-AA_AO_002-d1p2w113l1t1">PDNS1-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e117">
+            <from>a#a-AA_AO_002-d1p2w113</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w114">
+          <token>není</token>
+          <lex id="b-AA_AO_002-d1p2w114l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p2w114l1t1">VB-S---3P-NAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e118">
+            <from>a#a-AA_AO_002-d1p2w114</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w115">
+          <token>stejné</token>
+          <lex id="b-AA_AO_002-d1p2w115l1">
+            <lemma>stejný</lemma>
+            <mtag id="b-AA_AO_002-d1p2w115l1t1">AANS1----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e119">
+            <from>a#a-AA_AO_002-d1p2w115</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w116">
+          <token>jako</token>
+          <lex id="b-AA_AO_002-d1p2w116l1">
+            <lemma>jako</lemma>
+            <mtag id="b-AA_AO_002-d1p2w116l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e120">
+            <from>a#a-AA_AO_002-d1p2w116</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w117">
+          <token>setkat</token>
+          <lex id="b-AA_AO_002-d1p2w117l1">
+            <lemma>setkat</lemma>
+            <mtag id="b-AA_AO_002-d1p2w117l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e121">
+            <from>a#a-AA_AO_002-d1p2w117</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w118">
+          <token>se</token>
+          <lex id="b-AA_AO_002-d1p2w118l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p2w118l1t1">P7-S4-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e122">
+            <from>a#a-AA_AO_002-d1p2w118</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w119">
+          <token>s</token>
+          <lex id="b-AA_AO_002-d1p2w119l1">
+            <lemma>s</lemma>
+            <mtag id="b-AA_AO_002-d1p2w119l1t1">RR--7-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e123">
+            <from>a#a-AA_AO_002-d1p2w119</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w120">
+          <token>někým</token>
+          <lex id="b-AA_AO_002-d1p2w120l1">
+            <lemma>někdo</lemma>
+            <mtag id="b-AA_AO_002-d1p2w120l1t1">PZM-7-------O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e124">
+            <from>a#a-AA_AO_002-d1p2w120</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w121">
+          <token>tváří</token>
+          <lex id="b-AA_AO_002-d1p2w121l1">
+            <lemma>tvář</lemma>
+            <mtag id="b-AA_AO_002-d1p2w121l1t1">NNFS7-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e125">
+            <from>a#a-AA_AO_002-d1p2w121</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w122">
+          <token>v</token>
+          <lex id="b-AA_AO_002-d1p2w122l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p2w122l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e126">
+            <from>a#a-AA_AO_002-d1p2w122</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w123">
+          <token>tvář</token>
+          <lex id="b-AA_AO_002-d1p2w123l1">
+            <lemma>tvář</lemma>
+            <mtag id="b-AA_AO_002-d1p2w123l1t1">NNFS4-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e127">
+            <from>a#a-AA_AO_002-d1p2w123</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w124">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p2w124l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p2w124l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e128">
+            <from>a#a-AA_AO_002-d1p2w124</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w125">
+          <token>jít</token>
+          <lex id="b-AA_AO_002-d1p2w125l1">
+            <lemma>jít</lemma>
+            <mtag id="b-AA_AO_002-d1p2w125l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e129">
+            <from>a#a-AA_AO_002-d1p2w125</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w126">
+          <token>na</token>
+          <lex id="b-AA_AO_002-d1p2w126l1">
+            <lemma>na</lemma>
+            <mtag id="b-AA_AO_002-d1p2w126l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e130">
+            <from>a#a-AA_AO_002-d1p2w126</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w127">
+          <token>kávu</token>
+          <lex id="b-AA_AO_002-d1p2w127l1">
+            <lemma>káva</lemma>
+            <mtag id="b-AA_AO_002-d1p2w127l1t1">NNFS4-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e131">
+            <from>a#a-AA_AO_002-d1p2w127</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w128">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p2w128l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p2w128l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e132">
+            <from>a#a-AA_AO_002-d1p2w128</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w129">
+          <token>povídat</token>
+          <lex id="b-AA_AO_002-d1p2w129l1">
+            <lemma>povídat</lemma>
+            <mtag id="b-AA_AO_002-d1p2w129l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e133">
+            <from>a#a-AA_AO_002-d1p2w129</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w130">
+          <token>si</token>
+          <lex id="b-AA_AO_002-d1p2w130l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p2w130l1t1">P7-S3-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e134">
+            <from>a#a-AA_AO_002-d1p2w130</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w131">
+          <token>dvě</token>
+          <lex id="b-AA_AO_002-d1p2w131l1">
+            <lemma>dva</lemma>
+            <mtag id="b-AA_AO_002-d1p2w131l1t1">ClFP4-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e135">
+            <from>a#a-AA_AO_002-d1p2w131</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w132">
+          <token>hodiny</token>
+          <lex id="b-AA_AO_002-d1p2w132l1">
+            <lemma>hodina</lemma>
+            <mtag id="b-AA_AO_002-d1p2w132l1t1">NNFP4-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e136">
+            <from>a#a-AA_AO_002-d1p2w132</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w133">
+          <token>nebo</token>
+          <lex id="b-AA_AO_002-d1p2w133l1">
+            <lemma>nebo</lemma>
+            <mtag id="b-AA_AO_002-d1p2w133l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e137">
+            <from>a#a-AA_AO_002-d1p2w133</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w134">
+          <token>víc</token>
+          <lex id="b-AA_AO_002-d1p2w134l1">
+            <lemma>hodně</lemma>
+            <mtag id="b-AA_AO_002-d1p2w134l1t1">Dg-------2A-D-1</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e138">
+            <from>a#a-AA_AO_002-d1p2w134</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p2w135">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p2w135l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p2w135l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e139">
+            <from>a#a-AA_AO_002-d1p2w135</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_002-d1p3" lowerpara.rf="a#a-AA_AO_002-d1p3">
+      <s id="a-AA_AO_002-d1p3s1">
+        <w id="b-AA_AO_002-d1p3w1">
+          <token>Pokud</token>
+          <lex id="b-AA_AO_002-d1p3w1l1">
+            <lemma>pokud</lemma>
+            <mtag id="b-AA_AO_002-d1p3w1l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e140">
+            <from>a#a-AA_AO_002-d1p3w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w2">
+          <token>jde</token>
+          <lex id="b-AA_AO_002-d1p3w2l1">
+            <lemma>jít</lemma>
+            <mtag id="b-AA_AO_002-d1p3w2l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e141">
+            <from>a#a-AA_AO_002-d1p3w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w3">
+          <token>o</token>
+          <lex id="b-AA_AO_002-d1p3w3l1">
+            <lemma>o</lemma>
+            <mtag id="b-AA_AO_002-d1p3w3l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e142">
+            <from>a#a-AA_AO_002-d1p3w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w4">
+          <token>další</token>
+          <lex id="b-AA_AO_002-d1p3w4l1">
+            <lemma>další</lemma>
+            <mtag id="b-AA_AO_002-d1p3w4l1t1">AAFP4----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e143">
+            <from>a#a-AA_AO_002-d1p3w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w5">
+          <token>věci</token>
+          <lex id="b-AA_AO_002-d1p3w5l1">
+            <lemma>věc</lemma>
+            <mtag id="b-AA_AO_002-d1p3w5l1t1">NNFP4-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e144">
+            <from>a#a-AA_AO_002-d1p3w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w6">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p3w6l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p3w6l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e145">
+            <from>a#a-AA_AO_002-d1p3w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w7">
+          <token>moc</token>
+          <lex id="b-AA_AO_002-d1p3w7l1">
+            <lemma>moc</lemma>
+            <mtag id="b-AA_AO_002-d1p3w7l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e146">
+            <from>a#a-AA_AO_002-d1p3w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w8">
+          <token>důležitá</token>
+          <lex id="b-AA_AO_002-d1p3w8l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p3w8l1t1">AAFS1----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e147">
+            <from>a#a-AA_AO_002-d1p3w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w9">
+          <token>je</token>
+          <lex id="b-AA_AO_002-d1p3w9l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p3w9l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e148">
+            <from>a#a-AA_AO_002-d1p3w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w10">
+          <token>pro</token>
+          <lex id="b-AA_AO_002-d1p3w10l1">
+            <lemma>pro</lemma>
+            <mtag id="b-AA_AO_002-d1p3w10l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e149">
+            <from>a#a-AA_AO_002-d1p3w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w11">
+          <token>mě</token>
+          <lex id="b-AA_AO_002-d1p3w11l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p3w11l1t1">PH-S4--1----O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e150">
+            <from>a#a-AA_AO_002-d1p3w11</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e149</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w12">
+          <token>láska</token>
+          <lex id="b-AA_AO_002-d1p3w12l1">
+            <lemma>láska</lemma>
+            <mtag id="b-AA_AO_002-d1p3w12l1t1">NNFS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e151">
+            <from>a#a-AA_AO_002-d1p3w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w13">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p3w13l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p3w13l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e152">
+            <from>a#a-AA_AO_002-d1p3w13</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p3s2">
+        <w id="b-AA_AO_002-d1p3w17">
+          <token>Někdo</token>
+          <lex id="b-AA_AO_002-d1p3w17l1">
+            <lemma>někdo</lemma>
+            <mtag id="b-AA_AO_002-d1p3w17l1t1">PZM-1-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e156">
+            <from>a#a-AA_AO_002-d1p3w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w15">
+          <token>by</token>
+          <lex id="b-AA_AO_002-d1p3w15l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p3w15l1t1">Vc----------V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e154">
+            <from>a#a-AA_AO_002-d1p3w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w16">
+          <token>se</token>
+          <lex id="b-AA_AO_002-d1p3w16l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p3w16l1t1">P7-S4-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e155">
+            <from>a#a-AA_AO_002-d1p3w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w14">
+          <token>mohl</token>
+          <lex id="b-AA_AO_002-d1p3w14l1">
+            <lemma>moci</lemma>
+            <mtag id="b-AA_AO_002-d1p3w14l1t1">VpMS---3R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e153">
+            <from>a#a-AA_AO_002-d1p3w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w18">
+          <token>zeptat</token>
+          <lex id="b-AA_AO_002-d1p3w18l1">
+            <lemma>zeptat</lemma>
+            <mtag id="b-AA_AO_002-d1p3w18l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e157">
+            <from>a#a-AA_AO_002-d1p3w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w19">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p3w19l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p3w19l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e158">
+            <from>a#a-AA_AO_002-d1p3w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w20">
+          <token>proč</token>
+          <lex id="b-AA_AO_002-d1p3w20l1">
+            <lemma>proč</lemma>
+            <mtag id="b-AA_AO_002-d1p3w20l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e159">
+            <from>a#a-AA_AO_002-d1p3w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w21">
+          <token>není</token>
+          <lex id="b-AA_AO_002-d1p3w21l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p3w21l1t1">VB-S---3P-NAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e160">
+            <from>a#a-AA_AO_002-d1p3w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w22">
+          <token>láska</token>
+          <lex id="b-AA_AO_002-d1p3w22l1">
+            <lemma>láska</lemma>
+            <mtag id="b-AA_AO_002-d1p3w22l1t1">NNFS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e161">
+            <from>a#a-AA_AO_002-d1p3w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w23">
+          <token>nejdůležitější</token>
+          <lex id="b-AA_AO_002-d1p3w23l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p3w23l1t1">AAFS1----3A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e162">
+            <from>a#a-AA_AO_002-d1p3w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p3w24">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p3w24l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p3w24l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e163">
+            <from>a#a-AA_AO_002-d1p3w24</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_002-d1p4" lowerpara.rf="a#a-AA_AO_002-d1p4">
+      <s id="a-AA_AO_002-d1p4s1">
+        <w id="b-AA_AO_002-d1p4w1">
+          <token>Odpovím</token>
+          <lex id="b-AA_AO_002-d1p4w1l1">
+            <lemma>odpovědět</lemma>
+            <mtag id="b-AA_AO_002-d1p4w1l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e164">
+            <from>a#a-AA_AO_002-d1p4w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w2">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p4w2l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p4w2l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e165">
+            <from>a#a-AA_AO_002-d1p4w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w3">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p4w3l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p4w3l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e166">
+            <from>a#a-AA_AO_002-d1p4w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w4">
+          <token>z</token>
+          <lex id="b-AA_AO_002-d1p4w4l1">
+            <lemma>z</lemma>
+            <mtag id="b-AA_AO_002-d1p4w4l1t1">RR--2-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e167">
+            <from>a#a-AA_AO_002-d1p4w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w5">
+          <token>toho</token>
+          <lex id="b-AA_AO_002-d1p4w5l1">
+            <lemma>ten</lemma>
+            <mtag id="b-AA_AO_002-d1p4w5l1t1">PDIS2-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e168">
+            <from>a#a-AA_AO_002-d1p4w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w6">
+          <token>důvodu</token>
+          <lex id="b-AA_AO_002-d1p4w6l1">
+            <lemma>důvod</lemma>
+            <mtag id="b-AA_AO_002-d1p4w6l1t1">NNIS2-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e169">
+            <from>a#a-AA_AO_002-d1p4w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w7">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p4w7l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p4w7l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e170">
+            <from>a#a-AA_AO_002-d1p4w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w8">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p4w8l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p4w8l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e171">
+            <from>a#a-AA_AO_002-d1p4w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w9">
+          <token>každá</token>
+          <lex id="b-AA_AO_002-d1p4w9l1">
+            <lemma>každý</lemma>
+            <mtag id="b-AA_AO_002-d1p4w9l1t1">AAFS1----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e172">
+            <from>a#a-AA_AO_002-d1p4w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w10">
+          <token>láska</token>
+          <lex id="b-AA_AO_002-d1p4w10l1">
+            <lemma>láska</lemma>
+            <mtag id="b-AA_AO_002-d1p4w10l1t1">NNFS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e173">
+            <from>a#a-AA_AO_002-d1p4w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w11">
+          <token>má</token>
+          <lex id="b-AA_AO_002-d1p4w11l1">
+            <lemma>mít</lemma>
+            <mtag id="b-AA_AO_002-d1p4w11l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e174">
+            <from>a#a-AA_AO_002-d1p4w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w12">
+          <token>začátek</token>
+          <lex id="b-AA_AO_002-d1p4w12l1">
+            <lemma>začátek</lemma>
+            <mtag id="b-AA_AO_002-d1p4w12l1t1">NNIS4-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e175">
+            <from>a#a-AA_AO_002-d1p4w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w13">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p4w13l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p4w13l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e176">
+            <from>a#a-AA_AO_002-d1p4w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w14">
+          <token>konec</token>
+          <lex id="b-AA_AO_002-d1p4w14l1">
+            <lemma>konec</lemma>
+            <mtag id="b-AA_AO_002-d1p4w14l1t1">NNIS4-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e177">
+            <from>a#a-AA_AO_002-d1p4w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w15">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p4w15l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p4w15l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e178">
+            <from>a#a-AA_AO_002-d1p4w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w16">
+          <token>ale</token>
+          <lex id="b-AA_AO_002-d1p4w16l1">
+            <lemma>ale</lemma>
+            <mtag id="b-AA_AO_002-d1p4w16l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e179">
+            <from>a#a-AA_AO_002-d1p4w16</from>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w17">
+          <token>přátelství</token>
+          <lex id="b-AA_AO_002-d1p4w17l1">
+            <lemma>přátelství</lemma>
+            <mtag id="b-AA_AO_002-d1p4w17l1t1">NNNS3-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e180">
+            <from>a#a-AA_AO_002-d1p4w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w18">
+          <token>je</token>
+          <lex id="b-AA_AO_002-d1p4w18l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p4w18l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e181">
+            <from>a#a-AA_AO_002-d1p4w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w19">
+          <token>věčné</token>
+          <lex id="b-AA_AO_002-d1p4w19l1">
+            <lemma>věčný</lemma>
+            <mtag id="b-AA_AO_002-d1p4w19l1t1">AANS1----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e182">
+            <from>a#a-AA_AO_002-d1p4w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w20">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p4w20l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p4w20l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e183">
+            <from>a#a-AA_AO_002-d1p4w20</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p4s2">
+        <w id="b-AA_AO_002-d1p4w21">
+          <token>Člověk</token>
+          <lex id="b-AA_AO_002-d1p4w21l1">
+            <lemma>člověk</lemma>
+            <mtag id="b-AA_AO_002-d1p4w21l1t1">NNMS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e184">
+            <from>a#a-AA_AO_002-d1p4w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w22">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p4w22l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p4w22l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e185">
+            <from>a#a-AA_AO_002-d1p4w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w23">
+          <token>kterého</token>
+          <lex id="b-AA_AO_002-d1p4w23l1">
+            <lemma>který</lemma>
+            <mtag id="b-AA_AO_002-d1p4w23l1t1">P4MS4-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e186">
+            <from>a#a-AA_AO_002-d1p4w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w24">
+          <token>miluju</token>
+          <lex id="b-AA_AO_002-d1p4w24l1">
+            <lemma>milovat</lemma>
+            <mtag id="b-AA_AO_002-d1p4w24l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e187">
+            <from>a#a-AA_AO_002-d1p4w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w44">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p4w44l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p4w44l1t1">Z:----------ZA-</mtag>
+          </lex>
+        </w>
+        <w id="b-AA_AO_002-d1p4w25">
+          <token>je</token>
+          <lex id="b-AA_AO_002-d1p4w25l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p4w25l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e188">
+            <from>a#a-AA_AO_002-d1p4w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w26">
+          <token>taky</token>
+          <lex id="b-AA_AO_002-d1p4w26l1">
+            <lemma>taky</lemma>
+            <mtag id="b-AA_AO_002-d1p4w26l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e189">
+            <from>a#a-AA_AO_002-d1p4w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w27">
+          <token>mým</token>
+          <lex id="b-AA_AO_002-d1p4w27l1">
+            <lemma>můj</lemma>
+            <mtag id="b-AA_AO_002-d1p4w27l1t1">PSMS7-S1----A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e190">
+            <from>a#a-AA_AO_002-d1p4w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w28">
+          <token>přítelem</token>
+          <lex id="b-AA_AO_002-d1p4w28l1">
+            <lemma>přítel</lemma>
+            <mtag id="b-AA_AO_002-d1p4w28l1t1">NNMS7-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e191">
+            <from>a#a-AA_AO_002-d1p4w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w29">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p4w29l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p4w29l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e192">
+            <from>a#a-AA_AO_002-d1p4w29</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p4s3">
+        <w id="b-AA_AO_002-d1p4w30">
+          <token>Tuším</token>
+          <lex id="b-AA_AO_002-d1p4w30l1">
+            <lemma>tušit</lemma>
+            <mtag id="b-AA_AO_002-d1p4w30l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e193">
+            <from>a#a-AA_AO_002-d1p4w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w31">
+          <token>ale</token>
+          <lex id="b-AA_AO_002-d1p4w31l1">
+            <lemma>ale</lemma>
+            <mtag id="b-AA_AO_002-d1p4w31l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e194">
+            <from>a#a-AA_AO_002-d1p4w31</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w32">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p4w32l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p4w32l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e195">
+            <from>a#a-AA_AO_002-d1p4w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w33">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p4w33l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p4w33l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e196">
+            <from>a#a-AA_AO_002-d1p4w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w34">
+          <token>láska</token>
+          <lex id="b-AA_AO_002-d1p4w34l1">
+            <lemma>láska</lemma>
+            <mtag id="b-AA_AO_002-d1p4w34l1t1">NNFS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e197">
+            <from>a#a-AA_AO_002-d1p4w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w35">
+          <token>může</token>
+          <lex id="b-AA_AO_002-d1p4w35l1">
+            <lemma>moci</lemma>
+            <mtag id="b-AA_AO_002-d1p4w35l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e198">
+            <from>a#a-AA_AO_002-d1p4w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w36">
+          <token>někdy</token>
+          <lex id="b-AA_AO_002-d1p4w36l1">
+            <lemma>někdy</lemma>
+            <mtag id="b-AA_AO_002-d1p4w36l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e199">
+            <from>a#a-AA_AO_002-d1p4w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w37">
+          <token>skončit</token>
+          <lex id="b-AA_AO_002-d1p4w37l1">
+            <lemma>skončit</lemma>
+            <mtag id="b-AA_AO_002-d1p4w37l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e200">
+            <from>a#a-AA_AO_002-d1p4w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w38">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p4w38l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p4w38l1t1">J^----------JA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e201">
+            <from>a#a-AA_AO_002-d1p4w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w39">
+          <token>potom</token>
+          <lex id="b-AA_AO_002-d1p4w39l1">
+            <lemma>potom</lemma>
+            <mtag id="b-AA_AO_002-d1p4w39l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e202">
+            <from>a#a-AA_AO_002-d1p4w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w40">
+          <token>zůstane</token>
+          <lex id="b-AA_AO_002-d1p4w40l1">
+            <lemma>zůstat</lemma>
+            <mtag id="b-AA_AO_002-d1p4w40l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e203">
+            <from>a#a-AA_AO_002-d1p4w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w41">
+          <token>jenom</token>
+          <lex id="b-AA_AO_002-d1p4w41l1">
+            <lemma>jenom</lemma>
+            <mtag id="b-AA_AO_002-d1p4w41l1t1">TT----------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e204">
+            <from>a#a-AA_AO_002-d1p4w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w42">
+          <token>přátelství</token>
+          <lex id="b-AA_AO_002-d1p4w42l1">
+            <lemma>přátelství</lemma>
+            <mtag id="b-AA_AO_002-d1p4w42l1t1">NNNS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e205">
+            <from>a#a-AA_AO_002-d1p4w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p4w43">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p4w43l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p4w43l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e206">
+            <from>a#a-AA_AO_002-d1p4w43</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_002-d1p5" lowerpara.rf="a#a-AA_AO_002-d1p5">
+      <s id="a-AA_AO_002-d1p5s1">
+        <w id="b-AA_AO_002-d1p5w1">
+          <token>Hodně</token>
+          <lex id="b-AA_AO_002-d1p5w1l1">
+            <lemma>hodně</lemma>
+            <mtag id="b-AA_AO_002-d1p5w1l1t1">Dg-------1A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e207">
+            <from>a#a-AA_AO_002-d1p5w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w2">
+          <token>důležitá</token>
+          <lex id="b-AA_AO_002-d1p5w2l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p5w2l1t1">AAFS1----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e208">
+            <from>a#a-AA_AO_002-d1p5w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w3">
+          <token>je</token>
+          <lex id="b-AA_AO_002-d1p5w3l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p5w3l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e209">
+            <from>a#a-AA_AO_002-d1p5w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w4">
+          <token>taky</token>
+          <lex id="b-AA_AO_002-d1p5w4l1">
+            <lemma>taky</lemma>
+            <mtag id="b-AA_AO_002-d1p5w4l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e210">
+            <from>a#a-AA_AO_002-d1p5w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w5">
+          <token>pro</token>
+          <lex id="b-AA_AO_002-d1p5w5l1">
+            <lemma>pro</lemma>
+            <mtag id="b-AA_AO_002-d1p5w5l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e211">
+            <from>a#a-AA_AO_002-d1p5w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w6">
+          <token>mě</token>
+          <lex id="b-AA_AO_002-d1p5w6l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p5w6l1t1">PH-S4--1----O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e212">
+            <from>a#a-AA_AO_002-d1p5w6</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e211</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w7">
+          <token>svoboda</token>
+          <lex id="b-AA_AO_002-d1p5w7l1">
+            <lemma>svoboda</lemma>
+            <mtag id="b-AA_AO_002-d1p5w7l1t1">NNFS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e213">
+            <from>a#a-AA_AO_002-d1p5w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w8">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p5w8l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p5w8l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e214">
+            <from>a#a-AA_AO_002-d1p5w8</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p5s2">
+        <w id="b-AA_AO_002-d1p5w9">
+          <token>Bohudík</token>
+          <lex id="b-AA_AO_002-d1p5w9l1">
+            <lemma>bohudík</lemma>
+            <mtag id="b-AA_AO_002-d1p5w9l1t1">TT----------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e215">
+            <from>a#a-AA_AO_002-d1p5w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w10">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p5w10l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p5w10l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e216">
+            <from>a#a-AA_AO_002-d1p5w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w11">
+          <token>nepamatuju</token>
+          <lex id="b-AA_AO_002-d1p5w11l1">
+            <lemma>pamatovat</lemma>
+            <mtag id="b-AA_AO_002-d1p5w11l1t1">VB-S---1P-NAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e217">
+            <from>a#a-AA_AO_002-d1p5w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w12">
+          <token>si</token>
+          <lex id="b-AA_AO_002-d1p5w12l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p5w12l1t1">P7-S3-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e218">
+            <from>a#a-AA_AO_002-d1p5w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w13">
+          <token>už</token>
+          <lex id="b-AA_AO_002-d1p5w13l1">
+            <lemma>už</lemma>
+            <mtag id="b-AA_AO_002-d1p5w13l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e219">
+            <from>a#a-AA_AO_002-d1p5w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w14">
+          <token>dobu</token>
+          <lex id="b-AA_AO_002-d1p5w14l1">
+            <lemma>doba</lemma>
+            <mtag id="b-AA_AO_002-d1p5w14l1t1">NNFS4-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e220">
+            <from>a#a-AA_AO_002-d1p5w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w15">
+          <token>komunismu</token>
+          <lex id="b-AA_AO_002-d1p5w15l1">
+            <lemma>komunismus</lemma>
+            <mtag id="b-AA_AO_002-d1p5w15l1t1">NNIS2-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e221">
+            <from>a#a-AA_AO_002-d1p5w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w16">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p5w16l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p5w16l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e222">
+            <from>a#a-AA_AO_002-d1p5w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w17">
+          <token>ale</token>
+          <lex id="b-AA_AO_002-d1p5w17l1">
+            <lemma>ale</lemma>
+            <mtag id="b-AA_AO_002-d1p5w17l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e223">
+            <from>a#a-AA_AO_002-d1p5w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w18">
+          <token>vím</token>
+          <lex id="b-AA_AO_002-d1p5w18l1">
+            <lemma>vědět</lemma>
+            <mtag id="b-AA_AO_002-d1p5w18l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e224">
+            <from>a#a-AA_AO_002-d1p5w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w19">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p5w19l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p5w19l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e225">
+            <from>a#a-AA_AO_002-d1p5w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w20">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p5w20l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p5w20l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e226">
+            <from>a#a-AA_AO_002-d1p5w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w22">
+          <token>to</token>
+          <lex id="b-AA_AO_002-d1p5w22l1">
+            <lemma>ten</lemma>
+            <mtag id="b-AA_AO_002-d1p5w22l1t1">PDNS1-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e228">
+            <from>a#a-AA_AO_002-d1p5w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w21">
+          <token>byla</token>
+          <lex id="b-AA_AO_002-d1p5w21l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p5w21l1t1">VpFS---3R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e227">
+            <from>a#a-AA_AO_002-d1p5w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w23">
+          <token>hrozná</token>
+          <lex id="b-AA_AO_002-d1p5w23l1">
+            <lemma>hrozný</lemma>
+            <mtag id="b-AA_AO_002-d1p5w23l1t1">AAFS1----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e229">
+            <from>a#a-AA_AO_002-d1p5w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w24">
+          <token>doba</token>
+          <lex id="b-AA_AO_002-d1p5w24l1">
+            <lemma>doba</lemma>
+            <mtag id="b-AA_AO_002-d1p5w24l1t1">NNFS1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e230">
+            <from>a#a-AA_AO_002-d1p5w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w25">
+          <token>pro</token>
+          <lex id="b-AA_AO_002-d1p5w25l1">
+            <lemma>pro</lemma>
+            <mtag id="b-AA_AO_002-d1p5w25l1t1">RR--4-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e231">
+            <from>a#a-AA_AO_002-d1p5w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w26">
+          <token>všechny</token>
+          <lex id="b-AA_AO_002-d1p5w26l1">
+            <lemma>všechen</lemma>
+            <mtag id="b-AA_AO_002-d1p5w26l1t1">PLMP4-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e232">
+            <from>a#a-AA_AO_002-d1p5w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w27">
+          <token>občany</token>
+          <lex id="b-AA_AO_002-d1p5w27l1">
+            <lemma>občan</lemma>
+            <mtag id="b-AA_AO_002-d1p5w27l1t1">NNMP4-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e233">
+            <from>a#a-AA_AO_002-d1p5w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w28">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p5w28l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p5w28l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e234">
+            <from>a#a-AA_AO_002-d1p5w28</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p5s3">
+        <w id="b-AA_AO_002-d1p5w29">
+          <token>Líbí</token>
+          <lex id="b-AA_AO_002-d1p5w29l1">
+            <lemma>líbit</lemma>
+            <mtag id="b-AA_AO_002-d1p5w29l1t1">VB-S---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e235">
+            <from>a#a-AA_AO_002-d1p5w29</from>
+            <from>a#a-AA_AO_002-d1p5w30</from>
+            <to>b-AA_AO_002-d1p5w30</to>
+            <to>b-AA_AO_002-d1p5w49</to>
+            <error>
+              <tag>lex</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w30">
+          <token>se</token>
+          <lex id="b-AA_AO_002-d1p5w30l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p5w30l1t1">P7-S4-------T--</mtag>
+          </lex>
+        </w>
+        <w id="b-AA_AO_002-d1p5w49">
+          <token>mi</token>
+          <lex id="b-AA_AO_002-d1p5w49l1">
+            <lemma>já</lemma>
+            <mtag id="b-AA_AO_002-d1p5w49l1t1">PH-S3--1----N--</mtag>
+          </lex>
+        </w>
+        <w id="b-AA_AO_002-d1p5w31">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p5w31l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p5w31l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e237">
+            <from>a#a-AA_AO_002-d1p5w31</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w32">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p5w32l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p5w32l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e238">
+            <from>a#a-AA_AO_002-d1p5w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w33">
+          <token>můžu</token>
+          <lex id="b-AA_AO_002-d1p5w33l1">
+            <lemma>moci</lemma>
+            <mtag id="b-AA_AO_002-d1p5w33l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e239">
+            <from>a#a-AA_AO_002-d1p5w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w34">
+          <token>vždycky</token>
+          <lex id="b-AA_AO_002-d1p5w34l1">
+            <lemma>vždycky</lemma>
+            <mtag id="b-AA_AO_002-d1p5w34l1t1">Db--------A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e240">
+            <from>a#a-AA_AO_002-d1p5w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w35">
+          <token>vyjádřit</token>
+          <lex id="b-AA_AO_002-d1p5w35l1">
+            <lemma>vyjádřit</lemma>
+            <mtag id="b-AA_AO_002-d1p5w35l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e241">
+            <from>a#a-AA_AO_002-d1p5w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w36">
+          <token>svoje</token>
+          <lex id="b-AA_AO_002-d1p5w36l1">
+            <lemma>svůj</lemma>
+            <mtag id="b-AA_AO_002-d1p5w36l1t1">P8IP4-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e242">
+            <from>a#a-AA_AO_002-d1p5w36</from>
+            <error>
+              <tag>rflx</tag>
+              <link>AA_AO_002.b-e239</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w37">
+          <token>názory</token>
+          <lex id="b-AA_AO_002-d1p5w37l1">
+            <lemma>názor</lemma>
+            <mtag id="b-AA_AO_002-d1p5w37l1t1">NNIP4-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e243">
+            <from>a#a-AA_AO_002-d1p5w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w38">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p5w38l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p5w38l1t1">Z:----------ZN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e244">
+            <from>a#a-AA_AO_002-d1p5w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w39">
+          <token>být</token>
+          <lex id="b-AA_AO_002-d1p5w39l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p5w39l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e245">
+            <from>a#a-AA_AO_002-d1p5w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w40">
+          <token>členem</token>
+          <lex id="b-AA_AO_002-d1p5w40l1">
+            <lemma>člen</lemma>
+            <mtag id="b-AA_AO_002-d1p5w40l1t1">NNMS7-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e246">
+            <from>a#a-AA_AO_002-d1p5w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w41">
+          <token>různých</token>
+          <lex id="b-AA_AO_002-d1p5w41l1">
+            <lemma>různý</lemma>
+            <mtag id="b-AA_AO_002-d1p5w41l1t1">AAFP2----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e247">
+            <from>a#a-AA_AO_002-d1p5w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w42">
+          <token>organizací</token>
+          <lex id="b-AA_AO_002-d1p5w42l1">
+            <lemma>organizace</lemma>
+            <mtag id="b-AA_AO_002-d1p5w42l1t1">NNFP2-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e248">
+            <from>a#a-AA_AO_002-d1p5w42</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e246</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w43">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p5w43l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p5w43l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e249">
+            <from>a#a-AA_AO_002-d1p5w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w44">
+          <token>cestovat</token>
+          <lex id="b-AA_AO_002-d1p5w44l1">
+            <lemma>cestovat</lemma>
+            <mtag id="b-AA_AO_002-d1p5w44l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e250">
+            <from>a#a-AA_AO_002-d1p5w44</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w45">
+          <token>do</token>
+          <lex id="b-AA_AO_002-d1p5w45l1">
+            <lemma>do</lemma>
+            <mtag id="b-AA_AO_002-d1p5w45l1t1">RR--2-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e251">
+            <from>a#a-AA_AO_002-d1p5w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w46">
+          <token>cizích</token>
+          <lex id="b-AA_AO_002-d1p5w46l1">
+            <lemma>cizí</lemma>
+            <mtag id="b-AA_AO_002-d1p5w46l1t1">AAFP2----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e252">
+            <from>a#a-AA_AO_002-d1p5w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w47">
+          <token>zemí</token>
+          <lex id="b-AA_AO_002-d1p5w47l1">
+            <lemma>země</lemma>
+            <mtag id="b-AA_AO_002-d1p5w47l1t1">NNFP2-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e253">
+            <from>a#a-AA_AO_002-d1p5w47</from>
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e251</link>
+            </error>
+            <error>
+              <tag>use</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p5w48">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p5w48l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p5w48l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e254">
+            <from>a#a-AA_AO_002-d1p5w48</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_002-d1p6" lowerpara.rf="a#a-AA_AO_002-d1p6">
+      <s id="a-AA_AO_002-d1p6s1">
+        <w id="b-AA_AO_002-d1p6w1">
+          <token>V</token>
+          <lex id="b-AA_AO_002-d1p6w1l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p6w1l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e255">
+            <from>a#a-AA_AO_002-d1p6w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w2">
+          <token>dnešním</token>
+          <lex id="b-AA_AO_002-d1p6w2l1">
+            <lemma>dnešní</lemma>
+            <mtag id="b-AA_AO_002-d1p6w2l1t1">AAIS6----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e256">
+            <from>a#a-AA_AO_002-d1p6w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w3">
+          <token>světě</token>
+          <lex id="b-AA_AO_002-d1p6w3l1">
+            <lemma>svět</lemma>
+            <mtag id="b-AA_AO_002-d1p6w3l1t1">NNIS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e257">
+            <from>a#a-AA_AO_002-d1p6w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w5">
+          <token>si</token>
+          <lex id="b-AA_AO_002-d1p6w5l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p6w5l1t1">P7-S3-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e259">
+            <from>a#a-AA_AO_002-d1p6w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w4">
+          <token>musím</token>
+          <lex id="b-AA_AO_002-d1p6w4l1">
+            <lemma>muset</lemma>
+            <mtag id="b-AA_AO_002-d1p6w4l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e258">
+            <from>a#a-AA_AO_002-d1p6w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w6">
+          <token>taky</token>
+          <lex id="b-AA_AO_002-d1p6w6l1">
+            <lemma>taky</lemma>
+            <mtag id="b-AA_AO_002-d1p6w6l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e260">
+            <from>a#a-AA_AO_002-d1p6w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w7">
+          <token>hodně</token>
+          <lex id="b-AA_AO_002-d1p6w7l1">
+            <lemma>hodně</lemma>
+            <mtag id="b-AA_AO_002-d1p6w7l1t1">Dg-------1A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e261">
+            <from>a#a-AA_AO_002-d1p6w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w8">
+          <token>považovat</token>
+          <lex id="b-AA_AO_002-d1p6w8l1">
+            <lemma>považovat</lemma>
+            <mtag id="b-AA_AO_002-d1p6w8l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e262">
+            <from>a#a-AA_AO_002-d1p6w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w9">
+          <token>vzdělání</token>
+          <lex id="b-AA_AO_002-d1p6w9l1">
+            <lemma>vzdělání</lemma>
+            <mtag id="b-AA_AO_002-d1p6w9l1t1">NNNS3-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e263">
+            <from>a#a-AA_AO_002-d1p6w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w10">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p6w10l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p6w10l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e264">
+            <from>a#a-AA_AO_002-d1p6w10</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p6s2">
+        <w id="b-AA_AO_002-d1p6w11">
+          <token>Vím</token>
+          <lex id="b-AA_AO_002-d1p6w11l1">
+            <lemma>vědět</lemma>
+            <mtag id="b-AA_AO_002-d1p6w11l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e265">
+            <from>a#a-AA_AO_002-d1p6w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w12">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p6w12l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p6w12l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e266">
+            <from>a#a-AA_AO_002-d1p6w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w13">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p6w13l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p6w13l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e267">
+            <from>a#a-AA_AO_002-d1p6w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w14">
+          <token>bez</token>
+          <lex id="b-AA_AO_002-d1p6w14l1">
+            <lemma>bez</lemma>
+            <mtag id="b-AA_AO_002-d1p6w14l1t1">RR--2-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e268">
+            <from>a#a-AA_AO_002-d1p6w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w15">
+          <token>diplomu</token>
+          <lex id="b-AA_AO_002-d1p6w15l1">
+            <lemma>diplom</lemma>
+            <mtag id="b-AA_AO_002-d1p6w15l1t1">NNIS2-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e269">
+            <from>a#a-AA_AO_002-d1p6w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w45">
+          <token>z</token>
+          <lex id="b-AA_AO_002-d1p6w45l1">
+            <lemma>z</lemma>
+            <mtag id="b-AA_AO_002-d1p6w45l1t1">RR--2-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e299">
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e269</link>
+            </error>
+            <error>
+              <tag>miss</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w16">
+          <token>vysoké</token>
+          <lex id="b-AA_AO_002-d1p6w16l1">
+            <lemma>vysoký</lemma>
+            <mtag id="b-AA_AO_002-d1p6w16l1t1">AAFS2----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e270">
+            <from>a#a-AA_AO_002-d1p6w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w17">
+          <token>školy</token>
+          <lex id="b-AA_AO_002-d1p6w17l1">
+            <lemma>škola</lemma>
+            <mtag id="b-AA_AO_002-d1p6w17l1t1">NNFS2-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e271">
+            <from>a#a-AA_AO_002-d1p6w17</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w18">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p6w18l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p6w18l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e272">
+            <from>a#a-AA_AO_002-d1p6w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w19">
+          <token>znalosti</token>
+          <lex id="b-AA_AO_002-d1p6w19l1">
+            <lemma>znalost</lemma>
+            <mtag id="b-AA_AO_002-d1p6w19l1t1">NNFS2-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e273">
+            <from>a#a-AA_AO_002-d1p6w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w20">
+          <token>několika</token>
+          <lex id="b-AA_AO_002-d1p6w20l1">
+            <lemma>několik</lemma>
+            <mtag id="b-AA_AO_002-d1p6w20l1t1">Ca--2-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e274">
+            <from>a#a-AA_AO_002-d1p6w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w21">
+          <token>cizích</token>
+          <lex id="b-AA_AO_002-d1p6w21l1">
+            <lemma>cizí</lemma>
+            <mtag id="b-AA_AO_002-d1p6w21l1t1">AAIP2----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e275">
+            <from>a#a-AA_AO_002-d1p6w21</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w22">
+          <token>jazyků</token>
+          <lex id="b-AA_AO_002-d1p6w22l1">
+            <lemma>jazyk</lemma>
+            <mtag id="b-AA_AO_002-d1p6w22l1t1">NNIP2-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e276">
+            <from>a#a-AA_AO_002-d1p6w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w23">
+          <token>nenajdu</token>
+          <lex id="b-AA_AO_002-d1p6w23l1">
+            <lemma>najít</lemma>
+            <mtag id="b-AA_AO_002-d1p6w23l1t1">VB-S---1P-NAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e277">
+            <from>a#a-AA_AO_002-d1p6w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w24">
+          <token>dobrou</token>
+          <lex id="b-AA_AO_002-d1p6w24l1">
+            <lemma>dobrý</lemma>
+            <mtag id="b-AA_AO_002-d1p6w24l1t1">AAFS4----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e278">
+            <from>a#a-AA_AO_002-d1p6w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w25">
+          <token>práci</token>
+          <lex id="b-AA_AO_002-d1p6w25l1">
+            <lemma>práce</lemma>
+            <mtag id="b-AA_AO_002-d1p6w25l1t1">NNFS4-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e279">
+            <from>a#a-AA_AO_002-d1p6w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w46">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p6w46l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p6w46l1t1">Z:----------ZA-</mtag>
+          </lex>
+        </w>
+        <w id="b-AA_AO_002-d1p6w26">
+          <token>a</token>
+          <lex id="b-AA_AO_002-d1p6w26l1">
+            <lemma>a</lemma>
+            <mtag id="b-AA_AO_002-d1p6w26l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e280">
+            <from>a#a-AA_AO_002-d1p6w26</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w27">
+          <token>proto</token>
+          <lex id="b-AA_AO_002-d1p6w27l1">
+            <lemma>proto</lemma>
+            <mtag id="b-AA_AO_002-d1p6w27l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e281">
+            <from>a#a-AA_AO_002-d1p6w27</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w28">
+          <token>chci</token>
+          <lex id="b-AA_AO_002-d1p6w28l1">
+            <lemma>chtít</lemma>
+            <mtag id="b-AA_AO_002-d1p6w28l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e282">
+            <from>a#a-AA_AO_002-d1p6w28</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w29">
+          <token>pokračovat</token>
+          <lex id="b-AA_AO_002-d1p6w29l1">
+            <lemma>pokračovat</lemma>
+            <mtag id="b-AA_AO_002-d1p6w29l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e283">
+            <from>a#a-AA_AO_002-d1p6w29</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w30">
+          <token>ve</token>
+          <lex id="b-AA_AO_002-d1p6w30l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p6w30l1t1">RV--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e284">
+            <from>a#a-AA_AO_002-d1p6w30</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w31">
+          <token>vzdělávání</token>
+          <lex id="b-AA_AO_002-d1p6w31l1">
+            <lemma>vzdělávání</lemma>
+            <mtag id="b-AA_AO_002-d1p6w31l1t1">NNNS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e285">
+            <from>a#a-AA_AO_002-d1p6w31</from>
+            <error>
+              <tag>use</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w66">
+          <token>se</token>
+          <lex id="b-AA_AO_002-d1p6w66l1">
+            <lemma>se</lemma>
+            <mtag id="b-AA_AO_002-d1p6w66l1t1">P7-S4-------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e345">
+            <error>
+              <tag>dep</tag>
+              <link>AA_AO_002.b-e285</link>
+            </error>
+            <error>
+              <tag>rflx</tag>
+            </error>
+            <error>
+              <tag>miss</tag>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w32">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p6w32l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p6w32l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e286">
+            <from>a#a-AA_AO_002-d1p6w32</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w33">
+          <token>abych</token>
+          <lex id="b-AA_AO_002-d1p6w33l1">
+            <lemma>aby</lemma>
+            <mtag id="b-AA_AO_002-d1p6w33l1t1">J,-S---1----JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e287">
+            <from>a#a-AA_AO_002-d1p6w33</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w34">
+          <token>pak</token>
+          <lex id="b-AA_AO_002-d1p6w34l1">
+            <lemma>pak</lemma>
+            <mtag id="b-AA_AO_002-d1p6w34l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e288">
+            <from>a#a-AA_AO_002-d1p6w34</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w35">
+          <token>vydělávala</token>
+          <lex id="b-AA_AO_002-d1p6w35l1">
+            <lemma>vydělávat</lemma>
+            <mtag id="b-AA_AO_002-d1p6w35l1t1">VpFS---1R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e289">
+            <from>a#a-AA_AO_002-d1p6w35</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w36">
+          <token>tolik</token>
+          <lex id="b-AA_AO_002-d1p6w36l1">
+            <lemma>tolik</lemma>
+            <mtag id="b-AA_AO_002-d1p6w36l1t1">Ca--4-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e290">
+            <from>a#a-AA_AO_002-d1p6w36</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w37">
+          <token>peněz</token>
+          <lex id="b-AA_AO_002-d1p6w37l1">
+            <lemma>peníze</lemma>
+            <mtag id="b-AA_AO_002-d1p6w37l1t1">NNIP2-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e291">
+            <from>a#a-AA_AO_002-d1p6w37</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w38">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p6w38l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p6w38l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e292">
+            <from>a#a-AA_AO_002-d1p6w38</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w39">
+          <token>aby</token>
+          <lex id="b-AA_AO_002-d1p6w39l1">
+            <lemma>aby</lemma>
+            <mtag id="b-AA_AO_002-d1p6w39l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e293">
+            <from>a#a-AA_AO_002-d1p6w39</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w40">
+          <token>mojí</token>
+          <lex id="b-AA_AO_002-d1p6w40l1">
+            <lemma>můj</lemma>
+            <mtag id="b-AA_AO_002-d1p6w40l1t1">PSFS3-S1----A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e294">
+            <from>a#a-AA_AO_002-d1p6w40</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w41">
+          <token>rodině</token>
+          <lex id="b-AA_AO_002-d1p6w41l1">
+            <lemma>rodina</lemma>
+            <mtag id="b-AA_AO_002-d1p6w41l1t1">NNFS3-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e295">
+            <from>a#a-AA_AO_002-d1p6w41</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w42">
+          <token>nic</token>
+          <lex id="b-AA_AO_002-d1p6w42l1">
+            <lemma>nic</lemma>
+            <mtag id="b-AA_AO_002-d1p6w42l1t1">PW--1-------N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e296">
+            <from>a#a-AA_AO_002-d1p6w42</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w43">
+          <token>nechybělo</token>
+          <lex id="b-AA_AO_002-d1p6w43l1">
+            <lemma>chybět</lemma>
+            <mtag id="b-AA_AO_002-d1p6w43l1t1">VpNS---3R-NAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e297">
+            <from>a#a-AA_AO_002-d1p6w43</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w44">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p6w44l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p6w44l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e298">
+            <from>a#a-AA_AO_002-d1p6w44</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p6s3">
+        <w id="b-AA_AO_002-d1p6w47">
+          <token>Musím</token>
+          <lex id="b-AA_AO_002-d1p6w47l1">
+            <lemma>muset</lemma>
+            <mtag id="b-AA_AO_002-d1p6w47l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e326">
+            <from>a#a-AA_AO_002-d1p6w45</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w48">
+          <token>tedy</token>
+          <lex id="b-AA_AO_002-d1p6w48l1">
+            <lemma>tedy</lemma>
+            <mtag id="b-AA_AO_002-d1p6w48l1t1">TT----------T--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e327">
+            <from>a#a-AA_AO_002-d1p6w46</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w49">
+          <token>potvrdit</token>
+          <lex id="b-AA_AO_002-d1p6w49l1">
+            <lemma>potvrdit</lemma>
+            <mtag id="b-AA_AO_002-d1p6w49l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e328">
+            <from>a#a-AA_AO_002-d1p6w47</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w50">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p6w50l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p6w50l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e329">
+            <from>a#a-AA_AO_002-d1p6w48</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w51">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p6w51l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p6w51l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e330">
+            <from>a#a-AA_AO_002-d1p6w49</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w52">
+          <token>peníze</token>
+          <lex id="b-AA_AO_002-d1p6w52l1">
+            <lemma>peníze</lemma>
+            <mtag id="b-AA_AO_002-d1p6w52l1t1">NNIP1-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e331">
+            <from>a#a-AA_AO_002-d1p6w50</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w53">
+          <token>taky</token>
+          <lex id="b-AA_AO_002-d1p6w53l1">
+            <lemma>taky</lemma>
+            <mtag id="b-AA_AO_002-d1p6w53l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e332">
+            <from>a#a-AA_AO_002-d1p6w51</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w54">
+          <token>hrají</token>
+          <lex id="b-AA_AO_002-d1p6w54l1">
+            <lemma>hrát</lemma>
+            <mtag id="b-AA_AO_002-d1p6w54l1t1">VB-P---3P-AAV-1</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e333">
+            <from>a#a-AA_AO_002-d1p6w52</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w55">
+          <token>důležitou</token>
+          <lex id="b-AA_AO_002-d1p6w55l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p6w55l1t1">AAFS4----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e334">
+            <from>a#a-AA_AO_002-d1p6w53</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w56">
+          <token>roli</token>
+          <lex id="b-AA_AO_002-d1p6w56l1">
+            <lemma>role</lemma>
+            <mtag id="b-AA_AO_002-d1p6w56l1t1">NNFS4-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e335">
+            <from>a#a-AA_AO_002-d1p6w54</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w57">
+          <token>v</token>
+          <lex id="b-AA_AO_002-d1p6w57l1">
+            <lemma>v</lemma>
+            <mtag id="b-AA_AO_002-d1p6w57l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e336">
+            <from>a#a-AA_AO_002-d1p6w55</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w58">
+          <token>životě</token>
+          <lex id="b-AA_AO_002-d1p6w58l1">
+            <lemma>život</lemma>
+            <mtag id="b-AA_AO_002-d1p6w58l1t1">NNIS6-----A-O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e337">
+            <from>a#a-AA_AO_002-d1p6w56</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w59">
+          <token>člověka</token>
+          <lex id="b-AA_AO_002-d1p6w59l1">
+            <lemma>člověk</lemma>
+            <mtag id="b-AA_AO_002-d1p6w59l1t1">NNMS2-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e338">
+            <from>a#a-AA_AO_002-d1p6w57</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w60">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p6w60l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p6w60l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e339">
+            <from>a#a-AA_AO_002-d1p6w58</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w61">
+          <token>ačkoliv</token>
+          <lex id="b-AA_AO_002-d1p6w61l1">
+            <lemma>ačkoli</lemma>
+            <mtag id="b-AA_AO_002-d1p6w61l1t1">J,----------JN1</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e340">
+            <from>a#a-AA_AO_002-d1p6w59</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w62">
+          <token>existují</token>
+          <lex id="b-AA_AO_002-d1p6w62l1">
+            <lemma>existovat</lemma>
+            <mtag id="b-AA_AO_002-d1p6w62l1t1">VB-P---3P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e341">
+            <from>a#a-AA_AO_002-d1p6w60</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w63">
+          <token>důležitější</token>
+          <lex id="b-AA_AO_002-d1p6w63l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p6w63l1t1">AAFS3----2A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e342">
+            <from>a#a-AA_AO_002-d1p6w61</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w64">
+          <token>věci</token>
+          <lex id="b-AA_AO_002-d1p6w64l1">
+            <lemma>věc</lemma>
+            <mtag id="b-AA_AO_002-d1p6w64l1t1">NNFS3-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e343">
+            <from>a#a-AA_AO_002-d1p6w62</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p6w65">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p6w65l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p6w65l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e344">
+            <from>a#a-AA_AO_002-d1p6w63</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+    <para id="b-AA_AO_002-d1p7" lowerpara.rf="a#a-AA_AO_002-d1p7">
+      <s id="a-AA_AO_002-d1p7s1">
+        <w id="b-AA_AO_002-d1p7w1">
+          <token>Pravděpodobně</token>
+          <lex id="b-AA_AO_002-d1p7w1l1">
+            <lemma>pravděpodobně</lemma>
+            <mtag id="b-AA_AO_002-d1p7w1l1t1">Dg-------1A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e300">
+            <from>a#a-AA_AO_002-d1p7w1</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w2">
+          <token>bych</token>
+          <lex id="b-AA_AO_002-d1p7w2l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p7w2l1t1">Vc-S---1----V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e301">
+            <from>a#a-AA_AO_002-d1p7w2</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w3">
+          <token>našla</token>
+          <lex id="b-AA_AO_002-d1p7w3l1">
+            <lemma>najít</lemma>
+            <mtag id="b-AA_AO_002-d1p7w3l1t1">VpFS---1R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e302">
+            <from>a#a-AA_AO_002-d1p7w3</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w4">
+          <token>ještě</token>
+          <lex id="b-AA_AO_002-d1p7w4l1">
+            <lemma>ještě</lemma>
+            <mtag id="b-AA_AO_002-d1p7w4l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e303">
+            <from>a#a-AA_AO_002-d1p7w4</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w5">
+          <token>další</token>
+          <lex id="b-AA_AO_002-d1p7w5l1">
+            <lemma>další</lemma>
+            <mtag id="b-AA_AO_002-d1p7w5l1t1">AAFP4----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e304">
+            <from>a#a-AA_AO_002-d1p7w5</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w6">
+          <token>důležité</token>
+          <lex id="b-AA_AO_002-d1p7w6l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p7w6l1t1">AAFP4----1A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e305">
+            <from>a#a-AA_AO_002-d1p7w6</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w7">
+          <token>věci</token>
+          <lex id="b-AA_AO_002-d1p7w7l1">
+            <lemma>věc</lemma>
+            <mtag id="b-AA_AO_002-d1p7w7l1t1">NNFP4-----A-N--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e306">
+            <from>a#a-AA_AO_002-d1p7w7</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w8">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p7w8l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p7w8l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e307">
+            <from>a#a-AA_AO_002-d1p7w8</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w9">
+          <token>ale</token>
+          <lex id="b-AA_AO_002-d1p7w9l1">
+            <lemma>ale</lemma>
+            <mtag id="b-AA_AO_002-d1p7w9l1t1">J^----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e308">
+            <from>a#a-AA_AO_002-d1p7w9</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w10">
+          <token>mohla</token>
+          <lex id="b-AA_AO_002-d1p7w10l1">
+            <lemma>moci</lemma>
+            <mtag id="b-AA_AO_002-d1p7w10l1t1">VpFS---1R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e309">
+            <from>a#a-AA_AO_002-d1p7w10</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w11">
+          <token>bych</token>
+          <lex id="b-AA_AO_002-d1p7w11l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p7w11l1t1">Vc-S---1----V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e310">
+            <from>a#a-AA_AO_002-d1p7w11</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w12">
+          <token>o</token>
+          <lex id="b-AA_AO_002-d1p7w12l1">
+            <lemma>o</lemma>
+            <mtag id="b-AA_AO_002-d1p7w12l1t1">RR--6-------R--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e311">
+            <from>a#a-AA_AO_002-d1p7w12</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w13">
+          <token>tom</token>
+          <lex id="b-AA_AO_002-d1p7w13l1">
+            <lemma>ten</lemma>
+            <mtag id="b-AA_AO_002-d1p7w13l1t1">PDMS6-------O--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e312">
+            <from>a#a-AA_AO_002-d1p7w13</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w14">
+          <token>moc</token>
+          <lex id="b-AA_AO_002-d1p7w14l1">
+            <lemma>moc</lemma>
+            <mtag id="b-AA_AO_002-d1p7w14l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e313">
+            <from>a#a-AA_AO_002-d1p7w14</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w15">
+          <token>dlouho</token>
+          <lex id="b-AA_AO_002-d1p7w15l1">
+            <lemma>dlouho</lemma>
+            <mtag id="b-AA_AO_002-d1p7w15l1t1">Dg-------1A-D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e314">
+            <from>a#a-AA_AO_002-d1p7w15</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w16">
+          <token>vyprávět</token>
+          <lex id="b-AA_AO_002-d1p7w16l1">
+            <lemma>vyprávět</lemma>
+            <mtag id="b-AA_AO_002-d1p7w16l1t1">Vf--------A-V--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e315">
+            <from>a#a-AA_AO_002-d1p7w16</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w17">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p7w17l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p7w17l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e316">
+            <from>a#a-AA_AO_002-d1p7w17</from>
+          </edge>
+        </w>
+      </s>
+      <s id="a-AA_AO_002-d1p7s2">
+        <w id="b-AA_AO_002-d1p7w18">
+          <token>Myslím</token>
+          <lex id="b-AA_AO_002-d1p7w18l1">
+            <lemma>myslet</lemma>
+            <mtag id="b-AA_AO_002-d1p7w18l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e317">
+            <from>a#a-AA_AO_002-d1p7w18</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w19">
+          <token>,</token>
+          <lex id="b-AA_AO_002-d1p7w19l1">
+            <lemma>,</lemma>
+            <mtag id="b-AA_AO_002-d1p7w19l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e318">
+            <from>a#a-AA_AO_002-d1p7w19</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w20">
+          <token>že</token>
+          <lex id="b-AA_AO_002-d1p7w20l1">
+            <lemma>že</lemma>
+            <mtag id="b-AA_AO_002-d1p7w20l1t1">J,----------JN-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e319">
+            <from>a#a-AA_AO_002-d1p7w20</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w21">
+          <token>ty</token>
+          <lex id="b-AA_AO_002-d1p7w21l1">
+            <lemma>ten</lemma>
+            <mtag id="b-AA_AO_002-d1p7w21l1t1">PDMP4-------A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e320">
+            <from>a#a-AA_AO_002-d1p7w21</from>
+            <error>
+              <tag>agr</tag>
+              <comment>ráda bych vedla odkaz k "věci" v předchozím souvětí, ale není to možné tak daleko</comment>
+              <link>AA_AO_002.b-e306</link>
+            </error>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w22">
+          <token>nejdůležitější</token>
+          <lex id="b-AA_AO_002-d1p7w22l1">
+            <lemma>důležitý</lemma>
+            <mtag id="b-AA_AO_002-d1p7w22l1t1">AAIP4----3A-A--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e321">
+            <from>a#a-AA_AO_002-d1p7w22</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w23">
+          <token>jsem</token>
+          <lex id="b-AA_AO_002-d1p7w23l1">
+            <lemma>být</lemma>
+            <mtag id="b-AA_AO_002-d1p7w23l1t1">VB-S---1P-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e322">
+            <from>a#a-AA_AO_002-d1p7w23</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w24">
+          <token>už</token>
+          <lex id="b-AA_AO_002-d1p7w24l1">
+            <lemma>už</lemma>
+            <mtag id="b-AA_AO_002-d1p7w24l1t1">Db----------D--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e323">
+            <from>a#a-AA_AO_002-d1p7w24</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w25">
+          <token>popsala</token>
+          <lex id="b-AA_AO_002-d1p7w25l1">
+            <lemma>popsat</lemma>
+            <mtag id="b-AA_AO_002-d1p7w25l1t1">VpFS---1R-AAV--</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e324">
+            <from>a#a-AA_AO_002-d1p7w25</from>
+          </edge>
+        </w>
+        <w id="b-AA_AO_002-d1p7w26">
+          <token>.</token>
+          <lex id="b-AA_AO_002-d1p7w26l1">
+            <lemma>.</lemma>
+            <mtag id="b-AA_AO_002-d1p7w26l1t1">Z:----------ZA-</mtag>
+          </lex>
+          <edge id="AA_AO_002.b-e325">
+            <from>a#a-AA_AO_002-d1p7w26</from>
+          </edge>
+        </w>
+      </s>
+    </para>
+  </doc>
+</ldata>
+

@@ -27,8 +27,8 @@ public class GraphLayout2 implements NodeLayout {
     private final static org.purl.jh.util.Logger log = org.purl.jh.util.Logger.getLogger(GraphLayout2.class);
 
     private final List2D<? extends FForm> forms;
-    
-	/** Drop once the algorithm is stabilized and clearly working */
+   
+    /** TODO: Drop once the algorithm is stabilized and clearly working */
     private final int safetynet;
 
     public GraphLayout2(final ParaModel aModel) {
@@ -69,10 +69,10 @@ public class GraphLayout2 implements NodeLayout {
     private final Set<Pair<FForm,FForm>> crossings = new HashSet<>();
 
     private boolean isCrossing(FForm aForm1, FForm aForm2) {
-        return crossings.contains( new Pair<FForm,FForm>(aForm1, aForm2) );
+        return crossings.contains( new Pair<>(aForm1, aForm2) );
     }
 
-	/** Calculate crossings for all layers */	
+    /** Calculate crossings for all layers */	
     private void getCrossing() {
         for (int row = 1; row < forms.size(); row++) {
             getCrossing(forms.getRow(row-1), forms.getRow(row));
@@ -87,7 +87,7 @@ public class GraphLayout2 implements NodeLayout {
         for (int r = 0; r < matrix.getRowDimension(); r++) {
             for (int c = 0; c < matrix.getColumnDimension(); c++) {
                 if (matrix.get(r, c) && !matrix.allFalse(r+1,matrix.getRowDimension(),0,c)) {
-                    crossings.add( new Pair<FForm,FForm>(aRow1.get(r), aRow2.get(c) ));
+                    crossings.add( new Pair<>(aRow1.get(r), aRow2.get(c) ));
                 }
             }
         }
@@ -177,24 +177,7 @@ public class GraphLayout2 implements NodeLayout {
     }
 
 
-//    private void printForms(Collection<Form> forms)  {
-//        log.info("Processed forms: ");
-//        for (Object o : forms) {
-//            log.info("%s", o.hashCode());
-//        }
-//    }
-//    private void printWaiting(Queue<Pair<? extends Form,Integer>> forms)  {
-//        log.fine("Waiting: ");
-//        for (Pair<? extends Form,Integer> o : forms) {
-//            log.info("  %s", o.mFirst.hashCode());
-//        }
-//    }
-
-    private final Printer<?> hashPrinter = new Printer<Object>() {
-        public String toString(Object aItem)	{
-            return String.valueOf(aItem.hashCode());
-        }
-    };
+    private final Printer<?> hashPrinter = (aItem) -> String.valueOf(aItem.hashCode());
 
 
 

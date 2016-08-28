@@ -1,4 +1,4 @@
-package org.purl.jh.feat.iaa;
+package org.purl.jh.feat.export2vert;
 
 import com.google.common.base.Joiner;
 import cz.cuni.utkl.czesl.data.layerl.Edge;
@@ -15,6 +15,7 @@ import cz.cuni.utkl.czesl.data.layerw.WLayer;
 import cz.cuni.utkl.czesl.data.layerw.WPara;
 import cz.cuni.utkl.czesl.data.layerx.FForm;
 import cz.cuni.utkl.czesl.data.util.DataUtil;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -26,9 +27,11 @@ import java.util.Set;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import org.openide.filesystems.FileUtil;
+import org.openide.util.Exceptions;
 import org.purl.jh.feat.NbData.LLayerDataObject;
 import org.purl.jh.pml.Element;
 import org.purl.jh.pml.ListElement;
+import org.purl.jh.pml.ts.Tag;
 import org.purl.jh.util.col.Cols;
 import org.purl.jh.util.col.MultiHashHashMap;
 import org.purl.jh.util.col.MultiMap;
@@ -37,45 +40,45 @@ import org.purl.jh.util.err.Err;
 import org.purl.jh.util.io.IO;
 import org.purl.jh.util.io.XFile;
 import org.purl.jh.util.str.Strings;
-import org.purl.jh.pml.ts.Tag;
-
 
 /**
  *
  * @author jirka
  */
-public class Project2W  {
-    private final static org.purl.jh.util.Logger log = org.purl.jh.util.Logger.getLogger(Project2W.class);
-
-    private final List<String> tagset    = XCols.newArrayList();
-    private final List<String> fillers = XCols.newArrayList();
+public class Export2Vert {
+    private final static org.purl.jh.util.Logger log = org.purl.jh.util.Logger.getLogger(Export2Vert.class);
 
     private final LLayerDataObject dobj;
 
-    private final MultiMap<WForm,String> wform2tags = MultiHashHashMap.neww();
-    private final MultiMap<WForm,LForm> wform2emend = MultiHashHashMap.neww();
+    private final List<String> tagset  = new ArrayList<>();
+    private final List<String> fillers = new ArrayList<>();
 
-    public static class Counter {
-        int totalWForms = 0;
-        int totalEForms = 0;
-        int inserted = 0;
+    private final MultiMap<WForm,String> wform2tags = new MultiHashHashMap<>();
+    private final MultiMap<WForm,LForm> wform2emend = new MultiHashHashMap<>();
+
+//    public static class Counter {
+//        int totalWForms = 0;
+//        int totalEForms = 0;
+//        int inserted = 0;
+//    }
+//    
+//    final Counter counter;
+    
+    Export2Vert(LLayerDataObject dobj) {
+        this.dobj = dobj;
+        //this.counter = counter;
     }
     
-    final Counter counter;
-    
-    
-    public Project2W(LLayerDataObject aDobj, Counter counter) {
-        this.dobj = aDobj;
-        this.counter = counter;
-    }
-
     public void project() {
-        final LLayer aLayer = dobj.getData();
-        final WLayer wLayer = aLayer.getWLayer();
+        final LLayer layer = dobj.getData();
+        final WLayer wLayer = layer.getWLayer();
 
-        fillTags(aLayer.getTagset());
-        project(wLayer, aLayer);
-        writeOut(wLayer);
+        project(layer, wLayer);
+        
+        
+//        fillTags(layer.getTagset());
+//        project(wLayer, layer);
+//        writeOut(wLayer);
         
     }
 
@@ -86,7 +89,6 @@ public class Project2W  {
             tagset.add(tag.getId());
             fillers.add(Strings.spaces(tag.getId().length()));
         }
-//        System.out.println("tags: " + Cols.toStringNl(tags, "  "));
     }
     
     private boolean printTagNames = false;
@@ -101,22 +103,19 @@ public class Project2W  {
     private Joiner tagJoiner = Joiner.on('|');
     
     private void writeOut(final WLayer wLayer) {
-        final XFile file = new XFile(FileUtil.toFile(dobj.getPrimaryFile())).addExtension("vert");
         final XFile fileT = new XFile(FileUtil.toFile(dobj.getPrimaryFile())).addExtension("t2w");
-        final XFile file01 = new XFile(FileUtil.toFile(dobj.getPrimaryFile())).addExtension("t2w01");
-        final XFile fileEmend = new XFile(FileUtil.toFile(dobj.getPrimaryFile())).addExtension("e2w");
+        //final XFile fileEmend = new XFile(FileUtil.toFile(dobj.getPrimaryFile())).addExtension("e2w");
 
         try {
             PrintWriter w   = IO.openPrintWriter(fileT);
-            PrintWriter w01 = IO.openPrintWriter(file01);
-            PrintWriter we  = IO.openPrintWriter(fileEmend);
+            //PrintWriter we  = IO.openPrintWriter(fileEmend);
             if (printTagNames) w.print("// " + tagJoiner.join(tagset) );
             
             for (WDoc wdoc : wLayer.col()) {
                 for (WPara wpara : filterParas(wdoc.col())) { // todo filters names incorrectly added to transcriptions
                     for (WForm wform : wpara.col()) {       
                         if (omitDt && wform.getType().dt()) continue;
-                        counter.totalWForms++;
+                        //counter.totalWForms++;
         
                         final Set<String> tags      = wform2tags.get(wform);
                         Collection<LForm> emends    = wform2emend.get(wform);
@@ -131,16 +130,15 @@ public class Project2W  {
                         if (useEFormPattern && eFormsToOmit.matcher(emend).matches()) continue;             
                         
                         w.println(line(wform, tags));
-                        w01.println(line01(wform, tags));
                         
                         
                         String wformStr = (wform.getType().dt() ? "dt:" : "") + wform.getToken();
-                        we.printf("%s\t%s\n", wformStr, emend);
+                        //we.printf("%s\t%s\n", wformStr, emend);
                     }
                 }
             }
             
-            IO.close(w, w01, we);
+            //IO.close(w, we);
         } catch (Throwable e) {
             log.severe(e, "writeOut");
         }
@@ -234,10 +232,10 @@ public class Project2W  {
                             }
                         }
                         else {
-                            counter.totalEForms  += edge.getHigher().size();    
+                            //counter.totalEForms  += edge.getHigher().size();    
                             if (wforms.isEmpty()) {
                                 // inserted form(s), i.e. form(s) without a w-layer counterpart
-                                counter.inserted += edge.getHigher().size();    
+                                //counter.inserted += edge.getHigher().size();    
                             }
                             else {
                                 for (Errorr err : edge.getErrors()) {
@@ -309,6 +307,43 @@ public class Project2W  {
             if ( aTags.contains(tagset.get(t)) ) return true;
         }
         return false;
+    }
+
+    private void project(LLayer layer, WLayer wLayer) {
+        final XFile fileT = new XFile(FileUtil.toFile(dobj.getPrimaryFile())).addExtension("t2w");
+
+        try(PrintWriter w   = IO.openPrintWriter(fileT)) {
+            for (LDoc doc : layer.col()) {
+                for (LPara para : doc.col()) { 
+                    WPara wpara = para.getWPara();
+                    for (Sentence s : para.getSentences()) {       
+                        for (LForm form : s) {
+                            Collection<String> tags = new ArrayList<>();
+                            Set<Edge> edges = form.getLower();
+                            for (Edge e : edges) {
+                                for (Errorr err : e.getErrors()) {
+                                    tags.add(err.getTag());
+                                }
+                            }
+                            String tagsStr = Joiner.on("|").join(tags);
+
+                            // project to w-layer, sorted by wordorder
+                            String wformsStr = DataUtil.getWForms(form).stream()
+                                    .sorted((u,v) -> wpara.getForms().indexOf(u) - wpara.getForms().indexOf(v))
+                                    .map(WForm::getFormStr)
+                                    .map(str -> str.isEmpty() ? "_" : str)
+                                    //(wform.getType().dt() ? "dt:" : "") + wform.getToken();
+                                    .collect(Collectors.joining("|"));
+                            
+                            w.printf("%s\t%s\t%s\n", form.getFormStr(), tagsStr, wformsStr);
+                        }
+                        w.println();
+                    }
+                }
+            }
+        } catch (IOException ex) {
+            log.severe(ex, "project");
+        }
     }
 
     

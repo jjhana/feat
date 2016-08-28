@@ -28,10 +28,21 @@ public abstract class FormsLayer<C extends Element> extends Layer<C> {
      * TODO: do existing ids change when the file name changes? Optionally?
      */
     protected String idPrefix;
-
+    
+    /**
+     * Index of the layer: 
+     * <ul>
+     * <li>Layer W - WLayer - Tier 0 - layerIdx = 0
+     * <li>Layer A - LLayer - Tier 1 - layerIdx = 1
+     * <li>Layer B - LLayer - Tier 2 - layerIdx = 2
+     * </ul>
+     */
     protected int layerIdx;
     
-    /** Link to the lower FormsLayer if there is any. Null for the lowest formslayer, i.e. wlayer */
+    /** 
+     * Link to the lower FormsLayer if there is any. 
+     * Null for the lowest FormsLayer, i.e. wlayer 
+     */
     protected FormsLayer<?> lowerLayer;
 
 

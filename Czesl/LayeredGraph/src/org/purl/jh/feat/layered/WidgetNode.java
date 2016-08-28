@@ -3,8 +3,6 @@ package org.purl.jh.feat.layered;
 import cz.cuni.utkl.czesl.data.layerx.ChangeEvent;
 import cz.cuni.utkl.czesl.data.layerl.Edge;
 import cz.cuni.utkl.czesl.data.layerl.Errorr;
-import cz.cuni.utkl.czesl.data.layerl.ErrorTag;
-import cz.cuni.utkl.czesl.data.layerl.ErrorTagset;
 import cz.cuni.utkl.czesl.data.layerl.LLayer;
 import cz.cuni.utkl.czesl.data.layerw.WForm;
 import cz.cuni.utkl.czesl.data.layerx.FForm;
@@ -21,8 +19,8 @@ import org.purl.jh.pml.IdedElement;
 import org.purl.jh.pml.Layer;
 import org.purl.jh.pml.event.DataEvent;
 import org.purl.jh.pml.event.DataListener;
-import org.purl.net.jh.nbutil.NbUtil;
 import org.purl.jh.util.col.Cols;
+import org.purl.net.jh.nbutil.NbUtil;
 import org.purl.jh.util.col.Mapper;
 
 /**
@@ -131,6 +129,7 @@ public class WidgetNode extends AbstractNode implements DataListener {
         
         props.put(new FormCommentProp(form));
         props.put(new RoStrProp("type", form.getType().name() ));
+        props.put(new RoStrProp("other", Cols.toStringNl(form.getOther()) ));
     }
     
 

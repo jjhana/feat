@@ -49,8 +49,6 @@ public class ParaModel {
 
     /**
      *
-     * @param aLayers list of all layers ordered from the lowest to the highest
-     * @param aParas list of all paragraphs at the highest layer
      * @param aTopPara the current para in the highest layer
      */
     public ParaModel(VModel aPseudoModel, final Para aTopPara) {
@@ -80,7 +78,7 @@ public class ParaModel {
     // todo this is a mess, it relies on the order, adding forms differently than the layer. Make nicer.
     // todo sublists don't like modifications of the underlying list!!!
     // todo and the underlying list cannot be modified before/after the sublist list
-    protected void fillForms() {
+    final protected void fillForms() {
         log.info("=== filling forms ===");
         layer2forms.clear();
 

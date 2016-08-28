@@ -1,0 +1,40 @@
+<Meta>
+  <task>
+    <id>AA_AO_002</id>
+    <date>2010-03-14</date>
+    <medium>manuscript</medium>
+    <limit_minutes/>
+    <aid>yes|dictionary</aid>
+    <exam/>
+    <limit_words>100</limit_words>
+    <title>Co je pro mě nejdůležitější</title>
+    <topic_type>general</topic_type>
+    <activity>other</activity>
+    <topic_assigned>specified</topic_assigned>
+    <genre_assigned/>
+    <genre_predominant>argumentative</genre_predominant>
+    <words_count>293</words_count>
+    <words_range>200-</words_range>
+  </task>
+  <student>
+    <id>AA_AO</id>
+    <sex>f</sex>
+    <age>22</age>
+    <age_cat>16-</age_cat>
+    <other_langs/>
+    <cz_CEF>B1</cz_CEF>
+    <cz_in_family>partner</cz_in_family>
+    <years_in_Cz>-1</years_in_Cz>
+    <study_cz>paid|university</study_cz>
+    <study_cz_months>3-6</study_cz_months>
+    <study_cz_hrs_week>15-</study_cz_hrs_week>
+    <textbook>other</textbook>
+    <bilingual>no</bilingual>
+    <l1>pl</l1>
+    <l1_group>S</l1_group>
+  </student>
+  <annotation>
+    <supervisorId>7</supervisorId>
+    <annotatorId>8</annotatorId>
+  </annotation>
+</Meta>
